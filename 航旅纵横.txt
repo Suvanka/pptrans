@@ -1,0 +1,193 @@
+Version on December 30th, 2021
+Effective December 30, 2021
+introduction
+The copyright of Hanglv Zongheng Software (referred to as "Hanglv Zongheng") belongs to Zhonghang Xin Mobile Technology Co., Ltd. (referred to as "Zhonghang Xin Mobile Technology"). Zhonghang Xin Mobile Technology provides you with the "Hanglv Zongheng" software. Hanglv Zongheng is a mobile service application product based on travel, providing passengers with complete information services covering the entire process from travel preparation to arrival at the destination. Hanglv Zongheng respects and is committed to protecting users' personal data and privacy. In accordance with the law, we have formulated this privacy statement. The following terms describe how we collect, use, store, and disclose your personal information. Please read this statement carefully and confirm that you fully understand and agree to use Hanglv Zongheng. Before you 'agree' to the privacy statement, Hanglv Zongheng will not collect your privacy information (including your MAC address and other information). If you do not agree to any terms in the agreement, you should immediately stop accessing/using this software and the related services it provides. Once you use or continue to use Hanglv Zongheng, it means that you agree to our processing of your relevant information in accordance with this privacy statement. If you have any questions or suggestions regarding our privacy statement, please contact: umetrip@travelsky.com .
+【 Special Reminder 】 Hanglv Zongheng is committed to building a channel for you to obtain your authoritative travel information. Before using our products and/or services, please carefully read and confirm that you have fully understood the content stated in this privacy policy, and have reached an agreement with Zhonghangxin Mobile Technology Co., Ltd. and accepted all service terms. You agree to this statement and register to use Hanglv Zongheng, which is deemed that you agree to us obtaining and processing your data information in accordance with this privacy statement, so that you can enjoy a more intelligent and convenient travel experience. The terms "Hanglv Zongheng" and "we" mentioned in this privacy statement refer to the Hanglv Zongheng APP, while "user" and "you" refer to users who voluntarily accept this privacy policy.
+Please note that this privacy statement does not apply to other third-party products/services that you access through our products/services ("other third parties", including your counterparties, any third-party websites, and third-party service providers, etc.). For specific provisions, please refer to the privacy policy or similar statement of the third party, and the relevant responsibilities shall be borne by the third party.
+This statement will help you understand the following:
+1、 Our Data Protection Principles
+2、 How do we collect and use your personal information
+3、 How do we disclose your personal information
+4、 How do we protect your personal information
+5、 How do you manage your personal information
+6、 Protection of Personal Information of Minors
+7、 Notification and Revision
+8、 Legal Application and Jurisdiction
+1、 Our Data Protection Principles
+Respecting users' personal privacy is a basic policy of Hanglv Zongheng. "Zhonghang Xin Mobile Technology" provides you with the "Hanglv Zongheng" software. Hanglv Zongheng is a mobile service application product based on travel, providing passengers with complete information services covering the entire process from travel preparation to arrival at the destination. As the information controller of Hanglv Zongheng, Zhonghang Xin Mobile Technology Co., Ltd. attaches great importance to protecting users' personal information and privacy security. We understand that your information provided to us through the internet is based on trust in us, and we value this trust. We also understand the importance of privacy to you and make every effort to protect your privacy.
+We always adhere to the following principles in our data processing practice:
+Principle of Transparency:
+-We guarantee not to use personal data for any illegal activities;
+-We will work with our clients to ensure that the processing of personal data has a legitimate, valid, and reasonable legal basis;
+-We will strive to provide more publicly available information for the processing of personal data to ensure transparency in data processing;
+-We respect and promise to protect the relevant rights of data subjects in accordance with applicable laws, including but not limited to the right to information, access, refusal, correction, forgetting, and data portability.
+2. Safety principles:
+-We will take appropriate technical and organizational measures to protect personal data from risks such as loss, unauthorized access, damage, alteration, or public disclosure;
+-We will take appropriate measures to ensure the accuracy, completeness, availability, and timeliness of personal data;
+-We promise to take practical measures when transferring personal data to other parties to achieve full protection before and after the data transfer.
+Principle of Necessity:
+-We promise to only process data that is strictly necessary for a specific purpose (including the quantity and type of data) in the implementation of business functions;
+-We promise to process data only for legitimate purposes, and to explain the purpose of data processing and strictly comply with the limitations of such purpose before the data processing begins;
+-We promise to design and implement a strict permission control system internally, limiting the number of employees authorized to access and operate personal data;
+-We promise to retain personal data only for the time period necessary to achieve the processing purpose, and shall not delete it unless required by mandatory laws, regulations or regulatory requirements;
+-We promise to strictly use the processing methods that have the least impact on personal data rights for data processing.
+2、 How do we collect and use your personal information
+1 Personal Information
+We use, store, and disclose personal information to provide services to you through account creation, SMS notifications, message notifications, and Weibo sharing. 'Hanglv Zongheng' will provide you with a series of services such as flight inquiry, itinerary management, ticket search, flight updates, ticket verification, weather forecast, dynamic reminders, location navigation, surrounding search, industry information, travel guide, etc.
+In order to better serve you, Hanglv Zongheng follows the principles of "reasonableness, relevance, and necessity" and collects information with your consent as a prerequisite. Hanglv Zongheng guarantees not to collect information prohibited by laws and regulations. Hanglv Zongheng will collect the information you input on the Hanglv Zongheng APP or provide to us in other ways.
+Collecting information includes:
+1.1 Your name, ID number, date of birth, mobile phone number, passport, Hong Kong and Macao pass
+The information of military officer certificate and mainland resident travel permit to Taiwan is used to help you automatically extract historical and future itinerary, obtain security check, boarding and other data, and timely send open check-in, gate change, security check, boarding and other information to registered mobile phone numbers;
+1.2 When you browse, access the "Hanglv Zongheng" platform or use "Hanglv Zongheng" products or services, actively provide us with information to help you quickly process mobile seat selection, enjoy travel assistance, use electronic boarding passes and other travel services;
+1.3 The information recorded during the process of providing you with the "Hanglv Zongheng" service, which is relevant to you, facilitates your access to the flight updates, itinerary information, and related airport services you need;
+1.4 When providing you with nearby airport recommendations, travel assistants, airport transfers, and other services, we will collect your search history and location information for the purpose of improving our services. (Location information: When you enable the device positioning function and use our location-based services, we collect information about your location, such as through GPS or WIFI, or when you provide account information containing your location information, or when you or others upload shared information showing your current or past location. You can stop collecting your location information by turning off the positioning function.);
+1.5 The information you actively submit or provide feedback through our customer service personnel or other channels facilitates our understanding, evaluation of service quality, and optimization of user experience;
+1.6 Collect and store legally obtained information related to you from affiliated companies, business partners, and third-party independent sources.
+2. Collected for the purpose of achieving service objectives
+Hanglv Zongheng supports the use of various mobile operating systems such as Android and IOS. If you want to use the services of "Hanglv Zongheng", you must register for "Hanglv Zongheng" and provide relevant personal information on the registration page. You must promise and guarantee:
+If you need to use the customized reminder service of "HanglvZong" when using "HanglvZong" software, "HanglvZong" requires you to bind your real name and ID number number to your account. After successful binding, you can customize free services such as flight dynamic message reminders, check-in message reminders, boarding gate message reminders, and PNR message reminders for "Hanglv Zongheng". Targeting registered mobile phone numbers, timely sending messages such as open check-in and gate changes. In the process of using "Hanglv Zongheng" through various mobile operating systems, the information collected by "Hanglv Zongheng" is limited to the information necessary for you to agree to use the basic services of "Hanglv Zongheng". If "Hanglv Zongheng" changes a certain service during the improvement process, it will notify you and obtain your consent before you use the changed service.
+3 users provide
+3.1 If you need to use more features on "Hanglv Zongheng", such as sharing the content of "Hanglv Zongheng" to third-party software or websites, binding your "Hanglv Zongheng" account to your third-party software or website with your permission to help you share itinerary information to third-party software or websites. Before proceeding with the relevant functions, there will be prompts for the corresponding service agreement, rule description, etc. If you agree to the requirements of the service, you can click "OK" to continue; If you do not agree with this operation, please stop the program in a timely manner.
+3.2 The information you provide will be kept confidential by "Hanglv Zongheng" to the maximum extent possible under reasonable commercial obligations. With your consent, "Hanglv Zongheng" will provide you with travel service information and version upgrades.
+Based on your authorization, we obtain your relevant information from airlines and other channels to optimize our services and enable you to enjoy a more intelligent and convenient travel experience.
+5. Your other information
+In order to make it easier for you to use the "Traveling Horizon" software, with your authorization and consent, our server will collect information about your mobile communication device, such as model, device ID, Internet protocol address, time and place of your visit, routing data packets, information sender and receiving data (but not the information itself), and other similar feature records. We will use cookies and navigation data similar to Uniform Resource Locator (URL) to collect your visit time and date, search and viewing information, etc.
+In order to enable you to receive information push notifications, share information on third-party platforms, use map services, play videos, make payments, third-party login, eID and other necessary functional purposes, our application will embed SDK or other similar applications from authorized partners. With your authorization and consent, relevant third parties will obtain your relevant information. If you use a Huawei/Xiaomi/OPPO/VIVO phone, the Huawei/Xiaomi/OPPO/VIVO Push SDK needs to read your device identification number, SSID personal information, and network related information for pushing/sending notification bar messages; If you use the map service provided by Gaode, Gaode SDK requires you to enable device location permission. We will collect and process your dynamic location information, device information (such as IP address, GNSS information, base station information, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, signal strength information, Bluetooth information, sensor information (vector, geomagnetic, acceleration, gyroscope, direction, photosensitive, pressure, gravity, step counting, step detection), and device signal strength information) for positioning; If you use payment services provided by Alibaba, WeChat, UnionPay, etc., the Alibaba, WeChat, UnionPay SDK requires network related information, installed application information, etc; If you use the login service provided by Tianyi and the eID of the Ministry of Public Security, Tianyi and the eID of the Ministry of Public Security require device identification numbers and network related information. If you use the local number registration/login function, the mobile SDK needs to obtain your network status information, change your network status, and network access permissions.
+We will conduct strict security checks on the application programming interfaces (APIs) and software development kits (SDKs) used by authorized partners to obtain relevant information, and agree with authorized partners on strict data protection measures to ensure compliance
+Process personal information in accordance with our entrusted purposes, service instructions, this privacy policy, and any other relevant confidentiality and security measures.
+List of collected personal information
+Register and Login
+Used for creating accounts and logging into apps
+Used to complete third-party account login
+Used to verify the true identity of users
+Name, ID type, ID number
+Automatically extract itinerary
+Used to extract the user's flight itinerary
+Homepage, itinerary list, itinerary details, itinerary assistant, time machine and other pages display itinerary information
+Provide users with itinerary information, flight updates related to the itinerary, and other itinerary related services
+Passenger name, ticket purchase ID number, electronic ticket number, flight information and other ticket related information
+Complete check-in and seat selection or view seat selection results
+Name, ID type, ID number, e-ticket number, flight number, seat number
+View luggage information
+Display checked baggage and luggage tags
+Luggage information such as number of items and weight
+Changes in itinerary status, sending and displaying information on open check-in, gate changes, security checks, boarding, etc
+Provide users with real-time and accurate travel information and reminder services
+The travel status of passengers, including check-in status, security check status, boarding status, etc
+When ordering specific goods or services (including air tickets, hotels, cars, insurance, parking, preferred options, VIP lounges, smooth cards, etc.)
+Assist users in completing transactions smoothly, ensure the security of your transactions, query order information, provide customer service and after-sales service, and other order related services
+Personal information required for ordering goods or services, including name, ID type, ID number, contact information, order information, payment information, and other necessary information specified in the service.
+When users browse and use location related information or services (including airport pages, location selection, etc.)
+Based on location recommendation information or services
+User's location information
+Display itinerary statistics related functions (including annual flight reports, monthly flight reports, route maps, itinerary statistics, etc.)
+Generate annual flight reports, monthly flight reports, route maps, and other travel statistics information
+Summarize and analyze itinerary information, order information, circle interaction data, etc
+Add and view membership cards such as frequent flyer cards
+Display member information
+Membership information such as membership card number, password, verification code, membership level, and membership points
+Browse and manage my orders
+Convenient for users to browse and manage orders for various transactional businesses
+Convenient for users to complete invoice issuance
+Invoice header, tax number, company address, telephone number, bank account, email and other invoice information
+Distinguish between different devices
+Please understand that individual device information, log information, etc. are information that cannot identify the identity of a specific natural person. Unless such non personal information is combined with other information to identify a specific natural person's identity, or used in conjunction with personal information, during the combination period, such non personal information will be considered personal information, and we will anonymize and de identify such personal information.
+Airline or ticket agent smoothly issues tickets and provides follow-up services
+Passenger name, document type, document number, mobile phone number, contact person name, mobile phone number
+Mailing of itinerary
+The service provider successfully issued the itinerary and completed the mailing and customer service
+Name, mailing address, mobile phone number, itinerary information
+Airline completes upgrade operation
+The airline completes the order and provides subsequent luggage services
+Book a private car/airport transfer
+The car service provider successfully completed the service
+Name, phone number, location information
+The parking service provider successfully completed the service
+Flight information, name, phone number, license plate number, vehicle model, vehicle color
+Book a hotel
+The hotel has successfully completed the booking and subsequent services
+Name and phone number
+Insurance companies or brokerage firms successfully place orders and complete insurance coverage
+Flight information (only flight related insurance), insured person's name, ID number
+Purchase duty-free air travel goods
+Duty free suppliers complete membership registration, itinerary verification, tax exemption qualification verification, and shipment of goods
+Name, mobile phone number, identification number, mailing address, itinerary information, passport front page (entry tax exemption), entry and exit certificate (entry tax exemption)
+Purchase products from Feixiang Mall
+The seller of the product completes the ordering, mailing, pre-sales, and after-sales services
+Name, mailing address, mobile phone number
+Purchase equity products
+The service provider completes the binding of rights, verification of usage, pre-sales and after-sales services
+Name, mailing address, mobile phone number, ID number
+The invoicing party completes the invoicing service
+List of personal information shared with third parties
+6. Use and Sharing of Personal Information
+6.1 Your personal information will not be used for any other purposes unless it is not stated in this privacy statement or updates to this privacy statement have not been notified to you first.
+6.2 Anonymous aggregated statistical data is not personal user information defined by "Hanglv Zongheng". We will store and use such information for various purposes, including but not limited to analyzing and reporting usage patterns. Hanglv Zongheng reserves the right to authorize third parties to use and disclose anonymous aggregated statistical data for any purpose or unilaterally.
+6.3 You can view your personal basic information at any time in the "Personal Center", as well as obtain information such as flight inquiry, itinerary management, ticket search, flight updates, etc. in interfaces such as "Current Schedule" and "Toolbox". We will take privacy measures for your personal information such as mobile phone number, ID card, passport, Hong Kong and Macau travel permit in the personal center to avoid information leakage and loss caused by improper use of your device.
+6.4 The server of "HanglvZongZong" is located in Chinese Mainland, and your information will be stored in Chinese Mainland and processed in Chinese Mainland according to the user agreement and the way described in this statement.
+During the period when you use the products and services of "Hanglv Zongheng", we will keep your information until you cancel your account or request deletion. After canceling the account or requesting deletion, your information will be deleted. If it involves data in the civil aviation system, the information cannot be deleted according to policy regulations.
+6.6 "Hanglv Zongheng" binds your "Hanglv Zongheng" account to your third-party software or website with your permission to help you share your personal information on third-party software websites or services. Strictly follow your instructions before proceeding with the relevant functions
+If you agree to the requirements of this service, you can click "OK" to continue; If you do not agree with this operation, please stop the program in a timely manner. We will require all third-party software or services to fully protect your personal information and process data in accordance with our requirements. Except as provided in this privacy statement, "Hanglv Zongheng" will not sell any customer information or share your information with third parties without your permission. Other possible situations where personal information sharing may occur:
+6.6.1 must be provided in accordance with applicable laws, regulations, legal procedures, mandatory government requirements, or judicial rulings;
+6.6.2 Use based on social public interests that comply with laws and regulations;
+6.6.3 Other situations within the scope permitted by laws and regulations to safeguard the interests of "aviation and tourism industry" from infringement.
+7. Device permission call
+In the process of providing services, Hanglv Zongheng will invoke some of your device permissions. You can choose to disable some or all permissions in the device settings function to refuse Hanglv Zongheng from calling your phone and using corresponding personal information. The display and closing of permissions may vary on different devices. Please refer to the device or system development instructions and guidelines. Your device system may grant other permissions while authorizing necessary information, and Hanglv Zongheng itself cannot manually or automatically disable authorization. The following are the business functions corresponding to the calling permissions of Hanglv Zongheng, the purpose of calling permissions, and the information I asked you before calling permissions:
+Read and store user information, storage logs, and other related information
+Inquire about the first installation
+Homepage, cancellation of check-in, etc
+Retrieve the user's current location for recommending nearby airports
+Feedback reporting, uploading images, scanning, etc
+Implement functional requirements such as photo upload and automatic extraction of itinerary
+Shuttle flights, airlines, etc
+Used for contacting drivers, dialing airline customer service numbers, and other functional requirements
+Add peers
+Add user itinerary to calendar
+Retrieve images from the album and upload them
+Used when connecting in car devices
+Detecting the decibel level of environmental noise and conducting live detection through a microphone
+Read phone status
+Read ID card information
+Call relevant functions to inquire
+Receive ads (Android)
+Obtain device identification code
+Device identifier
+Including device identifiers (IDFA Android ID、OAID）
+8. Declaration of Sensor Application Scenarios
+Operational and product safety requirements
+Acceleration sensor, gravity sensor, gyroscope sensor, rotation vector sensor, light sensor, linear accelerator, magnetic field sensor, pressure sensor, relative humidity sensor, environmental temperature sensor
+To provide safe and trustworthy products and usage environments, offer high-quality and reliable services and information, and detect the presence of relevant sensors
+Identify device scenarios when establishing push links to prevent black industry and external malicious attacks.
+9. Self start or associated start instructions
+9.1 Push related: In order to ensure that "Hanglv Zongheng" can receive the broadcast information pushed by the client normally when it is turned off or running in the background, "Hanglv Zongheng" must use (self start) capability to wake up the "Hanglv Zongheng" self start or associated start behavior by sending broadcasts through the system at a certain frequency, which is necessary for implementing functions and services; When you open the content and send a message, with your explicit consent, you will be redirected to open the relevant content. Without your consent, there will be no associated activation.
+9.2 Download related: When you download files within "Hanglv Zongheng" (such as in app version update prompts), process HTTP connections based on the download status, monitor changes in connection status, and restart the system to ensure the smooth completion of each download task. Especially when users switch to different apps and the download needs to continue in the background (there may be background processes that start automatically), and obtain APK files for installation after the download task is successfully completed.
+9.3 Widget: "Hanglv Zongheng" supports desktop widget functionality, which requires monitoring and receiving system broadcasts (android. appwidget. action. A PPWIDGET. UPDATE). This broadcast is the system's refresh desktop widget broadcast, and whether to refresh or not is executed by the system; If using the desktop widget function of "Hanglv Zongheng", "Hanglv Zongheng" must use its self starting ability to wake up the relevant services of the desktop widget of this application (including but not limited to updating widget data) by receiving system broadcasts.
+3、 How do we disclose your personal information
+Unless limited disclosure is stated in this privacy statement, we will properly store your personal information and will not disclose the customer list.
+2. You hereby authorize us to disclose your personal information to third parties without your consent in the following circumstances:
+2.1 If we disclose this information for the purpose of identifying, contacting, or filing a lawsuit against any behavior that may cause damage to our rights or property, website users, or anyone else (including the rights and property of any other person);
+2.2 The necessity of legal investigation;
+2.3 Such disclosure is necessary as required by law or as a warrant issued by a subpoena or other law enforcement agency that should be served on us.
+4. Special Reminder for Personal Sensitive Information
+Personal sensitive information refers to personal information that, if leaked, illegally provided, or abused, may endanger personal and property safety, easily cause damage to personal reputation, physical and mental health, or discriminatory treatment. Your special personal information, such as your personal phone number, ID card, passport, military officer certificate, Hong Kong and Macau travel permit, mainland resident travel permit to Taiwan, travel itinerary, location information, is considered personal sensitive information. Before collecting such sensitive personal information, you need to carefully consider it. At the same time, "Hanglv Zongheng" will obtain your consent and strictly protect your sensitive personal information. You agree that these sensitive personal information will be processed according to the purposes and methods stated in this statement. If you do not provide this information or provide incorrect information, it may result in us being unable to provide services or affect the accuracy of the information we provide.
+4、 How do we protect your personal information
+For us, the security of personal information is very important. We will make reasonable commercial efforts to safeguard your personal credibility
+Ensure the security of your personal information and implement reasonable business procedures to restrict unauthorized access, use, or disclosure of your personal information. All data storage involving personal information shall be encrypted multiple times. We will not retain your personal information beyond the time required for processing purposes, and will retain it for the necessary period of time for the purpose of collecting it in accordance with our data retention policy. Despite taking the above measures, you should be aware that 'Hanglv Zongheng' cannot completely avoid security risks related to personal information.
+2. "Hanglv Zongheng" attaches great importance to personal information security and sets up dedicated personnel for operation and maintenance support. Build an aviation monitoring system, which is divided into system level monitoring and application monitoring: system level monitoring can detect system failures and provide timely warnings; Real time monitoring of application operation status through application monitoring; At the same time, with the assistance of multiple tools, we promote the automation level of operations and strictly control the permissions of important accounts. At the same time, "Hanglv Zongheng" has set up an information security production team responsible for conducting information security audits and inspections. Based on the different audit objects, the audit cycle is defined, and through interviews and verification of relevant materials, an audit report is ultimately issued. After the specific issues are rectified, the information security production team will track and inspect, promptly correct them, and eliminate security risks. Hanglv Zongheng has signed a Confidentiality Agreement with each employee, requiring each collaborator to sign an Information Security Commitment Letter to ensure information security during external cooperation. In addition, regular information security training is provided to employees, and the security manager summarizes the daily security situation every week, releases the "Weekly Security Situation Report" to relevant personnel, updates the "Fault Handling Manual", and strengthens prevention awareness.
+3 "Hanglv Zongheng" attaches great importance to your data security. In addition to complying with all relevant data security regulations, to ensure that your data is transmitted between web browsers and network systems with the highest level of security. At the same time, "Hanglv Zongheng" has established multiple security protection measures, adopting different control measures according to the level of information sensitivity, including but not limited to access control, SSL encrypted transmission, AES 256 bit or above encryption algorithm for encrypted storage, sensitive information desensitization display, etc.
+If there is a risk of personal information leakage, damage, etc., "Hanglv Zongheng" will notify you in a timely manner through push notifications, so that you can avoid losses as soon as possible. At the same time, report to regulatory authorities within 72 hours of data leakage. If you discover that your personal information has been leaked, please contact our customer service immediately so that we can take appropriate measures.
+You should assist us in protecting the security of your personal information. For example, do not disclose your personal password; Please be careful to cover up sensitive information when sharing QR codes and itinerary on social media.
+After the unfortunate occurrence of a personal information security incident, we will inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+5、 How do you manage your personal information
+During the use of the "Hanglv Zongheng" service, if you need to complain or report personal information issues, you can contact us through multiple channels such as "My Customer Service" on the client, Weibo, email, etc., in order to resolve complaints and disputes in a timely manner and protect your and others' legal rights and interests.
+You can log in to "Hanglv Zongheng" at any time - Personal Center, Common Information, etc. After logging in on the APP, you can use "Personal Center" ->"Account Information" to query, correct, and delete your account information, modify personal information, privacy settings, security settings, and other personal information provided by you when using Hanglv Zongheng services
+You can modify your personal information or cancel your "Hanglv Zongheng" account according to your own needs. You can submit a cancellation operation by visiting "My ->Account Information ->Cancel Account" on the Hanglv Zongheng App page, or provide online feedback to customer service to cancel your account. But you can only apply to cancel your own account, and from then on, the channel you previously built to obtain authoritative information will become invalid. In order to ensure information security, we may need you to provide corresponding proof of your identity. After successful cancellation, "Hanglv Zongheng" will delete your backend information.
+6、 Protection of Personal Information of Minors
+1. "Hanglv Zongheng" attaches great importance to the safety and personal information protection of minors. Minors must obtain the consent of their guardians before using "Hanglv Zongheng" and use it under the guidance of their guardians.
+If a minor uses the "Hanglv Zongheng" service without the consent of their guardian, the guardian has the right to contact us（ umetrip@travelsky.com ）And refuse to further collect the personal information of the ward, or request "Hanglv Zongheng" to delete the personal information of the ward. 'Hanglv Zongheng' neither intends nor attempts to collect information on minors.
+7、 Notification and Revision
+1 TravelSky will modify the terms of service when necessary, such as formulating and modifying this agreement and/or various rules to provide users with relevant services based on the Internet and mobile networks. If we make any substantial adjustments to the method of using your personal information, we will notify you by message, and announce the date of the amendment, so that you can know the last update time of the privacy statement. When you use 'Hanglv Zongheng', you can review our privacy statement at any time.
+The messages we send containing such change notices undoubtedly constitute an effective part of the aforementioned change notices. If you do not wish us to change the use of your personal information, you must notify us before you expect to stop using our account. Your continued use of 'Hanglv Zongheng' will be deemed as your knowledge and agreement to be bound by the terms of such changes in the notice.
+8、 Legal Application and Jurisdiction
+The establishment, effectiveness, performance, interpretation, and dispute resolution of this statement are governed by the laws of mainland China (excluding conflict of laws). If any of these provisions conflict with the laws of the People's Republic of China, these provisions shall be fully governed by the law
+The regulations shall be reinterpreted, while other provisions shall still have legal effect. Any disputes arising between you and "Hanglv Zongheng" regarding this statement or other related matters shall be resolved through friendly consultation. If consultation fails, the dispute or controversy shall be submitted to the court with jurisdiction over the location of "Hanglv Zongheng".

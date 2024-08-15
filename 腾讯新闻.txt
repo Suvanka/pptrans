@@ -1,0 +1,423 @@
+Collection and Use of Personal Information
+Partially updated on our collection and use of personal information.
+Please use
+Continue to use Tencent News products and
+Before providing services, carefully read and fully understand the entire text, and use it with consent
+Continue to use.
+Continue to use Tencent News products and
+Before providing services, carefully read and fully understand the complete text of the "Tencent News Basic Function Privacy Protection Guidelines", and use it with consent
+Unless otherwise stated, disagree
+Tencent News Basic Function Privacy Protection Guidelines
+Or its updates (which we will promptly notify you of) may affect your normal use or continued normal use of our products and
+To facilitate your quick understanding of the "Tencent News Basic Function Privacy Protection Guidelines", you can use "My
+Set up "to view a summary of privacy protection guidelines. We will provide you with a brief and intuitive summary of how we handle and protect your personal information. For more information about our rules for handling your personal information, please refer to the complete version of the "Tencent News Basic Function Privacy Protection Guidelines".
+Tencent News is a news and information product provided by Shenzhen Tencent Computer System Co., Ltd. Our registered address is 35th Floor, Tencent Building, Science and Technology Middle Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen, Guangdong Province
+At the same time, we will also collaborate with affiliated companies during the product operation process. If you have any questions or concerns about this privacy protection guide or related issues, please contact us through the contact information provided in Section 10 "Contact Us" of this guide.
+This privacy protection guideline applies to our use of the Tencent News website（ https://news.qq.com/ ）The various products and services provided to you by Tencent News PC, TV, car, app (including but not limited to iOS and Android versions), and mini programs and other terminal clients (hereinafter referred to as the "Platform").
+Please note that this privacy protection guideline does not apply to any third-party applications or software integrated with our platform, products, and/or services, or any other third-party products, services, or businesses (collectively referred to as "third-party services").
+Annotate to remind you to pay attention.
+The use of similar technologies
+Storage of Information
+4、 Information Security
+5、 Information sharing
+6、 Your rights
+7、 Change
+Protection of Minors
+9、 Other
+10、 Contact Us
+One Collection and Use of Personal Information
+We will follow the principles of legality, legitimacy, minimum necessity, openness and transparency in collecting and using your use of our products
+Or actively providing or using our products during the service process
+Personal information generated from services or services.
+When you use our product, your system permissions will be turned off by default. We only apply for the necessary permissions to implement the relevant business functions when you trigger them (we will mark the specific permissions requested in bold italics in this privacy protection guide to remind you to pay attention). We will inform you of the purpose of the permission application when applying for it. You can revoke authorization for any system permission at any time.
+It should be noted that even with your authorization, we will only access your corresponding permissions within the scope of your authorization; And as you
+Refusing or revoking system permissions will only prevent you from using the corresponding functions, but it does not affect your normal use of the product and
+Or other functions of the service. Click to view
+If you refuse us to collect any of your personal information, we will provide you with our platform's browsing only mode, which includes browsing and searching for news and information, aimed at assisting you in enjoying our platform's initial experience before deciding to accept this privacy protection guideline. The type of personal information we collect from you may vary depending on the product
+The content and basic functions of the service
+There are differences in expanding services,
+You can use 'My'
+List of Personal Information Collected "for details.
+We will update this privacy protection guide, page prompts, pop ups, website announcements, internal messages, and other methods to explain the purpose, content, usage, and scope of the information collected, or to change the purpose or method of using personal information. We will also provide you with the option to choose and agree, and collect and use the information with your consent.
+We will obtain your separate consent in the form of pop ups or other forms when collecting and using your sensitive personal information.
+Normally, we collect your personal information or apply for relevant permissions in the following scenarios:
+（1） Information collected and used for basic functional services
+1. Account registration, login, and maintenance
+You can use your phone number
+For your convenience in viewing and maintaining personal information within Tencent News, you can choose to upload your avatar and fill in your nickname and profile. This will help us provide you with a more personalized experience. If you do not fill in, it will not affect your use of our product and
+Or the basic functions of the service. You are uploading
+Camera and album permissions
+Replace the image information.
+When you use our news, graphic, video, novel, live streaming, audio and other service content browsing and playback functions, we will collect your login information and device information (Android ID
+2. Content browsing, commenting, sharing, etc
+）And log information, so that you can query, browse, and manage your history at any time, as well as provide better content recommendation and display for you to optimize search results.
+When you use our comment interaction and other information publishing functions, we will collect your tags, the images and text you upload
+Album permission, microphone permission
+Address and display it on your personal homepage
+Rough location information of the territory
+When you actively copy links and other content on the page, we will access the device clipboard capability to facilitate the implementation of functions such as sharing text and links. However, we only access and recognize locally and will not upload your clipboard content.
+When you log in to our platform using an Android device and share news and other content to third-party software, we will determine whether you have installed the selected third-party software, but will not apply for or access the application software list permission.
+When you use the image download and save function, if your device is
+If the standard version is Android 10 or below, we will request that you authorize storage permissions to write information about image files in the external storage space of your device; If your device system version is Android 10 or above, we will not request your authorization for storage permissions.
+3 Content Search
+Search keywords
+Search for log information
+Search history
+If you do not wish us to collect your search keywords and search log information, you can use our products and
+4 Personalized Recommendations
+(1) Personalized recommendation mechanism
+We will use the collected information, including your device information (Android ID, IDFV), log information (browsing history, playback history, playback duration, subscription history, follow list, reading history, favorites, visit date and time), and selected interest tags, to analyze your preferences and habits through automated decision-making and create user profiles, in order to provide you with more suitable customized services, such as presenting or recommending news, videos, novels and other service content with higher relevance (rather than universal push) to you. The aforementioned "automated decision-making" refers to the activity of automatically analyzing and evaluating an individual's behavior habits, interests, and hobbies through computer programs, and making decisions.
+We may use your device identifier (Android ID IDFV、IDFA、OAID） ， Advertising data (exposure, clicks, conversion data), device information (device model, operator, system language, screen height and width, screen orientation), application and usage data (application package name, operation log), IP address, and other authorized information are provided in this product to provide you with advertisements that you may be interested in, evaluate and improve the effectiveness of our advertising campaigns and other promotional activities, as well as commercial analysis. Please rest assured that personalized advertising recommendation algorithms do not recognize your true identity, but only provide more valuable advertising information based on inferred features, saving you transaction costs.
+(2) Personalized recommendation management
+We provide you with personalized content recommendations (news, videos, novels, etc.) and personalized advertising recommendations management methods:
+Personalized content recommendation management: While providing you with content that interests you faster, personalized content recommendations may lead to increasingly homogeneous content you see. If you do not wish to receive personalized content recommended by us, you can use the relevant feature settings page of our products and/or services to turn on/off personalized content recommendations at any time. The personalized recommendation setting path for Tencent News App is: "My Settings Permission Management Allow Tencent News to Use Personalized Recommendation Function". If you choose to turn off, we will not process your personal information for the purpose of personalized content push, and the content you see may be less relevant to your preferences. After you update the Tencent News App version, we will not change the permission status you previously set without your consent.
+Open the relevant function settings page of the service or service
+Close the relevant authorization. Tencent News
+Search keywords, search log information
+After the version, we will not change the permission status you previously set without your consent.
+Browsing history, playback history
+Reading and bookmarking records
+Automated decision-making
+It refers to the activity of automatically analyzing and evaluating an individual's behavior habits, interests, and hobbies through computer programs, and making decisions.
+We may use your device identifier (Android ID IDFV、IDFA、OAID）
+Advertising data (exposure, clicks, conversion data), device information (device model, operator, system language, screen height and width, screen orientation), application and usage data (application package name, operation log), IP address, and other authorized information are provided in this product to provide you with advertisements that you may be interested in, evaluate and improve the effectiveness of our advertising placement and other promotional and advertising activities, and business analysis. Please rest assured that personalized advertising recommendation algorithms do not recognize your true identity, but only provide more valuable advertising information based on inferred features, saving you transaction costs.
+We provide you with personalized content recommendations (news, videos, novels, etc.) and personalized advertising recommendations management methods:
+Turn off personalized content recommendations.
+If you choose to turn off, we will not process your personal information for the purpose of personalized content push, and the content you see may be less relevant to your preferences.
+When you update Tencent News
+5. App adaptation and safety risk control
+We are committed to providing you with safe and trustworthy products and usage environments, as well as high-quality and reliable services and information. In order to maintain the normal and stable operation of our products and services, protect the safety and legitimate interests of you or other users or the public, we will collect the following information:
+In order to better adapt to your phone display and detect whether Tencent News version has been upgraded or updated when providing services to you, we need to understand the compatibility of different hardware devices. At the same time, in order to ensure the security and stability of the operating environment, identify abnormal account status and other purposes, we will collect your device information
+Mobile phone model, hardware parameters, system version, network status and type, operator information, IP address, system log information.
+When you use the interactive advertising function that needs to interact with the device (such as shaking and rotating the device), we will call the gyroscope, uncalibrated gyroscope and linear accelerator of the device to identify and judge the status of your device. We will only call the above sensors when you use the interactive advertising function, and will not call them in other undisclosed functions or scenes. Please understand that sensor data from individual devices does not involve any personal location information and cannot be combined with other information to identify the identity of specific individuals
+(3) For your convenience in using the Widget, Tencent News may have a brief launch in the background after you exit the application, but we will not access or upload your personal information.
+Browse and operation records
+）When you use the free data feature, in order to accurately identify the identity of the free data user and better record the data consumed by targeted applications, we need to collect your mobile phone number.
+6
+Customer Service
+When you use the help feedback function, we will collect the graphic and textual feedback information you have posted. To facilitate the identification of the issues you have reported, we will also collect your feedback
+Device information, including your phone model, system version
+Mobile phone number (not required)
+However, please note that the above information is provided by Tencent Wenxi
+7. Services and permission management provided based on system permission authorization
+(1) System permissions such as camera, storage (photo album), microphone, geographic location, calendar, etc. will not be enabled by default. We will only apply for relevant permissions from you and obtain corresponding information (if involved) when you trigger relevant business functions. Please rest assured that the access permissions we apply for are limited to those necessary for implementing specific functions, and you may revoke the authorization of system permissions at any time. If you refuse or revoke authorization system permissions, it will prevent you from using the corresponding functions, but it will not affect your normal use of other functions of the product and/or service.
+(2) System permission management. You can check the access status of your personal information mentioned above item by item through "My Settings Permission Management", and decide whether to turn on or off these permissions (we will guide you to complete the settings in your device system). Enabling these permissions means that you authorize us to collect and use your personal information to achieve the above functions. Disabling these permissions means that you have cancelled these authorizations, and we will no longer continue to collect and use your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. Your decision to close permissions will not affect the processing of personal information based on your authorization.
+（2） Indirectly collecting personal information from third parties
+We may indirectly collect (such as sharing) your personal information from third parties, but this only occurs when we confirm that such third parties have already shared the relevant personal information with us with your consent, or when the third party is legally permitted or required to disclose your personal information to us.
+We will require third parties to make commitments regarding the legality and compliance of personal information sources. If a third party violates the law, we will explicitly demand that they bear corresponding legal responsibilities.
+We will understand the scope of consent obtained by third parties for the processing of personal information, including the purpose of use, whether the personal information subject agrees to transfer, share, disclose publicly, delete, etc.
+These personal information obtained from third parties will be used to provide services to you and to ensure the accuracy of the relevant records we hold about you. If our processing of personal information exceeds the scope of consent obtained by third parties, we will obtain your consent directly or through the third party providing the information within a reasonable period of time or before processing the personal information.
+（3） Exceptions to obtaining consent
+According to the Personal Information Protection Law, we do not require your consent to collect and use your personal information in the following situations:
+(1) Necessary for the conclusion and performance of a contract to which you are a party, or for the implementation of human resource management in accordance with legally established labor regulations and collective contracts signed in accordance with the law;
+(2) Necessary for fulfilling statutory duties or obligations;
+(3) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(4) To carry out news reporting, public opinion supervision and other actions for the public interest, and to process your personal information within a reasonable range;
+(5) Process your self disclosed or other legally disclosed personal information within a reasonable range in accordance with the Personal Information Protection Law;
+(6) Other circumstances stipulated by laws and administrative regulations.
+（4） How we use information
+We strictly comply with the provisions of laws and regulations and agreements with users, and use the collected information in accordance with the privacy protection guidelines to provide you with better quality services. We will use the collected information according to the following rules:
+We will provide you with various functions and services based on the information we collect, including but not limited to news and information browsing services, video playback services, search services, reading services, recommended browsing functions, etc;
+We will provide you with services based on your browsing preferences, habits, approximate location information, and other characteristics, including indirect crowd profiling based on feature tags and recommending content and activities that you may be interested in, optimizing the service experience;
+In order to advertise, evaluate, and optimize advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents, and require them to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing according to data protection agreements, commitment letters, and relevant data processing policies, to avoid identifying personal identities and ensure privacy and security.
+We will analyze the operation of our products based on your frequency and situation of using Tencent News, fault information, performance information, etc., to ensure the security of our services, optimize our products, and improve our service quality. We will not combine the information stored in our analysis software with the personal identification information you provide.
+II The use of similar technologies such as cookies
+To ensure the normal operation of our platform, simplify the steps of repetitive operations (such as registration and login), facilitate your viewing of usage history (such as reading history, video viewing history, listening history), provide you with more personalized or interesting service content, protect your information and account security, enhance our products and services, etc., we will use cookies and similar technologies to collect your login information, browsing information, device playback history and other preference data.
+We will not use cookies and similar technologies for any purposes other than those described in this privacy protection guideline. If you refuse our use of cookies and similar technologies to collect and use your relevant information, you can manage and partially/completely refuse cookies and/or similar technologies through your browser settings, provided that your browser has this function; Or delete cookies and/or similar technologies that have already been stored on your computer, mobile device, or other device. If you need detailed information on how to change browser settings, please refer to
+The relevant settings page of the browser you are using. You understand and acknowledge that some of our products/services can only be achieved through the use of cookies or similar technologies. If you refuse to use or delete them, you may not be able to use our related products and/or services normally or obtain the best service experience through our products and/or services. At the same time, it may also have a certain impact on your information protection and account security.
+III Storage of Information
+1. Storage location
+The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within the territory of the People's Republic of China. At present, we do not have any scenario of providing your personal information to overseas parties.
+If we need to provide personal information outside the territory of the People's Republic of China for business purposes, we must meet the legal requirements (such as conducting a security assessment organized by the national cyberspace administration or entering into a contract with the overseas recipient in accordance with the standard contract formulated by the national cyberspace administration, agreeing on the rights and obligations of both parties), and inform you of the name or contact information, processing purpose, processing method, type of personal information, and the way and procedure for you to exercise your personal information subject rights to the overseas recipient, and obtain your separate consent. We will take necessary measures to ensure that the processing of personal information by overseas recipients meets the personal information protection standards stipulated by Chinese law.
+2. Storage period
+We will store your personal information for the shortest period of time necessary to achieve the purpose of processing your personal information, except when you exercise the right to delete, cancel your account, or as otherwise provided by laws and regulations (for example, the Electronic Commerce Law stipulates that the storage time for product and service information and transaction information shall not be less than three years from the date of completion of the transaction). After exceeding the above storage period, we will delete or anonymize your personal information.
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time, except as otherwise provided by laws and regulations.
+4 information safety
+1. Security protection measures
+We strive to provide security for your personal information to prevent leakage, tampering, loss, improper use, unauthorized access, and disclosure of personal information. We adopt multi-faceted security protection measures, including technical protection measures, management system control, security system guarantee, etc., to ensure that your personal information protection is at a reasonable level of security.
+(1) Technical protection measures
+We use industry-leading technology to protect your personal information, including but not limited to firewalls, encryption (such as SSL), de identification or anonymization processing, access control measures, etc. In addition, we will continuously enhance the security capabilities of the software installed on your device. For example, we will complete some information encryption work locally on your device to consolidate secure transmission; We will gather information about the applications installed and processes running on your device to prevent malicious programs such as viruses and Trojans.
+(2) Management system and operating procedures
+We have established internal management systems and operating procedures to ensure the security of personal information. Implement classified management of personal information, reasonably determine operational permissions for personal information processing, and regularly provide security education and training to employees.
+(3) Security system guarantee
+We have built and improved a personal information security management system that includes security system certification and business security capability certification. At present, our important information systems have passed the evaluation and filing of the national network security level protection (Level 3).
+2. Measures for handling security incidents
+If personal information security incidents such as leakage, tampering, or loss occur or may occur, we will activate the emergency plan for personal information security incidents to prevent them from escalating.
+After a personal information security incident occurs, unless we take measures to effectively prevent information leakage, tampering, or loss from causing harm, we will promptly inform you of the basic situation of the personal information security incident, the disposal and remedial measures we will take or have taken, and our response suggestions to you in the form of push notifications, emails, etc. If it is difficult to achieve individual notification, we will issue warnings through announcements and other means.
+Five information sharing 
+1. Personal information entrusted processing
+Some functions of the platform may be provided by external service providers, for example, we may hire professional data processing service providers to provide technical support in data analysis for our platform.
+We will sign agreements with companies, organizations, and individuals entrusted by us to process personal information, specifying the purpose, duration, processing methods, types of personal information, protection measures, and the rights and obligations of both parties. We will also supervise the personal information processing activities of the entrusted parties.
+2. Share with third parties
+In order to provide you with comprehensive products and services, we need to share your personal information with third-party companies, organizations, and individuals in the following situations.
+(1) We may share your personal information with third-party software development kits (SDKs) or other similar application service providers to ensure the stable operation and functionality of the platform. We will strictly monitor the security of software development kits (SDKs) and application programming interfaces (APIs) that obtain personal information, and require them to process personal information in accordance with this privacy protection guideline and any other relevant confidentiality and security measures to protect data security.
+(2) For the purpose of advertising placement, evaluating and optimizing advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents.
+We will only share your personal information with third parties for lawful, legitimate, and necessary purposes as specified in this privacy protection guideline, and will only share necessary personal information. If a third party changes or processes your personal information beyond the scope of your original consent, we will request the third party to obtain your consent again.
+We will require companies, organizations, and individuals with whom we share personal information to strictly comply with our measures and requirements regarding data privacy protection, including but not limited to conducting personal information in accordance with data protection agreements, commitment letters, and relevant data processing policies
+Processing of information to avoid identifying personal identity and ensure privacy and security.
+For details on how we share personal information with third parties, please refer to the "Tencent News Third Party Shared Personal Information List" (Android version) and the "Tencent News Third Party Shared Personal Information List" (iOS version); For specific information about the third-party SDK service providers we access, please refer to the "Tencent News Third Party SDK Catalog".
+3. Personal Information Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+After obtaining your explicit consent, we will transfer your personal information to other parties;
+If it is necessary to transfer your personal information due to merger, division, dissolution, bankruptcy, or other reasons, we will inform you of the name or contact information of the recipient and require the new company or organization holding your personal information to continue to be bound by this policy. Otherwise, we will require the company or organization to seek your consent again.
+4. Public disclosure
+We will not publicly disclose the personal information we collect. If it is necessary to disclose it publicly, we will inform you of the purpose of this disclosure, the type of information disclosed, and the sensitive information that may be involved, and obtain your separate consent.
+5. Agreed exceptions
+According to the Personal Information Protection Law, we do not need to obtain your prior consent to share, transfer, or publicly disclose your personal information in the following circumstances:
+Necessary for the conclusion and performance of a contract to which you are a party, or for the implementation of human resource management in accordance with legally established labor regulations and collective contracts signed in accordance with the law;
+Necessary for fulfilling statutory duties or obligations;
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+To carry out news reporting, public opinion supervision and other actions for the public interest, and to process your personal information within a reasonable range;
+Process your self disclosed or other legally disclosed personal information within a reasonable range in accordance with the Personal Information Protection Law;
+(4) To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+(5) According to the provisions of the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+Other circumstances stipulated by laws and administrative regulations.
+We strictly comply with the provisions of laws and regulations and agreements with users, and use the collected information in accordance with the privacy protection guidelines to provide you with better quality services. We will use the collected information according to the following rules:
+We will provide you with various functions and services based on the information we collect, including but not limited to news and information browsing services, video playback services, search services, reading services, recommended browsing functions, etc;
+We will provide you with services based on your browsing preferences, habits, approximate location information, and other characteristics, including indirect crowd profiling based on feature tags and recommending content and activities that you may be interested in, optimizing the service experience;
+In order to advertise, evaluate, and optimize advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents, and require them to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing according to data protection agreements, commitment letters, and relevant data processing policies, to avoid identifying personal identities and ensure privacy and security.
+We will analyze the operation of our products based on your frequency and situation of using Tencent News, fault information, performance information, etc., to ensure the security of our services, optimize our products, and improve our service quality. We will not combine the information stored in our analysis software with the personal identification information you provide.
+To ensure the normal operation of our platform, simplify the steps of repetitive operations (such as registration and login), facilitate your viewing of usage history (such as reading history, video viewing history, listening history), provide you with more personalized or interesting service content, protect your information and account security, enhance our products and services, etc., we will use
+And similar technologies collect your login information, browsing information, device playback history, and other preference data.
+We will not
+Use similar technologies for any purpose other than those described in this privacy protection guideline. If you refuse our use
+And similar technologies collect and use your relevant information. With the premise that your browser has this function, you can manage and partially access it through the settings of your browser
+Or similar technologies; Or delete the files already stored on your computer, mobile device, or other device
+Or similar technologies. If you need detailed information on how to change browser settings, please refer to the relevant settings page of the browser you are using. You understand and acknowledge that some of our products
+The service can only be accessed through the use of
+Only similar technologies can be implemented. If you refuse to use or delete them, you may not be able to use our related products normally
+Or services or inability to connect with our products
+Or the service may provide the best service experience, but it may also have a certain impact on your information protection and account security.
+We strive to provide security for your personal information to prevent leakage, tampering, loss, improper use, unauthorized access, and disclosure of personal information. We adopt multi-faceted security protection measures, including technical protection measures, management system control, security system guarantee, etc., to ensure that your personal information protection is at a reasonable level of security.
+Technical protection measures
+We use industry-leading technology to protect your personal information, including but not limited to firewalls, encryption (such as...)
+）De identification or anonymization processing, access control measures, etc. In addition, we will continuously enhance the security capabilities of the software installed on your device. For example, we will complete some information encryption work locally on your device to consolidate secure transmission; We will gather information about the applications installed and processes running on your device to prevent malicious programs such as viruses and Trojans.
+Management system and operating procedures
+We have established internal management systems and operating procedures to ensure the security of personal information. For individuals
+Implement classified management of information, reasonably determine the operational permissions for personal information processing, and regularly provide security education and training to practitioners.
+Security system guarantee
+We have built and improved a personal information security management system that includes security system certification and business security capability certification. At present, our important information systems have passed the evaluation and filing of the national network security level protection (Level 3).
+If personal information security incidents such as leakage, tampering, or loss occur or may occur, we will activate the emergency plan for personal information security incidents to prevent them from escalating.
+After a personal information security incident occurs, unless we take measures to effectively prevent information leakage, tampering, or loss from causing harm, we will promptly inform you of the basic situation of the personal information security incident, the disposal and remedial measures we will take or have taken, and our response suggestions to you in the form of push notifications, emails, etc. If it is difficult to achieve individual notification, we will issue warnings through announcements and other means.
+Some functions of the platform may be provided by external service providers, for example, we may hire professional data processing service providers to provide technical support in data analysis for our platform.
+We will sign agreements with companies, organizations, and individuals entrusted by us to process personal information, specifying the purpose, duration, processing methods, types of personal information, protection measures, and the rights and obligations of both parties. We will also supervise the personal information processing activities of the entrusted parties.
+In order to provide you with comprehensive products and services, we need to share your personal information with third-party companies, organizations, and individuals in the following situations.
+We may collaborate with third-party software tool development kits（
+）Or other similar application service providers share your personal information to ensure the stable operation and functionality of the platform. We will develop software tools for obtaining personal information（
+）Application Programming Interface（
+）Conduct strict security monitoring to ensure that personal information is processed in accordance with this privacy protection guideline and any other relevant confidentiality and security measures to protect data security.
+For the purpose of advertising placement, evaluating and optimizing advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents.
+We will only share your personal information with third parties for lawful, legitimate, and necessary purposes as specified in this privacy protection guideline, and will only share necessary personal information. If a third party changes or processes your personal information beyond the scope of your original consent, we will request the third party to obtain your consent again.
+We will require companies, organizations, and individuals with whom we share personal information to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing personal information in accordance with data protection agreements, commitment letters, and relevant data processing policies to avoid identifying personal identities and ensure privacy and security.
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+After obtaining your explicit consent, we will transfer your personal information to other parties;
+If it is necessary to transfer your personal information due to merger, division, dissolution, bankruptcy, or other reasons, we will inform you of the name or contact information of the recipient and require the new company or organization holding your personal information to continue to be bound by this policy. Otherwise, we will require the company or organization to seek your consent again.
+We will not publicly disclose the personal information we collect. If it is necessary to disclose it publicly, we will inform you of the purpose of this disclosure, the type of information disclosed, and the sensitive information that may be involved, and obtain your separate consent.
+According to the Personal Information Protection Law, we do not need to obtain your prior consent to share, transfer, or publicly disclose your personal information in the following circumstances:
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+According to the provisions of the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+VI Your rights
+During your use of Tencent News, in order to make it more convenient for you to query, copy, correct, and delete your personal information, and to protect your right to withdraw your consent to personal information processing and cancel your account, we have provided corresponding operation settings in the product design. You can refer to the following instructions for operation. In addition, we have established a complaint and reporting channel, and your opinions will be promptly addressed. If you are unable to exercise your personal information subject rights through the above channels and methods, you can make your request through the contact information provided in this privacy protection guide, and we will provide feedback in accordance with legal regulations.
+1. Search for personal information
+(1) You can check your Tencent News user profile picture, nickname, WeChat or QQ profile picture, nickname through the path: "Tencent News - My";
+(2) You can check your browsing history through the path: "Tencent News - My - History";
+(3) You can check your collection and like records through the path: "Tencent News - My - Favorites";
+(4) You can search for your nickname, profile, gender, birthday, zodiac sign, region, and hometown through the path: "Tencent News - Me - Avatar - Edit Information";
+(5) You can check your consumption records, reward records, and recharge records through the path: "Tencent News - My - My Wallet - Transaction Records";
+(6) You can check your gold coin amount, gold coin details, red envelope amount, red envelope details, and prize information through the path: "Tencent News - My - Welfare Center";
+(7) You can check your subscribed albums and listening history through the path: "Tencent News - My - My Audio";
+(8) You can check your bookshelf information and reading history through the path: "Tencent News - My - Novel Bookshelf - My Novels - View All";
+(9) You can check your class records and course collection records through the path: "Tencent News - My Career Selection Course";
+(10) You can go through the path: "Tencent News - Me
+Query your login device information, current device information, app information, user ID, and device ID through "Settings Privacy Settings Personal Information Query and Management".
+(11) You can check your feedback history through the path: "Tencent News - My - Help Feedback - Feedback - Feedback History".
+2. Obtaining a copy of personal information
+If you need a copy of your personal information, you can contact us through the methods provided at the end of this privacy protection guideline. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as otherwise agreed in this privacy protection guideline.
+If technically feasible and in compliance with the requirements set by the national cyberspace administration, we may also transfer a copy of your personal information to a third party designated by you as per your request.
+3. Correction and supplementation of personal information
+(1) When you find that the personal information we process about you is inaccurate or incomplete, you have the right to request us to make corrections or supplements. You can correct and supplement your profile picture, nickname, introduction, gender, birthday, zodiac sign, region, and hometown through the path: "Tencent News - My Profile - Edit Information".
+(2) You can also contact us through the methods provided at the end of this privacy protection guide. After verifying your personal information, we will promptly correct and supplement it.
+4. Delete personal information
+You can delete your personal information yourself through the following path:
+(1) You can delete your browsing history through the path: "Tencent News - My - History - More - Edit";
+(2) You can delete your collection records through the path: "Tencent News - My - Favorites - Edit";
+(3) You can delete the novels in your bookshelf and your reading history through the path: "Tencent News - My - Novel Bookshelf - My Novels - View All";
+(4) You can delete your listening history through the path: "Tencent News - My - My Audio";
+(5) You can access Tencent News and delete your posts, comments, and videos by accessing them.
+In the following situations, you can contact us through the methods provided at the end of this privacy protection guide to request us to delete your personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your consent;
+(3) If you agree to our collection and use of your personal information and then withdraw your consent;
+(4) If our handling of personal information violates our agreement with you;
+(5) If you no longer use our products or services, or if you cancel your account;
+(6) If we no longer provide you with products or services;
+(7) If the purpose of processing your personal information has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+(8) If the retention period of your personal information has expired.
+5. Withdrawal of consent
+(1) You can revoke authorization for location, camera, photo album, and microphone permissions by modifying your hardware device or through the following path: "Tencent News - My - Privacy Settings".
+(2) You can revoke personalized recommendation authorization through the following path: "Tencent News - My - Privacy Settings".
+(3) You can revoke personalized advertising push authorization through the following path: "Tencent News - My - Personalized Advertising Management";
+(4) You can revoke the authorization to collect search keywords and search log information through the following path: "Tencent News - My - Privacy Settings - Allow Tencent News to Collect Search Keywords and Search Log Information".
+Please understand that each business function requires some necessary information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the information processing previously carried out based on your authorization.
+6. Cancel account
+You can go through the following path:
+Check your Tencent News user profile picture, nickname, WeChat or
+Avatar and nickname;
+Check your browsing history;
+Check your collection and like records;
+Search for your nickname, profile, gender, birthday, zodiac sign, region, and hometown;
+Check your consumption records, reward records, and recharge records;
+Query your gold coin amount, gold coin details, red envelope amount, red envelope details, and prize information;
+Check the albums you have subscribed to and your listening history;
+Search for your bookshelf information and reading history;
+Check your class records and your course collection records;
+）You can go through the following path:
+Personal Information Inquiry and Management
+Query your login device information, current device information
+Information and Users
+Check your feedback history.
+If you need a copy of your personal information, you can contact us through the methods provided at the end of this privacy protection guideline. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as otherwise agreed in this privacy protection guideline.
+If technically feasible and in compliance with the requirements set by the national cyberspace administration, we may also transfer a copy of your personal information to a third party designated by you as per your request.
+When you find that the personal information we process about you is inaccurate or incomplete, you have the right to request us to make corrections or supplements. You can go through the following path:
+Correct and supplement your profile picture, nickname, introduction, gender, birthday, zodiac sign, region, and hometown.
+You can also contact us through the methods provided at the end of this privacy protection guide. After verifying your personal information, we will promptly correct and supplement it.
+Delete your browsing history;
+Delete your collection records;
+Delete novels and your reading history from your bookshelf;
+Delete your listening history;
+You can access Tencent News and delete your posts, comments, and videos by accessing them.
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your consent;
+If you agree to our collection and use of your personal information and then withdraw your consent;
+If our handling of personal information violates our agreement with you;
+If you no longer use our products or services, or if you cancel your account;
+If we no longer provide you with products or services;
+If the purpose of processing your personal information has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+If the retention period of your personal information has expired.
+You can modify your hardware device or go through the following path:
+Revoke authorization for location, camera, photo album, and microphone permissions.
+You can go through the following path:
+Revoke personalized recommendation authorization.
+You can go through the following path:
+Personalized advertising management
+Revoke personalized advertising push authorization;
+Allow Tencent News to collect search keywords and search log information
+Revoke authorization to collect search keywords and search log information.
+Please understand that each business function requires some necessary information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the information processing previously carried out based on your authorization.
+Cancel your Tencent News account.
+After you cancel your Tencent News account, we will stop providing you with all Tencent News products and services
+Or provide services, and process your personal information through anonymization or other means in accordance with relevant laws and regulations, or delete personal information related to your account, except as otherwise provided by laws, regulations or regulatory agencies regarding the storage time of user information. Related rules and procedures for account cancellation
+7. Obtain an explanation of this privacy protection guideline
+You can contact us through the methods provided at the end of this privacy protection guideline to request an explanation and clarification of this privacy protection guideline.
+8. Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you can contact us through the methods provided at the end of this privacy protection guide, request us to explain, and refuse us to make decisions solely through automated decision-making.
+9. Protection of Personal Information of Deceased Users
+If a user passes away, their close relatives may exercise the rights to access, copy, correct, delete, and other related personal information of the deceased in accordance with this privacy protection guideline for their own legitimate and legitimate interests; Unless the deceased had other arrangements before their death.
+10. In response to your above request
+To ensure security, if you follow the privacy protection guidelines in
+If you submit a request to us, we will first verify your personal information subject identity before processing your request.
+We will receive your complaint within fifteen days from the date of receipt（
+）Provide feedback within working days or within the time limit specified by laws and regulations. If you are not satisfied or have any questions, you can contact us through the methods provided at the end of this privacy protection guide.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. For requests that are technically difficult to implement and do not require a response according to laws and administrative regulations, or if responding to your request would violate laws and administrative regulations, we may refuse and provide you with reasons.
+7 change
+We may revise this privacy protection guideline in a timely manner. When there are changes to the terms of this Privacy Policy, we will notify you of the updated Privacy Policy and inform you of the effective date when the version is updated. When there are significant changes to this privacy protection guideline, we will provide more prominent notifications to inform you of the changes.
+The above-mentioned 'significant changes' include:
+The name or contact information of the personal information processor;
+The purpose and method of processing personal information, the types of personal information processed, and the retention period;
+The ways and procedures for individuals to exercise the rights stipulated in this law;
+Other matters that should be notified according to laws and administrative regulations.
+Please carefully read the updated privacy protection guidelines. By continuing to use Tencent News, you agree to our processing of your personal information in accordance with the updated privacy protection guidelines. If there is a change in the purpose, method, or type of personal information processing, we will obtain your consent again.
+8 Protection of Minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, if you are
+Minors under the age of one should obtain written consent from their parents or legal guardians before using Tencent News services. If you are the guardian of a minor and have any questions about the personal information of the minor under your guardianship, please contact us through the contact information provided in Section 10.
+Specifically, if you are
+Children and their guardians are responsible for
+After obtaining consent,
+Children under the age of one can only use Tencent News services.
+Nine other
+》In case of any inconsistency or contradiction with this privacy protection guideline, please refer to this privacy protection guideline.
+Ten contact us
+We have established a dedicated personal information protection team and a personal information protection officer. If you have any questions, complaints, or suggestions regarding this privacy policy or personal information protection, you can contact us through the following methods:
+1. You can fill out the feedback questionnaire on personal information protection and privacy issues to contact us;
+2. Send the problem to Dataprivacy@tencent.com ；
+Contact us;
+Send the problem to
+Please mail your question to the following address:
+Haitian 2nd Road, Nanshan District, Shenzhen, Guangdong Province, China
+Tencent Binhai Building
+Data Compliance and Privacy Protection Department (Received)
+Postal Code
+：518054
+We will review the issues involved as soon as possible and
+Provide feedback within one working day or within the time limit specified by laws and regulations.
+Shenzhen Tencent Computer Systems Co., Ltd
+You agree to this privacy protection guideline, indicating that you have understood and agreed that in relevant scenarios, we will process your personal information in order to achieve functional operation. But this does not mean that as soon as you start using our products and/or services, we will process all personal information involved in this guide. We will only process your relevant personal information based on the principle of "minimum necessity" to achieve the purpose of providing services to you when you use specific functions.
+This privacy protection guide will help you understand the following:
+We will obtain your separate consent in the form of pop ups or other forms when collecting and using your sensitive personal information.
+Normally, we collect your personal information or apply for relevant permissions in the following scenarios:
+Account registration, login, and maintenance
+Content browsing, commenting, sharing, etc
+When you actively copy links and other content on the page, we will access the device clipboard capability to facilitate the implementation of functions such as sharing text and links. However, we only access and recognize locally and will not upload your clipboard content.
+When you log in to our platform using an Android device and share news and other content to third-party software, we will determine whether you have installed the selected third-party software, but will not apply for or access the application software list permission.
+When you use the image download and save function, if your device system version is Android 10 or below, we will request that you authorize storage permissions to write the relevant information of the image file in the external storage space of your device; If your device system version is Android 10 or above, we will not request your authorization for storage permissions.
+Personalized recommendations
+We provide you with personalized content recommendations (news, videos, novels, etc.) and personalized advertising recommendations management methods:
+Adaptation and safety risk control
+We are committed to providing you with safe and trustworthy products and usage environments, as well as high-quality and reliable services and information. In order to maintain the normal and stable operation of our products and services, protect the safety and legitimate interests of you or other users or the public, we will collect the following information:
+Infringement Complaint Platform (hereinafter referred to as
+We may indirectly collect (such as sharing) your personal information from third parties, but this only occurs when we confirm that such third parties have already shared the relevant personal information with us with your consent, or when the third party is legally permitted or required to disclose your personal information to us.
+We will require third parties to make commitments regarding the legality and compliance of personal information sources. If a third party violates the law, we will explicitly demand that they bear corresponding legal responsibilities.
+We will understand the scope of consent obtained by third parties for the processing of personal information, including the purpose of use, whether the personal information subject agrees to transfer, share, disclose publicly, delete, etc.
+These personal information obtained from third parties will be used to provide services to you and to ensure the accuracy of the relevant records we hold about you. If our processing of personal information exceeds the scope of consent obtained by third parties, we will obtain your consent directly or through the third party providing the information within a reasonable period of time or before processing the personal information.
+Exceptions to obtaining consent
+According to the Personal Information Protection Law, we do not require your consent to collect and use your personal information in the following situations:
+How we use information
+We strictly comply with the provisions of laws and regulations and agreements with users, and use the collected information in accordance with the privacy protection guidelines to provide you with better quality services. We will use the collected information according to the following rules:
+We will provide you with various functions and services based on the information we collect, including but not limited to news and information browsing services, video playback services, search services, reading services, recommended browsing functions, etc;
+We will provide you with services based on your browsing preferences, habits, approximate location information, and other characteristics, including indirect crowd profiling based on feature tags and recommending content and activities that you may be interested in, optimizing the service experience;
+In order to advertise, evaluate, and optimize advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents, and require them to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing according to data protection agreements, commitment letters, and relevant data processing policies, to avoid identifying personal identities and ensure privacy and security.
+We will analyze the operation of our products based on your frequency and situation of using Tencent News, fault information, performance information, etc., to ensure the security of our services, optimize our products, and improve our service quality. We will not combine the information stored in our analysis software with the personal identification information you provide.
+The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within the territory of the People's Republic of China. At present, we do not have any scenario of providing your personal information to overseas parties.
+If we need to provide personal information outside the territory of the People's Republic of China for business purposes, we must meet the legal requirements (such as conducting a security assessment organized by the national cyberspace administration or entering into a contract with the overseas recipient in accordance with the standard contract formulated by the national cyberspace administration, agreeing on the rights and obligations of both parties), and inform you of the name or contact information, processing purpose, processing method, type of personal information, and the way and procedure for you to exercise your personal information subject rights to the overseas recipient, and obtain your separate consent. We will take necessary measures to ensure that the processing of personal information by overseas recipients meets the personal information protection standards stipulated by Chinese law.
+We will store your personal information for the shortest period of time necessary to achieve the purpose of processing your personal information, except when you exercise the right to delete, cancel your account, or as otherwise provided by laws and regulations (for example, the Electronic Commerce Law stipulates that the storage time for product and service information and transaction information shall not be less than three years from the date of completion of the transaction). After exceeding the above storage period, we will check your personal information
+Delete or anonymize the information.
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time, except as otherwise provided by laws and regulations.
+Security protection measures
+We strive to provide security for your personal information to prevent leakage, tampering, loss, improper use, unauthorized access, and disclosure of personal information. We adopt multi-faceted security protection measures, including technical protection measures, management system control, security system guarantee, etc., to ensure that your personal information protection is at a reasonable level of security.
+We have established internal management systems and operating procedures to ensure the security of personal information. Implement classified management of personal information, reasonably determine operational permissions for personal information processing, and regularly provide security education and training to employees.
+We have built and improved a personal information security management system that includes security system certification and business security capability certification. At present, our important information systems have passed the evaluation and filing of the national network security level protection (Level 3).
+Measures for handling security incidents
+If personal information security incidents such as leakage, tampering, or loss occur or may occur, we will activate the emergency plan for personal information security incidents to prevent them from escalating.
+After a personal information security incident occurs, unless we take measures to effectively prevent information leakage, tampering, or loss from causing harm, we will promptly inform you of the basic situation of the personal information security incident, the disposal and remedial measures we will take or have taken, and our response suggestions to you in the form of push notifications, emails, etc. If it is difficult to achieve individual notification, we will issue warnings through announcements and other means.
+Personal information entrusted processing
+Some functions of the platform may be provided by external service providers, for example, we may hire professional data processing service providers to provide technical support in data analysis for our platform.
+We will sign agreements with companies, organizations, and individuals entrusted by us to process personal information, specifying the purpose, duration, processing methods, types of personal information, protection measures, and the rights and obligations of both parties. We will also supervise the personal information processing activities of the entrusted parties.
+In order to provide you with comprehensive products and services, we need to share your personal information with third-party companies, organizations, and individuals in the following situations.
+We will only share your personal information with third parties for lawful, legitimate, and necessary purposes as specified in this privacy protection guideline, and will only share necessary personal information. If a third party changes or processes your personal information beyond the scope of your original consent, we will request the third party to obtain your consent again.
+We will require companies, organizations, and individuals with whom we share personal information to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing personal information in accordance with data protection agreements, commitment letters, and relevant data processing policies to avoid identifying personal identities and ensure privacy and security.
+Personal Information Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+After obtaining your explicit consent, we will transfer your personal information to other parties;
+If it is necessary to transfer your personal information due to merger, division, dissolution, bankruptcy, or other reasons, we will inform you of the name or contact information of the recipient and require the new company or organization holding your personal information to continue to be bound by this policy. Otherwise, we will require the company or organization to seek your consent again.
+We will not publicly disclose the personal information we collect. If it is necessary to disclose it publicly, we will inform you of the purpose of this disclosure, the type of information disclosed, and the sensitive information that may be involved, and obtain your separate consent.
+Agreed exceptions
+According to the Personal Information Protection Law, we do not need to obtain your prior consent to share, transfer, or publicly disclose your personal information in the following circumstances:
+During your use of Tencent News, in order to make it more convenient for you to query, copy, correct, and delete your personal information, and to protect your right to withdraw your consent to personal information processing and cancel your account, we have provided corresponding operation settings in the product design. You can refer to the following instructions for operation. In addition, we have established a complaint and reporting channel, and your opinions will be promptly addressed. If you are unable to exercise your personal information subject rights through the above channels and methods, you can make your request through the contact information provided in this privacy protection guide, and we will provide feedback in accordance with legal regulations.
+Search for personal information
+Obtaining a copy of personal information
+If you need a copy of your personal information, you can contact us through the methods provided at the end of this privacy protection guideline. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as otherwise agreed in this privacy protection guideline.
+If technically feasible and in compliance with the requirements set by the national cyberspace administration, we may also transfer a copy of your personal information to a third party designated by you as per your request.
+Delete personal information
+Please understand that each business function requires some necessary information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the information processing previously carried out based on your authorization.
+Obtain an explanation of this privacy protection guideline
+You can contact us through the methods provided at the end of this privacy protection guideline to request an explanation and clarification of this privacy protection guideline.
+Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you can contact us through the methods provided at the end of this privacy protection guide, request us to explain, and refuse us to make decisions solely through automated decision-making.
+Personal letter of deceased user
+Interest protection
+If a user passes away, their close relatives may exercise the rights to access, copy, correct, delete, and other related personal information of the deceased in accordance with this privacy protection guideline for their own legitimate and legitimate interests; Unless the deceased had other arrangements before their death.
+In response to your above request
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. For requests that are technically difficult to implement and do not require a response according to laws and administrative regulations, or if responding to your request would violate laws and administrative regulations, we may refuse and provide you with reasons.
+We may revise this privacy protection guideline in a timely manner. When there are changes to the terms of this Privacy Policy, we will notify you of the updated Privacy Policy and inform you of the effective date when the version is updated. When there are significant changes to this privacy protection guideline, we will provide more prominent notifications to inform you of the changes.
+We have established a dedicated personal information protection team and a personal information protection officer. If you have any questions, complaints, or suggestions regarding this privacy policy or personal information protection, you can contact us through the following methods:
+Shenzhen Tencent Computer Systems Co., Ltd

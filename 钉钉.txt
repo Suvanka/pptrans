@@ -1,0 +1,670 @@
+DingTalk Privacy Policy
+Update Date:
+Effective Date:
+[Introduction]
+Welcome to use our products and services! We are well aware of the importance of personal information to you. In order to help you understand how we collect, process, and protect your personal information, as well as how you can manage your personal information, we have formulated this "DingTalk Privacy Policy"（
+）And more concise content《
+》. Before using our products and services, please make sure to carefully read this policy, especially in bold
+The terms highlighted in bold and underlined ensure that you fully understand and agree before starting to use them. If you have any questions, opinions or suggestions about this policy, you can contact us through the contact information at the end of this policy.
+You agree to the privacy policy, which means that you have understood the basic functions provided by the application and the necessary personal information required for the operation of the basic functions, and have given corresponding collection and use authorization. However, it does not mean that you have separately agreed to enable additional functions or process non essential personal information. To enable additional features, process non essential personal information, and handle sensitive personal information, we will separately seek your consent based on your actual usage situation.
+This policy may exist in multiple language versions. In case of any inconsistency or conflict between the terms of each language version, the simplified Chinese version shall prevail.
+This policy will help you understand the following:
+1、 Scope of application
+2、 Information Collection and Use
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+4、 Your rights
+5、 Storage of Information
+6、 Policy updates
+7、 Protection of Minors
+8、 Contact Us
+Appendix: Relevant Definitions
+1、 Scope of application
+This policy applies to our DingTalk website
+DingTalk software, DingTalk intelligent hardware, and various products and services provided to you in new forms that emerge with technological development.
+This policy does not apply to products or services provided to you by our affiliated companies, third-party service providers of DingTalk, or other third parties. Such products or services are subject to the personal information processing rules separately explained by the service provider to you.
+2、 Information Collection and Use
+When you use our products or services, the personal information we need or may need to collect and process includes the following two types:
+In order to provide you with the basic functions of our products or services, you must authorize us to collect and use necessary information. If you refuse, you will not be able to use our products or services normally.
+In order to provide you with additional features of our products or services, you may choose to individually agree or disagree with the information we collect and use. If you refuse, you will not be able to use the relevant additional features or achieve the intended functional effects, but it will not affect your use of our basic functions.
+We would like to remind you that due to the wide variety of products and services we provide to you, and the differences in the specific product and service scope chosen by different users, the basic or additional functions and the corresponding types and scope of personal information collected and used may vary. Please refer to the specific product or service functions.
+The specific functional scenarios we provide for you include:
+（1） Help you become our user and manage your account
+Register as a DingTalk individual user
+）Basic User Services
+To register as an individual user of DingTalk and use DingTalk's basic non office services as an unorganized entity, such as
+Chat (instant messaging), create groups, conference calls, video conferences, internet calls
+Message, personal Dingpan, DingTalk take a look
+Real time communication function, you need to submit
+Mobile number and password to register and create a DingTalk account
+Otherwise, you will not be able to use DingTalk service. If you only need to browse the DingTalk software, functions, and service introductions displayed on the DingTalk website, you do not need to register and provide the above information.
+）Additional User Services
+Complete information: You can independently complete your name, avatar, nickname, gender, birthday, work location, and corporate email
+essential information. Among them, the nickname and avatar you set will be publicly displayed.
+Authorized login: We may provide your account information (avatar, nickname, and other page prompts) to third parties with your separate consent, so that you can easily register a third-party account through your DingTalk account or directly log in to third-party products or services through your DingTalk account. In addition, we may obtain your third-party account information from third parties with your separate consent and bind it to your DingTalk account, allowing you to log in and use our products or services directly from the third party.
+）Identity authentication
+To meet legal, regulatory, and supervisory requirements, ensure the authenticity of user identities, prevent fraud, and safeguard system and service security, we collect your relevant information for identity verification when you use specific services or features, such as:
+Retrieve Account: When you use
+Retrieve DingTalk account
+When it comes to functionality, we will collect your identity information, including your
+Your real name and ID number are used to verify your identity
+Help you retrieve your DingTalk account.
+Real person authentication: You can choose to perform real person authentication independently to enhance account protection, or follow the prompts on the product page to perform real person authentication when applying to become a specific role (such as administrator, developer, service provider), using specific services (such as DingTalk Wallet, DingTalk Live), or in other scenarios where real identity verification is required.
+To achieve authentication purposes, you need to provide your real identity information (name, ID number)
+ID information or facial recognition information, please refer to the page prompts for details) to complete the real person authentication
+. When conducting real person authentication of facial information, we need to obtain your light sensor data to determine if the light source is sufficient.
+If there are scenarios where it is necessary to determine your necessary identity information in accordance with the law (such as protecting the rights and interests of minors, cracking down on online fraud, identifying relevant parties in administrative law enforcement or judicial litigation)
+）At this time, you authorize us to obtain the necessary authentication information for your corresponding account for the aforementioned purposes. You can use the real person authentication page at the bottom
+Cancel real person authentication
+Button to revoke authorization.
+Register as a personal user of DingTalk Student Account
+If you are a parent of a student and a member of the DingTalk Education School Group or Family Group, you can log in to your DingTalk account and enter it on the student account application page
+The name of the school and class where the child is located, the child and their parents
+Set up a DingTalk student account for your child with their name information and become a personal user of the DingTalk student account
+In order to use our live teaching, classroom review, homework check-in, online learning, and growth diary services provided to students
+Service. After opening a student account, students or parents can also independently improve their student account
+Student nickname, avatar, gender, birthday, and location information
+Register as a user of DingTalk Enterprise Organization
+）Basic Enterprise Organizational Services
+To register as a user of DingTalk Enterprise Organization, you need to provide your company or organization name to create a DingTalk Enterprise Organization account. Otherwise, you will not be able to use DingTalk services based on enterprise organization management behavior.
+）Additional organizational services for enterprises
+Complete information: After registering as a user of DingTalk Enterprise, you can further provide information on the location, industry type, and personnel size of the enterprise or organization (subject to page prompts).
+Organizational authentication: If enterprise organization users wish to obtain more rights or services, administrators can submit specific information and materials (including business license, unified social credit code, enterprise organization name, address, etc.)
+Identity information of legal representative
+Apply for certification and become a DingTalk certified enterprise organization user.
+If you are the legal representative of a specific enterprise organization and need to join the DingTalk enterprise organization as an administrator, you need to provide us with the business license, organization code certificate
+Legal representative's ID card information
+So that we can add you as a member of the DingTalk Enterprise organization and grant you administrator status.
+（2） Provide you with online communication and collaborative office services
+Instant messaging
+When you use DingTalk for instant messaging, we need to record your
+Chat messages, voice call status information (non call content)
+In order to achieve information transmission and interaction, and synchronize it to all your login devices. When other users send you
+When sending a message, we will send a message or make a phone call to your registered phone number, login device, in order to achieve information outreach. To avoid missing connections
+You can authorize DingTalk to write the aforementioned number into your mobile phone address book, either by phone or the office phone of your organization. If you refuse authorization, it will result in the inability to store the phone number, but it will not affect your use
+Message and office telephone services for corporate organizations.
+If you need to send voice messages, make voice or video calls, or send instant photos or videos, you need to authorize DingTalk to obtain permission for your device's microphone or camera. When making audio and video calls, DingTalk needs to obtain your distance sensor to automatically turn off the screen.
+If you need to send photos or files, you need to authorize DingTalk to access your device's photo album or file storage permissions.
+If you need to share your location, DingTalk needs to obtain
+Your location information
+In order to send and display to the other party, we will obtain your acceleration sensor, gyroscope sensor, and rotation vector sensor to assist in determining your position.
+Add friends
+You can add friends through face-to-face group building, scanning codes, exchanging electronic business cards, and mobile phone contacts. If you need us to recommend registered DingTalk contacts in your phone's address book for you to add DingTalk friends, you need to authorize us to access and
+Collect your phone address book information
+We promise to obtain phone address book information at the lowest frequency possible. We may recommend people of interest to you based on your friendship, organizational relationships, and interactions with other users.
+Online document collaboration
+When conducting online document collaboration, in order to make all parties involved in collaborative editing aware of the edited and modified information, DingTalk will display your avatar, nickname, and modification traces, and allow all parties to view the historical versions of the document.
+4. Online project management
+You can use our project management services for online project management. In order to enable you to create, assign, and follow up on various work tasks, we will collect information and data generated during your use of the service,
+: Content of project tasks, members involved in the project, permissions
+Configure data and corresponding log data (task viewing, searching, browsing, editing records).
+Audio and video conferencing and live streaming
+When you use DingTalk's audio and video conferencing function or initiate a live stream through DingTalk, you need to authorize us to obtain the camera or microphone permission of the device. If you refuse authorization, you will not be able to use this function.
+When you use video conferencing or initiate live streaming, in order to optimize your
+We may collect your audio and video quality when the connection is unstable
+Signal strength information.
+During audio and video conferences, participants can use
+The function records the speech content during the meeting and converts it into text. The audio and video conference host can record the meeting and share it with other participants. In this scenario,
+DingTalk will record your speech content
+When you use the beauty features of video conferencing and live streaming, we need to locally process some of your facial feature information to achieve facial beauty effects. You need to authorize us to use camera permissions. We will only process relevant facial feature value information offline on your local device and will not upload, store or share such information with third parties in the background.
+When you use the virtual background function for video conferencing and live streaming, we need to locally recognize your facial image in order to distinguish it from the background. You need to authorize us to use camera permissions. We will only process relevant facial image information offline on your local device and will not upload, store or share this information with third parties in the background.
+When the device participates in a video conference, we will provide a speaker tracking function that automatically displays close-up shots of the speaker. To achieve this, we need to use sound source localization and image recognition technology to identify the location of your voice and facial movements. You need to authorize us to use the camera and microphone permissions. We will only process the relevant sound location and facial movement information offline on your local device, and will not upload, store or share this information with third parties in the background.
+In addition, we will also obtain your magnetic field sensor, distance sensor, acceleration sensor, and light sensor during audio and video conferences to achieve automatic screen shutdown, horizontal and vertical screen rotation.
+Calendar Schedule
+You can add your own schedule and events through the DingTalk calendar function
+Notify, accept or send meeting invitations, subscribe to schedule information provided by third parties. You can also authorize us to obtain calendar permissions for your device in order to display schedules from the system calendar in DingTalk Calendar. Refusing authorization will result in the inability to view schedules in the system calendar through DingTalk Calendar, but it will not affect your use of other calendar functions. When you have an upcoming schedule, we will send a system notification, and the application will automatically start to remind you that the schedule is about to begin.
+Search within the software
+You can use DingTalk's search function to search for information including chat history, contacts, documents, departments, and features. For your convenience in quickly finding the information you are looking for, we will collect your interaction and search records when using DingTalk, predict and match the information you may want to search for through algorithm models, and place them below the search box
+We show you that you can delete it at any time
+The content within.
+Check in and attendance record
+Your company or organization can use DingTalk for clocking in and attendance.
+If your company or organization chooses facial check-in, you need to provide a photo of your face for feature extraction in order to achieve facial check-in functionality; If your business or organization chooses to clock in geographically, DingTalk will collect your data
+Location information or
+Access point information and obtain your acceleration sensor, gyroscope sensor, and rotation vector sensor to assist in determining your location; If your business or organization chooses Bluetooth clocking in, DingTalk will collect Bluetooth information from your device. To prevent cheating in check-in and attendance, DingTalk will obtain your software installation list information on your device to confirm the existence of cheating software
+. If you have enabled it in the attendance settings
+In order to achieve the automatic clock in function of high-speed clock in, within a certain time range, every time you open DingTalk from the background or switch networks while using DingTalk, the high-speed clock in function will collect your data
+）Access your location to compare whether you have reached the attendance range locally on the client.
+Message notification
+During your use of DingTalk services, we may communicate via phone or text message,
+Messages, work notifications, pop ups
+Sending you one or more types of messages, such as service notifications, verification codes, etc
+. We may also recommend commercial information about services, features, or activities that you may be interested in through the aforementioned methods. If you do not wish to receive our commercial information, you can unsubscribe through the unsubscribe methods provided in the SMS or directly contact our customer service, or through the pop-up page
+Button to close the pop-up window, or in
+In order to ensure that you can receive push content normally and avoid message omissions, we have used the self launch and associated launch functions of other apps.
+10. Exercise pedometer
+You can use the DingTalk exercise function to count information including steps. To use the exercise step counting function, you need to authorize DingTalk to obtain your device's exercise and health permissions and information.
+11. Low code service
+You can use Yidai Low Code Business Application to build a platform, where you can edit and configure pages, forms, and processes in a drag and drop manner on the visual interface, and publish them to PC and mobile devices with just one click.
+12. AI related services
+In order to improve your collaborative work efficiency, after obtaining the testing/usage qualification, you can use various forms of AI services including DingTalk Intelligent Assistant ("DingTalk Magic Wand"). This service can generate text, images, code or execute instructions such as generating to-do lists, scheduling appointments, providing exclusive assistant robots based on natural language instructions, conversations, documents, images, audio, etc. (collectively referred to as "input content") that you input or select, using artificial intelligence models (collectively referred to as "output content").
+To achieve the above functions, we will process your input content through artificial intelligence models ourselves or entrust AI model providers that cooperate with us to generate output content for you. During this process, DingTalk and the model provider entrusted by DingTalk for data processing will not associate the input and output content with your identity information, nor will they use your input content for model training, algorithm optimization, and other purposes.
+During the use of the above services, you can evaluate and provide feedback on the output content of the AI service through methods such as "like" and "step". We will collect your evaluation information and input content, and process it ourselves or entrust the model provider to improve the interaction quality of our services and optimize the service experience on the premise of de identification and inability to re identify specific individuals. The above information is non essential and refusing to provide an evaluation will not affect your use of our services.
+13. Personal version related services
+In order to better serve individual users of DingTalk, we provide you with DingTalk Personal Edition services that include multiple functions such as workspace, AI, and meetings. When you use the workspace, in order to inform all parties involved in the collaboration about the collaboration situation, we will collect the operation records of space members in the space (such as adding or removing members, changing space settings, etc.), as well as information about space members using space pages to create, edit, upload, and publish. When space members perform editing and other operations on the page, we will display their avatars, nicknames, and page modification traces for members to view the historical versions of the page, so that members can collaborate better. For the personal information processing rules when using DingTalk Personal Edition's AI and conference functions, please refer to the previous instructions on the personal information processing rules for audio and video conferencing services and AI services.
+In order to facilitate the storage, management, and use of your personal information, after you have separately authorized the binding of your DingTalk account with your Alibaba Cloud Drive account, you can log in from DingTalk Personal Edition, access your Alibaba Cloud Drive storage space, backup files from DingTalk Personal Edition to your Alibaba Cloud Drive, or call files stored in your Alibaba Cloud Drive for editing, processing, or transmission when using DingTalk Personal Edition. Please note that the Alibaba Cloud Drive service is operated by Hangzhou Duanqu Media Technology Co., Ltd. Any service failures, unavailability, or other issues not caused by DingTalk will be resolved by Duanqu and they will be held responsible for you.
+14. Time Zone Display Service
+In the process of using DingTalk, if you are not in the same time zone as the other party, in order to help them understand your local time, arrange collaborative communication reasonably, and avoid unnecessary disturbance, DingTalk needs to use your device's time zone to display your local time to the other party.
+You can turn off the display of time zone information by selecting "Settings and Privacy - External Information Permissions - Current Time Zone".
+（3） Assist enterprise organizations in online office and entrusted processing of organizational control data
+1. Ownership of data control for personal registered accounts joining corporate organizations
+If you, as an end user, register a DingTalk account using your personal mobile phone number and join the DingTalk enterprise organization, and use DingTalk as a member of the enterprise organization for online mobile office, communication, and collaboration, we will record the data submitted or generated during your use of DingTalk related functions (hereinafter referred to as "enterprise organization control data") based on the configuration, operation, and instructions of the administrator of your enterprise organization. Enterprise organization control data may include:
+1) The positions, departments, main industries, office email accounts, and office phone information assigned to you by your company organization; And the information provided or generated by your use of the attendance, approval, check-in, and logging functions opened by the enterprise organization, including: fingerprint base map, fingerprint features, facial recognition base map, facial features, check-in facial photos, geographic location information, as well as attendance check-in information, approval records, publishing log information, schedule information, and Dingpan file information. If your organization uses DingTalk's own brand hardware products (including DingTalk fingerprint recognition attendance machine, DingTalk facial recognition attendance machine, DingTalk intelligent front-end) or uses third-party intelligent access control products with embedded DingTalk services, your organization may require you to enter fingerprints or facial photos through DingTalk client or hardware devices. DingTalk will extract and process your fingerprint or facial feature values so that the above products can achieve online fingerprint recognition or facial recognition.
+2) The order transaction information when you use DingTalk or open third-party applications, such as the transaction information when you, as an administrator, purchase DingTalk self operated or third-party application services in the DingTalk application market.
+3) After your enterprise organization has opened and used the nailed enterprise organization services, including the enterprise address book, intelligent personnel service and digital networking service, the enterprise organization will upload or ask you to provide personal information, including identity information (name, ID card information, registered residence), enterprise employment information (department, position, rank), labor contract status information, contact information of the enterprise and your individual (mobile phone, fixed line phone, e-mail), enterprise and personal contact address (home address, office address), education information (school, major, education), salary payment bank card information, emergency contact information or external business contact card information you saved.
+4) After your child's school opens and uses DingTalk Education related application services (such as home school communication directory), your child's school will independently upload or request personal information from you, including your contact information (name, phone number, contact address), your child's identity information (name, facial photo), class information (grade, class), etc.
+5) The enterprise organization office and collaboration groups created by you using DingTalk instant messaging group service include internal groups used for internal communication and collaboration purposes (such as all staff groups, internal groups, collaboration groups, service groups, confidential groups) and external groups used for external collaboration purposes of enterprise organization employees (such as external project groups, external meeting groups), which upload, input, publish, transmit, and share files, multimedia, conversations, and other related instant messaging information. Specifically, when your company organization pays to activate relevant exclusive security services, files, multimedia, conversations, and other related instant messaging information uploaded, entered, published, transmitted, and shared during single chats with members of the same company organization ("on-the-job colleague single chats") initiated by you using DingTalk instant messaging service will not be visible after your resignation.
+6) For the purpose of human resource management, information security management, and data security control, your enterprise organization has opened DingTalk security application services to generate service log data, including device log information such as client software or system version, IP address, network access, basic behavior log data such as logging in/out of DingTalk, workbench application access data, joining the organization, as well as security control behavior log data such as file operation behavior, group operation behavior, and screen capture behavior.
+7) Your company or organization can use DingTalk intelligent network products (such as C1 smart router, etc.). In order to provide enterprise users with one click networking, intelligent flow control, intelligent permission management and other functions, we may collect your MAC address in the background to implement terminal identification and security control solutions such as network traffic control and access blacklist control for end users.
+8) Other data containing your personal information submitted by enterprise organization users.
+9) The end user expressly authorizes and agrees to data controlled by the enterprise organization, such as data generated by services with personal user service attributes and enterprise organization user service attributes, such as ordinary groups without organizational affiliation and single chats between non working colleagues, and data controlled by the enterprise organization with the end user's explicit authorization and consent. If the aforementioned data is not authorized and agreed upon by the end user, DingTalk will not share the data with enterprise organization users or their administrators.
+2. Ownership of Data Control for Personal Use of Enterprise Accounts
+All data generated by your login and use of the enterprise account assigned to you by the enterprise organization for office purposes is controlled by the enterprise organization. You fully understand the office nature of the enterprise account and avoid autonomous operation and use of the enterprise account to upload, input, publish, transmit or share personal information or privacy. Otherwise, you shall not deny the data control rights of the enterprise organization over the enterprise account due to such autonomous operation behavior.
+You understand and agree that enterprise organization users are the managers of enterprise control data, and we only process enterprise organization control data according to the instructions of the enterprise organization user administrator. Before enterprise organization users upload information including DingTalk enterprise organization communication information, class address book, and require end users to submit intelligent personnel information and external business contact information, they should ensure that only the necessary end user information for achieving enterprise operation and management purposes is collected, and the end users are fully informed of the purpose, scope, and usage of the relevant data collection and obtain their authorization and consent.
+As the end user, you understand and agree that the enterprise has the right to organize users based on the necessity of entering into and fulfilling the contract to which you are a party, or based on the labor rules and regulations formulated in accordance with the law and the collective contract signed in accordance with the law
+To handle your personal information as necessary for human resource management, including entrusting DingTalk to the administrator to open, manage, and use DingTalk services, to achieve the purpose and scope of online mobile office, communication, and collaboration, and to process your personal information based on reasonable necessity.
+（4） Provide you with bookmarking, following, and sharing functions
+During your use of DingTalk, you can collect files, text, images, and videos that interest you, follow service windows and viewing accounts that interest you, or share information with third parties. In the process of using the above functions, we will collect service log information including your favorites, follow relationships, and sharing history to achieve the above functions.
+（5） We provide you with DingTalk Wallet service
+In order to use the staple wallet service, you need to bind your Alipay account. We will share your nail account, the corresponding Alipay account member name, order payment related information, order security related equipment information and other necessary information required by anti money laundering laws with Alipay through the Alipay SDK embedded in the client and other security methods.
+In order to let us know and confirm your payment progress and status in a timely manner, and provide you with after-sales and dispute resolution services, you agree that we can collect information related to the payment progress from your selected trading partner, Alipay.
+（6） Show you personalized content and services
+To showcase content or services that better meet your needs, we collect and use device information (including device identifiers (IMEI, IDFA, Android ID, MAC, OAID, IMSI, ICCID, and other device related information), application information (application crash information, notification switch status, application installation list, and other application related information), device parameters and system information (device type, device model, operating system, and hardware related information), device network environment information (IP address WiFi information, base station information, and other network related information), service log information (browsing history, click view history, search query history, favorites, follow and share information, post information, as well as IP address, browser type, telecom operator, language used, access date and time), basic information you submit, information about your organization (such as department, position), use algorithm models to predict your preference characteristics and match content or services that you may be interested in.
+If you want to turn off the personalized content we push to you, you can do so in "Settings and Privacy - System and Application Permissions - Personalized Content Recommendations".
+（7） Customer service and dispute resolution
+When you contact our customer service for assistance, in order to ensure the security of your account and system, you need to provide necessary personal information to verify your user identity.
+In order to contact you, assist you in resolving issues, or record the solutions and results of related issues, we will keep records of your communication with us and related content (including account information, work order information, other information you provide to prove relevant facts, or contact information you leave behind).
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+（8） We provide you with the function of publicly publishing information
+You can publicly publish information including graphics, videos, live content, links, comments, and Q&A content through DingTalk Service Window, DingTalk Video Account, DingTalk Enterprise Square, announcements, comments, typical customer cases, live broadcasts, and other functions.
+When you follow a user or public account in DingTalk, we will display the content of that user or public account to you. When you post, comment, like, forward, or recommend content, we will collect your aforementioned information and display it to your friends.
+We may determine whether you are eligible for the information publishing function based on your account type and network log information. At the same time, we will display the recent IP location information of the information publishing account in DingTalk video accounts, service windows, and similar functions based on legal and regulatory requirements.
+Please note that the information you publicly release may involve personal information or even sensitive personal information of yourself or others. You should obtain the consent of others before publishing content that involves their personal information.
+（9） To provide you with security protection
+To ensure network security, improve the security of your use of services provided by us and our affiliated companies and partners, prevent phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusion risks, and identify violations of laws and regulations or DingTalk related agreements and rules. We have embedded the application security SDK developed by our affiliated companies in the application to collect your device information, service log information, and may use or integrate your account information, transaction information, device information, service log information, as well as information authorized by you or shared by our affiliated companies and partners in accordance with the law (including MAC address, IMEI, WiFi information (including SSID), and other device identifiers that we may collect for risk verification during the application backend operation), in order to comprehensively determine your account and transaction risks, conduct identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law. On iOS devices, you can choose to enable secure password locking in the Security Center, and we will call the device's Face id authentication method based on the actual situation.
+（10） Other additional services provided for you
+1. Additional services based on system permissions
+We may apply to enable system permissions to collect and use your personal information in the following additional services. If you do not agree to enable these permissions, it will not affect your use of DingTalk's basic services, but you will not be able to use these additional services. You can turn on or off these permissions at any time. By turning on any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. Closing any permission means that you have revoked the authorization. We will no longer collect and use relevant personal information based on that permission, nor can we continue to provide the services corresponding to that permission. Disabling permissions will not affect the collection and use of information based on your authorization prior to the closure of permissions.
+You can click here to view the application permission application and usage
+Situation description.
+2. Cookies and similar technology services
+Cookies and other similar technologies are widely used in the Internet. When you use our services, we may use relevant technologies to send one or more cookies or anonymous identifiers (hereinafter referred to as "cookies") to your device to collect, identify, and store information about your access to and use of this product. We promise not to use cookies for any purposes other than those described in this privacy policy. We use cookies mainly to ensure the security and efficient operation of our products and services, to confirm the security status of your account and transactions, to investigate related abnormal situations such as crashes and delays, and to help you save the steps and processes of filling out forms and entering search content repeatedly.
+At the same time, we may use cookies to display information or features that you may be interested in. Most browsers provide users with the function of clearing browser cache data, and you can perform corresponding data clearing operations or refuse our cookies. You may not be able to use services or corresponding functions that rely on cookies due to these modifications.
+（11） Other rules for collecting and using personal information
+1. If the information you provide contains personal information of others, you need to ensure that you have obtained legal authorization before providing this personal information to DingTalk.
+2. If we use the information for other purposes not specified in this policy, or use the information collected for specific purposes for other purposes, we will obtain your consent in advance.
+3. Under the premise of secure encryption technology, we will use the collected data for machine learning and algorithm model training to better provide services to you. You can click here to view the DingTalk Algorithm service instructions.
+4. To achieve the service objectives of third-party mini programs, DingTalk will assist them in obtaining your clipboard information.
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+（1） Partners involved in the use of data
+1. Basic principles
+When we cooperate with our partners, we will adhere to the following principles:
+(1) The principle of legality, legitimacy, and minimum necessity: Data processing should have a legal basis, a legitimate purpose, and be limited to the minimum scope of achieving the processing purpose.
+(2) The principle of maximizing users' right to know and decision-making: fully respect users' right to know and decision-making regarding the processing of their personal information during the data processing process.
+(3) The principle of strongest security guarantee capability: We will take necessary measures to ensure the security of the personal information processed, carefully evaluate the purpose of data use by our partners, comprehensively assess their security guarantee capabilities, and require them to comply with the relevant requirements of the cooperation agreement.
+You can click here to view our data partner information.
+2. Scope of cooperation partners
+If the specific functions and scenarios involve services provided by our affiliates or third parties, the scope of cooperation includes our affiliates and third parties.
+3. Entrusted processing
+We may entrust our partners to process your personal information in order for them to provide certain services or perform functions on our behalf. We will only entrust them to process your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through an agreement not to use this information for any purposes beyond the scope of the delegation. If the authorized partner uses your information for purposes that we have not delegated, they will obtain your consent separately.
+4. Joint processing
+For the scenario of jointly processing personal information, we will sign relevant agreements with our partners in accordance with legal provisions and agree on their respective rights and obligations, ensuring compliance with legal provisions and protection of data security during the use of relevant personal information.
+5. Collaboration Scenario
+1) To achieve business functions
+A. Payment Services
+In order to use the staple wallet service, you need to bind your Alipay account. We will share your nail account, the corresponding Alipay account member name, order payment related information, order security related equipment information and other necessary information required by anti money laundering laws with Alipay through the Alipay SDK embedded in the client and other security methods.
+In order to let us know and confirm your payment progress and status in a timely manner, and provide you with after-sales and dispute resolution services, you agree that we can collect information related to the payment progress from your selected trading partner, Alipay.
+B. Mini programs, SaaS application services
+If you use our partner's services such as mini programs and SaaS applications on DingTalk, the partner (usually the developer of the mini program or SaaS application) will use your personal information (such as profile picture, nickname, phone number). The specific type of personal information is subject to the authorized content prompted on the relevant page when you open the mini program or SaaS application.
+2) Advertising and Analytics Services
+We will entrust our partners to handle information related to advertising placement, coverage, and effectiveness, while adopting industry standard security technologies. We will not entrust your personal identification information to our partners for processing.
+3) Security and Statistical Analysis
+A. Ensuring Security of Use: In order to protect the legitimate rights and interests of DingTalk users from illegal infringement, our partners may use necessary equipment, accounts, and log information.
+B. Analyzing product situation: In order to analyze the stability of DingTalk products or services, partners providing analysis services may need to use information such as service situation, equipment identification information, and overall application installation and usage.
+C. Academic research: In order to enhance research capabilities in related fields and promote technological development, we may use de identified or anonymized data with our partners (such as research institutes, universities, etc.) while ensuring data security and legitimate purposes.
+4) Other cooperation scenarios
+If you have signed corresponding authorization agreements or documents with credit reporting agencies (such as Baihang Credit Reporting, Pudao Credit Reporting, etc.), financial institutions, other third-party institutions, etc., based on your aforementioned authorization and agreement and this policy, we will conduct comprehensive statistics, analysis or processing of your personal information and provide the data processing results to the aforementioned agencies.
+In addition to the above-mentioned cooperation scenarios, we may also delegate information to other partners who support our business, such as
+Entrusted by us to provide technical infrastructure services.
+To ensure the stable operation and functional implementation of our client, our application will embed SDK or other similar applications from authorized partners. We will conduct strict security checks on the application programming interfaces (APIs) and SDKs used by authorized partners to obtain information, and agree with authorized partners on strict data protection measures to process personal information in accordance with this policy and other appropriate confidentiality and security measures.
+You can click here to view the details of the SDK we have integrated.
+（2） Transfer
+If we need to transfer personal information due to merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name and contact information. The recipient will continue to fulfill this policy and other legal obligations. If the recipient changes the original processing purpose and method, the recipient shall obtain your consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+1. We may publicly disclose your personal information if you voluntarily choose or otherwise obtain your separate consent.
+2. If we determine that you have violated laws and regulations or DingTalk related agreements and rules, or to protect the personal and property safety of others from infringement, we may disclose your personal information, including related violations and measures taken by DingTalk against you.
+（4） Stop operation
+If we cease to operate our products or services, we will promptly stop collecting your personal information and send you a notice of cessation of operation in the form of individual notifications or announcements. We will also delete or anonymize the personal information we hold related to the discontinued products or services.
+（5） Exemption from obtaining your authorization and consent in accordance with the law
+According to laws and regulations, in the following situations, our partners do not need to obtain your authorization or consent when using or transferring or disclosing your personal information:
+1. It is necessary to enter into or perform a contract according to your requirements.
+2. Necessary for fulfilling legal duties or obligations (such as sharing your personal information as required by laws and regulations, litigation or other dispute resolution, or as requested by administrative or judicial authorities in accordance with the law).
+3. It is necessary to protect the life, health, and property safety of others in response to sudden public health emergencies or emergency situations.
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to handle personal information within a reasonable range.
+5. Process your self disclosed personal information or other legally disclosed personal information within a reasonable range (such as legally disclosed personal information through legitimate news reports, government information disclosure, and other channels).
+6. Other circumstances stipulated by laws and regulations.
+4、 Your rights
+You can make data rights requests to DingTalk through "Settings and Privacy - Security Center - Data Rights" in the DingTalk App, or you can view and manage your information through the following methods. We will respond to your requests in accordance with legal and regulatory requirements:
+（1） Review, Correction, and Supplement
+You have the right to access, correct, and supplement your information through the following methods:
+1. DingTalk Enterprise Organization Users: You can log in to the "DingTalk Enterprise Management Backend" (oa. dingtalk. com) to query and correct enterprise organization control information, including address book information, invitation SMS settings, changing login passwords, changing main administrators, setting sub administrators, and other operations. You can also choose to enable or disable DingTalk basic applications, third-party applications, or self built applications through the "Workbench - Application Management".
+2. DingTalk individual users: (1) Log in to DingTalk mobile app, click "My Settings and Privacy My Information" in sequence to query and correct personal information and account related information, including avatar, nickname, phone number, work file, gender, birthday, region and title information, or complete real person authentication; (2) Log in to the mobile client and click on "My Customer Service and Help Online Services" to seek online assistance.
+（2） Copy
+You can copy your information in the following ways:
+1. Go to "My Settings and Privacy Personal Information Inquiry and Download" in the DingTalk App;
+2. You can copy your personal information by searching through the path listed in "(1) View, Correction, and Supplement".
+（3） Delete
+You can delete some of your information or apply for account cancellation to delete all of your information through the path listed in "(1) View, Correct, and Supplement Your Information".
+In the following situations, you can contact customer service to request the deletion of personal information:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect and use your personal information without your explicit consent;
+3. If our handling of personal information seriously violates our agreement with you;
+4. If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+5. If we cease to provide products or services, or if the retention period has expired.
+If we decide to respond to your deletion request, we will also notify the subjects who have obtained your personal information from us as much as possible and require them to delete it in a timely manner (unless otherwise provided by laws and regulations or these subjects have independently obtained your authorization).
+When you delete your personal information, due to legal regulations or security technology limitations, we may not be able to immediately remove the information from the backup system. We will securely store your personal information and restrict further processing until the backup can be cleared or anonymized.
+（4） Change the scope of authorization
+You can withdraw your authorization or change the scope of your authorization for us to collect and process your personal information through the following methods:
+1. Enterprise organization users: You can log in to the "DingTalk Enterprise Management Backend" (oa. dingtalk. com) and choose to open or close DingTalk basic applications, third-party applications, or self built applications through "Workbench - Application Management".
+2. DingTalk individual users:
+You can log in to the mobile client and make settings in "My Settings and Privacy" to grant or revoke your authorization and consent.
+For authorizations that cannot be directly set up through the above methods, you can obtain an explanation by contacting customer service. However, for some types of personal information, such as information necessary to achieve the basic functions of DingTalk or information necessary for us to fulfill our legal obligations, we may not be able to respond to you changing the scope of authorization
+Request for enclosure. When you revoke your authorization, we will no longer process the corresponding personal information, but revoking the authorization will not affect the personal information processing we have previously carried out based on your authorization.
+（5） Cancel account
+You can apply to cancel your account through the following methods:
+1. DingTalk Enterprise Organization Users: Log in to the DingTalk App on your mobile phone, click on "Workbench - Enterprise Management - Other More Settings - Dissolve Enterprise" and follow the prompts on the interface to operate; Log in to the "DingTalk Enterprise Management Backend" on the web page, click on "Settings - Dissolution Enterprise Process", and follow the prompts on the interface to operate.
+2. DingTalk individual user: Log in to the DingTalk client and click on "My Settings and Privacy Security Center Account Settings Cancel DingTalk Account" to log out.
+Please note that DingTalk currently only supports logging out on mobile devices. After you voluntarily cancel your account, we will cease to provide you with products or services and delete or anonymize your personal information in accordance with legal requirements.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including algorithms. If these decisions affect your legitimate rights and interests, you can contact us through customer service.
+（7） Responding to your request
+For the above request you have made to us, you can contact us through customer service or file a complaint with our dedicated department for personal information protection. We will respond within 15 days.
+To ensure the security of your account and personal information, when you make the above request to us, we will first verify your identity (such as adding account verification, requesting you to provide a written request, or other reasonable means), and then process your request.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge fees at our discretion. We may refuse requests for information that is not directly related to you, information that is repeatedly requested without reasonable reasons, or requests that require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are unrealistic.
+5、 Storage of Information
+（1） Storage period
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law. As required by the Electronic Commerce Law, the retention time of commodity and service information, as well as transaction information, shall not be less than three years from the date of completion of the transaction.
+We determine the storage period of personal information mainly based on the following criteria:
+1. To complete the transaction purposes related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+2. Ensure the safety and quality of the services we provide to you;
+3. Do you agree to a longer retention period;
+4. According to the relevant requirements of the statute of limitations for litigation;
+5. Is there any other special agreement or legal regulation regarding the retention period.
+After exceeding the retention period, we will delete or anonymize your personal information in accordance with applicable laws.
+（2） Storage location
+In principle, personal information generated or collected within China will be stored within China. In order to meet your potential cross-border communication and collaboration needs, our product features allow you to engage in cross-border communication and collaboration with DingTalk users. DingTalk is an international version of DingTalk operated by our affiliated company and only serves overseas users. This means that when you communicate and collaborate with DingTalk users, your network identity information (avatar, nickname, DingTalk number) will be accessed by your communication and collaboration partners from overseas. We will evaluate and make every effort to ensure that your personal information is adequately protected in accordance with the requirements of Chinese law, such as encrypting information transmitted across borders, regularly assessing the security capabilities of audit recipients, and signing data processing agreements.
+In addition to the above situations, if we need to transmit your personal information overseas for other business needs, we will comply with laws, regulations, and regulatory requirements, and inform you of the name, contact information, processing purpose, processing method, types of personal information, and the ways and procedures for you to exercise relevant rights to the overseas recipient in the relevant service agreement or specific function page authorization agreement, and obtain your separate consent (if applicable). Before providing your personal information overseas, we will take measures such as security assessment, personal information protection certification, or entering into a contract with the overseas recipient in accordance with the standard contract formulated by the national cyberspace administration to meet the legal conditions for providing personal information overseas.
+（3） Storage Security
+1. Data protection technology measures
+We have taken security measures that comply with industry standards and are reasonable and feasible to protect your information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, we will use encryption technology to enhance the security of personal information, which is protected by SSL protocol encryption when exchanging data between your browser and server. We provide HTTPS protocol for secure browsing. We use trusted protection mechanisms to prevent personal information from being maliciously attacked. We will deploy access control mechanisms to ensure that only authorized personnel can access personal information. At present, our important information systems have passed multiple security compliance certifications, including Level 3 evaluation of network security level protection, ISO 27001:2022 information security management system standard certification, ISO 27018:2014 public cloud personal identity information protection management system certification, ISO 27701: privacy information management system, and security assessment of office instant messaging software.
+2. Organizational measures for data protection management
+We have established an advanced data security management system in the industry, with data as the core and centered around the data lifecycle, to enhance the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We have established a dedicated department for personal information protection, continuously strengthening employees' awareness of the importance of protecting personal information through training courses and exams.
+3. Response to Personal Information Security Incidents
+If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, and causing damage to your legitimate rights and interests, we will promptly take action
+Emergency plan to minimize the impact on you personally. If a personal information security incident occurs, we will also inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you through SMS, phone calls, push notifications, and other reasonable channels. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+4. Prevention of Account Security Risks
+When using DingTalk for communication and collaboration, please protect your personal information properly and only provide it to others when necessary to avoid information theft or even telecom fraud.
+Settings and Privacy
+New message notification
+System account notification message settings
+Close the message in the middle.
+In order to ensure that you can receive push content normally and avoid message omissions, we have used self starting and associated starting methods
+Step counting for exercise
+You can use the DingTalk exercise function to count information including steps. To use the exercise step counting function, you need to authorize DingTalk to obtain your information
+Equipment's sports and health permissions and information
+Low code services
+You can use Yidai Low Code Business Application to build a platform, where you can edit and configure pages, forms, and processes through drag and drop on the visual interface, and publish them with just one click
+And on the mobile end.
+In order to improve your collaborative office efficiency, please take the test
+After qualifying for use, you can use the DingTalk Intelligent Assistant, including（
+DingTalk Magic Wand
+）Various forms within it
+Service, which can be based on natural language commands, conversations, documents, images, audio that you input or select
+Content (collectively referred to as
+）By utilizing artificial intelligence models, we can generate text, images, and code for you, or execute tasks such as creating to-do lists, scheduling appointments, and providing exclusive assistant robots for you
+Instructions (collectively referred to as
+To achieve the above functions, we will either independently or entrust cooperation with others
+The model provider processes your input content through an artificial intelligence model to generate output content for you. During this process, DingTalk and the model providers entrusted by DingTalk for data processing will not associate the input and output content with your identity information, nor will they use your input content for model training or algorithm optimization
+During the use of the above services, you can
+The service output content is passed through
+Evaluate and provide feedback on the method. We will collect your evaluation information and input content, and then de identify and
+Under the premise of re identifying specific individuals, we will handle it ourselves or entrust the model provider to improve the interaction quality of our services and optimize the service experience. The above information is non essential and refusing to provide an evaluation will not affect your use of our services.
+In order to better serve individual users of DingTalk, we provide you with workspaces, AI, and meetings
+Multi functional DingTalk Personal Edition service. When you use the workspace, in order to let all parties involved understand the collaboration situation, we will collect the operation records of space members in the space (such as adding or removing members, changing space settings)
+）, as well as information created, edited, uploaded, and published by space members using space pages. When space members edit the page
+When operating, we will display members' avatars, nicknames, and page modification traces for members to view the historical versions of the page for better collaboration. For the personal information processing rules when using DingTalk Personal Edition's AI and conference functions, please refer to the previous instructions on the personal information processing rules for audio and video conferencing services and AI services.
+In order to facilitate the storage, management, and use of your personal information, after you have separately authorized the binding of your DingTalk account with your Alibaba Cloud Drive account, you can log in from DingTalk Personal Edition, access your Alibaba Cloud Drive storage space, backup files from DingTalk Personal Edition to your Alibaba Cloud Drive, or call files stored in your Alibaba Cloud Drive for editing, processing, or transmission when using DingTalk Personal Edition. Please note that Alibaba Cloud Drive service is operated by Hangzhou Short Fun Media Technology Co., Ltd. Service failures and unavailability are not caused by DingTalk reasons
+The problem will be solved by Short Fun Company and we will take responsibility for it.
+In the process of using DingTalk, if you are not in the same time zone as the other party, in order to help them understand your local time, arrange collaborative communication reasonably, and avoid unnecessary disturbance, DingTalk needs to use your device's time zone to display your local time to the other party. You can turn off the display of time zone information by selecting "Settings and Privacy - External Information Permissions - Current Time Zone".
+（3） Assist enterprise organizations in online office and entrusted processing of organizational control data
+Ownership of data control for personal registered accounts joining corporate organizations
+If you, as an end user, register a DingTalk account using your personal mobile phone number and join the DingTalk enterprise organization, and use DingTalk as a member of the enterprise organization for online mobile office, communication, and collaboration, we will record the data submitted or generated during your use of DingTalk related functions based on the configuration, operation, and instructions of the administrator of your enterprise organization (hereinafter referred to as "DingTalk")
+Enterprise organization controls data
+）Enterprise organizational control data may include:
+）The positions, departments, main industries, office email accounts, and office phone information assigned to you by your company organization; And the information you provide or generate using the attendance, approval, sign in, and log functions opened by the enterprise organization, including:
+Fingerprint base map, fingerprint features, facial recognition base map, facial features, check-in facial photos, geographic location information, and attendance and check-in information
+Approval records, publishing log information, schedule information, and Dingpan file information. If your enterprise organization uses DingTalk's own brand hardware products (including DingTalk fingerprint recognition attendance machine, DingTalk facial recognition attendance machine, DingTalk intelligent front desk) or uses third-party intelligent access control products with embedded DingTalk services, your enterprise organization may require you to enter data through DingTalk client or hardware devices
+Fingerprint or facial photo
+DingTalk will extract and process your
+Fingerprint or facial feature values
+So that the above products can achieve online fingerprint recognition or facial recognition.
+）Your order submission when using DingTalk or opening third-party applications
+Easy information, such as the transaction information of purchasing DingTalk self operated or third-party application services in the DingTalk app market as an administrator.
+）After your enterprise organization opens and uses DingTalk enterprise organization services including enterprise address book, intelligent human resources services, and digital networking services, the enterprise organization can independently upload or request you to provide including
+Identity information (name, ID card information, registered residence), enterprise employment information (department, position, rank), labor contract status information, enterprise and your personal contact information (mobile phone, fixed phone, e-mail), enterprise and personal contact address (home address, office address), education information (school, major, education), payroll bank card information, emergency contact information or external business contact card information you keep
+Personal information included
+）After your child's school opens and uses DingTalk Education related application services (such as home school communication directory), your child's school will independently upload or request you to provide, including your
+Contact information (name, phone number, contact address), your child's identity information (name, facial photo), class information (grade, class)
+Personal information included.
+）The enterprise organization office and collaboration group created by you using DingTalk instant messaging group service, including
+Internal groups used for internal communication and collaboration purposes within enterprise organizations
+(such as all staff group, internal group, cooperation group, service group, confidentiality group) and
+External groups used for external collaboration among employees in enterprise organizations
+Upload, input, publish, transmit, and share during external project groups and conference groups
+. Specifically, when your enterprise organization pays to activate the relevant exclusive security services, you initiate a single chat with members of the same enterprise organization during their employment using DingTalk instant messaging service（
+On duty colleagues chat alone
+）Files, multimedia, conversations, and other related instant messaging information uploaded, entered, published, transmitted, and shared will not be visible after your resignation.
+）The service log data generated by the DingTalk security application service opened by your enterprise organization for the purposes of human resource management, information security management, and data security control, including
+Client software or system version
+Address and network access
+Device log information, please log in
+Log out of DingTalk, access data through workbench applications, and join organizations
+Basic behavior log data, as well as file operation behavior, group operation behavior, and screen capture behavior
+Security control behavior log data
+）Your company or organization can use DingTalk intelligent network products (such as
+Intelligent router
+）. To provide enterprise users with one click networking, intelligent flow control, and intelligent permission management
+Functionality, we may be able to
+Collect your data in the background
+To achieve network traffic control and access blacklist control for end users
+Terminal identification and security control scheme.
+）Other data containing your personal information submitted by enterprise organization users.
+）End users explicitly authorize and agree to data controlled by the enterprise organization, such as regular groups without organizational affiliation, and single chats between non working colleagues
+The data generated by services with individual user service attributes and enterprise organization user service attributes, and with the explicit authorization and consent of the end user to be controlled by the enterprise organization. If the aforementioned data is not authorized and agreed upon by the end user, DingTalk will not share the data with enterprise organization users or their administrators.
+Ownership of Data Control for Personal Use of Enterprise Accounts
+All data generated by your login and use of the enterprise account assigned to you by the enterprise organization for office purposes is controlled by the enterprise organization. You fully understand the office nature of the enterprise account and avoid independently operating and using the enterprise account to upload, input, publish, transmit or share personal information or privacy. Otherwise, you shall not
+Negating the data control ownership of the enterprise account by the enterprise organization through autonomous operation behavior.
+You understand and agree that enterprise organization users are the managers of enterprise control data, and we only process enterprise organization control data according to the instructions of the enterprise organization user administrator. Before enterprise organization users upload information including DingTalk enterprise organization communication information, class address book, and require end users to submit intelligent personnel information and external business contact information, they should ensure that only the necessary end user information for achieving enterprise operation and management purposes is collected, and the end users are fully informed of the purpose, scope, and usage of the relevant data collection and obtain their authorization and consent.
+As an end user, you understand and agree that the enterprise organization has the right to process your personal information as necessary for the purpose of entering into and fulfilling the contract to which you are a party, or for the implementation of human resource management based on legally established labor regulations and collective contracts, including entrusting DingTalk to the administrator to open, manage, and use DingTalk services, to achieve the purpose and scope of online mobile office, communication, and collaboration, and to process your personal information based on reasonable necessity.
+（4） Provide you with bookmarking, following, and sharing functions
+During your use of DingTalk, you can collect files, text, images, and videos that interest you, follow service windows and viewing accounts that interest you, or share information with third parties. In the process of using the above functions, we will collect service log information including your favorites, follow relationships, and sharing history to achieve the above functions.
+（5） We provide you with DingTalk Wallet service
+In order to use the staple wallet service, you need to bind your Alipay account. We will take your
+Nailing account number, corresponding Alipay account member name, order payment related information, order security related equipment information
+And other necessary information required by anti money laundering laws through Alipay embedded in the client
+And other security methods to share with Alipay.
+In order to let us know and confirm your payment progress and status in a timely manner, and provide you with after-sales and dispute resolution services, you agree that we can collect information related to the payment progress from your selected trading partner, Alipay.
+（6） Show you personalized content and services
+To showcase content or services that better meet your needs, we collect and use device information (including device identifiers) when you visit or use DingTalk websites or clients（
+And other device related information), application information (application crash information, notification switch status, application installation list, and other application related information
+）Equipment parameters and system information (equipment type, equipment model, operating system and hardware related information), equipment network environment information（
+Information, base station information, and other network related information), service log information (browsing history, click view history, search query history, favorites, follow and share information, publish information, and
+Address, browser type, telecom operator, language of use, access date and time), basic information you submit, information about your organization (such as department, position), use algorithm models to predict your preference characteristics and match content or services that you may be interested in.
+If you want to turn off the personalized content we push to you, you can do so at
+System and application permissions
+Personalized content recommendation
+Close it in the middle.
+（7） Customer service and dispute resolution
+When you contact our customer service for assistance, in order to ensure the security of your account and system, you need to provide necessary personal information to verify your user identity.
+In order to contact you, assist you in resolving issues, or record the solutions and results of related issues, we will keep records of your communication with us and related content (including account information, work order information, other information you provide to prove relevant facts, or contact information you leave behind).
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+（8） We provide you with the function of publicly publishing information
+You can access DingTalk service windows, DingTalk video accounts, DingTalk Enterprise Plaza, announcements, comments, typical customer cases, and live broadcasts
+The public release of functions includes graphics, videos, live content, links, comments, and Q&A content
+When you follow a user or public account in DingTalk, we will display the content of that user or public account to you. When you post, comment, like, forward, or recommend content, we will collect your aforementioned information and display it to your friends.
+We may determine whether you are eligible for the information publishing function based on your account type and network log information. At the same time, we will display the latest information of the information publishing account in DingTalk video accounts, service windows, and similar functions based on legal and regulatory requirements
+Territorial information.
+Please note that the information you publicly release may involve personal information or even sensitive personal information of yourself or others. You should obtain the consent of others before publishing content that involves their personal information.
+（9） To provide you with security protection
+To ensure network security, improve the security of your use of services provided by us and our affiliated companies and partners, prevent phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusion risks, and identify violations of laws and regulations or DingTalk related agreements and rules. We have embedded application security developed by our affiliated company in the application
+Used to collect your device information, service log information, and may use or integrate your account information, transaction information, device information, service log information, as well as information authorized by you or shared by our affiliated companies and partners in accordance with the law (including information we may collect during the operation of the application backend)
+）To comprehensively assess your account and transaction risks, perform identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law, using other device identifiers for risk verification. stay
+In the device, you can choose to turn on the security password lock in the security center, and we will call the device according to the actual situation
+Authentication method.
+（10） Other additional services provided for you
+Additional services based on system permissions
+We may apply to enable system permissions to collect and use your personal information in the following additional services. If you do not agree to enable these permissions, it will not affect your use of DingTalk's basic services, but you will not be able to use these additional services. You can turn on or off these permissions at any time, you can turn on any permission
+You authorize us to collect and use relevant personal information to provide you with corresponding services. Closing any permission means that you have revoked the authorization. We will no longer collect and use relevant personal information based on that permission, nor can we continue to provide the services corresponding to that permission. Disabling permissions will not affect the collection and use of information based on your authorization prior to the closure of permissions.
+View the application permission application and usage instructions.
+Services with similar technologies
+And other similar technologies are widely used in the Internet. When you use our services, we may use relevant technologies to send one or more messages to your device
+Or anonymous identifier (hereinafter referred to as
+）To collect, identify, and store information about your access to and use of this product. We promise not to
+For any other purposes beyond those stated in this privacy policy. We use
+Mainly to ensure the safe and efficient operation of products and services, we confirm the security status of your account and transactions, investigate related abnormal situations such as crashes and delays, and help you avoid the steps and processes of filling out forms and entering search content repeatedly.
+Meanwhile, we may utilize
+Show you information or features that you may be interested in. Most browsers provide users with the function to clear browser cache data. You can perform the corresponding data clearing operation or refuse our request
+. You may not be able to use dependencies due to these modifications
+The service or corresponding function.
+If the information you provide contains personal information of others, you need to ensure that you have obtained legal authorization before providing this personal information to DingTalk.
+If we use the information for other purposes not specified in this policy, or use the information collected for specific purposes for other purposes, we will obtain your consent in advance.
+Under the premise of secure encryption technology, we will use the collected data for machine learning and algorithm model training to better provide services to you. You can
+View the DingTalk Algorithm Service Description.
+To achieve the service objectives of third-party mini programs, DingTalk will assist them in obtaining your clipboard information.
+（1） Partners involved in the use of data
+Basic principles
+When we cooperate with our partners, we will adhere to the following principles:
+）The principle of legality, legitimacy, and minimum necessity: Data processing should have a legal basis, a legitimate purpose, and be limited to the minimum scope of achieving the processing purpose.
+）The principle of maximizing users' right to know and decision-making: fully respect users' right to know and decision-making regarding the processing of their personal information during the data processing process.
+）The principle of strongest security guarantee capability: We will take necessary measures to ensure the security of the personal information processed, carefully evaluate the purpose of data use by our partners, comprehensively assess their security guarantee capabilities, and require them to comply with the relevant requirements of the cooperation agreement.
+Please refer to our data partner's description.
+Scope of cooperation partners
+If the specific functions and scenarios involve services provided by our affiliates or third parties, the scope of cooperation includes our affiliates and third parties.
+Entrusted processing
+We may entrust our partners to process your personal information in order for them to provide certain services or perform functions on our behalf. We will only entrust them to process your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through an agreement not to use this information for any purposes beyond the scope of the delegation. If the authorized partner uses your information for purposes that we have not delegated, they will obtain your consent separately.
+Joint processing
+For the scenario of jointly processing personal information, we will sign relevant agreements with our partners in accordance with legal provisions and agree on their respective rights and obligations, ensuring compliance with legal provisions and protection of data security during the use of relevant personal information.
+Collaboration Scenarios
+To achieve business functions
+If you use the mini program provided by our partner on DingTalk
+Service, partners (usually mini programs
+The developer of the application will use your personal information (such as profile picture, nickname, phone number), and the specific type of personal information depends on when you open the mini program
+When applying, the content prompted for authorization on the relevant page shall prevail.
+Advertising and Analytics Services
+We will entrust our partners to handle information related to advertising placement, coverage, and effectiveness, while adopting industry standard security technologies. We will not entrust your personal identification information to our partners for processing.
+Security and Statistical Analysis
+Ensuring Security of Use: In order to protect the legitimate rights and interests of DingTalk users from illegal infringement, our partners may use necessary equipment, accounts, and log information.
+Analyzing product situation: In order to analyze the stability of DingTalk products or services, the partner providing analysis services may need to use service situation, equipment identification information, and overall application installation and usage situation
+Academic research: In order to enhance research capabilities in related fields and promote technological development, we may collaborate with partners (such as research institutes and universities) while ensuring data security and legitimate purposes
+Institutions use de identified or anonymized data.
+Other cooperation scenarios
+If you work with credit reporting agencies such as Baihang Credit Reporting and Pudao Credit Reporting
+）Financial institutions, other third-party organizations
+We have signed the corresponding authorization agreement or document, and based on your aforementioned authorization agreement and this policy, we will conduct comprehensive statistics, analysis, or processing of your personal information and provide the data processing results to the aforementioned institutions.
+In addition to the above-mentioned cooperation scenarios, we may also delegate information to other partners who support our business, such as providing technical infrastructure services on our behalf.
+To ensure the stable operation and functional implementation of our client, our application will embed authorized partners'
+Or other similar applications. We will provide application programming interfaces for authorized partners to obtain information（
+Conduct strict security checks and agree with authorized partners on strict data protection measures, requiring them to process personal information in accordance with this policy and other appropriate confidentiality and security measures.
+View what we have connected to
+（2） Transfer
+If we need to transfer personal information due to merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name and contact information. The recipient will continue to fulfill this policy and other legal obligations. If the recipient changes the original processing purpose and method, the recipient shall obtain your consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+We may publicly disclose your personal information if you voluntarily choose or otherwise obtain your separate consent.
+If we determine that you have violated laws and regulations or DingTalk related agreements and rules, or to protect the personal and property safety of others from infringement, we may disclose your personal information, including related violations and measures taken by DingTalk against you.
+（4） Stop operation
+If we cease to operate our products or services, we will promptly stop collecting your personal information and send you a notice of cessation of operation in the form of individual notifications or announcements. We will also delete or anonymize the personal information we hold related to the discontinued products or services.
+（5） Exemption from obtaining your authorization and consent in accordance with the law
+According to laws and regulations, in the following situations, our partners do not need to obtain your authorization or consent when using or transferring or disclosing your personal information:
+It is necessary to enter into or perform a contract according to your requirements.
+Necessary for fulfilling statutory duties or obligations (such as litigation that we may initiate in accordance with laws and regulations)
+Sharing your personal information is necessary for dispute resolution or as required by administrative or judicial authorities in accordance with the law.
+It is necessary to respond to sudden public health emergencies or protect the life, health, and property safety of others in emergency situations.
+Implementing news reporting and public opinion supervision for the public interest
+Conduct the processing of personal information within a reasonable range.
+Process your self disclosed personal information or other legally disclosed personal information within a reasonable range (such as legal news reports, government information disclosure)
+Legitimate disclosure of personal information through channels.
+Other circumstances stipulated by laws and regulations.
+You can use DingTalk
+To submit a data rights request to DingTalk, you can also access and manage your information through the following methods. We will respond to your request in accordance with legal and regulatory requirements:
+（1） Review, Correction, and Supplement
+You have the right
+View, correct, and supplement your information through the following methods:
+DingTalk Enterprise Organization Users: You can log in through
+DingTalk Enterprise Management Backend
+）Query and correct enterprise organizational control information, including address book information, invitation SMS settings, changing login passwords, changing primary administrators, and setting up sub administrators
+Operation. You can also do it through
+Choose to activate or deactivate DingTalk basic applications, third-party applications, or self built applications.
+DingTalk individual users:（
+）Log in to the DingTalk mobile client and click on it one by one
+You can query and correct personal information and account related information, including profile picture, nickname, phone number, work file, gender, birthday, region, and title information, or complete real person authentication; （
+）Log in to the mobile client and click sequentially
+6、 Policy updates
+To provide you with a better product and service experience, we continuously strive to improve our products, services, and technology. When services and business processes change, we may update our privacy policy to inform you of specific changes. But without your explicit consent, we will not restrict your rights under this policy.
+For significant changes, we will also provide more prominent notifications (including notifications through Little Red Dot or pop-up prompts to you).
+The major changes referred to in this policy include:
+1. The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+2. Changes in the subject of privacy policies caused by business adjustments, transaction mergers and acquisitions, and changes in the original processing purposes and methods for new subjects;
+3. The main objects of personal information sharing or public disclosure have changed;
+4. Significant changes have occurred in the user's personal information rights and their exercise methods;
+5. When the contact information and complaint channels of the person in charge of personal information protection change;
+6. When the personal information protection impact assessment report indicates that the product has a significant impact on individual rights and interests.
+We will also archive the old version of this policy on a dedicated page for your reference.
+7、 Protection of Minors
+We assume that you have the corresponding capacity for civil conduct in digital office or learning, communication, and collaborative activities. If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+If you are a child under the age of 14, before using our services, you and your guardian should carefully read our specially formulated "DingTalk Minors Protection Mode Usage Notice" and "DingTalk Children's Personal Information Protection Rules and Guardian Notice" to ensure obtaining the consent of the guardian and using our services under their guidance.
+If you are the parent or other guardian of a child, please pay attention to whether the child is using our services after obtaining your authorized consent. If you have any questions about children's personal information, please contact our dedicated department for personal information protection.
+8、 Contact Us
+You can contact us through the following methods, and we will reply to your request within 15 days:
+Customer service and assistance
+Seeking online assistance.
+（2） Copy
+You can copy your information in the following ways:
+Personal Information Inquiry and Download
+You can do it through
+Copy your personal information after querying the path listed in the document.
+（3） Delete
+You can do it through
+Please delete some of your information or apply for account cancellation to delete all of your information according to the specified path.
+In the following situations, you can contact customer service to request the deletion of personal information:
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your explicit consent;
+If our handling of personal information seriously violates our agreement with you;
+If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+If we cease to provide products or services, or if the retention period has expired.
+If we decide to respond to your deletion request, we will also notify the subjects who have obtained your personal information from us as much as possible and require them to delete it in a timely manner (unless otherwise provided by laws and regulations or these subjects have independently obtained your authorization).
+When you delete your personal information, due to legal regulations or security technology limitations, we may not be able to immediately remove the information from the backup system. We will securely store your personal information and restrict further processing until the backup can be cleared or anonymized.
+（4） Change the scope of authorization
+You can withdraw your authorization or change the scope of your authorization for us to collect and process your personal information through the following methods:
+Enterprise organization users: You can log in
+DingTalk individual users:
+You can log in to the mobile client and go to
+Set up settings to grant or revoke your authorization consent.
+For authorizations that cannot be directly set up through the above methods, you can obtain an explanation by contacting customer service. However, for some types of personal information, such as information necessary to achieve the basic functions of DingTalk or information necessary for us to fulfill our legal obligations, we may not be able to respond to your request to change the scope of authorization. When you revoke your authorization, we will no longer process the corresponding personal information, but revoking the authorization will not affect the personal information processing we have previously carried out based on your authorization.
+（5） Cancel account
+You can apply to cancel your account through the following methods:
+DingTalk Enterprise Organization Users: Log in to DingTalk on mobile devices
+, click in sequence
+Other additional settings
+And operate according to the interface prompts; Webpage login
+Dissolution process of enterprise
+And operate according to the interface prompts.
+DingTalk individual user: Log in to the DingTalk client and click on it one by one
+Cancel DingTalk account
+Perform cancellation.
+Please note that DingTalk currently only supports logging out on mobile devices. After you voluntarily cancel your account, we will cease to provide you with products or services and delete or anonymize your personal information in accordance with legal requirements.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including algorithms. If these decisions affect your legitimate rights and interests, you can contact us through customer service.
+（7） Responding to your request
+yes
+If you make the above request to us, you can contact us through customer service or file a complaint with our dedicated department for personal information protection. We will
+Provide a response within days.
+To ensure the security of your account and personal information, when you make the above request to us, we will first verify your identity (such as adding account verification, requesting you to provide a written request, or other reasonable means), and then process your request.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge fees at our discretion. We may refuse requests for information that is not directly related to you, information that is repeatedly requested without reasonable reasons, or requests that require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are unrealistic.
+（1） Storage period
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law. As required by the Electronic Commerce Law, the retention time of commodity and service information, as well as transaction information, shall not be less than three years from the date of completion of the transaction.
+We determine the storage period of personal information mainly based on the following criteria:
+To complete the transaction purposes related to you, maintain corresponding transaction and business records to respond to your possible inquiries or complaints;
+Ensure the safety and quality of the services we provide to you;
+Do you agree to a longer retention period;
+According to the relevant requirements of the statute of limitations for litigation;
+Are there any other special agreements or legal regulations regarding the retention period.
+After exceeding the retention period, we will delete or anonymize your personal information in accordance with applicable laws.
+（2） Storage location
+In principle, personal information generated or collected within China will be stored within China. To meet your potential cross-border communication and collaboration needs, our product features allow you to collaborate with
+Users engage in cross-border communication and collaboration,
+It is an international version of DingTalk operated by our affiliated company, exclusively for overseas users. This means that when you are with
+When users communicate and collaborate, your network identity information (avatar, nickname, DingTalk number) will be accessed by your communication and collaboration partners from overseas. We will evaluate and make every effort to ensure that your personal information is sufficiently consistent with the requirements of Chinese law within the territory of China
+Encrypt cross-border transmission of information, regularly evaluate and audit the security capabilities of the recipient, and sign data processing agreements
+In addition to the above situations, if we need to transmit your personal information overseas for other business needs, we will comply with laws, regulations, and regulatory requirements, and inform you of the name, contact information, processing purpose, processing method, types of personal information, and the ways and procedures for you to exercise relevant rights to the overseas recipient in the relevant service agreement or specific function page authorization agreement, and obtain your separate consent (if applicable). Before providing your personal information to overseas parties, we will conduct security assessments, obtain personal information protection certifications, or enter into contracts with overseas recipients in accordance with standard contracts established by the national cyberspace administration
+Measures to comply with the legal requirements for providing personal information overseas.
+（3） Storage Security
+Data protection technology measures
+We have taken security measures that comply with industry standards and are reasonable and feasible to protect your information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information.
+We will use encryption technology to enhance the security of personal information, which will affect the exchange of data between your browser and server
+Protocol encryption protection. We provide
+Protocol secure browsing method. We use trusted protection mechanisms to prevent personal information from being maliciously attacked. We will deploy access control mechanisms to ensure that only authorized personnel can access personal information. At present, our important information systems have been implemented through measures including network security
+Three level evaluation of protection
+Certification of Information Security Management System Standards
+Certification of Public Cloud Personal Identity Information Protection Management System
+Privacy information management system, security assessment of office instant messaging software
+Multiple safety and compliance certifications are included.
+Organizational measures for data protection management
+We have established an advanced data security management system in the industry, with data as the core and centered around the data lifecycle, to enhance the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We have established a dedicated department for personal information protection, continuously strengthening employees' awareness of the importance of protecting personal information through training courses and exams.
+Response to Personal Information Security Incidents
+If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, and causing damage to your legitimate rights and interests, we will promptly activate emergency plans to minimize the impact on you personally. If a personal information security incident occurs, we will also inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you through SMS, phone calls, push notifications, and other reasonable channels. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+Prevention of Account Security Risks
+When using DingTalk for communication and collaboration, please protect your personal information properly and only provide it to others when necessary to avoid information theft or even telecom fraud.
+If you are concerned about the leakage of your personal information, especially your account or password, please contact our customer service immediately so that we can provide guidance and take appropriate measures based on your situation. You can also do it on
+, as well as submitting complaints and reports of fraud.
+To provide you with a better product and service experience, we continuously strive to improve our products, services, and technology. When services and business processes change, we may update our privacy policy to inform you of specific changes. But without your explicit consent, we will not restrict your rights under this policy.
+For significant changes, I
+We will also provide more prominent notifications (including notifications through Little Red Dot or pop-up prompts to you).
+The major changes referred to in this policy include:
+The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+Changes in the subject of privacy policies caused by business adjustments, transaction mergers and acquisitions, and changes in the original processing purposes and methods for new subjects;
+The main objects of personal information sharing or public disclosure have changed;
+Significant changes have occurred in the user's personal information rights and their exercise methods;
+When the contact information and complaint channels of the person in charge of personal information protection change;
+When the personal information protection impact assessment report indicates that the product has a significant impact on individual rights and interests.
+We will also update the old version of this policy
+Archive for your reference.
+We assume that you have the corresponding capacity for civil conduct in digital office or learning, communication, and collaborative activities. If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+Children under one year old, before using our services, you and your guardian should carefully read our specially formulated guidelines
+Ensure obtaining the consent of the guardian and using our services under their guidance.
+If you are the parent or other guardian of a child, please pay attention to whether the child is using our services after obtaining your authorized consent. If you have any questions about children's personal information, please contact our dedicated department for personal information protection.
+You can contact us through the following methods, and we will
+Reply to your request within days:
+If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through
+Contact us.
+You can also send an email to
+Contact our dedicated department for personal information protection.
+Our office address is located in Xixi C District, 960-1 Wenyi West Road, Wuchang Street, Yuhang District, Hangzhou City, Zhejiang Province. Please note that we may not respond to questions unrelated to this policy or your personal information rights.
+If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can file a lawsuit with the court with jurisdiction over the defendant's domicile.
+Appendix: Relevant Definitions
+: Refers to software development toolkits.
+DingTalk: Refers to the DingTalk website (domain name:
+）And DingTalk software (including DingTalk)
+Plate nail nail nail).
+DingTalk Service Provider: abbreviated as
+Nail Technology Co., Ltd. and Nail (China) Information Technology Co., Ltd. are the Internet information and software technology service providers of Nail Software.
+DingTalk individual users: Refers to individuals who register a DingTalk account through their mobile phone number and verification code, or use a third-party account authorized by DingTalk to log in to DingTalk. They have not joined any DingTalk enterprise organization, do not have an enterprise organization identity, or do not use DingTalk services as an enterprise organization identity.
+DingTalk Enterprise Organizational Services: Refers to DingTalk office applications that administrators represent DingTalk Enterprise to configure, activate, and manage for use by members of the organization, such as DingTalk Intelligent Human Resources Application, DingTalk Intelligent Office Application, DingTalk Telephone Conference, Enterprise Group Chat, and DingTalk Service Window.
+DingTalk Administrator: abbreviated as
+Refers to personnel authorized or designated by DingTalk Enterprise to operate the DingTalk Enterprise User Management Platform system, representing the enterprise organization in opening, managing, and using DingTalk services.
+DingTalk Enterprise Organization User: Refers to a legal or non legal entity organization that creates a DingTalk enterprise organization on DingTalk, invites its members to register DingTalk accounts (or configure exclusive accounts for members), adds their members to the DingTalk enterprise organization, and configures, opens, manages, and uses DingTalk office applications for members to conduct online mobile work, communication, and collaboration.
+DingTalk Certified Enterprise Organizational Users: Refers to DingTalk Enterprise Organizational Users who have passed the DingTalk certification audit.
+Children: Refers to minors under the age of fourteen.
+Service log information: including browsing history, click view history, search query history, favorites, transactions, after-sales service, follow and share information, publish information, and
+Address, browser type, telecom operator, language of use, access date and time.
+Personal information: Various information related to identified or identifiable natural persons recorded electronically or in other ways, excluding anonymized information.
+Sensitive personal information: Sensitive personal information refers to
+Leakage or illegal use of personal information that can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety, including biometric identification, religious beliefs, specific identities, medical and health care, financial accounts, tracking information, and personal information of minors under the age of fourteen weeks.
+Personal Information Processor: Refers to the organization or individual who has the right to decide the purpose and method of personal information processing when using DingTalk for online mobile office, communication, and collaboration. Specifically, when processing various types of data generated and collected by DingTalk individual users using DingTalk services, DingTalk is the personal information processor; When processing enterprise organization control data, DingTalk enterprise organization users are personal information processors, and DingTalk is only authorized by enterprise organization users to process enterprise organization control data according to the instructions and configurations of the administrator.
+Anonymization: refers to the process in which personal information cannot be identified as a specific natural person and cannot be restored after processing.
+Enterprise organization control data: refers to the information and data submitted or generated by enterprise organization users and their end users during the use of DingTalk services. The specific scope is described in Section (3) of Chapter 2 of this policy.
+End users of enterprise organizations: abbreviated as
+DingTalk refers to individual DingTalk users who are invited by administrators, apply independently, or are invited by enterprise organization members and approved by administrators to join DingTalk certified enterprise organizations as organizational members.
+De identification: refers to the process of processing personal information to make it impossible to identify a specific natural person without the need for additional information.
+Device information: including device identifiers（
+And other device related information), application information (application crash information, notification switch status, application
+Installation list and other application related information, device parameters and system information (device type, device model, hardware serial number, operating system and hardware related information), device network environment information（
+Information, base station information, and other network related information, Bluetooth information, operator information, broadcast component communication information, sensors (gyroscopes, gravity sensors, acceleration sensors, environmental sensors, optical heart rate sensors), shear plates. The actual collection situation of the product shall prevail.
+Enterprise account (original)
+）DingTalk certification refers to the organization of users by DingTalk certification enterprises based on human resource management and information security control
+The purpose of business management is to provide exclusive enterprise accounts for end-users through DingTalk enterprise account technology services. The enterprise accounts belong to the enterprise organization, and end-users can log in to the enterprise account to use DingTalk digital office services. The data generated belongs to the enterprise organization's control data.
+Related companies: Refers to Alibaba Group Holdings Limited（
+）The affiliated companies of DingTalk service providers disclosed in the latest annual reports of listed companies.
+Alipay: Alipay (China) Network Technology Co., Ltd.
+(End)
+determine

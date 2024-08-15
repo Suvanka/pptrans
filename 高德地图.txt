@@ -1,0 +1,274 @@
+In addition to this policy, in specific scenarios, we will also inform you of the corresponding information collection purpose, scope, and usage methods through instant notifications (including messages, announcements, etc.), feature update explanations, etc. These instant notifications and feature update explanations constitute a part of this policy and have the same legal effect as this policy.
+If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through the contact information at the end of this policy.
+According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, Gaode Maps is a map navigation application, with the basic functions of positioning and navigation. The necessary personal information to be processed to achieve the basic functions is location information, departure place and destination. If you agree to this privacy policy, it only means that you agree to the processing of relevant personal information when using basic functions. If you use other extension functions of Amap, we will seek your consent separately when you use specific extension functions.
+This privacy policy will help you understand the following:
+1、 Scope of application of this privacy policy
+2、 How do we collect and use your personal information
+3、 Partners involved in data usage, transfer, disclosure of personal information, and changes in operating entities
+4、 Your rights
+5、 Storage of Information
+6、 Applicable Law and Dispute Resolution
+7、 Policy updates
+8、 Protection of Minors
+9、 Contact Us
+Appendix: Relevant Definitions
+1、 Scope of application of this privacy policy
+If we and our affiliates have separate privacy policies for the products or services they provide to you, the corresponding privacy policies shall apply to the respective products or services. If we and our affiliates do not have a separate privacy policy for the products or services they provide to you, this policy also applies to that part of the products or services.
+The specific content of Gaode products and services you receive may vary depending on the software version you use, the device you use, and the country and region where the service is provided. If certain service content is not covered or specific functions are not provided in some versions, devices (such as Gaode Map Car Machine Edition, Gaode Map Car Mirror Edition), or countries and regions, the content related to the above services/functions and related personal information in this privacy policy will not apply.
+When you use third-party services provided by Gaode products or services, your information should be subject to the third-party's personal information collection and use rules. We will clearly inform you on the specific service page that the service is provided by a specific third party, and strongly recommend that you understand and confirm the privacy protection of the product and service provider before using the above-mentioned third-party products and services (especially those related to personal information).
+2、 How do we collect and use your personal information
+If you refuse to provide, you will not be able to achieve the intended functional effect and will not be unable to use our basic functions.
+The basic functional scenarios for us to collect and use your personal information are as follows:
+（1） Maps, positioning, and navigation
+1. Positioning and Navigation
+If you use our location-based services, we will collect and process your dynamic location information, device information (such as IP address, GNSS information, base station information, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, signal strength information, Bluetooth information, sensor information (vector, geomagnetic, acceleration, gyroscope, direction, photosensitive, pressure, gravity, step counting, step detection), and device signal strength information) for positioning.
+(1) If you use navigation and route planning related services such as driving, new energy, trucks, motorcycles, cycling, walking, running, public transportation, exploring, electronic dogs, cruising, parking records, etc., we will collect your starting and ending locations, planned routes, and location information, which is necessary information.
+(2) If you use location services, we will collect your device information, dynamic location information, and other service log information, all of which are necessary information.
+(3) In order to provide you and other Gaode users with real-time road conditions, road condition prediction, and intelligent traffic information services, such as traffic light countdown, road condition prompts, green wave navigation, etc., we will use your and other Gaode users' location information for data statistics and analysis, and based on this, make judgments on traffic information and conditions for your travel decision-making reference.
+(4) If you use the music listening function in the driving navigation and log in to a third-party account, Gaode will obtain your third-party account avatar, nickname, membership status, personal playlist, and music content (such as favorites, recent plays, and personalized recommended songs) from the third party. Such information is non essential.
+You need to enable device location permissions to use location related services, storage and camera permissions for pedestrian navigation, and microphone permissions for voice interaction. You can disable relevant permissions through system authorization, but you may not be able to access the relevant services or features, or achieve the intended effects of the relevant services.
+2. Browse and display information
+(1) If you browse maps based on location, nearby areas, surroundings, categorized channels, categorized rankings, map interest points information, and lifestyle service information, we will collect your location information, browsing information, click information, and device information (device identifier (Android ID OAID、Harmony OAID、IDFA、OpenUDID）、 Equipment parameters and system information, as well as other service log information, are necessary information.
+After obtaining your consent, publicly display your favorite information, nickname, and avatar as a guide for Gaode to recommend to other Gaode users. If you add a collection location through photo selection, you need to authorize album permission, and we will obtain the shooting location of the selected photo (but will not save the photo information)
+3. Search
+Our server will automatically record your activity information, including search keyword information manually entered by you, voice input information after waking up voice interaction through wake-up words, search records, location information, browsing information, and clicking information
+You can disable relevant permissions through system authorization, but you may not be able to access the relevant services or features, or achieve the intended effects of the relevant services
+4. Map information and data co construction
+Voice information, location information
+You can authorize camera, photo, and video (storage) permissions. If the camera or photo contains location permissions, the image information you upload will include your location information. You can use
+Disable the permission to locate the phone camera or photo in the mobile system
+We will also push you feedback based on your location information, favorite locations, search history, and navigation information, inviting you to share and contribute map information and data to more users.
+（2） Message notification
+Message notification
+In order to provide you with message notifications, identity verification, security verification, user experience research, dispute resolution, or to provide you with commercial information such as services, features, or activities that you may be interested in, we (or third-party agents) may use your mobile phone number or email address used during registration, login, binding, or questionnaire collection to send you relevant information via SMS, phone (including smart outbound calls), email, or through the messaging, notification, announcement, and other functions of Gaode products and services.
+The unsubscribe methods provided in mobile SMS or
+Contact Us
+2. Sharing and others
+In order to provide you with the above functions, we will collect your sharing history and sharing relationships
+(2) When you use the share password function, your clipboard function will be called. You can turn off the clipboard usage settings by going to "Settings" - "About Gaode Map" - "Privacy Settings" (once turned off, the password function will not work properly).
+(3) When you use the 'shake' function, we will call the device's accelerometer to identify and determine whether the device is shaking. Please understand that individual device sensor data does not involve any personal location information and cannot be combined with other information to identify the identity of a specific natural person.
+(4) If the information you publish or share in Gaode products and services contains personal information or even sensitive personal information of others, you need to obtain the consent of the rights holder before publishing or sharing; If the information you publicly release involves personal information of children, you also need to obtain the consent of the child's guardian. In the aforementioned circumstances, the relevant rights holder or child guardian has the right to contact us and request the correction or deletion of personal information related to themselves or their guardian children.
+（3） Customer Service
+We need you to provide necessary personal information (such as phone number, nickname, email, history, depending on the type of issue we need to handle) to verify your user identity. At the same time, in order to help you verify the issue, we will use your account information, order information, or service record information.
+2. For the convenience of contacting you, helping you solve problems as soon as possible, or recording the solutions and results of related issues, we (or entrusting a third party) may save your communication, communication/call records and related content (including account information, order information, other information you provide to prove relevant facts, or contact information you leave) with us.
+Your activity records of using Gaode products and services
+（4） Security guarantee service
+We need to collect your device information, including
+At the same time, it may use or integrate your account information, service log information, and may use or associate with information obtained from us, our affiliates, and partners authorized by you or shared in accordance with the law to comprehensively assess your account and transaction risks, conduct identity verification, identify illegal and irregular situations, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+（5） Device permission call
+1. During the process of providing services, Gaode will invoke some of your device permissions. The specific permissions invoked depend on the specific functions and services you are using, as well as the location of the device permissions you have actually enabled. You can view the permission status in the device's settings or "Privacy Settings", and choose to turn on or off some or all permissions on your own. Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. Once you close any permission, it means that you have cancelled the authorization. We will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we be able to provide you with the services corresponding to that permission. However, your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+Your device system may grant other permissions while authorizing necessary information, and Gaode itself cannot manually or automatically disable authorization.
+View the application permission application and usage instructions.
+（6） Cookies and similar technology services
+Cookies and similar device information identification technology are widely used in the Internet. When you use our services, we may use relevant technologies to send one or more cookies or anonymous identifiers (hereinafter referred to as "cookies") to your device to collect, identify, and store information about your access to and use of this product. We promise not to use cookies for any purposes other than those described in this privacy policy. We use cookies mainly to ensure the security and efficient operation of our products and services. They allow us to confirm the security status of your account and transactions, investigate related abnormal situations such as crashes and delays, and help you avoid repeating the steps and processes of filling out forms and entering search content.
+At the same time, we may use cookies to display information or features that you may be interested in, conduct data analysis, and optimize your advertising choices to improve product services and user experience. Most browsers provide users with the function of clearing browser cache data. You can perform corresponding data clearing operations, or modify the acceptance level of cookies or refuse our cookies. You may not be able to use services or corresponding functions that rely on cookies due to these modifications.
+（7） Information aggregation and fusion, personalized recommendation, and automated decision-making
+1. You agree that we will use our own or entrusted technology to proactively or passively provide device information (IDFA) to you during the use of Gaode products and services Android ID、OAID、Harmony OAID 、OpenUDID）、 Device parameters and system information (device type, device model, operating system, and hardware related information), device network environment information (IP address, WiFi information, SSID, BSSID, Bluetooth information, base station information, and other network related information), operator information), or other authorized information obtained from you for aggregation, fusion, identification, and segmentation
+Analyze or further process to predict group preference characteristics. We will use the above information and group preference characteristics to automate decision-making, push personalized display information and/or commercial marketing information to you, such as displaying or pushing content that may be of interest or relevance to you (including some search results), and sort the displayed content.
+If you need to view rankings that are not based on personal characteristics when using our on-site search service, you can click on "Recommended Ranking" on the search results page and select "Distance Priority", "Positive Review Priority", and other settings.
+Learn more about personalized recommendations and automated decision-making information processing.
+（8） Technical processing instructions
+Please be informed that according to applicable laws, we may conduct research, statistical analysis, prediction, big data calculation, etc. on the collected personal information after de identification, in order to help evaluate, improve, and design various products and services we provide, so that we can provide more accurate, personalized, and convenient services, or provide product and service support for business decisions and carry out operational activities.
+Assist in optimizing advertising and marketing effectiveness, assist in business decision analysis, and conduct commercial site selection analysis.
+Other rules for collecting and using personal information:
+To provide you with
+Gaode products and services
+If you refuse to provide, you will not be able to use the relevant extension functions normally or achieve the intended functional effects, which will not affect your use of our basic functions. If you use the extension function, you need to log in to your Gaode account. The rules for processing personal information with extended functions are detailed in Appendix 2 of this policy.
+Please understand that the services we provide to you are constantly updated and developed. If you choose to use other services not covered in the above instructions, and based on this service, we need to collect your information, we will explain the scope and purpose of information collection to you separately through page prompts, interaction processes, and agreement agreements, and obtain your consent.
+We would like to remind you that we are committed to creating a diverse range of products and services to meet your needs. Due to the wide variety of products and services we provide to you, and the differences in the specific product/service scope chosen by different users, the basic/extended functions and the corresponding types and scope of personal information collected and used may vary. Please refer to the specific product/service functions for details.
+Regarding the personal information we collect and use in the specific functional scenarios mentioned above, you can view our personal information collection list through "My" - "Settings".
+Change of operating entity
+（1） Partners involved in the use of data
+Basic principles
+When we cooperate with our partners, we will adhere to the following principles:
+Principle of legality, legitimacy, and minimum necessity:
+The principle of maximizing users' right to know and decision-making power:
+The principle of strongest security guarantee capability:
+2. Entrusted processing
+We may entrust authorized partners to process your personal information in order to authorize partners to provide certain services or perform functions on our behalf for you. We will only entrust them to process your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through an agreement not to use this information for any other purposes beyond the scope of the delegation. If the authorized partner uses your information for purposes that we have not delegated, they will obtain your consent separately.
+Joint processing
+For the scenario of jointly processing personal information, we will sign relevant agreements with our partners in accordance with legal provisions and agree on their respective rights and obligations, ensuring compliance with legal provisions and protection of data security in the process of using relevant personal information.
+Collaboration Scenarios
+(1) Information service
+Identity information (involved in some scenarios), order information, location information, browsing history information related to consulting services (such as the consulted property, room type, vehicle model, location information of the proposed consulting location, etc.), etc.
+When you need to issue an invoice based on the specific goods and/or services you ordered, if the specific goods and/or services you ordered are invoiced by a third party, we will provide the service provider with your invoicing information (invoice header type, invoice header, tax number, date, phone number, email address, recipient, order information). If you need to issue a paper invoice, you also need to provide the recipient, phone number, and shipping address information.
+(2) Advertising and analytics services
+Location information and label information.
+Click information and browsing information of advertisements
+(3) Security and Statistical Analysis
+Ensure safe use:
+To improve the security of your use of our services and those provided by our affiliates and partners, protect your personal safety, property safety, account safety, and transaction safety, better prevent phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusions, malicious programs, and other security risks, better monitor and identify fraudulent abnormal accounts, and more accurately identify violations of laws and regulations or agreements and rules related to Gaode products and services
+Our partners may use necessary
+Transaction information
+Analyze the product situation:
+Academic research:
+To enhance research capabilities in related fields and promote technological development, we may use de identified or anonymized data with our partners (such as research institutes, universities, etc.) while ensuring data security and legitimate purposes.
+(4) Other third-party services
+If you have signed corresponding authorization agreements or documents with credit reporting agencies (such as Baihang Credit Reporting, Pudao Credit Reporting, etc.), financial institutions, or other institutions, based on your aforementioned authorization and agreement and this policy, we will conduct comprehensive statistics, analysis, or processing of your personal information and provide the data processing results to the aforementioned agencies.
+(5) Third party SDK
+To ensure the stable operation and functional implementation of Gaode products and services, and to enable you to use and enjoy more services and features, our products and services will embed SDK or other similar applications from authorized partners. We will conduct strict security checks on the application programming interfaces (APIs) and software development kits (SDKs) used by authorized partners to obtain relevant information, and agree with authorized partners on strict data protection measures to process personal information in accordance with this policy and any other relevant confidentiality and security measures.
+You can click here to view me
+Please click here to view the SDK details of the Gaode Map car version that we have accessed.
+(6) Other cooperation scenarios
+In addition to the above-mentioned cooperation scenarios, we entrust information to suppliers, service providers, and other partners who support our business, including providing technical infrastructure services commissioned by us, analyzing the usage of our services, providing customer analysis and statistics, providing customer service and surveys.
+Please refer to our data partner's description.
+（2） Transfer and change of operating entity
+As our business continues to develop, we may transfer your personal information due to mergers, separations, acquisitions, reorganizations, asset transfers, or similar transactions. When the aforementioned changes occur, we will notify or announce to you the name or contact information of the recipient, and require the recipient to protect your personal information in accordance with laws, regulations, and security standards not lower than those stated in this privacy policy. If the recipient changes the original processing purpose or method, we will require the recipient to obtain your authorization and consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+Based on your voluntary choice and other separate consent, we may publicly disclose your personal information;
+If we determine that you have violated laws and regulations or seriously violated relevant agreements and rules of Gaode, or to protect the personal and property safety of Gaode users or the public from infringement, we may disclose personal information about you
+, including related violations and measures taken by Gaode against you.
+（4） Stop operation
+If we cease to operate our products and/or services, we will promptly stop collecting your personal information. We will deliver a notice or send you a notice in the form of an announcement to cease operations, and delete or anonymize the personal information we hold related to the discontinued products and/or services.
+（5） Exemption from obtaining your authorization and consent in accordance with the law
+Please understand that in the following situations, according to laws, regulations, and national standards, the use of your personal information by our partners, or our transfer or disclosure, does not require your authorization and consent:
+Necessary for entering into or fulfilling a contract according to your requirements: When you choose to use or order goods or services provided by a third party, in order to smoothly complete the booking service, after-sales service, and ensure service security for you, we will provide your personal information to the service provider based on the necessary services.
+Necessary for fulfilling legal duties or obligations: We may share your personal information in accordance with laws and regulations, litigation, dispute resolution, or as required by administrative and judicial authorities, as well as other legal obligations.
+3. It is necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations.
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to handle personal information within a reasonable range.
+5. Process your self disclosed personal information within a reasonable range, or other legally disclosed personal information (such as legally disclosed personal information through legitimate news reports, government information disclosure, and other channels).
+6. Other circumstances stipulated by laws and regulations.
+4、 Your rights
+We will respond to your request in compliance with legal and regulatory requirements
+（1） Review, Correction, and Supplement
+Unless otherwise provided by laws and regulations, we will strive to ensure smooth access to your personal information whenever you use our services. You can exercise your query, correction, and supplementation rights through the following methods or other functions of the product:
+1. Account information: Log in to Gaode Map, click on "My" - "Avatar"/"Home" - "Edit Profile" to query, modify or supplement your personal information; Click on "My" - "Settings" - "Account and Security" settings to change your password.
+Using Information
+Order information
+If you are a logged in user of Gaode Map Car Edition, you can follow the above path on the mobile version
+If you are unable to exercise your query, correction, and supplement rights directly through the above methods, you can contact Gaode through the contact channel specified in Article 9 of this Privacy Policy.
+（2） Copy and transfer
+If you would like to obtain a copy of the personal basic information and itinerary information we have collected about you, you can contact us through the contact channel specified in Article 9 of this privacy policy, and we will reply to your request within 15 days. You can also download your personal basic information by going to "My" - "Settings" - "About Gaode Map".
+（3） Delete
+You can exercise your deletion right by actively deleting information through "(1) View, Correct, and Supplement" or other product function paths, or apply to cancel your account and delete all your information.
+In the following situations, you can request the deletion of personal information from us through the contact channel specified in Article 9 of this Privacy Policy:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your explicit consent;
+(3) If our handling of personal information seriously violates our agreement with you;
+(4) If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+(5) If we cease to provide products or services, or if the retention period has expired.
+If we decide to respond to your deletion request, we will also notify the subjects who have obtained your personal information from us as much as possible and request them to delete it in a timely manner (unless otherwise provided by laws and regulations, or these subjects have independently obtained your authorization).
+When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to immediately delete the corresponding information from the backup system. We will securely store your personal information and restrict any further processing of it until the backup can be cleared or anonymized.
+（4） Change the scope of authorization
+You can change or revoke the scope of your authorization for us to collect and process your personal information through the following methods:
+1. Manage authorization in "My Settings Account and Security", unbind third-party accounts, and manage authorized login applications.
+2. In "My Settings About Amap Privacy Settings System Permissions Settings
+Authorize the system permissions for managing the use of the APP in the 'Settings' section.
+Manage the system permission authorization you use through the device system permission management page.
+Revoke authorization by modifying personal information, deleting personal information, or disabling functions.
+5. In the "Settings" function interface of your device's operating system, you can choose to manage the relevant authorizations for advertising identifiers (such as OAIDs); You can also set it up through "My Settings About Amap Privacy Management Programmatic Advertising Settings".
+However, please note that for some types of personal information, such as information necessary to achieve basic functions of Gaode or information necessary for us to fulfill our obligations under laws and regulations, we may not be able to respond to your request to change the scope of authorization
+（5） Cancel account
+If you have registered a Gaode account, you can apply to cancel your account through the following methods:
+1. Submit an account cancellation application in "My Settings Account and Security Account Cancellation" (Gaode Map Car Edition can be accessed through "My Settings Other Account Cancellation");
+Contact customer service to apply for the cancellation of your account.
+In order to protect your or others' legitimate rights and interests, we need to verify your identity before canceling your account, and determine whether to support your cancellation application based on your use of Gaode products.
+If there are orders generated through Gaode Information Service in your account, or if there are unpaid orders in your ride hailing function, or if you have not unbound your third-party account or closed the third-party service, we will not immediately support your request.
+After you voluntarily cancel your account, we will cease to provide you with products or services and delete or anonymize your personal information as required by applicable laws, or cease processing other than storage and necessary security measures, except as otherwise provided by laws and regulations.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including algorithms. If these decisions affect your legitimate rights and interests, you can contact us through the contact channel provided in Article 9 of this Privacy Policy.
+（7） In response to your above request
+For you or your potential guardians, close relatives, and other authorized parties who make the above requests to us, as well as your relevant personal information rights under the laws of the People's Republic of China and other applicable laws, you can contact us through the contact channel in Article 9 of this Privacy Policy or directly initiate a request to our personal information protection officer. We will provide a response within 15 days.
+To ensure the security of your account and personal information, when you make the above request to us, we may first verify your identity (such as adding account verification, requesting you to provide a written request, or other reasonable means), and then process your request.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain fee at our discretion. We may refuse requests for information that is not directly related to your identity, information that is repeatedly applied for without reasonable reasons, or requests that require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are unrealistic.
+5、 Storage of Information
+（1） Storage period
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law, such as the Cybersecurity Law of the People's Republic of China requiring the retention of network logs for no less than six months, and the E-commerce Law of the People's Republic of China requiring the retention of product and service information and transaction information for no less than three years from the date of completion of the transaction.
+We determine the storage period of personal information mainly based on the following criteria:
+Complete service records related to you to respond to your possible inquiries or complaints;
+Ensure the safety and quality of the services we provide to you;
+Do you agree to a longer retention period;
+According to the relevant requirements of the statute of limitations for litigation;
+Are there any other special agreements or legal regulations regarding the retention period.
+After exceeding the retention period, we will delete or anonymize your personal information in accordance with applicable laws.
+（2） Storage area
+Stored within China
+The applicable laws have clear provisions;
+Obtain your separate consent;
+In order to fulfill the contract signed with you.
+In response to the above situation, we will protect your personal information security in accordance with this policy and the law.
+（3） Security measures
+1. Data protection technology measures
+We will take security measures that comply with industry standards and are reasonable and feasible to protect your personal information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, we use encryption technology to enhance the security of personal information. When exchanging data between your browser and server, it is protected by SSL protocol encryption. We provide HTTPS protocol for secure browsing; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information. At present, our important information systems have passed the evaluation of network security level protection and ISO27001 and ISO27701 certification.
+2. Organizational measures for data protection management
+We have established an advanced data security management system in the industry, with data as the core and centered around the data lifecycle, to enhance the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We continuously enhance employees' awareness of the importance of protecting personal information through training courses and exams.
+（4） Response to Personal Information Security Incidents
+If our physical, technical, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, and causing damage to your legitimate rights and interests, we will promptly activate emergency plans and take reasonable and necessary measures to minimize the impact on you personally. If a personal information security incident occurs, we will also inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will use SMS and phone calls
+We will notify you through push notifications and other reasonable channels. If it is difficult to inform you one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+（5） Prevention of Account Security Risks
+When using Gaode products and services, it is inevitable for you to disclose personal information to the counterparty of the transaction or service, or to disclose personal information to third parties when establishing contact with them. Please protect your personal information properly and only provide it to others when necessary. Do not trust other trading tools to avoid information theft or even telecom fraud.
+If you are concerned about the leakage of your personal information, especially your account or password, please contact Gaode customer service immediately so that we can take appropriate measures based on your application. You can also independently manage your devices in the "My Settings Account and Security" section of the Amap app.
+（6） Special Reminder
+Please ensure complete encryption and take care to protect the security of your personal information when engaging in interactive use.
+Although Gaode is continuously committed to improving and strengthening security measures to protect your information from accidents or damage, we cannot always guarantee 100% security of your information.
+Please understand and pay attention to protecting the security of your personal information.
+After your personal information is anonymized, it will form data that can be used and circulated. Gaode does not need to notify or obtain your consent for the storage and processing of such data.
+6、 Applicable Law and Dispute Resolution
+（1） Applicable Law
+Using the laws of the People's Republic of China, without considering any conflict of laws.
+（2） Dispute Resolution
+If both parties are unable to resolve the dispute through negotiation, they agree to submit the dispute to the people's court in the defendant's domicile for arbitration.
+7、 Policy updates
+This policy will be revised periodically based on adjustments or updates to the business model, and such revisions will form a part of this privacy policy.
+We will post changes to our privacy policy on the main page or through message notifications, product bulletin boards, or other appropriate means.
+If the changed terms will reduce your rights or increase your obligations (i.e. a "significant change" occurs), we will also provide more prominent notifications (including on the main page or message notification of the mobile version product or service, product bulletin board, web version product bulletin board) to inform you. If you continue to use our products or services, it means that you agree to the revised privacy policy.
+The significant changes referred to in this policy include but are not limited to:
+The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+Changes in the subject of privacy policies caused by business adjustments, transaction mergers and acquisitions, and changes in the original processing purposes and methods of the new recipient;
+The main objects of personal information sharing or public disclosure have changed;
+Significant changes have occurred in the user's personal information rights and their exercise methods;
+When our contact information and complaint channels change;
+When the personal information protection impact assessment report indicates that the product has a significant impact on individual rights and interests.
+We will also update the historical version of this policy
+Archive for your reference.
+8、 Protection of Minors
+（1） We attach great importance to the protection of personal information of minors
+We assume that you have the corresponding capacity for civil conduct. If you are a minor over 14 years old but under 18 years old, or do not have full capacity for civil conduct due to intellectual or mental health conditions, please read and agree to this privacy policy together under the guidance and accompaniment of your legal guardian; If you are a minor under the age of 14, please have your parents or legal guardian read and agree to this privacy policy for you. Please and your legal guardian pay special attention to the protection of minors.
+If you are the parent or other guardian of a minor, please pay attention to whether the minor is using our services after obtaining your authorization and consent.
+（2） Remedial measures
+If you fail to obtain the consent of your guardian or if you do not agree to your ward using our services and providing us with information
+Please immediately stop using our services and contact us promptly, either you or your guardian.
+Upon receiving your written notice, I became aware of it
+When Gaode collects personal information of minors without the prior consent of their guardians, Gaode will immediately cease the collection and use of such information.
+9、 Contact Us
+（1） Contact channels
+If you have any questions, opinions or suggestions regarding this privacy policy, or if you have any opinions or suggestions regarding the collection, use, sharing, query, deletion, correction and other related matters of your personal information when using Gaode products or services, you can contact us through the following methods:
+Gaode customer service hotline
+Gaode customer service email
+(Only responding to personal information protection related issues)
+（2） Special Reminder
+Gaode reminds you
+If the issue you have reported involves your personal information, especially your sensitive information, please do not disclose it directly over the phone or email. We will further communicate with you while ensuring the security of your personal information.
+In some cases
+（3） Other
+Ways to search for announcements related to personal information protection
+You can send your rights notice and supporting materials to the following address:
+Appendix 1: Definition of Terms
+Refers to the providers of Gaode products and services, Gaode Software Co., Ltd. and Beijing Gaode Tuqiang Technology Co., Ltd.
+Related parties: Refers to any company, legal entity that currently or in the future controls, is controlled by, or is under joint control with Gaode Software Co., Ltd., as well as the legal heirs of the aforementioned companies and legal entities. 'Control' refers to (1) directly or indirectly holding more than half of the voting rights; Or (2) directly or indirectly enjoy more than half of the distributable profits; Or (3) directly or indirectly control the composition of more than half of the members of the board of directors; Or (4) directly or indirectly holding more than half of the registered capital.
+Device information: including device identifiers (IDFA Android ID、OAID、Harmony OAID 、OpenUDID）、 Application information (application crash information, notification switch status, running processes of this application, and other relevant information of this application), device parameters, and system information (device type, device model, operating system)
+Integrated and hardware related information), device network environment information (IP address, WiFi information, SSID, BSSID, Bluetooth information, base station information, and other network related information), sensor information (vector, geomagnetic, acceleration, gyroscope, direction, photosensitive, pressure, gravity, pedometer, step detection), operator information, and clipboard. The actual collection situation of the product shall prevail.
+Service log information: including browsing history, click view history, search query history, favorites, transactions, after-sales service, following and sharing information, publishing information, as well as IP address, browser type, telecom operator, language used, access date and time.
+The process of processing personal information to make it impossible to identify a specific individual without the need for additional information.
+The process of processing personal information that cannot identify a specific natural person and cannot be restored.
+Appendix 2: Personal Information Processing Rules for Extended Functions
+1. Personal Information Processing Rules for Vehicle Information Services
+2. Footprint Service Agreement and Personal Information Processing Rules
+3. Group Service Agreement and Personal Information Processing Rules
+4. Personal Information Processing Rules for Wine and Travel Services
+5. Personal Information Processing Rules for Automotive Services
+6. Personal Information Processing Rules for In Store Group Buying
+7. Family Map Service Agreement
+8. Map Mini Program Service Agreement
+9. Personal Information Processing Rules for Content Posting
+10. Personal Information Processing Rules for Consulting Services
+11. Personal Information Processing Rules for Information Interaction Services
+12. Vehicle Information Processing Rules
+13. Gaode Fuel Consumption Personal Information Processing Rules
+14. Personal Information Processing Rules for Toll Assistant
+15. Personal Information Processing Rules for Widget Cards
+16. Gaode Sports Personal Information Processing Rules
+17. Quyou Personal Information Processing Rules
+18. Rules for Processing Personal Information in Recording Footprints
+19. Gaode Account Service Personal Information Processing Rules

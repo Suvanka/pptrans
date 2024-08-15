@@ -1,0 +1,199 @@
+This version was released on August 9th, 2024
+Effective Date: August 9, 2024
+Shanghai Oriental Press Co., Ltd. (registered address: Room 1515, No. 238 Jiangchang 3rd Road, Jing'an District, Shanghai; commonly used office address: 6th Floor, No. 755 Weihai Road, Jing'an District, Shanghai; contact information: 021-52209851) operates Pengpai News (hereinafter referred to as "we"), which focuses on protecting users' personal information and privacy. When you use our services, we may collect and use your relevant information.
+We would like to explain to you through this Privacy Policy how we collect, use, store, and share all related services of The Paper (including but not limited to online information, social networking, etc., hereinafter referred to as "The Paper News Services" or "Services"), as well as the ways we provide you with access, updates, control, and protection of this information. We have highlighted important content such as the terms regarding your personal information rights in bold, please pay special attention.
+If you do not agree with any content of this privacy policy, you may choose to stop using the Pengpai News service. When you use or continue to use our services, it means that you agree to our collection, use, storage, and sharing of your relevant information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or related matters, please contact us through support@thepaper.cn Contact us.
+catalogue
+1、 How do we collect and use personal information
+2、 How do we use cookies or similar technologies
+3、 How do we store and protect personal information
+4、 How do we share, transfer, and publicly disclose personal information
+5、 How to manage your personal information
+6、 Provisions on the Protection of Minors' Information
+7、 Revision and Notice of Privacy Policy
+8、 Contact Us
+1、 How do we collect and use personal information
+（1） Tips on Personal Sensitive Information
+According to the "Personal Information Security Specification for Information Security Technology" (GB/T 35273-2017), personal information refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. The personal information covered in this privacy policy includes: basic information (including gender, address, region, personal phone number, email); Personal identification information (including ID card, passport, relevant identification documents, etc.); Network identity identification information (including system account, IP address, password); Personal internet browsing records (including login records, browsing records, and clipboard information); Personal commonly used device information (including hardware model, operating system type, device MAC address, device serial number, software list unique device identification code such as IMEI/Android ID/IDFA/IDFV/OAID/OpenUDID/GUID/GAID/ISMI/Serial/ICCID/MEID/SSID/SN, which describes the basic information of personal commonly used devices); Personal location information (including precise positioning information, latitude and longitude, etc.).
+Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. The personal sensitive information covered in this privacy policy includes: personal identification information (including ID card, passport, relevant identification documents, etc.); Network identity recognition information (including account name, account nickname, user profile picture, and password related to the above); Other information (including personal phone numbers, browsing history, and precise location information). For sensitive personal information, we will prominently mark it in this policy. Please read it carefully.
+（2） The purpose, method, and scope of our collection of personal information
+We will collect and obtain your personal information through the following channels
+1. Help you complete registration, authentication, and login
+1.1 When you register and log in to Pengpai News and related services, you can create an account through your mobile phone number, and you can complete relevant network identification information (avatar, nickname, password). You can also choose to fill in gender, address, region, personal introduction/signature/profile, education, income, occupation and other information according to your own needs to complete your information.
+If you need to use services related to identity authentication function, according to relevant laws and regulations, you may need to provide your real identity information (real name, ID card number, phone number) to complete real name verification. Collecting this information is to assist you in completing registration and authentication. This information is considered sensitive personal information and you may refuse to provide it, but you may not be able to access the relevant services. However, it does not affect the normal use of other functions and services.
+For some accounts involved in public information dissemination, such as real name official accounts, we will forcibly collect the ID information of the main responsible persons to ensure the maintenance of public communication order. Except for such situations, Pengpai News generally does not mandate the collection of user ID information.
+1.2 You can also use a third-party account to log in and use it. You will authorize us to obtain your public information (avatar, nickname, and other authorized information) registered on the third-party platform for binding with your Pengpai News account, so that you can directly log in and use this product and related services.
+2. Recommend information that interests you more
+2.1 Pengpai News may recommend information that interests you more, and to achieve this function, we may collect necessary log information. If you do not need the personalized recommendation service mentioned above, you can turn it off in the news content targeted push switch settings. For specific instructions, please refer to Article 5, Paragraph 5 below.
+2.2 The log information used for information display includes:
+The behavior information you operate and use: click, follow, bookmark, search, browse, share
+The information you proactively provide: feedback, posts, likes, comments
+Geographic location information: GPS information, WLAN access points, Bluetooth and base station sensor information, etc
+2.3 GPS geographic location is sensitive personal information. If you refuse to provide it, we will not recommend information to you based on GPS information, and it will not affect the normal use of other functions of Pengpai News.
+2.4 We will display and recommend local information related to your location based on the region corresponding to the IP address.
+2.5 The above information we collect and use has undergone de identification processing, and data analysis only corresponds to specific codes that cannot be directly associated with your identity, and will not be associated with your true identity.
+3. Provide you with publishing and interactive services
+3.1 Information Release
+a. When you post content, leave comments, ask questions or answer questions, we will collect the information you post and display your nickname, avatar, and post content. When you post information and select a display location, we will request your authorization for geographic location permission and collect location information related to this service. If you refuse to authorize the provision of precise geographic location information, you will not be able to use this feature, but it will not affect the normal use of other functions of Pengpai News.
+b. When you use the upload image, audio and video functions, we will request your authorization for camera, photo, and microphone permissions. If you refuse to provide authorization, you will not be able to use this feature, but it will not affect your normal use of other features of Pengpai News.
+c. When you use the 'News Report' or 'Video Report' and 'Pengpai Quality Report Complaint' functions, we may require you to provide your phone number and/or WeChat account for further understanding and verification of the report details. If you refuse to provide this information, you will not be able to use this function, but it will not affect your normal use of other functions of Pengpai News.
+d. The information collected by us from users who use our products or services, such as information posted by other users, may contain some of your information (such as information related to you in comments, messages, articles, audio and video).
+3.2 Interactive Communication
+a. When you actively follow and interact with accounts and topics that interest you, browse, comment, bookmark, like, or share content, we will collect the accounts you follow and show you the content posted by your following accounts.
+4. Provide you with search services
+When you use the search service of Pengpai News, we will collect your search keyword information and log records. In order to provide efficient search services, some of the aforementioned information will be temporarily stored on your local storage device and displayed to you as search result content and search history.
+5. Provide you with security guarantees
+5.1 Security guarantee function
+We are committed to providing you with safe and trustworthy products and usage environments, and providing high-quality and reliable services is our core goal. The information collected to achieve security functions is necessary information.
+5.2 Equipment Information and Log Information
+a. In order to ensure the secure operation of software and services, we will collect your hardware model, operating system version number, international mobile device identification code, unique device identifier, network device hardware address (such as MAC address, etc.), IP address, WLAN access point, Bluetooth, base station, software version number, network access method, type, status, network quality data, operation, usage, and service logs.
+b. In order to prevent malicious programs and ensure safe operation, we collect information on installed applications or running processes, overall operation, usage and frequency of applications, application crashes, overall installation and usage, performance data, and application sources.
+c. We may use your account information, device information, service log information, as well as information that our affiliated companies and partners have obtained your authorization or can legally share, to determine account security, conduct identity verification, detect and prevent security incidents.
+（3） You understand and agree that some individual services may require you to grant specific access permissions on your device to enable the collection and use of information related to these permissions. For example:
+1. We may apply for location permissions to recommend local news to you, display location information when publishing information, etc;
+2. We may apply for storage space permissions for you to save images, upload images or videos, etc;
+3. We may apply for camera permission to take pictures or videos when you post information;
+4. We may apply for microphone permission to record sound when you shoot videos, etc;
+5. We may apply for system device permissions to collect device information for the purpose of pushing news to you, ensuring service stability, etc;
+In the Android environment, we may have a certain frequency of using the system to send broadcasts to wake up the self starting behavior of this application, in order to achieve real-time updates of desktop widget content;
+The above permissions will not be enabled by default or mandatory, and we will apply to you in the relevant application scenarios; Partial functional permissions are controlled by the Android system and will not trigger pop ups. We only obtain this permission when you use this feature. When you need to disable these functional permissions, you can do so in the privacy or system settings of the app. For specific instructions, please refer to Article 5, Paragraph 6 below. Please note that by granting any permission, you authorize us to collect and use relevant information to provide you with corresponding services. Once you close any permission, it means that you have cancelled the authorization. We will no longer continue to collect and use relevant information based on the corresponding permission, nor will we be able to provide you with the services corresponding to that permission. However, your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+2、 How do we use cookies or similar technologies
+We may collect and use your information through cookies and similar technologies, store such information as log information, and use it for the following purposes:
+1. Remember your identity. For example, cookies help us identify you as our registered user or store information you provide us about your preferences or other information;
+2. Analyze your usage of our services. For example, we can use cookies to understand what activities you engage in using our services, or which web pages or services are most popular with you.
+3、 How do we store and protect personal information
+1. Geographic location of information storage
+1.1 We will store user personal information collected within China in accordance with laws and regulations. 1.2 Currently, we do not transfer or store your personal information across borders. If there is a need for cross-border transmission or storage in the future, we will inform you
+The purpose, recipient, security measures, and security risks of information export, and obtaining your consent.
+2. Methods and Deadlines of Information Storage
+2.1 We will store your information in a secure manner, including local storage (such as using an app for data caching), databases located on servers, and server logs.
+2.2 In general, we will only store your personal information for the time necessary to achieve the service objectives or under the conditions stipulated by laws and regulations.
+2.3 In general, for the processing of overdue information, we adopt the server automatic coverage method.
+3. We use industry standard security technologies and anonymization to prevent information loss, improper use, unauthorized access, or disclosure. For example, in certain services, we will utilize encryption techniques such as SSL to protect the personal information you provide.
+4. Although reasonable and effective measures have been taken and standards required by relevant laws and regulations have been complied with, please understand that in the Internet industry, it is impossible to always guarantee 100% security of information even if we try our best to strengthen security measures due to technical restrictions and possible malicious means. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control.
+4、 How do we share, transfer, and publicly disclose personal information
+1. We will not share your personal information with any company, organization, or individual outside of us, except in the following circumstances:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+(3) Within the scope permitted by laws and regulations, it is reasonably necessary to comply with applicable laws and regulations, safeguard the public interest, or protect the personal and property safety or legitimate rights and interests of us or our group companies, our customers, other users, or employees from harm;
+(4) Only by sharing your information can we achieve the core functions of our products and/or services or provide the services you need;
+(5) To handle disputes or controversies between you and others as per your request;
+(6) Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+(7) Used for academic research purposes;
+(8) Used based on the social public interest that complies with laws and regulations.
+2. Third party services and applications
+In order to achieve the purposes stated in this policy and provide you with better services, we may access SDKs or other similar applications provided by third-party service providers, and share certain information we collect from you in accordance with this policy with such third-party service providers in order to provide better customer service and user experience. You can click on the "Third Party SDK Catalog" to learn about the basic information of the third-party SDKs we mainly access. The situation of each individual service accessing third-party SDKs may vary. If you need to know the specific details of individual services accessing third-party SDKs, please go to the corresponding service page and refer to the specific terms and related pages of each individual service. At present, we have connected to third-party service providers to achieve the following functions or services:
+2.1 Product Usage Analysis: In order to analyze the usage of our services and improve user experience, we will share de identified or anonymized data on product usage (crashes, crashes, usage duration, etc.) with third-party service providers such as Youmeng and Tingyun. These data are difficult to combine with other information to identify your personal identity;
+2.2 Content Sharing: When you click the "Share" button to share certain Pengpai news content on third-party social media, we will complete the sharing function through the third-party service provider MobTech Share SDK. The implementation of this feature requires the collection of your information (device information, application list information, geographic location, etc.).
+2.3 Summoning the APP through a webpage: When you invoke the services of the Pengpai News APP through a webpage or other means, we will use the third-party service provider MobTech MobLink SDK to complete this function. The implementation of this feature requires the collection of your information (device information, application list information, network status information, base station information, etc.).
+2.4 Haibei Mall: Before you enter Haibei Mall, we will ask if we allow third-party service providers to obtain your Pengpai nickname, avatar, and points information. With your consent, we will share your above information with third-party service provider Yueshi to provide you with services such as Haibei Mall point redemption; Please decide whether to agree to use the third-party application based on your actual situation. For details, you can refer to the third-party service provider's Privacy Policy and User Agreement.
+2.5 Pengpai Haowu: When you purchase goods in Pengpai Haowu, third-party shopping mall service providers may need to collect your name, address, and phone number to provide you with product purchase and delivery services.
+2.6 Payment Services: When you appreciate articles or purchase paid content, we will provide payment services to you through third-party payment institutions. Third party payment institutions may need to collect your name, bank card type and number, expiration date, and mobile phone number. Bank card number, expiration date, and mobile phone number are sensitive personal information that are necessary for payment functions. Refusing to provide them will result in you being unable to use the function, but it will not affect the normal use of other functions.
+2.7 Realize sharing information related to advertising: a Advertising push: We may share information with partners who entrust us with promotion and advertising, but we will not share information (name, ID number number) used to identify your personal identity. We will only provide these partners with indirect pictorial labels that cannot identify your personal identity and information after de identification or anonymization to help them improve the effective reach rate of advertising without identifying your personal identity. Advertising statistics: We may share analysis and de identification statistical information with our service providers, suppliers, and other partners (such as the Second Hand System) that is difficult to associate with your identity information. This information will help us analyze and measure the effectiveness of advertising and related services
+.
+We will only share your information for legitimate, necessary, and specific purposes. Only share information that has been de identified or anonymized with third parties. We will require third-party service providers with whom we share information to fulfill relevant confidentiality obligations, take corresponding security measures, and provide relevant security level certifications. If you have any questions, you can also choose to contact us through the feedback channels listed in the "How to Contact Us" section of this policy, and we will provide you with answers as soon as possible.
+This policy only applies to the personal information we collect and does not apply to any third-party services or information usage rules provided by third parties. These third-party services are operated by the relevant third parties. Your use of such third-party services (including any information you provide to such third parties) is subject to the third party's own terms of service and information protection statement (not this policy), and you need to carefully read their terms. If you find that these third-party services pose risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests.
+3. Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+(1) Obtaining your explicit consent in advance;
+(2) According to laws and regulations or mandatory administrative or judicial requirements;
+(3) When it comes to asset transfer, acquisition, merger, restructuring or bankruptcy liquidation, if it involves the transfer of personal information, we will inform you of the relevant situation and require new companies or organizations holding your personal information to continue to be bound by this policy. If the purpose of using personal information is changed, we will require the company or organization to obtain your explicit consent again.
+4. Public disclosure
+In principle, we will not publicly disclose your information, except for disclosing the relevant account information when issuing punishment notices for illegal accounts and fraudulent behavior. If it is necessary to disclose publicly, we will inform you of the purpose of the disclosure, the type of information to be disclosed, and any sensitive information that may be involved, and obtain your explicit consent
+5. Personal information that is exempted from sharing, transferring, and publicly disclosing in accordance with the law
+Please understand that in the following situations, according to laws, regulations, and national standards, we do not need your authorization or consent to share, transfer, or publicly disclose your personal information:
+(1) Directly related to national security and defense security;
+(2) Directly related to public safety, public health, and major public interests;
+(3) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+(5) Personal information that you disclose to the public on your own;
+(6) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+5、 How to manage your personal information
+In order to make it more convenient for you to access and correct your personal information, and to protect your rights to log out, cancel your account, and set privacy functions, in accordance with relevant Chinese laws, regulations, and standards, we have provided you with corresponding operation settings in the product design. You can refer to the following guidelines for operation.
+1. Accessing your personal information
+When logged in, select the 'My' tab in the bottom right corner of the client, and your profile picture, nickname, and other personal information will be displayed at the top of the page.
+2. Correct your personal information
+In the logged in state, select the 'My' tab in the bottom right corner of the client, click on it, and your profile picture, nickname, and other personal information area will be displayed at the top of the page to enter your personal homepage. Click the 'Edit Profile' button in the upper right corner again to correct your personal information.
+3. Log out and log in
+In the logged in state, select the 'My' tab in the bottom right corner of the client and enter 'More Settings'. Pull to the bottom and you will see the 'Log Out' button. Click on it.
+4. Cancellation
+Method 1: Please send an email to support@thepaper.cn ；
+Method 2: In the logged in state, select the "My" tab in the bottom right corner of the client and enter "More Settings". Pull to the bottom and you will see the 'Permanently Cancel Account' button. Click on it and follow the instructions to complete the process.
+5. Setting of news content targeted push switch
+Select the 'My' tab in the bottom right corner of the client, go to 'More Settings' -' Privacy Settings', and you can turn on or off the 'News Content Targeted Push' switch. After closing, the news you see will not depend on your personalized behavior.
+6. Sensitive permission settings
+Select the 'My' tab in the bottom right corner of the client, go to 'More Settings' -' Privacy Settings', and you can turn on or off permissions for location, photos (storage space), camera, microphone, obtaining phone information, and making phone calls. After closure, we will no longer collect information related to these permissions. Go to [System Settings] - [Applications] - [Self start Management] to enable or disable the self start function. Disabling it may cause real-time updates of widget content to fail.
+6、 Provisions on the Protection of Minors' Information
+If you are a minor under the age of 14, you should carefully read and agree to this agreement under the supervision and guidance of your guardian and with their consent before using Pengpai News and related services. If you have not obtained the consent of the guardian, the guardian may notify us through the contact information at the end of this agreement to handle the relevant account. Pengpai News has the right to restrict the functions and use of the relevant account, including but not limited to browsing, posting information, interactive communication, and other functions.
+2. Pengpai News attaches great importance to the protection of personal information of minors. When filling out personal information, underage users should strengthen their awareness of personal protection and treat it with caution. They should also obtain the consent of their guardians and use Pengpai News and related services correctly under their guidance.
+3. Minor users and their guardians understand and confirm that if you violate laws, regulations, or the contents of this agreement, you and your guardians shall bear all legal responsibilities that may arise in accordance with the law.
+4. Special tips for underage users
+(1) Minors using Pengpai News and related services should learn to use the internet correctly within a reasonable range under the supervision and guidance of their guardians, and avoid addiction
+Developing good internet habits in virtual cyberspace;
+(2) Youth users must abide by the National Convention on Youth Internet Civilization;
+(3) Be good at online learning and avoid browsing harmful information;
+(4) To communicate honestly and friendly, without insulting or deceiving others;
+(5) To enhance self-protection awareness and avoid dating netizens casually;
+(6) To maintain network security and not disrupt network order;
+(7) To be beneficial to physical and mental health, and not to indulge in virtual time and space.
+5. In order to better protect the privacy rights and interests of minors, Pengpai News reminds you to carefully publish content containing materials related to minors. Once published, it is deemed that you have obtained the consent of the rights holder to display the portrait, voice and other information of minors on Pengpai News and related services, and allow Pengpai News to use and process such content related to minors in accordance with this agreement.
+6. Special Reminder for Guardians
+(1) If your ward uses Pengpai News and related services, as the guardian, you should guide and supervise the ward's registration and use behavior. If your ward applies to register a Pengpai News account, Pengpai News Company has the right to consider that it has obtained your consent;
+(2) Your guardian may use functions such as purchasing products or services when using Pengpai News and related services. As a guardian, please keep your payment device, payment account, and payment password safe to prevent the guardian from using purchasing and other consumption functions through your Pengpai News account without your consent.
+7、 Revision and Notice of Privacy Policy
+In order to provide you with better services, Pengpai News and related services will be updated and changed from time to time. We will revise the terms of this privacy policy in a timely manner, and such revisions constitute a part of this privacy policy.
+When this privacy policy is updated, we will publish the updated version on The Paper and announce it through our official website (www.thepaper. cn) before the updated terms take effect. We will also remind you of the updates through appropriate means such as internal messages, so that you can keep up with the latest version of this privacy policy in a timely manner.
+8、 Contact Us
+When you have other complaints, suggestions, issues related to personal information of minors, or need to delete all access records, please contact us at 021-52209851. You can also send your questions to support@thepaper.cn Or send it to the following address: Shanghai Press Building User Service Center, 755 Weihai Road, Jing'an District, Shanghai (Postal Code: 200041).
+We will review the issues as soon as possible and respond within fifteen working days after verifying your user identity.
+Don't forget, don't forget
+The Chinese Embassy in Japan accuses Japanese politicians of visiting Taiwan
+The scope of determining the number of housing units in over 20 cities has been narrowed down to districts
+Sensor concept stocks explode, Yitong Technology's 20cm limit up
+Photolithography concept stocks soar
+The capital of Iceland and the only capital city in the world without McDonald's
+A famous scenic spot in Dunhuang, Gansu, where the sound of sand mountains can be heard
+1 Person | Fumio Kishida announces resignation: Son of a political family who was forced to marry by the "Spring Breeze"
+Accused of illegally accepting more than 813 million yuan in property, Sun Zhigang's bribery case opens in first instance
+Belgorod Oblast in Russia declares a state of emergency
+Former Secretary of Guizhou Provincial Party Committee Sun Zhigang Accused of Accepting 813 Million in Bribery
+5. Japanese media: Fumio Kishida plans to resign from his position as Prime Minister after being selected as the President of the Democratic Party
+Martyr Qiu Jianjun's daughter was admitted to Huazhong Agricultural University, but her father unfortunately sacrificed himself before her college entrance examination
+Thai Constitutional Court rules that Prime Minister Saita is unconstitutional and dismissed immediately
+8. Increase competition for cadres to take up positions: China Railway Construction publicly selects reserve candidates such as the chairman of secondary units for the first time
+Experience of Chinese tourists in Lebanon: Military planes roar, people remain calm, and there are many European and American tourists
+Author Ross Trier of Mao Zedong's Biography has passed away
+Four teddy dogs were injured in a collision and received over 40000 yuan in treatment. The owner's claim against the driver involved in the accident has been supported by the court
+A county in Shandong Province has released simplified standards for weddings and funerals: the dowry should not exceed 60000 yuan, and the cost of each bottle of wine for rural wedding banquets should not exceed 60 yuan
+13. Rare large-scale cross-border attack by Ukrainian army on Russia: Surrounding Wei to save Zhao or an adventure under the influence of power struggle?
+After the "de Anhui" campaign, the Shijiazhuang Restaurant Culinary Association released the production process of Shijiazhuang beef noodle soup
+Fifteen fetuses were found to have umbilical cord entanglement and died several days later. Pregnant women's family members claimed that the doctor's risk assessment was inadequate
+Zelensky held a meeting on the situation in the Kursk region of Russia, discussing the establishment of a military command post if necessary
+The boy who was crushed while riding with his father has unfortunately passed away. The traffic police in Rongcheng County, Hebei Province will issue a notice as soon as possible
+Many places have formulated banquet standards: some regions have a maximum limit of 30 yuan per bottle of wine and no more than 10 yuan per bottle of cigarettes
+19 immediate reviews | Empty pen refills and milk cartons become commodities, and formalism in homework is cured
+The Mid Autumn Festival and National Day holidays are approaching, please check the holiday arrangements
+Scan the code to download the Pengpai News client
+Android version
+IPhone version
+IPad version
+About Pengpai
+Join Pengpai
+contact us
+Advertising cooperation
+Legal Disclaimer
+Privacy Policy
+Pengpai News Weibo
+Surging News official account
+Surging News Tiktok
+IP SHANGHAI
+SIXTH TONE
+Reporting hotline: 021-962866
+Reporting email: news@thepaper.cn
+Shanghai ICP Registration No. 14003370
+Shanghai Public Security Registration No. 31010602000299
+Internet News Information Service License: 31120170006
+Value added Telecommunications Business License: Shanghai B2-2017116
+©  2014-2024 Shanghai Oriental Press Co., Ltd
+feedback

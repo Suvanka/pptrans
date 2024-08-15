@@ -1,0 +1,349 @@
+We understand the importance of personal information to you and appreciate your trust in us. We will explain to you through this policy how we collect, store, protect, use, and provide your information to the public, as well as the rights you enjoy. The key points are as follows:
+In order to facilitate your understanding of the types and purposes of information we need to collect when using our products and/or services, we will explain them to you in conjunction with specific products and/or services.
+In order to provide you with the necessary services, we will collect your information in accordance with the principles of legality, legitimacy, and necessity.
+If it is necessary to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the information collected by that third party. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations, and regulatory requirements. In addition, we will obtain your consent or confirm that a third party has obtained your consent in accordance with the requirements of laws, regulations, and national standards through confirmation agreements, text confirmations in specific scenarios, pop-up prompts, and other forms.
+If it is necessary to obtain your information from a third party in order to provide services to you, we will require the third party to explain the source of the information and demand that the third party ensure the legality of the information provided.
+If we use the information for purposes not specified in this policy, use information collected for specific purposes for other purposes, or if our business requires personal information processing beyond the scope of your authorization to provide personal information to third parties, we will seek your explicit consent in advance.
+You can access and manage your information, set privacy features, cancel your account, or make complaints and reports through the methods described in this policy.
+You can read the corresponding chapters according to the following index to further understand the specific content of this policy:
+1、 Introduction
+2、 Definition
+3、 How do we collect and use your personal information
+4、 How do we share and disclose your personal information with third parties
+5、 How do we store and protect your personal information
+6、 How do we use cookies, web beacons, and similar technologies
+7、 How do you access and manage your own information
+8、 How do we protect the personal information of minors
+9、 Exceptions to the Application of Privacy Policy
+10、 Updates and changes to this policy
+11、 Contact, complain, and report information about product and/or service operators
+12、 Applicable Law and Dispute Resolution
+1、 Introduction
+Xiamen Meiyou Co., Ltd. (hereinafter referred to as "Meiyou") values user privacy. When you use Meiyu Baobaoji (hereinafter referred to as "Baobaoji"), we will collect and use your relevant information. We hope to explain to you through this policy how we collect, use, store, and share this information when using Baby Timer, as well as the ways we provide you with access, updates, control, and protection of this information. This policy is closely related to your use of Baobaoji. We hope you will read it carefully and make the appropriate choices according to the guidelines of this policy when needed. We will try to express the relevant technical terms involved in this policy in a concise and clear manner, and provide further explanation links (if necessary) for your understanding.
+It should be noted that this policy applies to existing and potentially future platforms, products, and services under the Meiyou brand. If our affiliated companies (as defined in the definition section) use products and/or services provided by Meiyou but do not have a separate privacy policy, this policy also applies to that part of the products and/or services.
+In order to ensure that you fully understand this statement, we have used bold font to remind you of the terms in this statement that have or may have a significant relationship with your rights.
+By using or continuing to use our products and/or services, you agree to our collection, use, storage, and sharing of your relevant information in accordance with this policy.
+2、 Definition
+（1） Meiyu products and/or services
+Refers to the websites and corresponding clients of the products and/or services (marketing platforms, media partnerships) currently listed on the Meiyou official website (www.meiyou. com), as well as the websites and corresponding clients of new products and/or services that may be released by Meiyou in the future, hereinafter referred to as "products and/or services".
+（2） Related companies
+Refers to companies that have a direct or indirect control relationship or significant influence relationship with Meiyou, including but not limited to the following situations: companies that directly or indirectly hold 25% or more of the total shares of either party; Directly or indirectly, a third party owns or controls 25% or more of the shares; More than half of the senior management personnel such as directors or managers of the affiliated company, or one executive director, shall be appointed by Meiyou.
+（3） Third party partners
+To achieve the functions and services provided by Meiyou, we have established cooperative relationships with partners and will sign agreements with Meiyou in the future as third-party partners to jointly provide you with functions and services.
+3、 How do we collect and use your personal information
+Meiyou collects information to provide better services to all users. The main sources of information we collect are: the information you provide to Meiyou, the information Meiyou obtains during your use of Meiyou's products and/or services, and the shared information you provide to other parties through our products and/or services.
+Meiyou will collect and use your personal information for the following purposes:
+（1） Register and Login
+When registering as a user and further logging in and using Meiyou's products and/or services, with your consent and confirmation, you are required to provide your third-party service account information (email/WeChat/Weibo/QQ/Apple user ID avatar and nickname) or other Meiyou app account information, and after you agree to this privacy policy, bind your third-party account or other Meiyou app account with your Baobaoji account, so that you can directly log in and use our products and/or services through the aforementioned account. We will also collect your International Mobile Identity (IMSI) and Android ID to determine how you last logged in to Meiyou, in order to facilitate your use of the one click login function. We will use your account information based on agreements with third parties and after confirming the legality of the source of personal information, in compliance with relevant laws and regulations.
+If you
+If you log in to Baobaoji using an account other than WeChat, you will need to bind your WeChat account to help you establish better relationships with family and friends.
+You can directly use your mobile phone number to register and log in, or after you have successfully registered and logged in using other methods, you can choose to bind your mobile phone number to ensure the security of your account. You can set it in "Me - Settings - Account and Privacy - Mobile Number".
+（2） Push you relevant information
+To provide you with personalized information or services, and to display, recommend, or push information content that is more relevant to you and of greater interest to you, we will collect and use your following personal information for analysis:
+Your browsing history.
+The device information obtained with your consent includes the International Mobile Equipment Identity (IMEI), International Mobile User Identity (IMSI), and MAC address.
+We need to obtain your current network environment, including WiFi and non WiFi.
+You can turn off the personalized recommendation function by going to "Message - Today's Highlights - '...' - Personalized Recommendation Function" to refuse to provide the above information, refuse us to call or turn off device permissions to not provide device information. If you do not provide the above information, the information or services we display, recommend or push to you may reduce accuracy and relevance, but it does not affect your normal use of other functions.
+After you turn off the personalized feature, we will not push personalized information or services to you based on the above information; You can also choose whether to retain the personal information we collect to provide you with personalized information or services. If you choose not to retain it, we will anonymize the personal information on which personalized recommendations are based, but it will not affect your normal use of other functions that do not require this permission.
+（3） Add baby, upload baby photos
+When adding baby information, we need you to provide the baby's date of birth. After adding the first baby, we need to apply to call your album or camera permissions to help you easily identify, filter, and upload baby photos.
+（4） Interactive dynamic notification
+When your post is liked or commented on, or when other friends and family members follow your baby or post new records, we will send you interactive notifications (internal messages and push notifications). At the same time, we need to obtain your account information to determine and display the details of the interactive post.
+（5） Baby Personal Center - Family and Friends List
+When you and other users visit each other's Babywatch, we will obtain access records (including the number of visits and the most recent visit time), and your account information will be displayed in the friends and family list.
+（6） List of family and friends' footprints
+When you visit the homepage or cloud album, major events, baby's height and weight records, vaccination records, and eating, drinking, and sleeping with other users, we will obtain access records (including visit location and time), and your account information will be used to display your visit footprint.
+（7） Baby Personal Center - Cloud Album
+The photos and short videos you choose to upload to Baobaoji will be synchronized to the cloud album, making it convenient for you to view all the uploaded photos and short videos.
+（8） Baby Personal Center - Height and Weight Record
+You can record your baby's height, weight, and head circumference information to help you better monitor their growth curve.
+（9） Baby Personal Center - Vaccination Record
+You can record your baby's vaccination time and status, and keep track of their vaccination information in a timely manner.
+（10） Baby Personal Center - Long Tooth Replacement Record
+You can record your baby's teething and replacement time, and keep track of their teething and replacement information in a timely manner.
+（11） Baby Personal Center - Baby Avatar
+You can choose to upload your baby's avatar, which requires you to apply for permission to access your camera and photo album.
+（12） Baby Personal Center - Baby Profile
+You can record your baby's gender, date of birth, time of birth, blood type, birth weight, and length in the "Baby Profile" to establish a baby specific birth profile.
+（13） Baby Personal Center - Set Homepage Background
+You can choose your favorite photo as the homepage background and change it at any time. This feature requires applying to call your camera permission and album permission.
+（14） Publish updates
+You can post updates anytime and anywhere to record your baby's growth. This feature requires applying for permission to access your camera and photo album.
+If you use the location function when posting records, we need to apply to obtain your location information. If you refuse, the location function will not be available, but it will not affect other functions that do not require this permission.
+（15） Set account avatar
+You can choose to upload the profile picture of your Baby Memo account. This feature requires you to apply for permission to access your camera and photo album.
+（16） Purchase products
+When you purchase goods through Baobaoji, our partners (Taobao/Tmall) will query the installation list of other applications on your device in order to directly redirect to Taobao or Tmall or the corresponding product webpage, but will not collect relevant information.
+（17） Gold Coin Mall
+When you use gold coins to recharge and exchange phone bills, we need you to provide the phone number where you need to recharge your phone bills;
+When you exchange coins for goods, our partners (Taobao/Tmall) will query the installation list of other applications on your device in order to directly redirect to Taobao or Tmall or the corresponding product webpage, but will not collect any relevant information.
+（18） Manually save pictures/short videos
+When you browse the photos or short videos posted by Baobaoji users, you can manually choose to save the photos or short videos that interest you to your phone. At this time, we need your authorization to enable the album permission. If you refuse, it will not affect your continued browsing and use of other functions.
+（19） Receive notifications
+(1) When you use our products and/or services, we may use your information to push notifications (such as internal messages) to your device. If you do not wish to receive these messages, you can follow our relevant prompts and choose to disable notification permissions on your device.
+(2) We may send you important notifications related to our products and/or services (such as privacy policy updates) when necessary (such as when a service is suspended due to system maintenance). As this information is crucial for communication between you and Meiyu, we recommend that you receive and read such information.
+（20） Floating window permission
+In order to provide you with timely message reminders and facilitate your quick response
+When operating a mobile phone, we will apply to you for permission to enable floating windows (this is only available for Android system development).
+（21） Feedback on opinions
+When you provide feedback, we will save your feedback content. At the same time, you can choose to add pictures (to apply for permission to call your album), leave your phone number so that we can contact you or help you solve the problem, and record the solutions and results of the relevant issues.
+（22） Improve image access speed
+We will cache the images downloaded during your use of our products and/or services on external storage. At this time, we need to apply for storage permission from you (this permission is only developed based on the Android system) in order to improve the speed of accessing the aforementioned images again; For the images you have already browsed, we will enable internal storage for caching, and in this case, there is no need to call your storage permissions.
+（23） Necessary functions to ensure safe use
+In order to improve the security of your use of our services and those provided by our affiliated companies and partners, protect your personal and property safety or that of other users or the public from infringement, better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, and more accurately identify violations of laws and regulations or relevant agreement rules we have established, we may use or integrate your account information, device information, log information, and information obtained from our affiliated companies and third-party partners with your authorization or shared in accordance with the law to comprehensively judge your account and detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+1. Equipment information
+Meiyou may collect information related to your device and software, such as your mobile device model, unique device identifier, operating system version, software version, browser type, telecom operator, language device status information used (such as device sensor data), configuration information provided by web browsers or other programs you use to access our products and/or services, your IP address, and the version and device identification code used by your mobile device (IMEI/MAC/Android ID/OPENUDID, SIM card IMSI information, OAID).
+2. Log information
+When you use our products and/or services, we collect detailed usage information about our services as relevant network logs, including: your IP address, browser type, URL address of social media pages visited, telecom operator, language used, access date and time, system error logs, and records of web pages visited by you.
+（24） Exceptions to obtaining authorization and consent
+According to relevant laws and regulations, we do not need your authorization or consent to collect and use your personal information in the following situations:
+Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+Necessary for fulfilling statutory duties or obligations;
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+In accordance with the Personal Information Protection Law of the People's Republic of China, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable scope;
+Other circumstances stipulated by laws and administrative regulations.
+4、 How do we share, transfer, and disclose your personal information with third parties
+（1） Sharing
+1. We will not share your personal information with any other company, organization, or individual, except in the following circumstances:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+(3) Within the scope permitted by laws and regulations, it is necessary to provide necessary services to safeguard the interests, property, or safety of Meiyou and its affiliates or partners, you or other Meiyou users, or the general public from harm;
+(4) Only by sharing your information can we achieve the core functions of our products and/or services or provide the services you need;
+(5) To handle disputes or controversies between you and others as per your request;
+(6) Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+(7) Used for academic research purposes;
+(8) Used based on the social public interest that complies with laws and regulations.
+2. We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+3. In order to comply with laws, enforce or apply our terms of use and other agreements, or to protect the rights, property or safety of Meiyou, you or other Meiyou users, such as to prevent illegal activities such as fraud and reduce credit risks, we exchange information with other companies and organizations. However, this does not include the sale, rental, sharing, or other disclosure of personal information for profit in violation of the commitments made in this privacy policy.
+4. We may share some of your personal information with third parties such as partners to ensure the smooth completion of the services we provide to you. But we only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose. At present, our partner types, collected information, and usage purposes are as follows:
+(1) Gaode SDK (based on Android system)
+Function: Obtain location information
+Collecting personal information types or permissions: hardware model, operating system version, device configuration, unique device identifier (IMEI) Android ID、OPENUDID、GUID）、 Network device hardware address MAC, device connection information, device status information, network identity information, advertising identifier IDFA (iOS 14.5 and above)
+Do not collect IDFA, IP address, and location information.
+SDK Subject: Gaode Software Co., Ltd
+Privacy Policy Link: Click to view
+(2) Taobao Baichuan SDK
+Function: Support product link conversion and redirection to mobile Taobao APP, access shopping cart
+Collect personal information types or permissions: device information (including device model, operating system version, device settings, MAC, IMEI, IDFA (exclusive to iOS) OAID and other device identifiers, device environment, installation application list, device location related information (including your authorized address location and sensor information such as WLAN access points, Bluetooth, and base stations), service log information: When you access or use products or services provided by the Taobao platform website or customer end, we will automatically collect and record your detailed usage as a service log, including browsing history, click view history, search query history, favorites, add to shopping cart, transactions, after-sales, follow and share information, post information, as well as IP address, browser type, telecom operator, language of use, access date and time.
+SDK Subject: Beijing Alibaba Cloud Computing Technology Co., Ltd
+Privacy Policy Link: Click to view
+(3) Youmeng SDK
+Function: Used for statistical analysis of data, providing basic anti cheating capabilities, and device application performance monitoring services
+Type or permission of collecting personal information: type or permission of collecting personal information: SDK/API/JS code version, platform, timestamp, application identifier, application version, application distribution channel, iOS advertising identifier (IDFA), device network card (IDFA (iOS), unique device identifier (IMEI/MAC/android ID/OPENUDID/GUID, SIM card IMSI information, OAID, google advertising ID), installed application list, browser, Internet service provider, IP address, hardware serial number ESN, sensor parameter, device model, terminal manufacturer, terminal device operating system version, session start/stop time, language location, time zone and network status (WiFi, etc.), hard disk, CPU and battery usage, etc., to obtain the currently running process.
+SDK Subject: Beijing Ruixun Lingtong Technology Co., Ltd
+Privacy Policy Link: Click to view
+（4）Bugly SDK
+Function: Collect crash information, determine, collect, and statistically analyze crash information
+Collect personal information types or permissions: log information (including third-party developer custom logs, Logcat logs, and app crash stack information), device ID (including Android ID, Open UDID, MAC, IMEI), iOS advertising identifier (IDFA), terminal device operating system version, terminal manufacturer), network information, system name, system version, and country code.
+SDK Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Privacy Policy Link: Click to view
+（5）QQ SDK
+Function: Third party login, sharing
+Collect personal information types or permissions: service log information, device information (device model, operating system version, unique device identifier (IMEI, MAC, Android ID, IDFA (iOS exclusive)), battery, signal strength information), software information (including installed application list, software version number, browser type), IP address, location information (based on the iOS system, geographic location information can also be obtained through IP address, GPS, WLAN, or base station).
+SDK Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Privacy Policy Link: Click to view
+(6) Weibo SDK
+Function: Third party login, sharing
+Collect personal information types or permissions: device information (including hardware model, MAC, operating system type, installed application list, IP address, unique device identifier (IMEI/Android ID/IDFA (iOS exclusive)/OPEN UDID/UUID), SIM card IMSI information), browser model, rough location information (such as country or city information).
+SDK Subject: Beijing Weimeng Chuangke Network Technology Co., Ltd
+Privacy Policy Link: Click to view
+(7) WeChat SDK
+Function: Third party login, sharing
+Collect personal information types or permissions: service log information, device information (device model, operating system version, unique device identifier (IMEI, MAC, Android ID, IDFA (iOS exclusive)), battery, signal strength information), software information (including installed application list, software version number, browser type), IP address, location information (based on the iOS system, geographic location information can also be obtained through IP address, GPS, WLAN, or base station).
+Collect personal information types or permissions: device information (including hardware model, MAC, operating system type, installed application list, IP address, unique device identifier (IMEI/Android ID/IDFA (iOS exclusive)/OPEN UDID/UUID), SIM card IMSI information), browser model, rough location information (such as country or city information).
+Collect personal information types or permissions: service log information, device information (device model, operating system version, unique device identifier (IMEI, MAC, Android ID, IDFA (iOS exclusive)), battery, signal strength information), software information (including installed application list, software version number, browser type), IP address, location information (which may also be obtained through IP address, GPS, WLAN (such as WIFI) or base station based on the iOS system).
+SDK Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Privacy Policy Link: Click to view
+(8) Tencent X5 SDK (based on Android system)
+Function: Web browsing
+Collect personal information types or permissions: device information (including International Equipment Identity (IMEI), international mobile users)
+Identification code (IMSI), network card address (MAC Address), user model, screen size, operating system version number, Target API, network type (Apn Type), network change monitoring broadcast, WIFI MAC address.
+SDK: Shenzhen Tencent Computer Systems Co., Ltd
+Privacy Policy Link: Click to view
+(9) Tencent Short Video SDK (based on Android system)
+Function: Video compression and shooting
+Obtain personal information types or permissions: device manufacturer, device model, operating system version number, network type, system language type, screen resolution, photo album or camera permissions.
+SDK Subject: Shenzhen Tencent Computer Systems Co., Ltd
+(10) Alibaba Cloud OSS Object Storage SDK (based on Android system)
+Function: Upload images, cache data
+Access to personal information types or permissions: Allow networking, access network status, determine network status, access local storage
+SDK Subject: Beijing Alibaba Cloud Computing Technology Co., Ltd
+Privacy Policy Link: Click to view
+(11) Alibaba Cloud Player SDK
+Function: E-commerce live streaming
+Obtain personal information types or permissions: device information (device brand, device model, software system version, terminal system restart time, total disk space, total system memory space, number of CPUs).
+SDK Subject: Beijing Alibaba Cloud Computing Technology Co., Ltd
+(12) Alipay SDK
+Function: E-commerce payment
+Obtain personal information types or permissions: device information (such as IMEI, IMSI, SIM card serial number, etc.) MAC、Android ID）、 Network information and geographic location information, obtaining running processes, and storage permissions.
+SDK Subject: Beijing Alibaba Cloud Computing Technology Co., Ltd
+Privacy Policy Link: Click to view
+(13) WeChat Pay SDK (based on Android system)
+Function: WeChat Pay
+Obtain personal information types or permissions: Read WeChat account, device information (including device model, operating system version, unique device identifier IMEI, MAC address, battery, signal strength information), IP address, log information related to the service, geographic location related information (when GPS positioning is refused, geographic location information is obtained through IP address, GPS, WLAN (such as WiFi) or base station), software information (including installation application list, software version number, browser type).
+SDK Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Privacy Policy Link: Click to view
+(14) China Mobile SDK
+Function: Register and Login
+Obtaining personal information types or permissions: obtaining network type, network standard, device type and system, MAC address (for performance analysis and adaptation, optimization), obtaining IMSI (Android system only), IMEI (Android system only), IDFV (iOS system only) (for handling business logic and problem location).
+SDK Subject: China Mobile Group Co., Ltd
+Privacy Policy Link: Click to view
+(15) China Telecom SDK
+Function: Register and Login
+Obtaining personal information types or permissions: obtaining network type, network standard, device type and system, MAC address (for performance analysis and adaptation, optimization), obtaining IMSI (Android system only), IMEI (Android system only), IDFV (iOS system only) (for handling business logic and problem location).
+Obtain personal information types or permissions: Android version (limited to Android system), device brand and model, Android ID (limited to Android system), device system version, SDK generated random unique identification code (used for troubleshooting or security issues), obtain network type, application package name, IP address (used for security verification).
+SDK Subject: China Telecom Group Co., Ltd
+Privacy Policy Link: Click to view
+(16) OPP0 PUSH SDK (based on Android system)
+Function: Push Service
+Obtain personal information types or permissions: device related information (such as IMEI number, Serial Number, IMSI, User ID, Android ID, Google Ads ID, phone region settings, device model, phone battery level, phone operating system version and language), application information using push services (such as app package name and version number, running status), push SDK version number, network related information (such as IP or domain connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user click behavior), lock screen status (such as whether to lock screen, whether to allow lock screen notifications).
+SDK Subject: Guangdong OPPO Mobile Communication Co., Ltd
+Privacy Policy Link: Click to view
+(17) VIVO PUSH SDK (based on Android system)
+Function: Push Service
+Obtaining personal information types or permissions: device and application information (including the operating system version number, installed application list, device identifiers (such as IMEI number, ICCID, EMMCID/UFSID, oaid/vad/aaid, SN code SIM and IMSI, Android ID, mobile country code, and mobile network number of vivo Android devices during your use of vivo devices and services), MAC address, mobile operator, language used, system settings, and other system, device and application data, obtaining current running processes), log information (including login logs, network requests, access time, access times, access IP, application operation information (including downloads, installations, etc.) generated during your use of vivo devices and services. Switching, updating, uninstalling, error crashes, and location information
+SDK Subject: Guangdong Tianchen Network Technology Co., Ltd
+Privacy Policy Link: Click to view
+（18）HUAWEI PUSH
+SDK (based on Android system)
+Function: Push Service
+Obtain personal information types or permissions: application identification information (AAID), message delivery records, permission to write to external storage, permission to access the network, network information status, current WIFI status and WLAN hotspot information, phone status access permissions, current running processes, and installation application information.
+SDK Subject: Huawei Software Technology Co., Ltd
+Privacy Policy Link: Click to view
+(19) MI PUSH SDK (based on Android system)
+Function: Push Service
+Obtain personal information types or permissions: device identification information (including IMEI/AID (applicable to Android Q and above systems) IMEI MD5/MEIDMD5、Android ID、VAID、AAID， And your MID (applicable to MIUI system), device model, network type, device storage, get current running process, application version, SDK version, as well as your country or region settings, setting information (including whether to block notification bar, whether to set lock screen pop-up message), application information using push services (package name, version number, application name, first installation time, last update completion time), installation application list, allow program to write to external storage, allow access to network, get network status, get current WIFI access status and WLAN hotspot access information, allow access to phone status, allow program to get current or recently running applications.
+SDK Subject: Xiaomi Technology Co., Ltd
+Privacy Policy Link: Click to view
+(20) J PUSH SDK (based on Android system)
+Function: Push Service
+Obtain personal information types or permissions: device related information (such as IMEI number, Serial Number, IMSI, User ID, Android ID, Google Ads ID, phone region settings, device model, phone battery level, phone operating system version and language), application information using push services (such as app package name and version number, running status), push SDK version number, network related information (such as IP or domain connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user click behavior), lock screen status (such as whether to lock screen, whether to allow lock screen notifications).
+Obtaining personal information types or permissions: device and application information (including the operating system version number, installed application list, device identifiers (such as IMEI number, ICCID, EMMCID/UFSID, oaid/vad/aaid, SN code SIM and IMSI, Android ID, mobile country code, and mobile network number of vivo Android devices during your use of vivo devices and services), MAC address, mobile operator, language used, system settings, and other system, device and application data, obtaining current running processes), log information (including login logs, network requests, access time, access times, access IP, application operation information (including downloads, installations, etc.) generated during your use of vivo devices and services. Switching, updating, uninstalling, error crashes, and location information
+Obtain personal information types or permissions: application identification information (AAID), message delivery records, permission to write to external storage, permission to access the network, network information status, current WIFI status and WLAN hotspot information, phone status access permissions, current running processes, and installation application information.
+Obtain personal information types or permissions: device identification information (including IMEI/AID (applicable to Android Q and above systems) IMEI MD5/MEIDMD5、Android ID、VAID、AAID， And your MID (applicable to MIUI system), device model, network type, device storage, get current running process, application version, SDK version, as well as your country or region settings, setting information (including whether to block notification bar, whether to set lock screen pop-up message), application information using push services (package name, version number, application name, first installation time, last update completion time), installation application list, allow program to write to external storage, allow access to network, get network status, get current WIFI access status and WLAN hotspot access information, allow access to phone status, allow program to get current or recently running applications.
+Obtaining personal information types or permissions: allowing access to the network, obtaining network status, obtaining current WIFI access status and WLAN hotspot access information, allowing mounting or de mounting of external file systems, allowing writing and reading of external storage, enabling phone status access and cascading window permissions, Android Q background positioning permissions, allowing applications to receive lit screens or unlock broadcasts, allowing access to vibrating devices, allowing changes to WIFI connection status, allowing applications to access additional location commands, allowing applications to obtain current or recently running applications, obtaining user latitude and longitude information through WIFI or mobile base stations, obtaining Huawei corner markers (if any), receiving precise satellite positioning information through GPS chips
+SDK Subject: Shenzhen Hexun Huagu Information Technology Co., Ltd
+Privacy Policy Link: Click to view
+(21) AAID SDK (based on iOS system)
+Function: Data Analysis
+Obtain personal information types or permissions: operating system version number, device system time zone, device storage space, device system startup time and system update time, application ID, device system layer factor, personal commonly used device information (including hardware model, device MAC address, operating system type, device settings, installed application list, unique device identification code (such as/IDA/OPENUDID, etc., which describes the basic information of personal commonly used devices); Personal location information (bold)
+Precise positioning information, etc.).
+SDK Subject: Hangzhou Alibaba Technology Co., Ltd
+Privacy Policy Link: Click to view
+（22）Facebook Common Android SDK
+Function: Load images
+Obtain personal information type or permission: storage permission.
+SDK Subject: Facebook
+Privacy Policy Link: Currently unavailable
+The above-mentioned partners' collection and processing of information comply with their own privacy policies and do not apply to this privacy policy. At the same time, in order to maximize your information security, we recommend that you review the privacy policy of any third-party SDK services before using them. To protect your legitimate rights and interests, if you discover any risks associated with such SDKs or similar applications, we recommend that you immediately terminate the relevant operations and contact us promptly.
+5. We may also share information with partners who entrust us with promotion and advertising, but we will only provide these partners with information on the coverage, effectiveness, and statistics of the promotion, and will not provide personal information that can identify you.
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Obtaining your explicit consent or authorization in advance;
+Provide necessary information in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+With the continuous development of Meiyu's business and company operations, we and our affiliated companies may engage in mergers, acquisitions, asset transfers, or similar transactions, and your information may be transferred as part of such transactions. We will notify you before the transfer. If it involves the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+According to your needs, disclose the personal information you have specified in the disclosure method that you have explicitly agreed to;
+In accordance with the requirements of laws, regulations, mandatory administrative law enforcement or judicial requirements, we may publicly disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights.
+5、 How do we store and protect your personal information
+（1） Storage of your personal information
+The personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China.
+We will only retain your personal information for the period necessary for the purposes stated in this policy and within the time limit required by laws and regulations (monitoring, recording network operation status, and keeping relevant network logs of network security incidents for no less than six months). For personal user information that exceeds the aforementioned retention period, we will delete or anonymize the user's personal information.
+（2） Protection of your personal information
+We have established a personal information protection responsibility department to conduct personal information security impact assessments on the collection, use, sharing, and entrusted processing of personal information. At the same time, we have established relevant internal control systems and adopted the principle of minimum sufficient authorization for staff who may come into contact with your information; Systematically monitor the behavior of staff in handling your information, continuously train staff on relevant laws and regulations, privacy and security guidelines, and enhance security awareness, and organize relevant staff to participate in security training every year. In addition, our corresponding network/system has passed the national network security level protection evaluation. We also hire external independent third parties every year to evaluate our information security management system.
+We have developed an emergency plan for personal information security incidents and regularly organize internal personnel to receive emergency response training and drills, so that they can master their job responsibilities, emergency response strategies, and procedures. After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will promptly inform you of the relevant situation of the event through APP push notifications, email/short messages, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements. If your legitimate rights and interests are damaged, we will bear corresponding legal responsibilities.
+We will adopt security measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, use, and modification of your personal information, and to avoid data damage or loss.
+Our network service adopts encryption technologies such as transport layer security protocols, and provides browsing services through HTTPS and other methods to ensure the security of user data during transmission.
+We use encryption technology to encrypt and store users' personal information, and isolate it through access restriction technology. When using personal information, such as displaying personal information and calculating personal information associations, we will use various data anonymization techniques including content replacement and content hiding to enhance the security of personal information during use.
+We adopt strict data access control and multi factor authentication technology to protect personal information and prevent unauthorized use of data.
+We use data access log analysis technology for personal information security auditing.
+(1) We establish a data classification and grading system, as well as data security measures
+Manage and standardize the storage and use of personal information through comprehensive management standards and data security development standards.
+(2) We implement comprehensive security controls on data through information contact confidentiality agreements, monitoring, and auditing mechanisms.
+(3) We have established a dedicated department for personal information protection and a data security emergency response organization to promote and safeguard personal information security.
+(4) Security certification and services. Our underlying cloud technology for storing your personal data has passed the Level 3 certification for network security protection by the Ministry of Public Security.
+(5) Strengthen safety awareness. We will also hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+We only allow relevant employees and partners who need to know this information to access personal information, and have established strict access control and monitoring mechanisms for this purpose. We also require all personnel who may have access to your personal information to fulfill corresponding confidentiality obligations.
+You should understand that the Internet is not an absolutely safe environment, and we strongly recommend that you do not send personal information in a way that is not recommended by Meiyou. You can establish connections and share with each other through our services. When you create communication and sharing through our service, you can choose the communication and sharing objects independently, as a third party who can see your posted content, contact information, communication information or sharing content and other related information.
+Please protect your personal information properly and only provide it to others when necessary. If you discover that your personal information, especially your account or password, has been illegally leaked, we will immediately assist in handling the aforementioned matter upon your request.
+Please note that the information you voluntarily share or even publicly share while using our services may involve your or others' personal information or even sensitive personal information. Please consider more carefully whether to share or even publicly share relevant information when using our services.
+Please use a complex password to help us ensure the security of your account. We will do our best to ensure the security of any information you send to us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+6、 How do we use cookies, web beacons, and similar technologies
+（1） We or our third-party partners may collect and use your information through cookies and web beacons, and store such information as log information.
+（2） We use our own cookies and web beacons to provide you with a more personalized user experience and service, and for the following purposes:
+Remember your identity. For example, cookies and web beacons help us identify you as our registered user or store the information you provide us about your preferences or other information;
+Analyze your usage of our products and/or services. For example, we can use cookies and web beacons to understand what activities you engage in using our products and/or services, or which web pages or services are most popular with you;
+（3） We use cookies and web beacons for the above purposes, and may also collect non personally identifiable information through cookies and web beacons, which is processed and provided to suppliers or other partners for analysis of how users use our services.
+（4） Our products and/or services may have cookies and web beacons placed by other partners. These cookies and web beacons may collect non personally identifiable information related to you for the purpose of analyzing how users use these services. These third-party cookies and web beacons collect and use this information, which is not subject to this policy, but rather to the privacy policies of the relevant users.
+（5） You can refuse or manage cookies or web beacons through your browser settings. However, please note that if cookies or web beacons are disabled, you may not be able to enjoy the best service experience, and some services may not function properly.
+（6） In order to provide you with an easier access experience, when you visit platform related websites or use services provided by the platform, we may collect and store relevant information through various technologies, including using small data files to identify your identity. This is done to understand your usage habits, help you avoid the step of repeatedly entering registration information, or help determine the security of your account. These data files may be cookies, Flash cookies, or other local storage provided by your browser or associated applications (collectively referred to as "cookies").
+（7） Please understand that some of our services can only be implemented through the use of cookies. If your browser or browser add-on services allow it, you can modify your acceptance of cookies or refuse our cookies, but refusing our cookies may affect your safe access to platform related websites and use of platform services in certain situations.
+（8） Web pages often contain electronic images (known as "single pixel GIF files" or "web beacons"), which can help websites calculate the number of users browsing the web or access certain cookies. We collect information about your browsing activity through web beacons, such as the address of the page you visited, the address of the reference page you previously visited, the time you stayed on the page, your browsing environment, and display settings.
+7、 How do you access and manage your own information
+（1） Querying and modifying personal information
+We will take appropriate technical measures to ensure that you can query, update, and correct your registration information. When processing your personal information, we may require you to undergo identity verification to ensure the security of your account.
+（2） Revoke your authorization
+If you provide corresponding authorization during the use of Meiyu's products/services, you can also
+You can revoke your authorization by selecting to disable access to storage, obtain phone status, camera, and floating window permissions through the "Settings" center of the device where Meiyou's products/services are located or your client "Me" - "Settings" - "Account and Privacy" - "Privacy Settings".
+If you are unable to access and manage such personal information through the above path, you can contact us at any time through the contact information shown in this policy or "Me" - "Help and Feedback" - "Feedback". We will reply to your access request within 15 days from the date of receipt.
+（3） Delete personal information
+You can delete some of your personal information through the methods listed in this article. In the following situations, you can submit a request to delete personal information to us through "Me" - "Help and Feedback" - "Feedback". After verifying the user's identity, we will process it within 15 days:
+Our handling of personal information violates laws and regulations;
+We collect and use your personal information without your explicit consent;
+Our handling of personal information seriously violates our agreement with you;
+You no longer use our products or services, or you voluntarily cancel your account;
+We will never provide you with products or services again.
+If we decide to respond to your request for deletion, we will also notify the subjects who have obtained your personal information from us as much as possible, requesting them to delete it in a timely manner, unless otherwise stipulated by laws and regulations, or these subjects have obtained your independent authorization.
+When you delete information from our service, we will not immediately delete the corresponding information from the backup system, but will delete it when the backup is updated.
+（4） Correction of personal information
+You can modify your profile picture and nickname by clicking on "Me", and bind or correct the phone number you have bound in "Me" - "Settings" - "Account and Privacy". If you are unable to correct your personal information through the above path, you can contact us at any time through the contact information shown in this policy or "Me" - "Help and Feedback" - "Feedback". We will reply to your request within 15 days from the date of receipt.
+（5） Obtain a copy of personal information
+If you need to obtain the personal information you provide to us and the personal information we collect through this policy, please contact us through the contact information listed in this policy and make this request. We will process your request within 15 days.
+（6） Account cancellation
+You can submit a request to cancel your account through "Me" - "Settings" - "Account and Privacy" - "Cancel Account". After verifying the user's identity, we will process it within 15 days; After account cancellation, we will delete or anonymize the personal information that has already been collected.
+If your account has no login record within one year from the date of successful registration, it will be considered a dormant account and we will freeze the account. You can apply for account unfreezing through the contact information listed in this policy, and we can unfreeze your account according to your request.
+If your account has no login record for more than two years from the date of successful registration, Meiyou reserves the right to cancel the account. Once the account is cancelled, Meiyou does not accept user applications to unfreeze or retrieve the account. The corresponding membership name will be open to any user for registration and use.
+（7） In response to your above request
+To ensure safety, you need to proactively request from us or prove your identity in other ways. We will first require you to verify your identity before processing your request.
+We will provide a response within 15 days. If you are not satisfied, you can also file a complaint through the contact information listed in this policy.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very unrealistic.
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) There is sufficient evidence to indicate that the personal information subject has subjective malice or abuse of rights;
+(5) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(6) Involving trade secrets;
+8、 How do we protect the personal information of minors
+（1） According to current effective laws and regulations, we consider minors under the age of 14 as children. If you are a minor under the age of 14, please have your parents or guardians read this policy and use our services or provide us with your information with their consent.
+（2） If your parents or guardians do not agree to your use of our services or provision of information to us in accordance with this policy, please immediately terminate your use of our services and notify us promptly so that we can take appropriate measures.
+（3） For the functions or services we provide that involve children's personal information, such as children's growth records, if the collection of children's personal information requires the consent of parents or guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect the rights and interests of children.
+（4） If we discover that personal information of children has been collected without obtaining verifiable consent from parents or guardians in advance, we will promptly delete or anonymize the relevant data.
+（5） If you are the parent or guardian of a minor, please contact us promptly if you have any questions about the use of our products and/or services or the information provided to us by the minor under your guardianship. We will protect the information of the minor in accordance with relevant national laws and regulations and the provisions of this policy.
+9、 Updates and changes to this policy
+When there are significant changes to our Privacy Policy, we will notify you prominently on our homepage or through other means. If you do not agree to the updated version, please stop using our product and/or service. If you continue to use our product and/or service, you agree to accept the repair
+The constraints of this Privacy Policy after booking:
+Our core business model has undergone significant changes.
+We have undergone significant changes in ownership structure, organizational structure, equity structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy, restructuring, mergers and acquisitions, spin offs, etc
+The main recipients of personal information sharing, transfer, or public disclosure have changed.
+Your right to participate in personal information processing and the way you exercise it have undergone significant changes.
+We are responsible for handling complaints, suggestions regarding personal information, and any changes to the contact information in this Privacy Policy.
+10、 Contact, Complaints, and Reports
+If you find that your information has been used for illegal activities or infringed during the use of Meiyou products/services, you are welcome to actively report it. We will accept it in accordance with the requirements of the Cybersecurity Law of the People's Republic of China and other laws. You need to provide legal and valid proof of rights, infringement facts, identity proof and other documents for us to verify. We will reply to you with the handling result within 15 days. The reporting channels are as follows:
+（1） Pop up message, complaint and report
+1. Reporting email: tip-off@xiaoyouzi.com
+2. Client Report: Me - Help and Feedback - Feedback - Pop up Message
+（2） Complaints and reports from minors
+1. Reporting email: tip-off@xiaoyouzi.com
+2. Client reporting: Me - Settings - Minor Complaint Reporting
+（3） Other complaints and reports
+1. Reporting email: tip-off@xiaoyouzi.com
+2. Client Report: Me - Help and Feedback - Feedback
+11、 Product and/or service operator information
+（1） Operating entity: Xiamen Meiyou Co., Ltd
+（2） Registered address: 1F-D1, Area A, Huaxun Building, Software Park, Torch High tech Zone, Xiamen
+（3） Contact information of the person in charge of personal information protection: baobaoji@xiaoyouzi.com
+13、 Applicable Law and Dispute Resolution
+This policy shall be interpreted and governed in accordance with the laws of the People's Republic of China, and any disputes arising between you and us in any form shall be resolved through friendly consultation. If the negotiation fails, either party has the right to submit the dispute to the people's court with jurisdiction over the location of Meiyou for litigation resolution.

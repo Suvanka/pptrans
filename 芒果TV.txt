@@ -1,0 +1,406 @@
+Personal Information Protection Policy
+This version was updated on April 18, 2024
+This version takes effect on April 18, 2024
+The content of this update mainly includes:
+Optimize and streamline policy content, further clarify the storage period of personal information
+introduction
+Mango TV is an online audiovisual product provided by Hunan Happy Sunshine Interactive Entertainment Media Co., Ltd. (hereinafter referred to as "us", registered address: North 4th Floor, Hunan International Convention and Exhibition Center, Kaifu District, Changsha City). We deeply understand the importance of personal information to you and will do our best to protect the security and reliability of your personal information.
+2. The "Mango TV Personal Information Protection Policy" (hereinafter referred to as "this policy") applies to Mango TV products and/or services. Mango TV products and/or services (hereinafter referred to as "our products and/or services") refer to the client application (including but not limited to PC, TV, App (including but not limited to iOS, Android), iPad, Mini Program, and all other terminal clients), official website (www.mgtv. com), and various products and services provided by web pages, software development kits (SDKs), and application programming interfaces (APIs) for third-party client applications and/or official websites that we legally own, manage, and operate under the registered name "Mango TV".
+This policy does not apply to mangoes
+Products or services directly provided to you by affiliated parties or third-party cooperative institutions.
+If you do not agree with the content of this policy, you should immediately stop using our products and
+Or services; You use or continue to use the products we provide and/
+The behavior of providing services or services indicates that you fully understand and agree to this policy
+Including updated versions)
+The entire content. For your convenience in reading this policy, we have highlighted in bold all clauses that may have a significant relationship with your legitimate interests and content involving sensitive information. Please pay attention to reading them.
+5. In addition to this policy, in specific scenarios, we will inform you in a timely manner (including but not limited to updating this policy, re signing documents, page prompts, pop ups, internal messages, emails, website announcements, or other methods that are convenient for you to know) of the corresponding personal information processing purposes, methods, scope, and other rules, and process them with your authorization and consent (if applicable).
+This policy will help you understand the following:
+1、 How do we collect and use user personal information
+2、 How do we store collected user personal information
+3、 How do we use cookies and similar technologies
+4、 How do we share, transfer, and publicly disclose the collected personal information of users
+5、 How can we ensure the security of the personal information collected from users
+6、 How users manage their personal information
+7、 Protection of Minors
+8、 Revision and update of this policy
+9、 Contact Us
+10、 Other relevant information
+1、 How do we collect and use user personal information
+Reminder: If you provide personal information of others, please ensure that you have obtained authorization from the relevant parties.
+Normally, we collect your personal information or apply for relevant permissions in the following scenarios:
+1. Account registration/login and membership functions
+Mobile phone number
+Matching results of account and password
+It should be noted that some of our platforms support users to log in using third-party platform accounts (such as WeChat/Weibo/QQ, etc.). If a user logs in using a third-party platform account, we will obtain relevant information under the third-party account (including username, nickname, avatar, subject to your authorized content) and identity verification information (sensitive personal information) based on the user's authorization. We collect this information to provide users with account login services, ensure the security of their accounts, and prevent security risks. If users refuse to authorize such information, they will not be able to log in to our platform using third-party platform accounts, but it will not affect the normal use of other products and services we provide to users. You acknowledge and agree that we may send multiple types of notifications to one or more of the contact information provided by you during the use of the product and/or service (such as email, contact phone number, fax number, contact address) for user message notification, identity verification, security verification, and other purposes; In addition, we may also use the mobile phone numbers and email addresses collected during the aforementioned process to provide you with commercial information such as advertisements and commercial activities that you may be interested in through SMS, phone calls, and emails. However, please rest assured that if you do not wish to receive such commercial information, you can unsubscribe through the unsubscribe methods provided in your mobile phone SMS or email, or contact us directly to unsubscribe.
+2. Search function
+When users use the search function, we need to collect some relevant information, such as search terms (including voice information), search time, browsing history and time, and the number of interactions with them. In addition, for your convenience in searching more quickly, jumping from third-party shared links and fields to Mango TV, and avoiding manual pasting, we provide you with a convenient function of "displaying the most recently copied information on the clipboard". As you may enter the corresponding interface in Mango TV APP through various types of shared links, this function is enabled by default. When you use the search function, we will display the most recently copied information on the clipboard on the search page to quickly provide you with the content you need. Please be informed that we will only display the most recent copied information of your clipboard and will not collect your clipboard behavior or upload the aforementioned information to our servers. Only when you actively fill in relevant information in the search box and click search, we will collect this information to achieve the search function. In addition, in order to provide you with the specific services you need, when you launch our products or visit specific pages, we will read the content of your clipboard to determine if there is any relevant password code (such as invitation code, membership benefit code) information. Only when the clipboard has the aforementioned password code and other information, we will collect the password code for cloud verification and provide you with the content you need or bind relevant benefits. Please rest assured that we will not store your scissors
+Cutting other information, and individual cutting information cannot identify your specific identity. We collect this information in order to provide users with the content they need and services that they may be more interested in, while optimizing our products and services.
+3. Content browsing/playback function
+When users browse/play content such as videos, audios, and e-books, in order to better showcase the content to you, understand the adaptability of our products and/or services to different hardware devices, and ensure the safety of the user's operating environment, we need to collect your device information and log information. The aforementioned device information includes: device model, device name, and device identifier (IMEI) Android_ID、IMSI、 Device serial number, SIM card serial number, browser type and settings, language settings, operating system and application version, network related information (including IP address, WIFI information (BSSID, SSID), base station information, network access method, network status, network quality data, network operator information), product version number. The aforementioned log information includes operation logs and behavior logs (search/browse/click/play records, favorite/follow/subscribe records, like/comment/share/publish/vote records, number of interactions, playback duration, access date/time/duration, etc.).
+When you choose to order free streaming products, in order for you to be able to use our Mango TV content free data services that cooperate with telecom operators, such as our "Watch Video Package" cooperation with China Mobile, our Mangka and WO+products cooperation with China Unicom, and our Mango Pass cooperation with China Telecom, we will receive device related information (including unique device identifier (IMEI code), network device hardware address (MAC address), communication operator and home location, mobile phone number, international mobile device identification code (IMSI), and other relevant information).
+4. Service content display and recommendation function
+Video recommendation, advertisement recommendation, graphic and text recommendation and related recommendation functions are the core business functions of our products and/or services. In order to provide higher quality and more suitable products and services for users, and to provide users with a better product and service experience, we will collect your personal online records (including search/browse/click/play records, favorites/follow/subscribe records, likes/comments/shares/posts/votes/interaction records, the number of times you watch advertisements and interact with them, play duration, visit date/time/duration, order placement, activity participation and other operation records when we provide products and/or services, in compliance with relevant laws and regulations), and combine them with legal records. Collecting your basic information (such as your nickname, gender, birthday, region, etc., if any) Device information (including device model, device name, device identifier (IMEI) IDFA、IDFV、OAID、Android_ID、IMSI、Openudid、ICCID、GAID、 Device identifier formed by device serial number, SIM card serial number, MAC address, and other comprehensive device parameters and system information, device name, device model, operating system and its version, application version, system language, application list, etc IP address, network status, type, access method, network operator, etc.), personalized tags that you actively choose, geographic location information, membership information, order information, and other personal information that you authorize (including some of your information collected from partners on the partner platform after obtaining your authorization in accordance with the law), are used to extract your preference features, and to collect, analyze, or personalize them separately or in combination with other information. Through comprehensive statistics and analysis, recommendation algorithm modeling, programmatic advertising recommendation algorithm modeling, user behavior analysis, and user profiling are carried out separately or in combination with certain information from other services to recommend more relevant graphic/audio/video content, information, and better match your needs to you. commercial information such as advertisements, Optimize our display and search results and advertising placement, improve our content and advertising recommendation mechanism, and enhance user experience and related services.
+Some of our content will be recommended to you based on your geographical location information (for example, displaying and recommending local content in your area (city, district, etc.) based on the city and/or county corresponding to your approximate geographical location information; Display and recommend user works near you based on your precise geographic location information. If you refuse to authorize us to obtain your location permission, we will not recommend content to you based on the geographic location information obtained through your location permission, but it will not affect the normal use of your other functions.
+In the process of recommending content to you, we strive to use advanced technology to properly protect your privacy. We will use de identification technology and recommendation algorithms based on machine learning, model prediction, etc. to recommend content that is more suitable for you based on the calculation results. And our recommendation algorithm does not recognize the true identity of specific natural persons. You can turn off personalized recommendations according to "My Settings Personalized Recommendation Content Settings". After you turn it off, we will not process your personal information for the purpose of personalized recommendations, but only push you universal content or advertisements that are not related to your preferences.
+5. Information release and interactive communication function
+If users choose to upload videos or photos, participate in bullet comments, leave comments, or leave messages, posts, or vote in the community, they may actively provide relevant graphic/audio/video content information. We will collect the graphic/audio/video content you upload, your nickname, avatar, posted information content, Mango TV account ID, and your interaction information, including likes/shares/comments/votes/interaction records, favorites records. For the convenience of users uploading videos and pictures, we may request your authorization for phone photo album/camera permissions. Users can also enable/disable this permission at any time through relevant function settings (such as Apple phone: Phone System Settings - Privacy - Camera - Mango TV). For users who frequently or in bulk upload spam ads, videos, or illegal content, in order to ensure content security, avoid suspicious upload accounts disturbing our platform users and audiences, and purify the online space, I
+The Fang platform may require the aforementioned users to upload their ID numbers, ID cards, and photos of themselves in the same frame for additional information collection and authentication through product features. It should be noted that all ID numbers, ID cards, and photos of themselves in the same frame are sensitive personal information. If the user refuses to provide them, we have the right to temporarily close such user upload requirements.
+When users engage in communication and interaction, we will collect your interaction records (including comments/shares/followers/votes, etc.), interaction content (including comments, bullet comments, and other communication and interaction information).
+According to the regulatory requirements of relevant laws and regulations on Internet account management, in order to maintain network security and a good network content ecology, we will display your IP territory (domestic IP address to be displayed to the province/autonomous region/municipality directly under the Central Government, and overseas IP address to be displayed to the country/region) on the user's personal homepage, under your comments and other information release pages, and the specific information is subject to the network operator data.
+6. Ordering and payment functions
+When users purchase or obtain goods and services on the "Mango TV" platform, including opening/renewing VIP, paying for on-demand, opening joint membership, purchasing digital collectibles, game payment, etc., they need to provide some information required for placing orders and completing transactions, such as transaction product or service information, recipient name, shipping address and contact phone number (sensitive personal information), payment status, etc. In addition, we may also collect other order related information, such as order number, transaction amount, payment method (sensitive personal information). We collect this information to smoothly complete transactions, ensure user transaction security, query order information, provide customer service and after-sales service, etc. After successfully placing an order, if the goods are provided by a third-party seller or require third-party delivery, in order to ensure smooth, safe, and accurate delivery and distribution of the goods, the merchant and third-party delivery company will inevitably obtain relevant delivery information during the shipping and distribution process. We promise our users that we will make every effort to ensure the security of personal information. We will strictly require merchants and third-party delivery companies to keep users' personal information confidential, only for the purpose of delivery, and not disclose or use it for any other purpose.
+7. Identity authentication function
+When users enter the game, publish works as creators of Da Mang, participate in digital collectibles transactions, use Mango Wallet and red envelope functions, or other services that require identity authentication, in order to meet relevant legal and regulatory requirements, ensure the authenticity of user identity, achieve risk control such as anti fraud, ensure system and service security, or provide services, we need to collect user identity information (which may include name, biometric information (such as static or dynamic facial features), mobile phone number, ID card related information, bank card, unique device identifier (IMEI code), network device hardware address (MAC address), communication operator and home, mobile phone number, International Mobile Equipment Identity (IMEI) (sensitive personal information), etc. We collect this information in order for users to conduct real and effective fund transactions between the platform and users, ensure the security of users' funds, etc. Biometric information, ID card, bank card information, IMEI are sensitive personal information, and we will only obtain and use them in specific scenarios and within the scope of this policy. We will highly treat and handle the above information you provide with caution (including high-strength encryption protection, etc.). Such information is necessary for this function. If you refuse to provide it, it will only prevent you from using the wallet and red envelope recharge and withdrawal functions, but it will not affect the normal use of functions such as grabbing red envelopes.
+When you trade digital collections, we will collect your real identity information, including your real name, ID card number and face recognition information, in order to meet the requirements of blockchain information services, anti money laundering and relevant laws and regulations.
+At the same time, in order to assist you in quickly completing real name authentication, risk control verification, etc., for the relevant real name authentication information (including name, ID card related information, mobile phone number) (sensitive personal information) that you have provided in our products and/or services, you agree that we can automatically pre fill all or part of the aforementioned information on other pages that require your real name authentication. You acknowledge and agree that we only assist in filling it out and do not directly transmit it. You will only provide it to the corresponding service system after you click the next step.
+Please note that third-party services (such as games operated by third parties or free data services provided by third-party telecom operators) may also require you to authenticate your identity and collect your identity information. In this case, Mango TV will not collect this information from you. We suggest that you carefully identify the actual service provider and carefully read the relevant privacy policies or personal information processing rules before using any third-party services.
+8. Game functions
+When users use Mang Fun Game Services, we collect their game log information, including login logs, item logs, character logs (including character ID, character name, character level, server ID, server name), game match information, operation information, etc., so that you can view your game history, and use it for customer service complaint handling and other game security and function analysis. To enhance the user's gaming experience, we may synchronize the aforementioned game log information to subsequent versions of the game.
+To maintain the normal operation of basic game functions, ensure your normal use of our game products and services, optimize the performance of game products and services, enhance your gaming experience, and ensure the security of your account, we will collect your personal commonly used device information (such as hardware model, device MAC address, etc.) IMEI、IMSI、Android ID)、 Login IP address, product version number, language mode, network type, and other information.
+When you use the consumption function of game products, we will collect your recharge records (including transaction product or service information, transaction amount, payment method, order number, payment results), consumption usage records, and other information. We collect this information to assist you in completing transactions smoothly, ensuring the security of your transactions, checking order information, providing customer service and after-sales service, etc. Recharge records and consumption usage records are sensitive personal information and necessary information for realizing the consumption function of game products. If you refuse to provide the above information, you may
+Can cause you to be unable to complete the transaction.
+9. Customer service and other user response functions
+When users contact our customer service or use other user response functions (including: submitting after-sales applications for our products and/or services, exercising your relevant personal information control rights, other customer complaints and demands), in order to ensure the security of the user's account and system, we may require the user to provide account information in advance and match it with the user's previous personal information to verify your user identity. When users use customer service or other user response functions, we may also need to collect your sensitive personal information, including contact information (phone number/email address or other contact information provided by the user to us), communication information between the user and us (including text/images/audio/video/call records), and other necessary information related to user needs. We collect this information to investigate facts and help users solve problems. This type of information is necessary for this feature, and if users refuse to provide it, it may result in them being unable to use our customer service and other user response mechanisms.
+10. Activity participation in marketing and promotion functions
+(1) Activity participation
+Sensitive personal information
+. You should be aware that the phone number and
+Account password
+The matching results belong to your sensitive personal information. We collect this type of information to meet the requirements of relevant laws and regulations on network real name registration. This type of information is necessary for this function. If you refuse to provide it, it may prevent you from using our function, but it does not affect your ability to browse, search, and play videos. Please consider carefully before providing it.
+Gender, nickname, avatar, birthday, personalized signature information
+We will obtain relevant information under the third-party account based on the user's authorization
+Including: username, nickname, avatar, subject to your authorized content
+And identity verification information
+Email, contact phone number, fax number, contact address
+In addition, we may also use the mobile phone numbers and email addresses collected during the aforementioned process to provide you with commercial information such as advertisements and commercial activities that you may be interested in through SMS, phone calls, and emails. However, please rest assured that if you do not wish to receive such commercial information, you can unsubscribe through the unsubscribe methods provided in your mobile phone SMS or email, or contact us directly to unsubscribe.
+2. Search function
+Search terms
+Contains voice information
+Search time, browsing history and time, as well as the number of interactions with them, etc
+Please be aware that we will only be responsible for your
+The behavior will not upload the aforementioned information to our servers.
+Such as invitation code, membership benefit code
+Please rest assured that we will not store your
+Other information, and separately
+The information cannot identify your specific identity.
+3. Content browsing/playback function
+4. Service content display and recommendation function
+Personal internet records (including
+In specific activities, we will read the content of your clipboard to determine if there is any relevant password code (such as invitation code, membership benefit code) information. Only when the clipboard has the aforementioned information, we will collect the information, verify it on the server, and provide you with the required content or bind relevant benefits. Please rest assured that we do not collect or store any other information about your clipboard, and individual clipboard information cannot identify your specific identity.
+(2) Marketing Promotion
+For the contact information you provide during use (such as phone number, email address), we may send multiple types of notifications to one or more of them for purposes such as user message notification, identity verification, security verification, user experience research, etc. After obtaining your authorization and consent, we may provide you with commercial information such as advertisements, commercial activities, etc. that you may be interested in through SMS, phone, and/or email. If you do not wish to receive our commercial messages, you can unsubscribe through the unsubscribe methods provided in SMS or email (for example, you can unsubscribe from the marketing messages we send you by replying "TD").
+11. Message notification function
+We may send you one or more types of messages through system notifications (PUSH notifications), app notifications, and other notification methods on your device, such as social instant messaging notifications, social interaction message notifications, activity/benefit/service notifications, content/hot topic recommendations, verification codes, internal announcements, etc. In order to achieve the above functions and services, it is necessary to ensure that Mango TV can receive system notifications (PUSH notifications) normally when it is turned off or running in the background. We need to use the self starting ability, and we will wake up the self starting behavior of this application through system notifications within a reasonable frequency range. If you do not wish to receive notifications from our system, you can choose to turn off our notification function on your device, or turn it off in the push settings function we provide (i.e. select whether you accept new message notifications in "My Settings Push Notification Settings New Message Notifications").
+12. Operation and product security assurance functions
+Play history, favorites
+Subscription records, likes
+Interactive records
+The number of times you watch and interact with advertisements
+Play duration, access date
+The products we provide, such as placing orders and participating in events, and
+Or operation records during service)
+Basic information (such as your nickname, gender, birthday, region, etc., if any)
+Equipment information (including equipment model, equipment name, equipment identification)（
+Equipment serial number
+Card serial number
+Device identifier formed by address and other comprehensive device parameters and system information, device name, device model, operating system and its version, application program version, system language, application list
+Address, network status, type, access method, network operator, etc
+The personalized label you voluntarily selected
+Geographic location information
+Membership identity information
+Order information and other personal information authorized by you
+5. Information release and interactive communication function
+For users who frequently or in bulk upload spam advertisements, videos, or illegal content, in order to ensure content security, avoid suspicious upload accounts disturbing our platform users and audiences, and purify the online space, our platform may require the aforementioned users to upload their ID numbers through product features
+Additional information collection and authentication of the code, ID card, and personal photo in the same frame
+It should be noted that the ID number, ID card, and photo of the user in the same frame are all sensitive personal information. If the user refuses to provide them, we have the right to temporarily close the user's upload request.
+6. Ordering and payment functions
+Information on traded goods or services, recipient's name, shipping address, and contact phone number
+Order number, transaction amount, payment method
+We promise our users that we will make every effort to ensure the security of personal information. We will strictly require merchants and third-party delivery companies to keep users' personal information confidential, only for the purpose of delivery, and not disclose or use it for any other purpose.
+7. Identity authentication function
+User identity information
+May include name, biometric information
+Such as static or dynamic facial feature information
+Mobile phone number, ID card related information, bank card, unique device identifier
+Network device hardware address
+, communication operator and location, mobile phone number, international mobile device identification code
+Biometric information, ID card, bank card information
+Belonging to sensitive personal information, we will only obtain and use it in specific scenarios and within the scope of this policy. We will highly treat and handle the above information you provide with caution
+Including high-strength encryption protection, etc
+Real name and ID card number
+Facial recognition information
+Real name authentication information
+Including name, ID card related information, and mobile phone number
+Please note that third-party services (such as third-party operated games, third-party telecom operators' data free services) may also require you to authenticate your identity and collect your identity information. In this case, Mango
+We will not collect this information from you. We suggest that you carefully identify the actual service provider and carefully read the relevant privacy policies or personal information processing rules before using any third-party services.
+8. Game functions
+Personal commonly used device information
+For example: hardware model, equipment
+Address, product version number, language mode, network type
+Recharge records (including transaction product or service information, transaction amount, payment method, order number, payment result), consumption usage records
+Recharge records and consumption usage records are sensitive personal information
+9. Customer service and other user response functions
+When users use customer service or other user response functions, we may also need to collect your sensitive personal information as follows: contact information
+The phone number used by the user to contact us
+Email or other contact information provided by the user to us proactively
+Communication information between users and us
+Call record format
+Other necessary information related to user needs.
+10. Activity participation in marketing and promotion functions
+(1) Activity participation
+(2) Marketing Promotion
+11. Message notification function
+System notifications (PUSH notifications), application notifications
+You can choose to turn off our notification function in your device, or turn it off in the push settings function we provide (i.e. select whether you accept new message notifications in "My Settings Push Notification Settings New Message Notifications")
+12. Operation and product security assurance functions
+Including your following personal information: device information
+Including: device name, device model, hardware serial number, device
+Equipment identifiers formed by other comprehensive equipment parameters and system information
+Network information (including IP address, WIFI information (BSSID, SSID), base station information, method of accessing the network, network status, network quality data, and network operator information)
+Product version number, application list, language mode,
+Personal internet history (including searches)
+Interaction records, number of times ads are viewed and interacted with, playback duration, and visit date
+The products we provide, such as duration, ordering, and participation in activities, are
+Or operation records during service, geographic location information, service log information,
+And sensitive personal information: transaction information, member real name authentication information.
+Please be informed that individual applications
+The software list information cannot identify your specific identity.
+13. Other additional services provided to you based on system permissions
+If you do not provide this information, it will not affect your basic services of browsing, searching, and watching videos,
+. You can cancel authorization at any time through the relevant function settings page 【 Mango TV - My - Settings - Permission Settings 】, or you can view the status of these permissions in your device's' Settings' and decide whether to turn them on or off (if applicable).
+Your cancellation will not affect our processing and storage of personal information based on your previous authorization
+）Additional business functions based on device calendar permissions
+Obtain your device calendar permissions and collect your calendar information
+）Additional business functions based on device storage permissions
+Obtain storage permissions for your device
+）Additional business functions based on device album permissions
+Obtain permission to access your device's photo album and collect the audio and video content you provide
+(4) Additional business functions based on device camera permissions
+Content information such as graphics and text
+）Additional business functions based on device camera permissions
+Obtain camera permissions for your device and collect the audio and video you provide
+）Additional business functions based on device location permissions
+Obtain your location permission and collect your location information after your authorization
+）Additional business functions based on device microphone permissions
+Obtain your device microphone permission and collect your voice information and voice interaction information
+14. Sensor application scenarios
+In the following application scenarios, we may invoke your sensor permissions to provide you with corresponding business functions through your sensor information (individual sensor information is not personal information). Please be informed that individual device sensor information does not involve any personal location information and cannot be combined with other information to identify the identity of specific individuals.
+15. Other rules for collecting and using personal information
+(1) If the information you provide contains personal information of other users, you need to ensure that you have obtained legal authorization before providing us with this personal information.
+Due to our wide range of products and services, the content we provide to users is also different, so it may vary depending on the product
+Within the service
+The collection of user information varies depending on the specific product or service provided. In addition, you understand and agree that we hope to provide you with comprehensive products and services, so we will continuously improve our products and services, including technology. This means that we may frequently introduce new business features, collect new personal information, or change the purpose or method of using personal information. If a function, product, or service that requires the collection of users' personal information is not specified in this policy, we will update this policy and explain the purpose, content, usage, and scope of the information collection separately through website announcements, pop ups, push notifications, or other means that are convenient for you to know. We will also provide users with the option to choose their own consent and collect the information after obtaining their public consent. We will not restrict your rights under this policy without your explicit consent. During this process, if users have any doubts or related matters, they can contact us through the methods provided at the end of the article, and we will provide corresponding answers.
+In order to provide you with better service, we may cooperate with third-party data service providers to predict your feature preferences. Please be aware that in order to ensure the security of your data, this prediction is provided in the form of an exponential score, and data analysis will be conducted under strict de identification security measures;
+Including profile picture and nickname
+Including content related to you that has been published, including comments, updates, images, photos, videos, device information, geographic location information, etc
+(4) Exceptions that do not require consent
+According to laws and regulations, we do not require your consent to collect and use your personal information in the following situations:
+(1) Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+(2) Necessary for fulfilling statutory duties or obligations;
+(3) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(4) To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+(5) Process personal information that individuals have voluntarily disclosed or other legally disclosed within a reasonable scope in accordance with the provisions of this law;
+(6) Other circumstances stipulated by laws and administrative regulations.
+2、 How do we store collected user personal information
+We will store user information in a secure manner, including local storage (such as using an app for data caching), databases, and server logs.
+2. Generally, we will only store users' personal information for the time necessary to achieve our service objectives or under the conditions stipulated by laws and regulations. Users can independently choose to delete personal information provided and generated during the use of the "Mango TV" service, such as viewing history, viewing orders, subscriptions, etc. If users choose to delete the above information, we will also delete the corresponding personal information accordingly.
+Storage location: We store your personal information within the territory of the People's Republic of China in accordance with laws and regulations. At present, we do not have any cross-border storage of your personal information or provision of personal information overseas. If cross-border transmission or storage is required in the future, we will inform relevant parties of the purpose, recipient, security measures, and security risks of information export, and obtain the consent of users and regulatory authorities.
+4. Storage period: The storage period of user personal information is the shortest time necessary to achieve the purpose of user authorization (for example, when you register a Mango TV account with your mobile phone number and become a registered user, in order to provide you with products and services exclusive to registered users and ensure the security of your account and system, we need to continue storing your mobile phone number before you cancel your account), except as otherwise provided by laws and regulations or authorized by the user. After exceeding the aforementioned personal information storage period, we will delete or anonymize users' personal information, except as otherwise provided by law (for example, the Cybersecurity Law requires network operators to keep relevant network logs for no less than six months).
+5. When our products and/or services cease operation, we will notify users in the form of push notifications, announcements, etc., stop collecting your personal information, and delete or anonymize your personal information within a reasonable period of time, except as otherwise provided by laws and regulations.
+3、 How do we use cookies and similar technologies
+1. If the user does not refuse to accept cookies, "Mango TV" will set or access cookies on the user's computer, and the data information will be anonymous, so that the user can log in or use the "Mango TV" platform services or functions that rely on cookies, providing users with more comprehensive personalized and promotional services.
+You understand and acknowledge that some of our products
+The service can only be accessed through the use of
+Only similar technologies can be implemented. If users refuse to use or delete, they may not be able to use our related products normally
+Or services or inability to connect with our products
+Or the service may provide the best service experience, but it may also have a certain impact on user information protection and account security.
+4、 How do we share, transfer, and publicly disclose the collected personal information of users
+（1） Sharing
+When we share information with our business partners, we protect your personal information in various ways, including but not limited to:
+If there are reasonable reasons mentioned above and your authorization and consent are required, we will inform you of the purpose and type of information shared before sharing
+If it involves your sensitive personal information, we will also inform you of the content of the sensitive information involved
+And share only after obtaining your authorization and consent;
+Our security team will conduct security assessments and processing on the output form, circulation, and use of information data.
+Based on your own requests or with your prior explicit authorization or consent;
+2. Relevant to our obligations under laws and regulations;
+3. Directly related to national security and defense security;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. You publicly disclose your
+personal information;
+6. Collecting personal information from legally public sources, such as through legitimate news reports, government information disclosure, and other channels;
+7. Within the scope required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the interests, property, or safety of Mango TV, its users, or the general public from harm;
+8. In order to facilitate our joint provision of services to you based on Mango TV affiliated accounts, or to recommend information that may be of interest to you, and to protect the personal and property safety of affiliated companies or other users or the public who provide Mango TV applications or services from infringement, your personal information may be shared among our affiliated companies. We will only share necessary personal information, and this sharing is also subject to the purpose of this policy statement. If the affiliated company wants to change the purpose of processing personal information, it will seek your authorization and consent again;
+9. Necessary sharing with third-party business partners.
+You understand and agree that in order to facilitate the smooth operation of necessary/reasonable business, meet your requirements, fulfill our obligations under relevant service agreements or this policy, and exercise our rights or comply with legal provisions, we may need to share your personal information with some business partners (third-party service providers, contractors, agents, advertising partners, application developers, etc., such as map service providers that provide location services to us). We promise to require third parties to process the above information for us in accordance with our instructions, personal information protection policies, and other relevant confidentiality and security measures.
+Our business partners include:
+(1) Service providers who provide functional support for our products and/or services, including payment institutions that offer payment services, operators that provide one click login services, third-party delivery companies, and other service providers. The purpose of sharing information is to enable the functionality of our products and/or services to be implemented, allowing you to use them normally;
+(2) Our platform's third-party merchants: In order to fulfill your needs for purchasing products or services (including enjoying after-sales service), we will share your order information and transaction related information with our platform's third-party merchants;
+(3) A supplier that provides technical and consulting services. We may share your personal information with third parties who support us in providing services. These institutions include those that provide us with infrastructure technology services, data processing, credit approval, and customer service. But we require these service providers to only use your information for the purpose of providing services to us, and not for their own benefit.
+(4) Advertisers and/or their agents, as well as advertising partners who provide advertising statistical analysis services, monitoring services, data services, and other advertising related services: In order to place/push ads, evaluate and measure the effectiveness of ads and related services, improve ad reach, optimize ad delivery effectiveness, maintain/improve our products/services, and provide you with better content and services, we need to share some of your personal information with advertisers and/or their agents, as well as advertising partners who provide advertising statistical analysis services, monitoring services, data services, and other advertising related services, including ad display exposure, click through, and ad conversion data and other advertising related data; Device information (such as Android ID, MAC address, IDFA, OAID and other device identifiers, terminal model, etc.); The user voluntarily fills in and authorizes us to provide relevant personal information to advertising partners. But unless we obtain your permission, we will not share your personally identifiable information (referring to information that can identify you, such as name) with our partners. For partners who provide advertising statistical analysis services and monitoring services, we may also provide them with information about their advertising coverage and effectiveness, including indirect user profiles formed by your relevant information collection, analysis/statistical information after de identification or anonymization processing, to help them make advertising or decision recommendations, improve advertising effective reach, and further understand user needs. We will not provide your personal identity information, or anonymize this information so that it does not identify you personally. For partners who provide data services (including online advertising monitoring, data statistics, data analysis, etc.), in order to better analyze the usage of Mango TV users and maintain/improve our products/services, we may also provide them with data such as the number, regional distribution, and activity of Mango TV users. However, we will only provide these partners with non personally identifiable statistical information. We promise that we will not share personal information that can identify you with you without your consent;
+(5) A partner who collaborates with us to provide a certain service, such as conducting marketing activities together. In order to provide you with normal services and meet your service needs, we will obtain your authorization separately and synchronize your relevant information (specifically based on your authorized content) to the partner after your authorization.
+(6) Partners who provide us with installation package reinforcement services, such as 360 reinforcement of our applications to avoid security vulnerabilities, will share your personal information with 360, including application IMEI information and commonly used personal devices; To achieve the "application piracy detection" function, 360 will use your installed application list and usage status; To achieve 'crash log analysis', when you experience a crash using our product, 360 will use your phone's system kernel version, current system time, exception type and content, etc.
+(7) Third party SDK service providers: Our products may include third-party SDKs or other similar applications. If you use such services provided by third parties on our platform, you agree to have them directly collect and process your information. We have highlighted sensitive information collected by third parties in font. Please consider carefully when authorizing third parties to use such information. You can click on the 'List of Shared Information with Third Parties' to learn more about the specific information of third-party SDKs or other similar applications. The aforementioned service providers' collection and processing of information comply with their own privacy policies and are not applicable to this policy. But we will also strive to review the business access qualifications of the third party and demand the legal compliance of such service providers
+Compliance and safety. To ensure the maximum security of your information, we strongly recommend that you carefully read the privacy policy of any third-party SDK services before using them. To protect your legitimate rights and interests, if you discover any risks associated with such SDKs or similar applications, we recommend that you immediately terminate the relevant operations and contact us promptly;
+(8) Other partners who are necessary to share with us in order to implement the functions of our products and/or services, provide the services you need, or handle disputes or controversies between you and others.
+You can share your personal information or other information with third parties (including unspecified objects) based on the Mango TV platform, but any information leakage or use caused by your sharing behavior is not our responsibility, and you need to bear the corresponding legal responsibility on your own.
+（2） Transfer
+Transfer refers to the process of transferring control of personal information to other companies, organizations, or individuals. In principle, we will not transfer your personal information to other companies, organizations, or individuals, except in the following circumstances:
+Based on your own requests or with your explicit consent or authorization obtained in advance;
+2. Relevant to our obligations under laws and regulations;
+3. Directly related to national security and defense security;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. Your personal information that you disclose to the public on your own;
+6. Collecting personal information from legally public sources, such as through legitimate news reports, government information disclosure, and other channels;
+7. Within the scope required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the interests, property, or safety of Mango TV, its users, or the general public from harm;
+8. In order to facilitate our joint provision of services to you based on Mango TV affiliated accounts, or to recommend information that may be of interest to you, and to protect the personal and property safety of affiliated companies or other users or the public who provide Mango TV applications or services from infringement, your personal information may be shared among our affiliated companies. We will only share necessary personal information, and this sharing is also subject to the purpose of this policy statement. If the affiliated company wants to change the purpose of processing personal information, it will seek your authorization and consent again;
+(1) Service providers who provide functional support for our products and/or services, including payment institutions that offer payment services, operators that provide one click login services, third-party delivery companies, and other service providers. The purpose of sharing information is to enable the functionality of our products and/or services to be implemented, allowing you to use them normally;
+To fulfill your needs for purchasing products or services
+Including enjoying after-sales service
+We will share your order information and transaction related information with third-party merchants on our platform;
+We may share your personal information with third parties who support us in providing services. These institutions include those that provide us with infrastructure technology services, data processing, credit approval, and customer service.
+To advertise
+Push advertisements, evaluate and measure the effectiveness of advertisements and related services, improve the effective reach of advertisements
+Advertising effectiveness and maintenance
+Improve our product
+To provide better content and services, we need to communicate with advertisers and
+Or its agents and advertising partners who provide advertising statistical analysis services, monitoring services, data services, and other advertising related services may share some of your personal information
+Including: advertising display exposure, click through and conversion data, and other advertising related data
+Waiting for device identifiers, terminal models, etc
+； The relevant personal information that the user voluntarily fills in and authorizes us to provide to advertising partners
+. But unless we obtain your permission, we will not disclose your personal identification information
+Refers to information that can identify your identity, such as name
+Share with partners.
+We promise that we will not share personal information that can identify you with you without your consent;
+In order to provide you with normal services and meet your service needs, we will obtain your authorization separately and provide your relevant information after your authorization
+Please refer to your authorized content for specific details
+Synchronize with this partner
+(6) Partners who provide us with installation package reinforcement services, such as 360 reinforcement of our applications to avoid security vulnerabilities, will share your personal information with 360, including application IMEI information and commonly used personal devices; To achieve the "application piracy detection" function, 360 will use your installed application list and usage status; To achieve 'crash log analysis', when you experience a crash using our product, 360 will use your phone's system kernel version, current system time, exception type and content, etc.
+Class service providers: Our products may include third-party services
+Or other similar applications, such as when you use services provided by third parties on our platform, you agree to have your information directly collected and processed by them. We have highlighted sensitive information collected by third parties with font emphasis. Please consider carefully when authorizing third parties to use such information.
+The aforementioned service providers' collection and processing of information comply with their own privacy policies and are not applicable to this policy. But we will also strive to review the third-party's business access qualifications and demand the legality, compliance, and security of such service providers. To ensure the maximum security of your information, we strongly recommend that you use any third-party service
+Carefully read its privacy policy before providing services. To protect your legitimate rights and interests, if you find that
+When there is a risk with other similar applications, we recommend that you immediately terminate the relevant operations and contact us promptly;
+(8) Other partners who are necessary to share with us in order to implement the functions of our products and/or services, provide the services you need, or handle disputes or controversies between you and others.
+You can base it on mango
+Platform and Third Party
+Including unspecified objects
+We share your personal information or other information, but any information leakage or use caused by your sharing behavior is not our responsibility, and you need to bear the corresponding legal responsibility on your own.
+In principle, we will not transfer your personal information to other companies, organizations, or individuals, except in the following circumstances
+1. Based on your own proposed requirements
+Request or obtain your explicit consent or authorization in advance;
+4. Directly related to public safety, public health, and major public interests;
+5. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+6. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+7. Your personal information that you disclose to the public on your own;
+8. Collecting personal information from legally public sources, such as through legitimate news reports, government information disclosure, and other channels;
+9. Transfer in case of company merger, acquisition, bankruptcy liquidation, or change of operating entity.
+10. Other circumstances stipulated by laws and regulations.
+If we engage in mergers, acquisitions, reorganizations, spin offs, bankruptcies, asset transfers or similar transactions, and your personal information may be transferred as part of such transactions, we will require the new holder to continue to comply with and fulfill all the contents of the Mango TV Personal Information Protection Policy (including the purpose of use, rules of use, security measures, etc.), otherwise we will require them to obtain your explicit authorization and consent again;
+If it is necessary to transfer due to the above reasons, we will inform you of the purpose and type of the information to be transferred before the transfer (if it involves your sensitive personal information, we will also inform you of the content of the sensitive information involved), and transfer it after obtaining your explicit consent, except as otherwise provided by laws and regulations or this policy.
+（3） Public disclosure
+In principle, we will not disclose any of your personal information to me, except in the following circumstances:
+1. Transfer with explicit consent: After obtaining the user's explicit consent, we will transfer the user's personal information to other parties;
+2. In the event of a merger, acquisition, or bankruptcy liquidation of our platform service provider, or in other cases involving the transfer of personal information, we will require the new company or organization holding the user's personal information to continue to be bound by this policy. Otherwise, we will require the company, organization, or individual to seek authorization and consent from the user again;
+3. Matters related to national security and defense security;
+4. Matters related to public safety, public health, and major public interests;
+5. Matters related to criminal investigation, prosecution, trial, and execution of judgments;
+6. It is difficult to obtain the consent of the individual in order to safeguard their significant legitimate rights and interests such as life and property;
+7. Personal information that users disclose to the public on their own;
+8. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+5、 How can we ensure the security of the personal information collected from users
+Mango TV has always attached great importance to protecting the personal information security of users. To this end, we have adopted security technology measures that comply with industry standards, as well as supporting organizational structures and management systems, and other multi-level protection measures to minimize the risks of user information leakage, damage, misuse, unauthorized access, unauthorized disclosure, and alteration. include:
+1. In terms of data security transmission, encryption technologies such as transport layer security protocols are adopted to prevent transmission links from being sniffed, eavesdropped, and intercepted risks through HTTPS and other methods. A secure privacy data collection environment is established to ensure the privacy and integrity of data collection;
+2. In terms of data security storage, classify and classify data for disposal, and take additional security protection measures such as independent and encrypted storage for sensitive personal information of users;
+3. In terms of security control for data access and usage, strict data permission control mechanisms should be implemented, multiple identity authentication technologies should be adopted, and behaviors that can process user information should be monitored to avoid unauthorized access and use of data;
+4. Establish a complete audit mechanism to monitor and audit the entire data lifecycle process, preventing unauthorized access, public disclosure, use, modification, human or accidental damage or loss of users' personal information;
+5. Establish a dedicated department responsible for personal information protection, establish relevant internal control management processes, and adopt the principle of minimizing permissions for personnel who may come into contact with user information;
+6. Establish a management system for data classification and grading, business data security usage norms, data cooperation norms, etc., to ensure that the disposal of user information in the collection, transmission, use, storage, transfer, destruction and other links meets relevant laws and regulations and security requirements;
+7. The terms of the cooperation agreement guarantee:
+(1) Before we indirectly collect your personal information from a third party, we will explicitly require the third party in writing (such as a cooperation agreement or commitment letter) to collect and process personal information after obtaining your explicit consent, and the information we use will not exceed the scope of your authorized consent. We will also require the third party to make a commitment to the legality and compliance of the source of personal information at the written agreement level. If the third party violates the agreement, we will explicitly require the third party to bear corresponding legal responsibilities;
+(2) Before we share your personal information with our business partners, we will strictly require our partners to fulfill their information protection obligations and responsibilities, and require them to sign a data security protection agreement before cooperation. If any business partner violates the agreement, they will be held legally responsible;
+(3) The contents explicitly stipulated in other cooperation agreements.
+8. Other feasible security organization and management measures
+(1) Before sharing user personal information with our business partners, we strictly require our partners to fulfill their information protection obligations and responsibilities. To this end, our legal department has specially revised the "Data Security and Confidentiality Agreement" with our business partners and requires them to sign it before cooperation. The agreement strictly stipulates the confidentiality obligations of our business partners' user information, including the storage, use, and circulation of information, which should meet our control requirements and be subject to our review, supervision, and audit. Once there is any violation, we will bear corresponding legal responsibilities;
+(2) We have established a reasonable, effective, and scientifically sound security emergency response system, clarified the classification and grading standards for network security incidents, security emergency response organizations and responsibilities, and formulated appropriate emergency response plans based on the different types and levels of security incidents. We have also clarified and standardized the reporting process and emergency response department for security incidents
+Set up the process. At the same time, we also have a "Mango TV" security emergency response center, which is maintained by the security technology and operation team, to facilitate timely and effective response and disposal of various security vulnerabilities and emergencies, and to work with relevant departments to trace and crack down on security incidents;
+(3) To cope with potential risks such as personal information leakage, damage, and loss, we have established a dedicated emergency response team. In accordance with the company's relevant security incident handling standards, we have activated security plans for different security incidents, conducted stop loss, analysis, developed remedial measures, and collaborated with relevant departments to trace and crack down on them. At the same time, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you, in accordance with the requirements of laws and regulations. At the same time, we will promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+Please know and understand that the Internet is not an absolutely secure environment. We strongly recommend using complex passwords in a secure way to help us ensure the security of users' accounts. If you discover that your personal information has been leaked, especially if your account or password has been compromised, please contact us immediately using the contact information provided at the end of this policy so that we can take appropriate measures to protect the security of your personal information.
+6、 How users manage their personal information
+1. According to the requirements of the Personal Information Protection Law of the People's Republic of China, Mango TV provides convenient methods for you to access, correct, and delete your own account information, as well as other personal information provided by users when using our services. You can also revoke your previous consent to your personal information and cancel your registered account. You can access and manage users' personal information through the following methods.
+Accessing personal information
+Delete personal information
+(1) We collect, store, use, transfer, or disclose user personal information in violation of laws, administrative regulations, or agreements with you;
+(2) We collect, store, use, transfer, or disclose user personal information beyond the scope of the purpose or within the necessary period;
+(3) We collect and use users' personal information without obtaining explicit consent or users withdrawing their consent;
+(4) The user no longer uses our products and/or services, or the user voluntarily cancels their account;
+(5) We will permanently cease to provide products or services to users;
+(6) Other circumstances stipulated by laws and regulations.
+Personal Information Subject Account Cancellation
+If users have uploaded videos on our platform before logging out, and do not want the related videos to continue to spread on our platform, please delete them yourself. If the deletion is not selected, it will be deemed that we agree to continue authorizing our platform to disseminate information through the internet. If the user chooses not to delete the uploaded videos, after logging out of the account, the information of the uploaded videos will be anonymized when displayed on our platform.
+6. You have the right to obtain a copy of your personal information in accordance with laws, regulations or national standards. You can send an email to【 privacy@mgtv.com 】Contact us. After verifying your identity, we will reply to you within fifteen working days to assist in resolving your issue.
+Personalized Display/
+In order to recommend high-quality personalized splash screen ads to you, we will use Mango on your device
+During the process of requesting access to your phone's status, location, and storage permissions, you can refuse authorization. After refusal, you can still use related functions that are not based on your phone's status, location, or storage permissions.
+Withdraw your authorization and consent
+Please understand that each business function often requires partial permissions to be enabled and necessary personal information to be collected in order to be implemented. For the collection, use, and management of your personal information and device permissions, you can contact us through device system permissions or the methods provided in Article 10 of this policy to request withdrawal of consent, or operate on your own through the following methods:
+(1) When you want to revoke authorization for storage, phone, location information, camera, microphone, and calendar functions, the revocation path is [My Settings Privacy Settings];
+(2) When you want to revoke the authorization to activate TouchID and FaceID, the release path is [My Settings Account and Security Touch ID/Face ID].
+After you withdraw your consent, we will no longer process the corresponding personal information, but please understand that when you withdraw your consent or authorization, we cannot continue to provide you with the specific functions and/or services corresponding to the withdrawal of consent or authorization. Your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization.
+Personal information protection for deceased users
+For the legitimate and legitimate interests of the deceased user's close relatives, they may exercise the rights to access, copy, correct, delete and other related personal information of the deceased user through the contact information disclosed in Article 10 "How to Contact Us" of this Personal Information Protection Policy, except for those who had other arrangements before the deceased user's death.
+You understand and confirm that in order to fully protect the personal information rights and interests of the deceased user, the close relatives of the deceased user who apply to exercise this right need to submit the identity proof documents of the deceased user, the death proof documents, the applicant's identity proof documents, and the proof of the applicant's family relationship with the deceased user according to the designated process of the personal information protection team or customer service prompts, and provide the type and purpose of the rights applied to be exercised. We will provide corresponding services to users and their close relatives in accordance with the law after verification, except as otherwise provided by laws, regulations, and these rules.
+10. Responding to your above request
+To ensure security, we may first require you to verify your identity before processing your request. For your request, we will, in principle, reply to you within fifteen working days after receiving your request and verifying your user identity to assist in resolving your issue.
+We generally do not charge any fees for your reasonable requests. But for requests that are repeated multiple times and exceed reasonable limits, we will charge a certain fee depending on the situation
+This fee. For those who violate legal and regulatory requirements, repeat without reason, and require excessive technical means（
+For example, the need to develop new systems or fundamentally change current practices
+We may refuse requests that pose risks to the legitimate rights and interests of others or are very unrealistic.
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to our obligations under laws and regulations;
+(2) Directly related to national security and defense security;
+(3) Directly related to public safety, public health, and major public interests;
+(4) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(5) We have sufficient evidence to suggest that you have subjective malice or abuse of power;
+(6) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my authorization and consent;
+(7) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(8) Involving trade secrets.
+If you have further requests or have any questions, opinions or suggestions regarding your rights as a data subject, you can contact us through the "Contact Us" section of this policy and exercise your relevant rights.
+7、 Protection of Minors
+Personal Information Protection Policy ", and personal information should be submitted with the explicit consent and guidance of the guardian;
+2. Minors who are over 14 years old but under 18 years old should submit personal information with the explicit consent of themselves and their guardians and under the guidance of their guardians.
+3. We protect the personal information of minors in accordance with relevant national laws and regulations. We will only collect, use or publicly disclose the personal information of minors with the permission of the law and the explicit consent of the guardian; If we discover that personal information of minors has been collected without obtaining verifiable consent from their guardians in advance, we will try to delete the relevant data as soon as possible.
+4. Regarding our collection, use, storage, and protection rules for personal information of minors under the age of fourteen, we have formulated specific provisions. Guardians are advised to carefully read our specially formulated "Mango TV Personal Information Protection Rules for Minors".
+8、 Revision and update of this policy
+You have the right to modify the personal information protection policy and notify users through our platform announcement or other appropriate means before the revision takes effect. In this case, please carefully read the new version of the personal information protection policy and give us explicit authorization. If you clicked“
+By waiting for the button and continuing to use our service, you agree to be bound by the revised personal information protection policy of our platform.
+2. Without the explicit consent of the user, we will not restrict the rights that the user should enjoy according to this policy. We will post any changes and updates made to our personal information protection policy on the dedicated link of 'Mango TV'.
+For significant changes, we will provide more prominent notifications. The significant changes referred to in this policy include but are not limited to:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in terms of control and other aspects. Changes in ownership caused by mergers and acquisitions;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There have been significant changes in the rights and exercise methods of users to participate in personal information processing;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+9、 Contact Us
+If users have any complaints or suggestions about Mango TV, please contact our customer service email: service@mgtv.com ； Manual customer service channel: 40097770707;
+2. We will review the issues as soon as possible and provide a response within fifteen days after verifying the user's identity;
+Our contact address is: Mango TV, West Annex Building, Hunan International Convention and Exhibition Center, Kaifu District, Changsha City, Hunan Province; Postal code: 410000, contact phone number: 0731-82871680;
+4. We have established a dedicated personal information protection team. If you have any questions about personal information protection policies, data security, or personal information, please send an email to: privacy@mgtv.com We will reply within fifteen days.
+10、 Other relevant information
+1. The "Mango TV Personal Information Protection Policy" is a general user information privacy clause uniformly applicable to "Mango TV", and the user rights and information security measures stipulated therein are applicable to "Mango TV" users. If there is any inconsistency or contradiction between the "Mango TV Personal Information Protection Policy" and the privacy protection guidelines for specific products or services, please refer to the specific product or service protection guidelines.
+2. Any disputes arising from this policy or our handling of your personal information shall be resolved through friendly negotiation between the parties. If negotiation fails, either party may file a lawsuit with the people's court with jurisdiction over the defendant's domicile in accordance with the provisions of the Mango TV Service Agreement.
+3. If the user continues to use the services provided by "Mango TV", it shall be deemed as acceptance of the changes in this "Mango TV Personal Information Protection Policy".
+Company Introduction
+recruitment information
+contact us
+Anti Piracy and Chain Theft Statement
+Personal Information Protection Policy
+Download Center
+Copyright 2006-2024 mgtv.com Corporation,All Rights Reserved
+Hunan Happy Sunshine Interactive Entertainment Media Co., Ltd. All rights reserved
+There are currently no tasks available, please try again later!
+Go to my points center to exchange gifts
+wallpaper
+Illegal reporting
+Problem feedback
+Top

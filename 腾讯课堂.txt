@@ -1,0 +1,308 @@
+Tencent Classroom Privacy Protection Guidelines
+Update Date: April 28, 2022
+Effective Date: April 28, 2022
+outline
+Welcome to Tencent Classroom!
+Recently, we have updated the "Tencent Classroom Privacy Protection Guidelines", which mainly include the following content:
+1. We have adjusted and optimized the information we collect and use, as well as the information we share, and presented it to you in a list format;
+2. Clarified the path for closing personalized recommendations;
+3. We have improved the way you manage your personal information, making it easier for you to exercise your rights related to personal information;
+4. Updated the statement for contacting us.
+In order to better protect your relevant rights, we suggest that you carefully read the updated privacy protection guidelines. If you have any questions or suggestions about this privacy protection content, you can contact us through the contact information published in the "Contact Us" section of this privacy protection guideline.
+Tencent Classroom is an online education platform provided by Shenzhen Tencent Computer Systems Co., Ltd. (hereinafter referred to as "we"), registered at 35th floor, Tencent Building, Science and Technology Middle Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen. During the product operation process, it will also collaborate with affiliated companies, such as channel cooperation, brand linkage, etc. We will use the Tencent Classroom Privacy Protection Guidelines to help you understand our collection, use, storage, and sharing of personal information, as well as the relevant rights you enjoy.
+-In order to provide you with classroom teaching guidance and other services, we need to collect information that you voluntarily provide or generate as a result of using the service. We will explain to you the types and corresponding purposes of the above information;
+-You can access, correct, delete your personal information and manage your authorization on the relevant pages;
+-We will use industry-leading security technology to protect your personal information.
+This Privacy Protection Guide mainly explains to you:
+1、 The information we collect and how we use it
+2、 Storage of Information
+3、 Information Security
+4、 How we use information
+5、 Provide external information
+6、 Your rights and how to exercise them
+7、 Change
+8、 Protection of Minors
+9、 Other
+10、 Contact Us
+-The personal information we collect and use can be found in the 'List of Explicitly Collected Personal Information'
+-The personal information we share with third parties can be found in the 'List of Personal Information Third Party Sharing'
+1、 The information we collect and how we use it
+During your use of Tencent Classroom services, we will collect information that you voluntarily provide or generate as a result of using the services in the following manner, in order to provide you with services, optimize our services, and ensure the security of your account.
+When you use the following features of Tencent Classroom, we require you to proactively provide some information:
+1.1 Account registration and login services
+1) When you register and log in to our product, in order to help you smoothly complete the registration process and provide you with services exclusive to registered users, you need to provide us with your phone number and verify it. Mobile phone numbers are sensitive personal information. If you refuse to provide them, we may not be able to associate you with a unique account relationship and may not be able to continue experiencing our business.
+2) If you log in through your QQ or WeChat account, we will obtain relevant information when you log in to your QQ or WeChat account (including nickname, avatar, QQ number, WeChat ID, subject to your login situation and authorized content), which will be used to bind with our account so that you can log in directly through the above account.
+3) In order to enable you to log in normally through QQ and WeChat accounts during the login period and check if you have installed QQ and WeChat, the system will automatically collect your installed application list (software name, software package name) at this stage.
+1.2 Content recommendation/browsing/playing/speaking/sharing services
+1) Browsing/playback service: To ensure that you can play videos and browse content normally, we collect your device information (device model, system version, network type, unique device identifier (IMEI), phone model, phone manufacturer information) when you use the content playback function, in order to provide you with consistent services and ensure the compatibility and stability of playing videos.
+2) Speech service: To ensure that you can speak normally, we will collect your speech information (text, pictures) for compliance inspection when you use the live broadcast room's speech function to ensure that the content you express meets national requirements and there is no illegal information.
+3) Sharing service: To ensure that you can successfully share course, video, or article links outside the website, we will collect your clipboard information to read the course links. Please rest assured that we will not collect or store any other information from your clipboard and clipboard information will not be uploaded to our servers.
+4) To ensure that we can provide you with courses that align with your interests, we will collect your interest categories and recommend suitable courses and content based on your chosen interests.
+5) Automated decision-making refers to the activity of automatically analyzing and evaluating an individual's behavior habits, interests, or economic, health, credit status through computer programs, and making decisions accordingly. When you activate personalized recommendation services, in order to achieve content display, optimize display and search results, understand the compatibility of products with different hardware, complete recommendation strategies for different contents, and collect operational data of products, we will collect user settings and browsing behavior, account information (nickname, QQ number, WeChat openid), log information (browsing history, class history, registration history, interaction history, playback history, playback duration, visit date and time), birthday, and user interests within the application.
+The specific personalized recommendation mechanism is as follows: This service will recommend targeted content based on your settings and browsing behavior, as well as the above information, in order to achieve the goal of matching courses and short video recommendations. Your following personal information may be used for recommendation algorithms:
+-In app settings
+-Browse and interaction records in the application
+-Account information in the application
+You provide us with personal information to create user groups, that is, grouping people with similar characteristics and targeting these groups. Your information is used to determine which sub group to assign you to, and accordingly, you will see
+What recommended information. Your following personal information may be used for targeted segmentation:
+-In app settings
+-Browse and interaction records in the application
+-Account information in the application
+The specific content display module for personalized recommendations is as follows: the "Recommended" content module at the bottom of "Rising Knowledge" will present personalized recommendation content.
+You can turn off personalized recommendations through 'My Privacy Disable Personalized Recommendations'. After turning it off, you need to restart the app. Afterwards, we will not recommend personalized content to you in the above module. Turning off personalized recommendations will not affect the normal use of your other functions. You can decide to turn on or off this function at any time according to your preferences and judgment.
+1.3 Course Services and Teaching Activity Services
+1) To ensure that you have arrived at the exam center and can participate in the offline exam as usual, we will collect your accurate location information and rough location data (province, city, county, GPS location data) during the exam authentication check-in process. Location information is sensitive personal information. If you refuse to provide it, we will not be able to provide the above services to you, but it does not affect your use of our other services.
+2) In order to identify your real identity, to ensure that the vocational skill certification and post skill certification examinations can be successfully registered and the certification results can be successfully queried, we will collect your real name and ID card number in the certification registration and query link. The real name and ID card number are sensitive personal information. If you refuse to provide them, we will not be able to provide you with the above services, but it will not affect your use of our other services.
+3) In order for you to receive course materials sent by third-party institutions, when you register for courses offered by third-party institutions on Tencent Classroom, we will provide your name, phone number, and shipping address to the third-party institution with your consent. You can also pre write your shipping address on your personal information page, so that after your consent, we can quickly share the address information you have reserved with the third-party institution. Mobile phone numbers and shipping addresses are sensitive personal information. If you refuse to provide them, third-party organizations may not be able to mail course materials to you, but it does not affect your use of our other services. You can withdraw your authorization for specific institutions' mobile phone numbers and shipping addresses at any time in 'My Privacy Personal Information Authorization and Management'.
+4) In order for you to consult and provide course services with institutional teachers, when you register for courses offered by third-party institutions on Tencent Classroom, we will, with your consent, provide your mobile phone number, account information, communication information (image information and text information generated during your communication with the third party), order information (course ID, course name, order amount, order status), and course learning progress to the third-party institution for providing you with course tutoring services. Mobile phone numbers are sensitive personal information. If you refuse to provide them, third-party organizations may not be able to provide you with course services, but it does not affect your use of our other services. You can withdraw your authorization for a specific organization's mobile phone number at any time in 'My Privacy Personal Information Authorization and Management'.
+5) To ensure that the contact information you submit can be displayed properly, and to review and ensure that the exercise content does not involve sensitive or illegal content, we will collect your exercise information (text, images, audio) for compliance verification to ensure that the content you express meets national requirements and does not contain illegal information.
+6) In order for you to accurately know your learning time and learning effectiveness on the platform, we will collect your learning time. You can see your daily learning time and how many users your learning time exceeds on the course schedule page.
+7) In order for you to view the course content you downloaded and cached normally, we will collect your course cache file, cache file size, course information (course title, course task name), and device information (phone storage information) to ensure that the course files can be downloaded and displayed normally. You can view or delete the course content you downloaded in 'My Download Management'.
+1.4 Ordering and Payment Services
+1) In order to provide you with the ability to purchase paid courses through online payment, we will collect your user identification information (QQ number, WeChat openid), mobile phone number, transaction amount, order time, order number, payment method, and payment status to ensure transaction security and guarantee successful course purchases.
+2) In order to ensure that you can use your balance (virtual currency within the course) normally, we will collect your balance and balance details information (transaction time, balance amount, purpose of use) to ensure that you can use your balance to purchase courses, receive reward balances, and view balance details normally. Please note that the balance can be recharged by yourself or distributed to you by us. You can receive reward balance through platform operation activities. If you use an iOS system phone, you need to top up your balance before you can purchase courses. You can recharge your balance in 'My Balance' and view the balance details in 'My Balance Balance Details'.
+1.5 Information release, communication and interactive services
+1) To ensure that the content information you post can be displayed normally and to verify whether it meets national requirements and does not involve illegal information, we will collect the graphics, comments, videos, and audios you post for the purpose of information dissemination. We will anonymize your above information and use it to assist creators in data analysis, but we will not combine it with any other information to identify you personally.
+2) To ensure the normal use of functions such as commenting, bookmarking, following, and liking, we will collect your following, commenting, bookmarking, and liking information for interactive communication.
+1.6 Search Services
+To ensure the normal use of the search function, we will collect your search content and search time for the convenience, speed, security, and stability of the search function. You can delete your search history at any time through 'My Privacy Personal Information Viewing and Management'
+1.7 Marketing Services
+1) In order to facilitate you to withdraw the course distribution income to your personal bank account, when you use the income withdrawal function, we will collect your real name, ID number, bank card number, name of the deposit bank, and the deposit area (province, city, county) to ensure that you can provide correct and safe withdrawal services and functions. The real name, ID number number and bank card number are sensitive individuals
+If you refuse to provide the information, we may not be able to provide you with withdrawal services, but it does not affect your use of our other services. You can revoke your authorization for this feature at any time in 【 My Privacy Personal Information Viewing and Management 】. At the same time, I will also collect your distribution records (distribution course name, distribution number, and cumulative income), withdrawal records (withdrawal date, withdrawal amount, and last 4 digits of bank card number) to ensure that you can view the course distribution and withdrawal records normally. You can view the distribution and withdrawal records in "My Course Distribution".
+2) In order to push courses, content information, and class reminders that may interest you, we will collect your account information (nickname, QQ number, WeChat openid) and course registration records for message push. You can revoke your authorization for this feature at any time through 'My Privacy Personal Information Collection Settings'. For specific push mechanisms and methods, please refer to the previous section on personalized recommendation services.
+3) In order for you to view the renewal details of your Changxue Card normally, we will collect the renewal date, renewal duration, and account information (nickname, avatar) that helps you renew the card. You can view your detailed information in "My Changxue Card Renewal Details".
+4) In order for you to use the related functions of Tang Dou (platform virtual currency), we will collect your Tang Dou quantity, Tang Dou details (Tang Dou quantity, transaction time, source of acquisition, purpose of use, expiration time), and exchange records (exchanged product name, exchange time, number of exchanged Tang Dou, and order number) to ensure that you can complete tasks to obtain Tang Dou, exchange Tang Dou for products, and view Tang Dou details and exchange records. Tangdou can only be exchanged for virtual coupons, designated courses, and physical prizes. You can view the details and redemption records of Tang Dou in 'My Sign In and Receive Tang Dou Grand Prize - My Tang Dou'.
+1.8 Customer service, feedback and other services
+1) In order to save the issues you have reported, provide after-sales service, and resolve any problems you may encounter while using our products, we will keep a record of the issues you have reported when using our course complaint service, including account information (nickname, QQ number, WeChat openid) and feedback information (text).
+2) In order to ensure the security of user accounts and systems, and to ensure that the information you provide can be accurately and effectively processed, we will collect account information (nickname, QQ number, WeChat openid), feedback information (pictures, text), order information, and contact information (phone number, email) that you actively submit when interacting with customer service.
+3) In order for you to view your personal information download history normally, we will collect your email address for receiving personal information, the validity period of the personal information file, the application time, the format of the personal information download file, and the type of personal information downloaded. You can view the download history in "My Privacy Personal Information Download View Download History".
+4) Copy function: In order for you to copy text information normally, we will collect your clipboard information to ensure that you can use the copy function in any replicable text scenario. Please rest assured that we will not collect or store any other information from your clipboard and clipboard information will not be uploaded to our servers. You can copy text information in various scenarios such as "My Personal Page - Edit Information", "My Order Management - Any Order", "My Settings - Account and Security - Copy Classroom Account", "My Check in and Receive Classroom Bean Exchange Award - My Classroom Bean - Exchange Record", "Course Details Page - Ask Teacher - Click Copy", "Video - Comment - Long Press Copy", etc.
+1.9 Operation and product maintenance needs
+To ensure the normal use of product services, maintain the normal operation of products, improve and optimize user service experience, ensure product security and the need for data reporting, verify and scan the security of the device environment where you use the product, protect your account from abnormal use or theft, and improve the security of your use of Tencent Classroom's products/services, we will collect your installed application list (application name, application package name, installation time, file size, APP path), IMSI, ICCID, device model, Mac address, system version, network type, Android ID, device ID (IMEI), APP crash records, traffic statistics, operation logs to ensure the quality and efficiency of software services and operations. In addition, in order to enable the APP to report system logs in case of crashes, and facilitate our quick identification of specific issues, we will apply for the permission to obtain the read-logs permission of the mobile system.
+1.10 Sensor Information
+We will collect your accelerometer information (TYPE-ACCELOMETER) to monitor whether the screen is rotating, ensuring that you can rotate the screen normally (switch between horizontal and vertical screens) while watching course videos and live broadcasts.
+When you use the following features of Tencent Classroom, we require you to provide the corresponding permission:
+To ensure the normal implementation of our functions and services, we need to call the corresponding necessary permissions based on the specific scenarios of collecting and using information mentioned above, and ask you in a pop-up window before calling. Sensitive permissions such as contacts, cameras, photo albums, and geolocation permissions will not be enabled by default. They will only be authorized to us with your explicit consent. Please be aware that obtaining a specific sensitive permission does not necessarily mean that we will collect your relevant information; Even if we have obtained sensitive permissions, we will only collect your relevant information when necessary and in accordance with this guideline. Specifically, as follows:
+1) In order for you to use the raise hand function in the classroom live broadcast room normally and submit audio content when submitting course assignments, as well as in the scene of voice communication with teachers and submitting assignments in the live broadcast room, we will apply to obtain your microphone permission.
+2) In order for you to store the cache of the classroom app and ensure that images generated during use or within the app can be saved to your local album for better search, use, and management, we will apply to obtain your storage permission (Android only).
+3) When you use Tencent Classroom's private messaging function, submit course assignments, provide feedback to customer service, or submit as a creator, in order for you to upload local pictures or videos to communicate with institutional teachers
+We will apply to obtain your camera and storage permissions if you provide feedback, upload pictures to complete course assignments, or submit successfully.
+4) When you use the Tencent Classroom offline exam authentication check-in function, in order to ensure that you have arrived at the exam room, we will apply for access to your location permission
+5) When you use the device camera to take photos or videos (including live broadcasts), we will obtain your album permission and camera permission to ensure that you can upload the captured image or video information normally. If you refuse to provide this permission and content, it will only prevent you from using the feature, but it will not affect your normal use of other features of the product and/or service.
+6) In order to identify your mobile device and carrier network, and ensure that you can use the products/services provided by Tencent Classroom normally, when your phone is equipped with a specific SIM card that can provide free data, we need to effectively identify it and apply for access to your phone when we provide you with free data services.
+7) In order for you to use the small window to play videos normally, we will apply for access to your floating window permission (Android only).
+You can also enable/disable this permission at any time through your device system or by using the relevant feature settings page of our products and/or services. By granting this permission, you authorize us to access, obtain, collect, and use your personal information; After you cancel the authorization, we will no longer collect this information and will no longer be able to provide you with the corresponding services mentioned above; But unless you delete your personal information in accordance with legal provisions, your cancellation will not affect our processing and storage of your personal information based on your previous authorization.
+3. Third party SDK usage:
+In certain specific business scenarios, we may use capable third-party SDKs to provide services to you. After you authorize us to "access network connections" and "access network status", you agree to these SDKs collecting and using your personal information. 1) When you use Tencent Classroom with some mobile phone manufacturers (Xiaomi, Huawei, VIVO, OPPO, Meizu), we need to access the corresponding Push SDK of the above-mentioned mobile phone manufacturers. For other manufacturers, we need to access the Tencent Cloud Pigeon Push SDK. The above SDK needs to collect unique identification information (IMEI) of the mobile phone and may collect parameters such as your phone model, system type, system version, etc. to push our product information. You can revoke the authorization of the above information at any time through 【 My Privacy Personal Information Collection Settings Message Notification 】. 2) When you use the live streaming feature, the Tencent Cloud IM and Tencent Cloud Liteav SDK that we connect to will collect your device information (device model, IMEI, device hardware information and status, IP address, operating system version) for smooth display of live video streams. 3) In order to locate code issues, test product performance, and report data, we will connect to the Tencent Cloud Client Performance Sharing QAPM SDK, which collects your device information (device name, device model, system version, IMEI, manufacturer name). Please refer to the following list of third-party SDKs for the specific situation of the above SDK.
+Please note that in order to ensure the implementation of Tencent Classroom APP related functions (login, sharing, location, hot updates, and payment) and the safe and stable operation of the application, Tencent Classroom will use an internal SDK belonging to "Shenzhen Tencent Computer System Co., Ltd." Please refer to Tencent's own SDK list for specific information.
+4. Regarding cookies:
+We or our third-party partners may collect your information by placing secure cookies, identifiers, and related technologies to provide you with a more personalized user experience and service. We will strictly require third-party partners to comply with the relevant provisions of this policy. You can also manage cookies through browser settings. However, please note that if cookies are disabled, you may not be able to enjoy the best service experience, and some services may not function properly. If you wish to learn more about the security and other information of cookies, please refer to the Cookie Policy Statement.
+In addition, according to relevant laws, regulations, and national standards, we may collect and use your personal information without seeking your authorization and consent in the following situations:
+1) Directly related to national security, defense security, and other national interests; Directly related to major public interests such as public safety, public health, and public awareness;
+2) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+3) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life, property, reputation, etc., but it is difficult to obtain my consent;
+4) The personal information collected is disclosed by you to the public on your own;
+5) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+6) Necessary to sign and fulfill the contract according to your request;
+7) Necessary for maintaining the safe and stable operation of the provided products or services, such as detecting and handling product or service failures;
+8) Necessary for conducting legitimate news reporting;
+9) When conducting statistical or academic research in the public interest and providing results of academic research or descriptions to external parties, it is necessary to de identify the personal information contained in the results;
+10) Other circumstances stipulated by laws and regulations.
+Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service is not mentioned in the above description and has collected your information, we will separately explain the content, scope, and purpose of the information collection to you through page prompts, interaction processes, website announcements, etc., in order to obtain your consent.
+Please note that currently we do not proactively obtain your personal information from third parties outside of Tencent Computer Systems Co., Ltd. in Shenzhen. If we need to indirectly obtain your personal information from a third party for business development in the future, we will inform you of the source, type, and scope of use of your personal information before obtaining it. If the personal information processing activities required for our business exceed the scope of your original authorization and consent to provide personal information to third parties, we will obtain your permission before processing such personal information
+Right to consent; In addition, we will strictly comply with relevant laws and regulations, and require third parties to ensure the legality of the information they provide.
+2、 Storage of Information
+1. Method and duration of information storage
+We will store your information in a secure manner, including local storage (such as using an app for data caching), databases, and server logs.
+We will only store your personal information for the shortest period of time necessary to achieve the service objectives or under the conditions stipulated by laws and regulations. If the necessary storage period is exceeded, we will delete your personal information or anonymize it. You can choose to delete personal information such as your phone number, shipping address, and traffic statistics generated during the use of Tencent Classroom services. If you choose to delete the above information, we will also delete the corresponding personal information accordingly.
+2. Geographic location of information storage
+We will store the personal information of users collected within the territory of the People's Republic of China in accordance with laws and regulations.
+At present, we do not transfer or store your personal information across borders. If there is a need for cross-border transmission or storage in the future, we will inform you of the purpose of information export, the recipient, security measures, and security risks, and obtain your consent.
+3. Notification when the product or service ceases operation
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time, except as otherwise provided by laws and regulations.
+3、 Information Security
+1. Safety protection measures
+We strive to provide security for users' information to prevent information leakage, loss, improper use, unauthorized access, and disclosure. We use multi-faceted security measures to ensure that users' personal information protection is at a reasonable level of security, including technical protection measures, management system controls, security system guarantees, and many other aspects.
+We adopt industry-leading technological protection measures. The technical means we use include but are not limited to firewalls, encryption (such as SSL), de identification or anonymization processing, access control measures, etc. In addition, we will continuously enhance the security capabilities of the software installed on your device. For example, we will complete some information encryption work locally on your device to consolidate secure transmission; We will gather information about the applications installed and processes running on your device to prevent malicious programs such as viruses and Trojans.
+We have established specialized management systems, processes, and organizations to ensure the security of personal information. For example, we strictly limit the scope of personnel accessing information, require them to comply with confidentiality obligations and conduct audits, and those who violate obligations will be punished according to regulations. We will also review the management system, processes, and organization to prevent unauthorized access, use, or disclosure of user information.
+We recommend that you pay full attention to the protection of personal information when using products and services, and we will also provide various security features to assist you in protecting your personal information security.
+2. Measures for handling security incidents
+If there is a security incident such as personal information leakage, damage, or loss, we will activate emergency plans to prevent the security incident from escalating. After a security incident occurs, we will promptly inform you of the basic situation of the security incident, the disposal and remedial measures we will take or have taken, and our response suggestions to you through push notifications, emails, and other forms. If it is difficult to achieve individual notification, we will issue warnings through announcements and other means.
+4、 How we use information
+We strictly comply with the provisions of laws and regulations and agreements with users, and use the collected information in accordance with the privacy protection guidelines to provide you with better quality services.
+1. Information Usage Rules
+We may issue service related announcements to you when necessary, such as suspending a service due to system maintenance or changing product capabilities. You may not be able to cancel these service related announcements that are not advertisements in nature.
+We will use the collected information within the purposes covered by this privacy protection guideline. If we use your personal information beyond the stated purpose and scope of direct or reasonable association at the time of collection, we will inform you again and obtain your explicit consent before using your personal information.
+2. Data sharing rules
+We support you in achieving push notifications and other purposes through Tencent Classroom, and your information may be shared among various service providers. We will use security measures such as encryption, anonymization, and de identification to ensure the security of your information. Once it involves sharing your sensitive personal information, we will seek your explicit consent again.
+After your consent, we may share your personal information with third parties. For specific content, you can click here to view the Tencent Classroom personal information third-party sharing list, or refer to the third-party SDK information list.
+In certain specific business scenarios, we may use third parties to provide you with specific services. We can only provide you with the services you need by sharing your personal information. Specifically, it includes:
+-Provide your delivery related information (including shipping address, shipping mobile phone) to third-party organizations;
+-When you use a third-party payment institution for payment, provide your relevant payment information (including name, phone number, order ID);
+-In order to provide you with course guidance and consulting services after you have purchased courses provided by third-party institutions, we provide your relevant learning information (learning progress, order information, attendance data);
+-Based on our cooperation with communication operators, when you use the "one click login" function, with your explicit consent, we will provide your device identification information (MAC address) to obtain your mobile phone number.
+5、 Provide external information
+At present, we do not actively share or transfer your personal information to third parties unless it is necessary for product functionality. If there are other situations where your personal information is shared or transferred, or if you require us to share or transfer your personal information to a third party, we will directly or confirm that the third party has obtained your explicit consent to the above actions.
+We will not publicly disclose the personal information we collect to the public. If it is necessary to disclose it publicly, we will inform you of the purpose of this disclosure
+Please disclose the type of information and any sensitive information that may be involved, and obtain your explicit consent.
+As our business continues to develop, we may engage in mergers, acquisitions, asset transfers, and other transactions. We will inform you of the relevant circumstances and continue to protect or require new controllers to continue protecting your personal information in accordance with laws, regulations, and standards not lower than those required by this privacy protection guideline.
+In addition, according to relevant laws, regulations, and national standards, we may share, transfer, or publicly disclose personal information without obtaining your prior authorization and consent in the following situations:
+1) Directly related to national security and defense security;
+2) Directly related to public safety, public health, and major public interests;
+3) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4) For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+5) Individuals who disclose their personal information to the public on their own;
+6) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+6、 Your rights
+During your use of Tencent Classroom, in order to make it more convenient for you to access, delete, and correct your personal information, and to protect your right to withdraw your consent to the use of personal information and cancel your account, we have provided corresponding operation settings in the product design. You can refer to the following guidelines for operation. In addition, we have established a complaint and reporting channel, and your opinions will be promptly addressed.
+If the following operation settings fail to achieve or cover your personal information rights such as querying, copying, deleting, correcting, and revoking consent, you can also contact us through the contact information provided at the end of this privacy protection guide. After verifying your identity, we will provide you with relevant services for querying, copying, deleting, correcting, revoking consent, and related personal information, except as otherwise provided by laws and regulations or as stipulated in this policy.
+1. Accessing personal information
+-Access basic information such as WeChat ID, QQ account, avatar, nickname, etc.:
+1) After entering Tencent Classroom, click on "My" - "Personal Information";
+2) Perform information query access.
+-My phone number and shipping address;
+1) After entering Tencent Classroom, click on "My" - "Personal Information";
+2) Perform information query access.
+-My real name authentication information;
+1) After entering Tencent Classroom, click on "My" - "Privacy" - "Personal Information Viewing and Management" - "Real Name Information";
+2) Perform information query access.
+-My interest category:
+1) After entering Tencent Classroom, click on "My" - "Personal Information";
+2) Perform information query access.
+-My browsing history:
+1) After entering Tencent Classroom, click on "My" - "Recently Watching";
+2) Perform information query access.
+-My collection:
+1) After entering Tencent Classroom, click on "My" - "Favorites";
+2) Perform information query access.
+-My comment:
+1) After entering Tencent Classroom, click on "My" - "My Comments";
+2) Perform information query access.
+-My thumbs up:
+1) After entering Tencent Classroom, click on "My" - "My Like";
+2) Perform information query access.
+-My attention record:
+1) After entering Tencent Classroom, click on "My" - "Follow";
+2) Perform information query access.
+-My search history:
+1) After entering Tencent Classroom, click on "My" - "Privacy" - "Personal Information Viewing and Management" - "Search Records";
+2) Perform information query access.
+-My certification exam check-in record:
+1) After entering Tencent Classroom, click on "My" - "My Authentication" - "Check in Record";
+2) Perform information query access.
+-My phone number and shipping address;
+2. Correction of personal information
+-Modify personal phone number information
+1) After entering Tencent Classroom, click on "My" - "Personal Information";
+2) Make information corrections.
+-Modify personal shipping address information
+1) After entering Tencent Classroom, click on "My" - "Personal Information";
+-My real name authentication information;
+1) After entering Tencent Classroom, click on "My" - "Privacy" - "Personal Information Viewing and Management" - "Real Name Information";
+2) Make information corrections.
+-My interest category:
+-My browsing history:
+1) After entering Tencent Classroom, click on "My" - "Recently Watching";
+-My collection:
+1) After entering Tencent Classroom, click on "My" - "Favorites";
+-My comment:
+1) After entering Tencent Classroom, click on "My" - "My Comments";
+-My thumbs up:
+1) After entering Tencent Classroom, click on "My" - "My Like";
+-My attention record:
+1) After entering Tencent Classroom, click on "My" - "Follow";
+-My search history:
+1) After entering Tencent Classroom, click on "My" - "Privacy" - "Personal Information Viewing and Management" - "Search Records";
+-My certification exam check-in record:
+1) After entering Tencent Classroom, click on "My" - "My Authentication" - "Check in Record";
+2. Correction of personal information
+-Modify personal phone number information
+1) After entering Tencent Classroom, click on "My" - "My Interests";
+2) Make information corrections.
+-Modify personal shipping address information
+1) After entering Tencent Classroom, click on "My" - "My Interests";
+-Delete personal information:
+1) After entering Tencent Classroom, click on "My" - "About" - "Tencent Classroom User Cancellation Agreement" - "Cancel Account";
+2) Cancel the account and delete personal information.
+3. Withdrawal of consent
+-Withdrawal of phone permissions, file storage and access, camera, microphone authorization consent:
+1) IOS system - Settings - Select Tencent Classroom, turn off related authorizations;
+2) Android System - Settings - Application Management - Tencent Classroom - Rights
+Limit management and close relevant authorizations.
+-Turn off personalized recommendations:
+You can choose to disable personalized recommendations provided by Tencent Classroom in "My Privacy Disable Personalized Recommendations".
+-Revocation of authorization consent for PushSDK:
+In "My - Privacy - Personal Information Collection Settings - Message Notifications", turn off the relevant authorization;
+-Revocation of Authorization Consent for Mobile Number:
+In 'My Privacy Personal Information Authorization Management', relevant authorizations can be revoked
+-Revocation of Authorization for Delivery Address:
+In 'My Privacy Personal Information Authorization Management', relevant authorizations can be revoked
+-Revocation of Authorization for Delivery Address:
+-Revocation of Collection Authorization Consent:
+In "My Favorites", you can enter the relevant content page and revoke the authorization related to the content
+-Withdrawal of Like Authorization Consent:
+In "My - My Likes", you can enter the relevant content page and revoke the authorization related to the content
+-Withdrawal of Follow Authorization Consent:
+In 'My Followers', the authorization related to the content can be revoked
+-Withdrawal of Privacy Protection Guidelines Authorization Consent:
+In "My Privacy Personal Information Phone Settings", you can revoke the authorization related to the content
+Please be informed that some information may not be able to be directly revoked within the app. You can also contact us through the contact information provided at the end of this privacy protection guide. After verifying your identity, we will provide you with a service to revoke the personal information you specified for authorization and consent.
+4. Log out and log in
+-Log out of associated account and log in
+1) After entering Tencent Classroom, click on "My";
+2) Click on 'Settings';
+3) Click on 'Log Out'.
+5. Cancellation
+You can directly apply to cancel your account in Tencent Classroom products. You can complete account cancellation by accessing "Settings", "About", "Tencent Classroom User Cancellation Agreement", and then "Cancel Account" through the mobile app.
+Regarding the method of account cancellation and the conditions you should meet, you can check the "Tencent Classroom Account Cancellation Agreement" after logging in. After you cancel your account, we will stop providing services to you and delete your personal information, unless otherwise required by laws and regulations.
+6. Obtaining copies of personal information
+If you need a copy of your personal information, you can copy it through 'My Privacy Personal Information Download'. The above path may not be able to replicate all personal information. You can also contact us through the methods provided at the end of this policy. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or this policy.
+7. Delete
+Your usage history related information, including but not limited to: your browsing history, likes/follows/favorites/comments, private messages, exam check-in records, bank card information, shipping address information, real name authentication information, etc. In the Tencent Classroom App, you can search for corresponding usage information through paths such as "My Recently Watched"/"My Like"/"My Favorite"/"My Follow"/"My Comment"/"My Authentication Center Check in Record"/"My Message"/"My Privacy Personal Information Viewing and Management", and make changes/modifications or deletions to some of the aforementioned information.
+In the following situations, you can contact our customer service email address ketangsupport@tencent.com Requesting us to delete personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your consent;
+(3) If our handling of personal information violates our agreement with you;
+(4) If you no longer use our products or services, or if you cancel your account;
+(5) If we terminate our services and operations.
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner, unless otherwise provided by laws and regulations, or if these entities have obtained your independent authorization.
+When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+In addition, if you find that we have collected or used your personal information in violation of laws, administrative regulations, or the agreement between both parties, you can request us to delete it. If you find any errors in the personal information we collect and store about you, you can also request us to correct them. For information that cannot be directly deleted or corrected within the app, please contact us through the contact information listed at the end of this policy. After verifying your identity, we will provide you with deletion services.
+8. Constrained information system automatic decision-making
+Automated decision-making refers to the activity of automatically analyzing and evaluating an individual's behavior habits, interests, or economic, health, credit status through computer programs, and making decisions accordingly. In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to demand an explanation from us, and we will also provide appropriate remedies.
+9. Responding to your above request
+If you have any requests to access, correct, delete, or withdraw the personal information mentioned above, or if you have any questions, suggestions, opinions, or complaints, you can contact our customer service email ketangsupport@tencent.com Contact our customer service to submit, or submit through "My → Contact Customer Service". We will process the necessary identity verification and provide a response within no more than 15 working days or the legal and regulatory deadline after receiving the complaint. We generally do not charge any fees for your reasonable requests. However, according to relevant laws, regulations, and national standards, we may not be able to respond to your request in the following situations:
+(1) Directly related to national security and defense security;
+(2) Related to public safety, public health, major public interests, etc;
+(3) Regarding criminal investigation, prosecution, and trial
+Related to the execution of judgments;
+(4) There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) It is difficult to obtain your consent due to concerns about safeguarding your or other individuals' significant legitimate rights and interests such as life and property;
+(6) Responding to your request will result in serious harm to the legitimate rights and interests of other personal information subjects or individuals or organizations;
+(7) Involving trade secrets.
+7、 Change
+We may revise this privacy protection guideline in a timely manner. When there are changes to the terms of the privacy protection guidelines, we will notify you of the updated privacy protection guidelines by displaying a pop-up in a prominent position during the version update, and inform you of the effective date. Please carefully read the updated privacy protection guidelines and re agree to authorize the updated privacy protection guidelines before you can continue to use Tencent Classroom.
+8、 Protection of Minors
+We attach great importance to the protection of personal information of minors. We will require minors under the age of fourteen to obtain authorization and consent from their guardians (such as their parents) before using Tencent Classroom services or providing us with personal information in accordance with relevant laws and regulations; Minors who are over the age of fourteen but under the age of eighteen may obtain prior authorization and consent from their guardians or authorize consent on their own.
+We only use, provide or publicly disclose this information when permitted by laws and regulations, with the explicit consent of the minor's guardian, or when it is necessary to protect the minor. Please refer to the "Children's Privacy Protection Statement" for specific policy instructions.
+If you are the guardian of a minor, please pay attention to whether the minor under your guardianship is using Tencent Classroom's services after obtaining your authorization and consent. If you have any questions about the personal information of the minors under your guardianship, please contact us through the contact information provided in Section 10.
+9、 Other
+The Tencent Privacy Protection Guidelines are general privacy terms uniformly applicable by Tencent, and the user rights and information security measures stipulated therein apply to Tencent Classroom users. If there is any inconsistency or contradiction between the Tencent Privacy Protection Guidelines and this Privacy Protection Guidelines, please refer to this Privacy Protection Guidelines. The interpretation and dispute resolution of this policy shall be governed by the laws of mainland China. In case of any disputes arising from the signing or implementation of this policy, both parties shall try their best to resolve them through friendly negotiation; When negotiation fails, either party may bring a lawsuit to the people's court with jurisdiction over the defendant's domicile.
+The title of this policy is for convenience and readability only and does not affect the meaning or interpretation of any provision of this agreement.
+10、 Contact Us
+We have established a dedicated personal information protection team and a personal information protection officer. If you have any questions, complaints, or suggestions regarding this privacy protection guideline or personal information protection related matters, you can contact us through the following methods:
+1. You can fill out the feedback questionnaire on personal information protection and privacy issues to contact us;
+Mobile://privacy. qq. com/mb/questionnaire
+PC version://privacy. qq. com/questionnaire
+2. Send the problem to Dataprivacy@tencent.com ；
+3. Contact us through//kf.qq.com/;
+4. Through customer service email ketangsupport@tencent.com Contact Us
+5. Please mail your question to the following address:
+Data Privacy Protection Department, Tencent Binhai Building, No. 33 Haitian 2nd Road, Nanshan District, Shenzhen, Guangdong Province, China (received)
+Postal Code: 518054
+We will review the issues involved as soon as possible and provide feedback within 15 working days or the deadline stipulated by laws and regulations.
+Shenzhen Tencent Computer Systems Co., Ltd
+Online Service 
+Scan the code to follow
+App Download Tencent Classroom [App Android iPhone Download]
+Scan the code to follow Tencent Classroom Design Academy and check the latest grading results as soon as possible.

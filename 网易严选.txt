@@ -1,0 +1,645 @@
+NetEase Strict Selection Privacy Policy
+This policy applies to all products and services provided by NetEase Yanxuan, such as the "NetEase Privacy Policy" and "NetEase Email"
+In case of any conflict between the provisions of the "Service Terms" or "NetEase Strict Selection Service Agreement", this policy shall prevail.
+It should be noted that this policy does not apply to services provided to you by other third parties. The services provided to you by third parties are subject to their separate privacy policies.
+【 Special Reminder 】 Please read carefully (minors should read with a guardian) and understand this policy (especially the bolded content) before using NetEase's strict selection service, in order to make appropriate choices. If you do not agree with the content of this policy, it may cause some services of NetEase Yanxuan to malfunction or fail to achieve the service effect we intend to achieve. You have the right to stop accessing/using NetEase Yanxuan services.
+After reading this policy, if you have any questions about this policy or matters related to this policy, you can contact us through the feedback channels listed in the "How to Contact Us" section of this policy, and we will provide you with answers as soon as possible.
+This policy will help you understand the following:
+1、 How do we collect and use your personal information
+2、 How do we use cookies and similar technologies
+3、 How do we share, transfer, and publicly disclose your personal information
+4、 How do we protect the security of your personal information
+5、 How do you manage your personal information
+6、 Third party services
+7、 Protection of Minors' Information
+8、 Notification and Revision
+9、 How to contact us
+Attachment 1: Rules for the Collection and Use of Children's Personal Information
+Attachment 2: Directory of Third Category SDK Service Providers
+1、 How do we collect and use your personal information
+We collect your personal information mainly for the purpose of making it easier and more satisfactory for you to use NetEase Yanxuan services. The goal of Netease Strict Selection is to provide all Internet users with a safe and comfortable shopping experience. And this information helps us achieve this goal.
+（1） We will collect and obtain your personal information through the following channels:
+The information you provided.
+Or the information provided to us when using NetEase's strict selection service;
+If the information you provide contains personal information of other users, you need to ensure that you have obtained legal authorization before providing us with this personal information. If it involves personal information of children, you need to obtain the consent of the child's guardian before providing it.
+(2) The shared information you provide to third parties through NetEase Yanxuan service, as well as the information stored when you use NetEase Yanxuan service.
+Please note that if you disclose your information in the public areas visible to other users in NetEase's strict selection service, or in your responses to information uploaded or published by others, such information may be collected and used by others. When you discover that others are improperly collecting or using your information, you can contact us through the feedback channels listed in the "How to Contact Us" section of this policy.
+2. Your information shared by third parties. That is, the shared information about you provided by third parties when using NetEase's strict selection service.
+We have obtained your information. When you use NetEase's strict selection service, we collect, summarize, and record information authorized by you, such as log information, location information, and device information.
+（2） We will collect and use the following types of personal information from you for the following purposes:
+1. Assist you in completing registration/login
+In order for us to provide you with continuous and stable services and ensure the security of your use of NetEase Yanxuan services,
+We need you to provide your email address, mobile phone number for registration, and create your username and password
+. If you only need to use browsing, search and other functions, you don't need to create
+And provide the above information.
+If you choose to use non NetEase
+Login to Netease Yanxuan, we may obtain your authorization from a third party based on your request
+And carefully select with your NetEase
+Binding allows you to use third-party methods
+Directly log in and use NetEase's strict selection service.
+Your nickname, gender, date of birth, avatar, category of interest, and your real name authentication
+Waiting for relevant information. But if you do not provide this information, it will not affect the basic functions of using NetEase's strict selection service.
+Provide you with basic functions such as displaying and notifying product or service information
+To provide you with page displays and search results that better meet your needs, understand product compatibility, and identify
+Abnormal state,
+We may directly or indirectly collect information about the services you use and how you use them, and associate this information, including:
+Log information: When you use the products or services provided by our website or client (including backend operation status), we will automatically collect detailed usage information of our services as relevant network logs. For example: your browsing and search query history, favorites and shares, subscriptions, add to cart records, IP address, browser type, telecom operator, language used, visit date and time, and web page records you visited.
+Device information: When you use the products or services provided by our website or client (including backend operation status), we will receive and record the device related information you use based on your specific operations during software installation and use. For example, device model, operating system version, device settings, device identifiers (MAC address/SSID/IMEI/Android ID/AID/IDFA/OpenUDID/GUIDE/SIM card IMSI information), mobile application lists and other software, hardware and device environment information, device location related information (including IP address, GPS location, WLAN access point, Bluetooth and base station sensor information), and device permission information (including storage permission) are necessary to ensure the security of the device operating environment and provide NetEase's strict selection services to prevent malicious programs and anti cheating.
+Please note that individual device information, log information, etc. are information that cannot identify the identity of a specific natural person.
+If we combine this type of non personal information with other information to identify a specific natural person's identity, or use it in conjunction with personal information, then during the period of combined use, this type of non personal information will be considered as personal information
+Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify such personal information.
+To provide you with more convenient and personalized information display, search, and push services that meet your needs, we will extract your preference features based on your device information and browsing usage information when using NetEase's strict selection service, and generate indirect audience images based on feature tags for displaying, pushing information, and possible commercial advertisements.
+You can turn off the "Personalized Services" switch on the "Personal Settings Personalized Services" page of the NetEase Yanxuan App. After closing, the relevance of the ads and content display you see will decrease.
+We strive to ensure your browsing experience. If you do not want to accept the commercial advertisements we send you, you can unsubscribe or close them through SMS prompts or other methods we provide.
+In addition, we will also use your above information to continuously improve and optimize the aforementioned features.
+We provide you with features such as bookmarking, adding to cart, and sharing
+Your collection and add to cart records, as well as service log information including sharing history
+Used to achieve the above functions and other purposes that we have explicitly stated.
+Assist you in completing reservations, placing orders, and managing orders
+When you are preparing to book or place an order to purchase products or services selected by NetEase Yanxuan, you need to provide us with at least
+Recipient's name, shipping address, and contact phone number
+； When you book a gift card on NetEase Yanxuan, you may also need to provide it in accordance with national laws and regulations
+These real name information may include
+Your personal identification information (such as name, ID number)
+To achieve the purpose of identity authentication,
+You agree and authorize us to provide, query, and verify your aforementioned identity information to relevant identity verification agencies (such as personal credit reporting agencies, government departments, etc.) on our own or by entrusting third parties.
+Please note that your personal identification information, personal biometric information, and other sensitive personal information are provided with caution. Refusing to provide them may result in the inability to access relevant services, but it does not affect the normal use of other functions and services.
+You can order goods or services for others through NetEase Yanxuan,
+You need to provide the aforementioned personal information of the actual purchaser
+Before providing the aforementioned personal information of the actual purchaser to NetEase Yanxuan, you must ensure that you have obtained their authorized consent. If it involves personal information of a child, you must ensure that you have obtained the consent of the child's guardian.
+To facilitate your order management and ensure transaction security, we will collect your order information and display it to you; We will also use your order information for identity verification, transaction confirmation, payment settlement, delivery completion, order inquiry, customer service consultation and after-sales service, or to determine if there are any abnormalities in your transaction in order to protect your transaction security.
+The orders you generate on NetEase Yanxuan may contain your identity information, contact information, payment information, personal health and physiological information, etc. These are all sensitive information. Please be cautious when displaying or providing them to others.
+We will also try to de identify the order information while ensuring its availability (such as anonymizing the recipient's phone number in the order).
+Assist you in completing the payment
+We need to share your NetEase Strict Selection order information (such as order number, order amount, product type) with these payment institutions to confirm your payment instructions and complete the payment.
+To ensure that we are informed and confirm your payment progress and status in a timely manner, you agree that we may collect payment progress related information from the payment institution you have chosen or other financial institutions you have chosen.
+To complete the delivery of goods or services to you
+We will disclose order related delivery information (including product information, shipping address, recipient, and recipient phone number) to the delivery company, and the delivery company will use your order information during the delivery process to ensure that the goods you ordered can be safely and accurately delivered.
+If you refuse to share such information, we will not be able to complete the relevant delivery services.
+Provide you with customer service and after-sales service
+When you contact our customer service, our system may record the communication between you and the customer service
+Communication records and related content
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+8. We provide you with information publishing functions such as commenting and posting
+And use your
+Used for identity verification; When you need customer service assistance to modify relevant information (such as delivery address, contact information, etc.), you may also need to provide additional information in addition to the above information to complete the modification; When you need us to provide you with
+When providing customer service related to orders, we may search for your relevant order information in order to provide you with appropriate assistance and processing.
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+We provide you with information publishing functions such as commenting and posting
+When you use NetEase's strict selection service to evaluate or upload, post or respond to other content (such as good product recommendations, trial experiences, sharing orders, points lottery, check-in, etc.), we will collect information
+The information you upload, post or respond to
+Nicknames, avatars, and posted content for display purposes
+Please note that the information you publicly release may contain your personal information or sensitive personal information. Please consider carefully before publishing. If the information you post involves the personal information of others, you should obtain their consent before publishing.
+Provide you with product sharing function
+When you share products through a "password code" (or enter specific product pages by copying someone else's posted "password code"), we will access the clipboard content. The aforementioned access only reads the password code locally and does not store any clipboard information.
+Ensure your safety during use
+To improve the security of your use of NetEase's strict selection service, better prevent security risks such as phishing websites and computer viruses, and protect you or other users or the public
+To ensure personal and property safety and more accurately identify violations of laws and regulations or NetEase's strict selection related agreement rules, we may integrate your
+Personal information, transaction information, device information, network logs
+To comprehensively judge you based on the information shared by other third parties in accordance with the law
+And deal with transaction risks, conduct identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+Provide you with other extended services
+To provide you with products and/or services that better meet your needs and enhance your experience using NetEase Yanxuan, we may collect and use your personal information based on your authorization when providing you with the following extended services:
+Inventory reminder and delivery time estimation service based on location information:
+We will access and obtain your location permission after you have enabled it
+Based on your location information, we will show you whether the product you have selected supports delivery to your location, and if so, the inventory status and estimated delivery time of the product.
+Camera based extension services:
+Waiting for functions. Please be aware that,
+Even if you have agreed to enable camera permissions, we will only obtain photo information through the camera when you actively click on the camera icon in the client or record a video.
+You can use this feature to upload your album after enabling the album permission
+Microphone based voice technology related extension services:
+You can use the microphone to contact customer service or interact with customer service robots through voice communication after enabling microphone permission. Among these functions, we will collect your data
+In response to your customer service and dispute resolution needs. Please be aware that,
+Even if you have agreed to enable microphone access, we will only obtain voice information through the microphone when you actively click on the microphone icon in the client or record a video.
+Calendar based extended services:
+Used to provide you with shopping or benefit related records, appointments, reminders, and other functions.
+(6) Extended service based on phone information: After you grant us access to phone information, we will collect your phone number for one click login.
+You understand and agree that to implement the above extended services, you need to authorize us to access your camera, photo album, microphone, calendar, or obtain your location information by enabling the corresponding permissions on your device. If you do not provide this authorization, it will not affect your use of the basic functions of NetEase's strict selection service.
+When you need to revoke authorization, you can disable the corresponding permissions in your device. For specific methods, please refer to your device manual or contact your device's service provider or manufacturer. However,
+Your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+Improve our services
+We may ask you to participate in a survey about NetEase's strict selection service to help us improve existing services or design new services; Meanwhile, we may use your information for software updates.
+Other purposes and uses
+Please note,
+If we want to use your personal information for other purposes not specified in this policy or collect additional personal information not mentioned, we will obtain your consent separately through page prompts, interactive processes, website announcements, or other means. Once you agree, such additional uses will be considered part of this policy, and such additional information will also be subject to this policy.
+（3） The situation where we collect your personal information indirectly
+We may obtain relevant information authorized to be shared by you from affiliated parties and third-party partners. For example, when you place an order through third-party partner websites and their mobile applications, the order information you provide to them may be forwarded to us so that we can process your order and ensure the smooth completion of the service; As mentioned in this clause, you have used a third party
+When logging into NetEase Yanxuan, we will obtain the relevant information you authorize to share from third-party partners based on your authorization (such as username, avatar, nickname, subject to your authorized content), and share your third-party information
+Selected with your NetEase
+Binding allows you to use third-party methods
+Directly log in to NetEase Yanxuan.
+We will collect and use your personal information within the scope authorized by you, in compliance with relevant laws and regulations, and based on agreements with related parties or third-party partners to determine the legality of the sources of personal information provided. If it is necessary to use beyond the aforementioned scope, we will obtain your consent separately. We will use no less protective measures and measures than we do for our own users' personal information to protect indirectly obtained personal information.
+（4） Exceptions to obtaining authorization and consent
+According to relevant laws and regulations, collecting your personal information in the following situations does not require your authorization and consent:
+1. Directly related to national security and defense security;
+2. Directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+5. The personal information collected is disclosed by you to the public on your own;
+6. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+7. Necessary to sign and fulfill the contract according to your requirements;
+8. Necessary for conducting legitimate news reporting;
+9. Other circumstances stipulated by laws and regulations.
+You are aware and understand that after collecting your personal information, we may use technical means to de identify the data, and the de identified information will not be able to identify your identity. In this case, we have the right to use the de identified information to analyze and commercialize the user database without obtaining your consent separately.
+（5） Tips on sensitive personal information
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety. The information provided by you or collected by us above may include your sensitive personal information, such as ID number, personal biometric information (static or dynamic), bank account number, and transaction information. Please be cautious and pay attention to sensitive personal information. You agree that we may process your sensitive personal information for the purposes and in the manner described in this policy
+Information.
+2、 How do we use cookies and similar technologies
+（1） Cookies
+We or our partners may obtain and use your information through cookies or similar technologies, and store such information as log information.
+By using cookies, we provide users with a simple and personalized online experience. A cookie is a small amount of data that is sent from a web server to your browser and stored on your computer's hard drive. We use cookies to benefit you, such as simplifying the steps of repeated login, storing your shopping preferences or the items in your shopping cart to provide you with shopping preference settings, helping you optimize your selection and interaction with advertisements, helping to determine your login status, and ensuring account or data security.
+（2） Similar technologies such as website beacons
+In addition to cookies, we also use other similar technologies such as website beacons and pixel tags on our website. For example, the email we send you may contain an address link to our website content. If you click on the link, we will track this click to help us understand your product or service preferences, so that we can proactively improve our customer service experience. A website beacon is typically a transparent image embedded in a website or email. By using pixel tags in emails, we can determine whether the email has been opened.
+（3） The use of cookies and similar technologies
+We use cookies or similar technologies, which may be used for the following purposes:
+1. Remember your identity. For example, cookies or similar technologies help us identify you as our registered user, or store information you provide us about your preferences or other information, or assist in determining whether your login status is normal or if there are any abnormal situations with your account;
+2. Analyze your usage of our services. We can use cookies or similar technologies to understand which features or products/services are most popular when you use NetEase's strict selection service;
+3. Advertising optimization. Cookies or similar technologies help us provide you with relevant advertisements based on your information, rather than conducting general advertising campaigns.
+While using cookies or similar technologies for the above purposes, we may also aggregate non personally identifiable information collected through cookies or similar technologies and provide it to advertisers or other partners for analysis of how you and other users use NetEase's strict selection services and for advertising purposes.
+You can manage, delete, unsubscribe from cookies or similar technologies according to your preferences. You can usually modify the browser settings according to your own needs to refuse cookies or other similar technologies, or clear all cookies or similar technologies saved in the software, or refuse the application of cookies or similar technologies according to the corresponding selection mechanism. But if you do so, you may not be able to enjoy the service effect we intend to achieve, such as needing to personally change user settings every time you visit NetEase Yanxuan, and the corresponding information you have previously recorded will also be deleted, and some services may not be able to be used properly.
+3、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+We will not share your personal information with companies, organizations, or individuals other than NetEase's strict selection operators, except in the following situations:
+1. Sharing with your authorization and consent: After obtaining your authorization and consent, we will share your personal information with third parties.
+2. Sharing under legal circumstances: We may share your personal information with external parties in accordance with laws and regulations, litigation dispute resolution needs, or as required by administrative or judicial authorities in accordance with the law.
+3. Sharing with our affiliates: In order to provide you with consistent services based on a unified account system, ensure system and account security, facilitate unified management, and enhance your user experience, we may share your personal information with our affiliates. But we will only share necessary personal information and are bound by the purposes stated in this policy. If our affiliates change the purpose of using and processing personal information, we will seek your authorization and consent again.
+4. Sharing with authorized partners: For the purposes stated in this policy, we may share your order information, account information, device information, log information, and location information with authorized partners to provide better customer service and user experience. We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our authorized partners have no right to use the shared personal information for purposes unrelated to NetEase's strict selection service.
+At present, our authorized partners include the following types:
+(1) The supplier of goods or services. We may share your personal information with suppliers or service providers who support our business. These supports include providing infrastructure technology services, logistics and distribution services, payment services, customer service, data processing, etc. Our purpose of sharing this information is to enable the core shopping functions of our products and/or services, such as sharing your order information with logistics service providers in order to arrange delivery; Alternatively, we may need to share your order number, order amount, and product type with a third-party payment institution to confirm your payment instructions and complete the payment.
+(2) Third party merchants. If you purchase products or services provided by third-party merchants on NetEase Yanxuan, we will share the corresponding order information and delivery information with the corresponding third-party merchants to fulfill your purchase needs and enable them to complete subsequent after-sales services.
+(3) Authorized partners for product analysis services. When you encounter abnormal situations (such as crashes or crashes) during the use of our products or services, we may share your device information and log information with partners who provide analysis services (including application crash analysis, network performance analysis, domain name resolution optimization) to analyze the causes and carry out optimization processing.
+5. Fulfill our obligations and exercise our rights under this policy or other agreements we have reached with you.
+We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this policy, and any other relevant confidentiality and security measures.
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+1. Transfer with authorization and consent: After obtaining your authorization and consent, we will transfer your personal information to a third party;
+2. As our business continues to grow, we may engage in mergers, acquisitions, asset transfers, or similar transactions, and your information may be transferred as part of such transactions. We will require new companies or organizations that hold your personal information to continue to be bound by this policy, otherwise we will require the company or organization to seek your authorization and consent again.
+（3） Disclosure
+We will only disclose your personal information under the following circumstances and with industry standard security measures in place:
+1. We may disclose your personal information with your authorization or based on your voluntary choice;
+2. In cases where it is necessary to provide your personal information in accordance with laws, regulations, mandatory administrative law enforcement or judicial requirements, we may disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the recipient to provide corresponding legal documents, such as subpoenas or investigation letters.
+（4） Exceptions to obtaining prior authorization and consent for sharing, transferring, or disclosing personal information
+In the following situations, sharing, transferring, or disclosing your personal information does not require your prior authorization and consent:
+1. Directly related to national security and defense security;
+2. Directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain your consent;
+5. Personal information that you disclose to the public on your own;
+6. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+7. Fulfilling legal obligations in accordance with laws and regulations;
+8. Related to our obligations under laws and regulations.
+According to legal regulations, sharing and transferring personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the personal information subject, does not constitute external sharing, transfer, or disclosure of personal information. The storage and processing of such data will not require separate notification to you and your consent.
+4、 How do we protect the security of your personal information
+（1） Unless otherwise required by laws, regulations, or regulatory authorities, we only store your personal information for the purposes stated in this policy and for the shortest possible period of time. When your personal information exceeds the period we have stored, we will delete or anonymize your personal information.
+（2） If we terminate our services or operations, we will promptly cease the activity of collecting your personal information. At the same time, we will comply with relevant laws and regulations and notify you in advance. After terminating our services or operations, we will delete or anonymize your personal information, except as otherwise provided by laws, regulations or regulatory authorities.
+（3） The information we collect and generate during our operations within the territory of the People's Republic of China is stored within China. Currently, we do not have any cross-border storage of your personal information or provision of personal information overseas. If you need to store or provide personal information overseas, we will inform you separately and obtain your authorization and consent.
+（4） Information security measures
+We attach great importance to personal information security, have established a dedicated security team, and take all reasonable and feasible measures to protect your personal information.
+1. Data security technical measures
+We will adopt security measures that comply with industry standards and are reasonable and feasible to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage or loss of your personal information.
+(1) We will use encryption technology to ensure the confidentiality of data. For example, when exchanging data (such as credit card information) between your browser and server, it is protected by SSL (Secure Socket Layer) encryption.
+(2) We will use data anonymization technology to enhance the security of personal information during use.
+(3) We provide HTTPS (Hyper Text Transfer Protocol over Secure Socket Layer) secure browsing method for Netease Yanxuan.
+(4) We will adopt trusted protection mechanisms to prevent data from being maliciously attacked.
+(5) We will adopt strict data access control and multi factor authentication technology to protect personal information and prevent data from being used in violation of regulations.
+2. Other safety measures
+(1) We have an industry-leading data security management system centered around data lifecycle, which enhances the security of the entire system from multiple dimensions such as organizational construction, system design, personnel management, and product technology.
+(2) We manage and standardize the storage and use of personal information by establishing a data classification system, data security management standards, and data security development standards.
+(3) We will deploy access control mechanisms, allowing only employees and partners who need to know this information to access your personal information, and have set up strict access control and monitoring mechanisms for this purpose. We also require all personnel who may have access to your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or our cooperation relationship may be suspended.
+(4) We will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+(5) We have an industry-leading data security management system centered around data lifecycle, which enhances the security of the entire system from multiple dimensions such as organizational construction, system design, personnel management, and product technology.
+(6) We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected.
+3. The Internet environment is not
+100% secure, we will do our best to ensure or guarantee the security of any information you send to us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+（5） Safety Tips
+1. The Internet is not an absolutely secure environment. We recommend that you use complex passwords when setting up NetEase's strictly selected accounts, and properly keep your accounts, passwords and other identity elements. When you use NetEase's strict selection service, we will identify your identity through your account, password, and other identity elements. Once you disclose the aforementioned information, you may suffer losses and may have adverse effects on you. If you find that your personal information, especially your account or password, has been leaked, please contact NetEase Yanxuan customer service immediately so that we can take corresponding measures according to your application.
+2. When using NetEase's strict selection service for communication or purchasing goods and services, you inevitably need to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others when necessary.
+3. Please note that the information you voluntarily share or even publicly share when using our services may involve your or others' personal information or even sensitive personal information, such as when you choose to upload pictures containing personal information when evaluating or sharing. Please consider more carefully whether to share or even publicly share relevant information when using our services. If the information you publicly share involves personal information of children, you need to obtain the consent of the child's guardian before publishing.
+4. Please understand that due to technological limitations and risk prevention limitations, even if we have tried our best to strengthen security measures, we cannot always guarantee 100% information security. You need to understand that the system and communication network you use to access NetEase's strict selection service may experience issues due to situations beyond our control.
+（6） Security incident handling
+To address the potential risks of personal information leakage, damage, and loss, we have established multiple systems that clarify the classification and grading standards for security incidents and vulnerabilities, as well as corresponding processing procedures. We have also established a dedicated emergency response team for security incidents. In accordance with the requirements of security incident handling standards, we have activated security plans for different security incidents, conducted stop loss, analysis, positioning, formulated remedial measures, and collaborated with relevant departments to trace and crack down on them.
+After an unfortunate information security incident occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of information security incidents in accordance with regulatory requirements.
+5、 How do you manage your personal information
+We attach great importance to your attention to personal information and make every effort to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security. Please also understand that your decision to correct, delete, revoke authorization, or cancel your account does not affect our previous personal information processing based on your authorization.
+You can manage your personal information through the following methods, but please be aware that unless otherwise provided by laws and regulations, when you correct or delete your personal information or apply for account cancellation, we may not immediately correct or delete certain specific information from the backup system, but will correct or delete this information when the backup is updated.
+（1） Accessing and correcting your personal information
+You have the right to access and correct your personal information at any time, except as otherwise provided by laws and regulations. You can access and correct your personal information on your own through the following methods:
+1. NetEase Yanxuan website: You can log in to the NetEase Yanxuan website and enter the personal center page to query and correct your personal and account information;
+2. NetEase Yanxuan Mobile: You can log in to your mobile client account, click on "Personal" at the bottom to enter your personal page, and then click on the avatar in the upper left corner to enter the personal center to query and correct your personal and account information; Click on "Address" in "My Services" to query and correct your shipping address;
+3. If you are unable to access or correct such personal information through the above path, you can contact us through our online customer service. For other personal information that needs to be accessed or corrected during your use of NetEase's strict selection service, we will respond to your request in accordance with the methods, deadlines, and scope specified in this policy. However, due to security and identity recognition considerations, you may not be able to modify certain initial registration information submitted during registration.
+（2） Delete your personal information
+1. You can independently delete some of your personal information through the methods listed in "(1) Accessing and Correcting Your Personal Information". When some information is deleted, we may require you to verify your identity to ensure information security.
+2. In the following situations, if you are unable to independently delete your personal information through the method described in the first paragraph above, you may submit a request to us to delete your personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your authorization and consent;
+(3) If our handling of personal information seriously violates our agreement with you;
+(4) If we no longer provide you with NetEase's strict selection service.
+If we confirm that your deletion request complies with laws, regulations, and other public disclosure requirements, we will also notify the affiliated parties and authorized partners who have obtained your personal information from us as much as possible to delete it in a timely manner, unless otherwise stipulated by laws and regulations or these entities have obtained your independent authorization.
+（3） Change the scope of your authorization or revoke your authorization
+Please understand that some basic personal information is necessary for you to use NetEase's strict selection service, but the provision of most other personal information is up to you to decide. You can delete the information by
+Change the scope of your authorization for us to continue using additional functions to collect your personal information, such as disabling device functions, or revoking your authorization. After you withdraw your authorization, we will no longer be able to provide you with the services corresponding to your withdrawal of authorization, nor will we process your corresponding personal information.
+（4） Cancel your account
+We provide you with the function to cancel your registered account. Subject to compliance with the service agreement and national laws and regulations, you can cancel your account on the "Cancel Account" page of NetEase. You can go to "Personal Settings Account Management Cancel Account" on the NetEase Yanxuan App and follow the prompts to perform the corresponding operations. You can also contact our customer service through online customer service or customer service phone number (4000368163) to apply for the cancellation of your NetEase Yanxuan account. After confirming compliance with relevant national laws and regulations, the NetEase Yanxuan Service Agreement, and other rules and conditions, we will cancel your account according to your application.
+After the account is cancelled, we will stop providing products or services to you and delete your personal information or anonymize it according to applicable laws.
+（5） Obtaining a copy of personal information
+If you need a copy of your personal information, you can contact us through the feedback channels listed in the "How to Contact Us" section of this policy. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as stipulated in this policy.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to demand an explanation from us, and we will also provide appropriate remedies without infringing on NetEase Yanxuan's trade secrets or other user rights and social public interests.
+（7） In response to your above request
+To ensure safety, we may first require you to provide a written application and verify your identity before processing your request.
+Normally, we will provide a response within fifteen days. If you are not satisfied, you can also contact us through the feedback channels listed in the "How to Contact Us" section of this policy.
+For your reasonable requests, we will generally respond in accordance with the provisions of this policy. However, we may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+1. Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. We have sufficient evidence to suggest that you have subjective malice or abuse of power;
+For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+The personal information collected is self disclosed by you to the public;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+Necessary to sign and fulfill the contract according to your requirements;
+Necessary for conducting legitimate news reporting;
+Other circumstances stipulated by laws and regulations.
+You acknowledge and understand that,
+After collecting your personal information, we may use technical means to de identify the data. The de identified information will not be able to identify your identity. In this case, we have the right to use the de identified information to analyze the user database and commercialize it without obtaining your consent separately.
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety. The information provided by you or collected by us above may include your sensitive personal information, such as ID number, personal biometric information (static or dynamic), bank information, etc
+Transaction information. Please be cautious and pay attention to sensitive personal information. You agree that we may process your sensitive personal information for the purposes and in the manner described in this policy.
+Or data security.
+Remember your identity
+Is there any abnormal situation;
+Analyze your usage of our services
+But if you do so, you may not be able to enjoy the service effect we intend to achieve, such as needing to personally change user settings every time you visit NetEase Yanxuan, and the corresponding information you have previously recorded will also be deleted, and some services may not be able to be used properly.
+We will not share your personal information with companies, organizations, or individuals other than NetEase's strict selection operators, except in the following situations:
+Share with your authorized consent:
+After obtaining your authorization and consent, we will share your personal information with third parties.
+Sharing under legal circumstances:
+We may share your personal information with external parties in accordance with laws and regulations, litigation dispute resolution needs, or as required by administrative or judicial authorities in accordance with the law.
+Sharing with our affiliates: for the convenience of us based on a unified approach
+The system provides you with consistent services, guarantees the system, and
+Safe, convenient for unified management, and to enhance your user experience, we may share your personal information with our affiliates.
+But we will only share necessary personal information and are bound by the purposes stated in this policy. If our affiliates change the purpose of using and processing personal information, we will seek your authorization and consent again.
+Sharing with authorized partners: For the purposes stated in this policy only, we may share your order information with authorized partners
+Information, device information, log information, and location information to provide better customer service and user experience.
+We will only share your personal information for lawful, legitimate, necessary, specific, and clear purposes, and only
+We will share personal information necessary for providing services. Our authorized partners have no right to use the shared personal information for purposes unrelated to NetEase's strict selection service.
+At present, our authorized partners include the following types:
+The supplier of goods or services.
+If you purchase products or services provided by third-party merchants on NetEase Yanxuan, we will share the corresponding order information and delivery information with the corresponding third-party merchants to fulfill your purchase needs and enable them to complete subsequent after-sales services.
+Authorized partners for product analysis services.
+When you encounter abnormal situations (such as crashes or crashes) during the use of our products or services, we may share your device information and log information with partners who provide analysis services (including application crash analysis, network performance analysis, domain name resolution optimization) to analyze the causes and carry out optimization processing.
+Fulfill our obligations and exercise our rights under this policy or other agreements we have reached with you
+We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this policy, and any other relevant confidentiality and security measures.
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Transfer with authorized consent:
+After obtaining your authorization and consent, we will transfer your personal information to third parties;
+As our business continues to grow, we may engage in mergers, acquisitions, asset transfers, or similar transactions, and your information may be transferred as part of such transactions.
+We will require new companies or organizations that hold your personal information to continue to be bound by this policy, otherwise we will require the company or organization to seek your authorization and consent again.
+We will only disclose your personal information under the following circumstances and with industry standard security measures in place:
+We may disclose your personal information with your authorization or based on your voluntary choice;
+In cases where it is necessary to provide your personal information in accordance with laws, regulations, mandatory administrative law enforcement or judicial requirements, we may disclose your personal information based on the required type and disclosure method.
+Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the recipient to provide corresponding legal documents, such as subpoenas or investigation letters.
+In the following situations, sharing, transferring, or disclosing your personal information does not require your prior authorization and consent:
+For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain your consent;
+Personal information that you disclose to the public on your own;
+Fulfilling legal obligations in accordance with laws and regulations;
+Related to our obligations under laws and regulations.
+According to legal regulations,
+Sharing or transferring personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the subject of the personal information, does not constitute external sharing, transfer, or disclosure of personal information. The storage and processing of such data will not require separate notification to you and your consent.
+We only store your personal information as necessary and for the shortest period of time for the purposes stated in this policy. When your personal information exceeds the period we have stored, we will delete or anonymize your personal information.
+The information collected and generated during our operations within the territory of the People's Republic of China is stored within China,
+At present, we do not have any cross-border storage of your personal information or provision of personal information overseas. If you need to store or provide personal information overseas, we will inform you separately and obtain your authorization and consent.
+We attach great importance to personal information security, have established a dedicated security team, and take all reasonable and feasible measures to protect your personal information.
+Data security technical measures
+We will adopt security measures that comply with industry standards and are reasonable and feasible to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage or loss of your personal information.
+Other safety measures
+The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+The Internet is not an absolutely safe environment,
+We suggest that you set up Netease Strict Selection
+Use complex passwords and keep them safe
+Password and other identity elements. When you use NetEase's strict selection service, we will use your
+Use passwords and other identity elements to identify your identity.
+If you discover your personal information, especially yours
+If your password is leaked, please contact NetEase Yanxuan customer service immediately so that we can take appropriate measures based on your application.
+When using NetEase's strict selection service for communication or purchasing goods and services, you inevitably need to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others when necessary.
+Please note that the information you voluntarily share or even publicly share when using our services may involve your or others' personal information or even sensitive personal information, such as when you choose to upload pictures containing personal information when evaluating or sharing.
+Please consider more carefully whether to share or even publicly share relevant information when using our services. If the information you publicly share involves personal information of children, you need to obtain the consent of the child's guardian before publishing.
+Please understand that due to technological limitations and risk prevention limitations, even if we have tried our best to strengthen security measures, we cannot always guarantee 100% information security. You need to understand that the system and communication network you use to access NetEase's strict selection service may experience issues due to situations beyond our control.
+To cope with potential risks such as personal information leakage, damage, and loss
+We have established multiple systems to clarify the classification and grading standards for security incidents and vulnerabilities, as well as corresponding handling procedures. We have also established a dedicated emergency response team for security incidents. In accordance with the requirements of security incident handling standards, we have activated security plans for different security incidents, conducted stop loss, analysis, positioning, formulated remedial measures, and collaborated with relevant departments to trace and crack down on them.
+After an unfortunate information security incident occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of information security incidents in accordance with regulatory requirements.
+We attach great importance to your attention to personal information and make every effort to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security. Please also understand,
+You correct, delete, revoke authorization or cancel
+The decision does not affect the personal information processing we have previously carried out based on your authorization.
+You can manage your personal information through the following methods, but please be aware that,
+Unless otherwise stipulated by laws and regulations, when you correct, delete or apply for cancellation of your personal information
+At this time, we may not immediately correct or delete certain specific information from the backup system, but we will correct or delete this information when the backup is updated.
+You have the right to access and correct your personal information at any time, except as otherwise provided by laws and regulations. You can access and correct your personal information on your own through the following methods:
+7. Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+8. Involving trade secrets.
+6、 Third party services
+NetEase's strict selection service may access or link to social media or other services provided by third parties (including websites or other forms of services). include:
+1. You can use the "Share" button to share certain content on NetEase Yanxuan with third-party products, or you can use third-party services to log in to NetEase Yanxuan services. These functions may collect your information (including your log information) and may install cookies on your device to enable the normal operation of the above functions;
+2. We provide you with links through advertising or other means of our services, allowing you to link to third-party services or websites;
+3. We may access third-party SDKs or other similar application services (such as in the form of embedded code, plugins, etc.), and when you use these third-party services provided by NetEase, the third party may collect and process some of your information. At present, the third-party SDKs or other similar application services we access and the corresponding information collection situation mainly include:
+(1) Various mobile phone manufacturers' Push SDKs may collect your device information for pushing/sending notification bar messages;
+(2) Gaode Map SDK may collect your device location information after your authorization to predict the delivery time of the product;
+(3) Payment SDKs may collect your device information to determine if the payment environment is secure; We may also collect your bank account information and real name authentication information for transaction verification and order payment;
+(4) The operator SDK may collect your device information and phone number for quick and convenient login to NetEase Yanxuan;
+(5) The device system SDK may collect your device information for monitoring system operation security, diagnosing, and resolving system failures.
+Some third-party SDKs or similar applications that we access may collect your personal information. If you use such services provided by third parties in our services, you agree that they will directly collect and process your information. We will evaluate the legality, legitimacy, and necessity of collecting personal information through such third-party services, require them to take protective measures for your personal information, and strictly comply with relevant laws, regulations, and regulatory requirements. You can click on the 'Directory of Third Party SDK Service Providers' to learn about the basic information of the third-party SDKs we mainly connect to. You can also choose to contact us through the feedback channels listed in the "How to Contact Us" section of this policy, and we will provide you with answers as soon as possible.
+The above third-party services are operated by the relevant third parties. Your use of such third-party services (including any information you provide to such third parties) is subject to the third party's terms of service and information protection statement (not this policy). To ensure the maximum security of your information, we strongly recommend that you review the privacy policy of any third-party service before using it. We will make every effort to conduct security checks and periodic audits when accessing third-party services. If any violations of user information collection by third parties are found, we will promptly cut off the access. However, we cannot assume any responsibility for any third party using the information provided by you. If you find that these third-party services pose risks, we suggest that you terminate the relevant operations and contact us promptly to protect your legitimate rights and interests, and contact us promptly.
+7、 Protection of Minors' Information
+NetEase's strict selection service is mainly aimed at adults with full civil capacity. Minors should not create NetEase Yanxuan accounts or use NetEase Yanxuan services without the consent of their parents or other guardians. If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+If we identify you as a child user, we will notify your guardian and require them to read and agree to this policy and Attachment 1 "Rules for the Collection and Use of Children's Personal Information". We will only use, share, transfer or disclose personal information of children collected with the consent of parents or other guardians for the use of our products or services, as permitted by laws and regulations, with the explicit consent of parents or other guardians, or as necessary to protect the children. If you are the parent of a child or someone else
+Guardian, please pay attention to whether the child under your guardianship is using our services after obtaining your authorization and consent. If you have any questions about the personal information of the child you are monitoring, please contact us through the feedback channels listed in the "How to Contact Us" section.
+8、 Revision and Notification
+In order to provide you with better service, we may modify the terms of this policy in a timely manner based on the updates of NetEase's strict selection service and relevant legal requirements. Such modifications constitute a part of this policy. If such updates result in a substantial reduction or significant change in your rights under this policy (such as significant changes in the types and methods of collecting and using personal information), we will notify you through website announcements, push notifications, pop-up prompts, or other means before this policy takes effect. If you do not agree with such changes, you may choose to stop using NetEase's strict selection services.
+Any modifications we make will prioritize your satisfaction. We encourage you to review our privacy policy every time you use NetEase's strict selection service.
+9、 How to contact us
+We have established a dedicated department for personal information protection, which will protect your personal information in accordance with this policy. If you have any complaints or reports about network information security, or if you have any questions, opinions, or suggestions regarding this policy, NetEase Yanxuan's privacy measures, or matters related to your information, please contact NetEase Yanxuan's personal information protection staff. You can send an email to Privacy@service.netease.com Or write to the following address: Personal Information Protection Manager of NetEase Phase II, No. 399 Wangshang Road, Binjiang District, Hangzhou City (recipient); Postal code: 310052.
+Generally, we will process your questions, opinions, or suggestions within fifteen days after receiving them and verifying your user identity. If you are not satisfied with our handling, you can also file a complaint or report to the department responsible for personal information protection.
+Attachment 1: Rules for the Collection and Use of Children's Personal Information
+We have always attached great importance to the protection of minors and are committed to fulfilling our corporate social responsibility. This "Rules for the Collection and Use of Children's Personal Information" (hereinafter referred to as "these Rules") aims to provide a more detailed explanation to guardians (hereinafter referred to as "you") and children (specifically referring to minors under the age of fourteen, the same below) on how we collect, use, store, and process children's personal information, as well as the ways we provide you and children with access, correction, deletion, and protection of this information. Please carefully read, fully understand, and decide whether to agree with these rules and whether to allow the children under your supervision to use NetEase's strict selection service.
+1、 Scope of application
+This rule is part of the "NetEase Strict Selection Privacy Policy"; If there is any inconsistency between these rules and the main text of the "NetEase Yanxuan Privacy Policy" regarding the collection and use of children's personal information, these rules shall prevail. If not mentioned in these rules, the "NetEase Yanxuan Privacy Policy" shall apply.
+2、 Our rules for collecting and using children's personal information
+We will strictly fulfill our legal obligations and responsibilities for protecting children's personal information, collect and use children's personal information in accordance with the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use. We will collect and use children's personal information with the consent of our guardians, and will not collect or use children's personal information unrelated to the products and/or services we provide. We will not violate legal provisions and our agreement with you to collect and use children's personal information.
+1. During the registration/login process, users can fill in their date of birth; When users purchase gift cards worth over 1000 yuan, we will require them to undergo real name authentication. In the aforementioned scenario, we may identify whether the user is a child based on the information provided by the user.
+2. When we identify the user as a child, we may collect the contact information of the guardian (such as phone number, email), contact the guardian to verify their guardianship relationship with the child, and allow the child to use NetEase's strict selection service with the guardian's consent. In this process, in order to better protect the rights and interests of children, we may also collect more information from guardians (such as name, ID card, household registration book, or other proof of guardianship relationship) to further verify the guardianship relationship between guardians and children.
+3. We may also collect personal information of children that you or other users voluntarily upload, such as uploading pictures, videos, or text containing children's personal information when sharing product related information through functions such as reviews and posting. We will remind relevant users to carefully choose the content of the shared information, and as a guardian, you should also fulfill your guardianship responsibilities correctly to protect the security of children's personal information.
+4. During the use of NetEase Yanxuan services by children, we may also collect and use other personal information of children. Please refer to the "How We Collect and Use Your Personal Information" section of the "NetEase Yanxuan Privacy Policy" for detailed information. If we need to collect and use children's personal information beyond the above scope, we will obtain the consent of the guardian again.
+5. Tips on sensitive personal information
+Children's personal information is considered sensitive personal information. Guardians and children are advised to be cautious and pay attention to sensitive personal information of children. Guardians agree that we may process sensitive personal information of children in accordance with the purposes and methods described in this policy.
+3、 Our rules for sharing, transferring, and publicly disclosing children's personal information
+For children's personal information, we only share it within the purpose and scope described in the "NetEase Yanxuan Privacy Policy" or in accordance with legal requirements, and follow the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use to transfer and publicly disclose children's personal information. You can refer to the "How We Share, Transfer, and Publicly Disclose Your Personal Information" section of the "NetEase Yanxuan Privacy Policy" for more details.
+4、 Regulations on the Management of Children's Personal Information by You and/or Children
+（1） Querying and accessing children's personal information
+You or your child can search and access your child's relevant personal information, such as account information and address management, on the "Personal Center" page of NetEase Yanxuan website and the "Personal" page of the App.
+（2） Correction/modification of children's personal information
+NetEase's strict selection of web pages
+You can log in to the NetEase Yanxuan website to enter
+Personal Center Page
+Query and correct your personal information and
+NetEase strictly selects mobile devices
+You can log in to the mobile client
+Query and correct your shipping address;
+If you are unable to access or correct such personal information through the above path, you can contact us through our online customer service. For other personal information that needs to be accessed or corrected during your use of NetEase's strict selection service, we will respond to your request in accordance with the methods, deadlines, and scope specified in this policy.
+However, due to security and identity recognition considerations, you may not be able to modify certain initial registration information submitted during registration.
+If we confirm that your deletion request complies with laws, regulations, and other public disclosure requirements, we will also notify the affiliated parties and authorized partners who have obtained your personal information from us as much as possible to delete it in a timely manner, unless otherwise stipulated by laws and regulations or these entities have obtained your independent authorization.
+Please understand that some basic personal information is necessary for you to use NetEase's strict selection service, but the provision of most other personal information is up to you to decide. You can change the scope of your authorization for us to continue using additional functions to collect your personal information or revoke your authorization by deleting information, disabling device functions, and other means. After you withdraw your authorization, we will no longer be able to provide you with the services corresponding to your withdrawal of authorization, nor will we process your corresponding personal information.
+We provide registration services for you
+”Page logout
+”Follow the prompts to perform the corresponding operations. You can also contact our customer service online or by phone (4000368163) to apply for the cancellation of your NetEase Yanxuan account
+After confirming compliance with relevant national laws and regulations, the NetEase Strict Selection Service Agreement, and other rules and conditions, we will cancel your application according to your request
+After cancellation, we will cease to provide you with products or services and delete your personal information or anonymize it as required by applicable laws.
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to demand an explanation from us, and we will also provide appropriate remedies without infringing on NetEase Yanxuan's trade secrets or other user rights and social public interests.
+To ensure safety,
+We may first require you to provide a written application and verify your identity before processing your request.
+For your reasonable requests, we will generally respond in accordance with the provisions of this policy. However, we may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+Related to our obligations under laws and regulations;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+We have sufficient evidence to indicate that you have subjective malice or abuse of power;
+Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+Involving trade secrets.
+NetEase's strict selection service may access or link to social media or other services provided by third parties (including websites or other forms of services). include:
+We provide you with links through advertising or other means of our services, allowing you to link to third-party services or websites;
+Information and real name authentication information are used for transaction verification and order payment
+We will evaluate the legality, legitimacy, and necessity of collecting personal information through such third-party services, require them to take protective measures for your personal information, and strictly comply with relevant laws, regulations, and regulatory requirements.
+You can also choose to go through
+If you find that these third-party services pose risks, we suggest that you terminate the relevant operations and contact us promptly to protect your legitimate rights and interests, and contact us promptly.
+NetEase's strict selection service is mainly aimed at adults with full civil capacity. Without the consent of parents or other guardians, minors should not create Netease Strict Selection
+Or use NetEase's strict selection service. If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+We will only use, share, transfer or disclose personal information of children collected with the consent of parents or other guardians for the use of our products or services, as permitted by laws and regulations, with the explicit consent of parents or other guardians, or as necessary to protect the children.
+If you are the parent or other guardian of a child, please pay attention to whether the child under your guardianship is using our services with your authorized consent.
+In order to provide you with better service, we may modify the terms of this policy in a timely manner based on the updates of NetEase's strict selection service and relevant legal requirements. Such modifications constitute a part of this policy. If such updates result in a substantial reduction or significant change in your rights under this policy (such as significant changes in the types and methods of collecting and using personal information), we will notify you through website announcements, push notifications, pop-up prompts, or other means before this policy takes effect. If you do not agree with such changes, you may choose to stop using NetEase's strict selection services.
+Any modifications we make will prioritize your satisfaction. We encourage you to review our privacy policy every time you use NetEase's strict selection service.
+We have established a dedicated department for personal information protection, which will protect your personal information in accordance with this policy. If you have any complaints or reports about network information security, or if you have any questions, opinions, or suggestions regarding this policy, NetEase Yanxuan's privacy measures, or matters related to your information, please contact the personal information protection staff of NetEase Yanxuan,
+Please carefully read, fully understand, and decide whether to agree with these rules and whether to allow the children under your supervision to use NetEase's strict selection service.
+. In the aforementioned scenario, we may identify whether the user is a child based on the information provided by the user.
+When we identify the user as a child, we may collect the contact information of the guardian (such as phone number, email address)
+）Contact the guardian to verify their guardianship relationship with the child, and allow the child to use NetEase Yanxuan services with the guardian's consent.
+During this process,
+In order to better protect the rights and interests of children, we may also collect more information from guardians (such as name, ID card, household registration book, or other proof of guardianship relationship) to further verify the guardianship relationship between guardians and children.
+We may also collect personal information of children that is voluntarily uploaded by you or other users, such as uploading pictures, videos, or text containing children's personal information when sharing product related information through functions such as reviews and posting
+We will remind relevant users to carefully choose the content of the shared information, and as a guardian, you should also fulfill your guardianship responsibilities correctly to protect the personal information security of children.
+During the process of children using NetEase's strict selection service,
+. If we need to collect and use children's personal information beyond the above scope, we will obtain the consent of the guardian again.
+Tips on sensitive personal information
+Children's personal information is considered sensitive personal information. Guardians and children are advised to be cautious and pay attention to sensitive personal information of children. Guardians agree that we may process sensitive personal information of children in accordance with the purposes and methods described in this policy.
+You or children can
+Querying and accessing personal information related to children, such as:
+Information and address management.
+At the same time, if you or your child find that the personal information we collect, store, use, or disclose about children is incorrect and cannot be corrected through the aforementioned channels, you can contact us for correction. We will take timely measures to correct the issue after completing identity verification and verification.
+（3） Delete children's personal information
+You can independently delete some of your personal information through the channels listed in "(2) Correction/Modification of Children's Personal Information" above. When some information is deleted, we may require you to verify your identity to ensure information security.
+In the following situations, if you or the child are unable to delete the child's personal information through the aforementioned channels, you can directly request the deletion of the child's personal information from us. We will take timely measures to delete the child's personal information after completing identity verification and verification, including:
+We collect, store, use, transfer, or disclose children's personal information in violation of laws and regulations or agreements with guardians and children;
+Collecting, storing, using, transferring, or disclosing children's personal information beyond the scope of the purpose or necessary period;
+If the guardian withdraws their consent;
+If the guardian or child terminates the use of NetEase's strict selection service through cancellation or other means;
+Other circumstances stipulated by laws and regulations.
+（4） Obtaining a copy of personal information
+If a guardian and the child need to obtain a copy of the child's personal information, they can contact us through the feedback channels listed in the "How to Contact Us" section of this policy. After verifying their identity, we will provide a copy of the child's personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as stipulated in this policy.
+5、 Our rules for storing and protecting children's personal information
+We comply with the provisions of laws and regulations,
+Only store children's personal information within the territory of the People's Republic of China
+We only store children's personal information for the shortest period of time necessary for the purposes stated in the Netease Strict Selection Privacy Policy, unless otherwise required by laws, regulations or regulatory authorities. When the personal information of children exceeds the period we have stored, we will delete or anonymize the personal information of children.
+We have adopted multi-level protection measures such as security technology measures that comply with industry standards and supporting management systems to protect children's personal information; At the same time, we adhere to the principle of minimum authorization and have set strict information access permissions for our staff to control the scope of children's personal information access; We have also taken necessary technical measures to avoid illegal copying and downloading of children's personal information. If you would like to know more,
+6、 How to contact us
+We have a dedicated department for personal information protection and have designated a dedicated person in charge of protecting children's personal information, who will strictly follow these rules to protect children's personal information. If guardians and children have complaints and reports about network information security, or have any questions, opinions, or suggestions regarding these rules, personal information protection measures for children, etc., please feel free to contact us at any time. You can send an email to
+Or write to the following address:
+In general, we will handle issues, opinions, or suggestions within fifteen working days after receiving them and verifying the identity of the guardian and/or child. If the guardian or child is not satisfied with our handling, they can also file a complaint or report to the department responsible for personal information protection.
+Attachment 2: Directory of Third Party SDK Service Providers
+To ensure the implementation of relevant functions and the safe and stable operation of applications for NetEase's strict selection service, we may access software development kits (SDKs) or similar applications provided by third parties to achieve related purposes. We will conduct strict security assessments on software development kits (SDKs) or similar applications used by our partners to obtain information, in order to protect the security of your personal information. Here is the information of the main third-party service providers we access:
+Huawei Push SDK
+Subject: Huawei Terminal Co., Ltd
+Purpose: To push messages to Huawei mobile phone users
+Mobile personal information types: device identification information (IMEI, Android ID), hardware serial number
+Official website link: https://developer.huawei.com/consumer/cn/service/hms/pushservice.html
+Xiaomi Push SDK
+Subject: Xiaomi Mobile Software Co., Ltd
+Purpose: To push messages to Xiaomi mobile phone users
+Types of personal information collected: device identification information (IMEI AndroidID、MAC）、 Hardware serial number, network information
+Official website link: https://dev.mi.com/console/appservice/push.html
+OPPO Push SDK
+Subject: OPPO Guangdong Mobile Communication Co., Ltd
+Purpose: To push messages to OPPO mobile phone users
+Types of personal information collected: device identification information (IMEI AndroidID、MAC）、 Hardware sequence
+Column number
+Official website link: https://open.oppomobile.com/wiki/doctid=10196
+VIVO Push SDK
+Subject: VIVO Guangdong Mobile Communication Co., Ltd
+Purpose: To push messages to VIVO mobile phone users
+Types of personal information collected: device identification information (IMEI AndroidID、MAC）、 Hardware serial number, network information
+Official website link: https://dev.vivo.com.cn/documentcenter/doc/233
+WeChat SDK
+Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Usage: WeChat account login, help users share content to WeChat, friend recommendations
+Types of personal information collected: device identification information (IMEI AndroidID、MAC、DeviceID）、 Network information, location information
+Official website link: https://open.weixin.qq.com/
+Weibo SDK
+Subject: Beijing Weimeng Chuangke Network Technology Co., Ltd
+Usage: Login to Weibo account, help users share content to Weibo, recommend to friends
+Types of personal information collected: device identification information (IMEI, Android ID, MAC, SIM card, DeviceID), network information
+Official website link: https://weibo.com/signup/v5/privacy
+QQ SDK
+Subject: Tencent Technology (Shenzhen) Co., Ltd
+Usage: QQ account login, help users share content to QQ, friend recommendations
+Types of personal information collected: device identification information (IMEI AndroidID、MAC、DeviceID）、 Network information, location information, application list
+Official website link: https://open.tencent.com/
+Tiktok SDK
+Subject: Beijing Weibo Vision Technology Co., Ltd
+Purpose: used to log in to NetEase service with Tiktok account and help users share content to Tiktok client
+Types of personal information collected: device identification information (IMEI, Android ID, MAC, SIM card, DeviceID), network information
+Official website link: https://open.douyin.com/platform/
+WeChat Pay
+Subject: Tenpay Payment Technology Co., Ltd
+Purpose: To assist users in using WeChat Pay within the application
+Collect personal information types: device identification information (IMEI, IMSI, Android ID, MAC, SIM card, DeviceID), hardware serial number, network information
+Official website link: https://pay.weixin.qq.com/
+Alipay (Alipay) SDK
+Subject: Alipay (China) Network Technology Co., Ltd
+Purpose: help users use Alipay in the application
+Types of personal information collected: device identification information (IMEI, IMSI, Android ID, MAC, SIM card, DeviceID), phone number, hardware serial number, network information
+Official website link: https://docs.open.alipay.com/
+Cloud QuickPass SDK
+Subject: Yunshanfu (Shenzhen) Information Technology Co., Ltd
+Purpose: To assist users in using Cloud QuickPass within the application
+Types of personal information collected: device identification information (IMEI, IMSI, Android ID, MAC, SIM card, DeviceID), phone number, hardware serial number, network information
+Official website link: https://open.unionpay.com/tjweb/index
+Guozhengtong Facial Recognition SDK
+Subject: Guozhengtong Technology Co., Ltd
+Purpose: Facial recognition authentication for users
+Types of personal information collected: personal identity information (real name, ID number), facial recognition features, reading SMS, contacts, call records, location information, device identification information (AndriodID, IMEI)
+Official website link: http://www.id5.cn/productintroduction3672/index.aspx
+Gaode Map SDK
+Subject: Gaode Software Co., Ltd
+Purpose: Used for precise positioning of user location and providing services based on geographic location information
+Types of personal information collected: device identification information (IMEI AndroidID、MAC）、 Hardware serial number, network information, location information
+Official website link: https://lbs.amap.com/pages/privacy/
+Privacy Policy Link: https://lbs.amap.com/home/privacy/
+Mobile one click login
+Subject: China Mobile
+Purpose: One click login
+Types of personal information collected: phone number, network information, device identification information (IMSI)
+Official website link: http://open.home.10086.cn/dev/productIntroductionAction.action?eaId=15
+China Unicom One Click Login
+Subject: China Unicom
+Purpose: One click login
+Types of personal information collected: mobile phone number, network information, device identification information (IMEI) IMSI、AndriodID、MAC）、 Hardware serial number
+Official website link: https://saas.wostore.cn/solution.html?param=1&num=3
+Telecom One Click Login
+Subject: China Telecom
+Purpose: One click login
+Types of personal information collected: phone number, network information, device identification information (IMSI, Android ID), application installation list
+Official website link: http://id.189.cn/banner/unPassword
+MMA China Advertising Monitoring and Verification Unified SDK
+Subject: China Advertising Association
+Purpose: Advertising data monitoring
+Types of personal information collected: device identification information (IMEI AndroidID、MAC）、 network information
+Note: In order to meet the advertising industry monitoring standards required by the China Advertising Association, MMA is connected to the third-party service provider of the Miaozhen system to collect personal information types such as device identification information (IMEI AndriodID、MAC）、 network information
+Official website link: http://www.china-caa.org/digital/sdk/1
+Tencent Bugly
+Subject: Tencent
+Purpose: Crash crash collection
+Type of personal information collected: Do not collect user information
+Official website link: https://bugly.qq.com/v2/
+Tencent Tinker
+Subject: Tencent
+Purpose: Online problem repair
+Type of personal information collected: Running process
+Official website link:
+Subject: Xiaomi Mobile Software Co., Ltd
+Purpose: To push messages to Xiaomi mobile phone users
+Subject: Shenzhen Tencent Computer Systems Co., Ltd
+Usage: WeChat
+Login, help users share content to WeChat, and recommend to friends
+Subject: Beijing Weimeng Chuangke Network Technology Co., Ltd
+Purpose: Weibo
+Login, help users share content to Weibo, and recommend to friends
+Subject: Tencent Technology (Shenzhen) Co., Ltd
+Subject: Beijing Weibo Vision Technology Co., Ltd
+Purpose: for Tiktok
+Log in to NetEase service and help users share content to Tiktok client
+Subject: Tenpay Payment Technology Co., Ltd
+Purpose: To assist users in using WeChat Pay within the application
+Subject: Alipay (China) Network Technology Co., Ltd
+Purpose: help users use Alipay in the application
+Purpose: To assist users in using Cloud QuickPass within the application
+Subject: Guozhengtong Technology Co., Ltd
+Purpose: Facial recognition authentication for users
+Subject: Gaode Software Co., Ltd
+Purpose: Used for precise positioning of user location and providing services based on geographic location information
+Privacy Policy Link:
+Subject: China Mobile
+Subject: China Unicom
+Subject: China Telecom
+Subject: China Advertising Association
+Purpose: Advertising data monitoring
+Subject: Tencent
+Type of personal information collected: Do not collect user information
+Purpose: Online problem repair
+Type of personal information collected: Running process
+NetEase One Click Login SDK
+Subject: NetEase
+Purpose: Login and Registration
+Types of personal information collected: device identification information (IMEI Android ID、MAC）、 network information
+Third party privacy policy link: https://hc.reg.163.com/iTerm/doc.html?id=437
+NetEase Yidun Anti Cheating SDK
+Subject: NetEase
+Purpose: Login and Registration
+Purpose: Account risk control
+Types of personal information collected: device identification information (IMEI Android ID、MAC）、 network information
+Third party privacy policy link: https://hc.reg.163.com/iTerm/doc.html?id=437
+NetEase Qiyu SDK
+Subject: Hangzhou NetEase Zhiyun Technology Co., Ltd
+Purpose: To provide customer service conversation services
+Types of personal information collected: Collecting network information (network status, wifi information, IP address) to understand the network status and changes of devices, in order to maintain the stability of network connections to the greatest extent possible; When the sensor information permission is enabled, distance sensor information will be collected to sense whether the phone is lifted to the ear, providing a better voice chat experience.
+Third party privacy policy link: https://qi.163.com/termsService?privacy=1
+Alibaba Cloud Player SDK
+Subject: Alibaba Cloud
+Purpose: To provide stable, smooth, and rich services for audio and video playback.
+Types of personal information collected: UUID, device model, IP address
+Third party privacy policy link: https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202112151438_20307.html
+customer service
+Online Service 
+User feedback
+What is Netease Strict Selection
+NetEase Yanxuan is a lifestyle brand deeply loved by the new middle class, providing consumers with one-stop, full category, and all-round solutions for a better life. We continuously bring high-quality inspiration and good products through simple, practical, and comfortable aesthetic design, accompanying 30 million new middle-class users to "live the way they like", and jointly advocating a diversified life value proposition - everyone can return the right to choose their own life.
+Follow us:
+Scan the code to download the Yanxuan APP
+Download and receive large newcomer red envelopes
+NetEase's self operated e-commerce platform
+30 day worry free return and exchange
+Free shipping for orders over 99 yuan
+Quality assurance
+About Us | Help Center | After sales Service | Delivery and Acceptance | Business Cooperation | Enterprise Procurement | Open Platform | Friendly Links | Integrity Reporting | Asian Games Bad Information Reporting
+Food Business License: JY13301080111719 Publication Business License: New Departure Bin Zi No. 0132 Miaode ICP Certificate No.: ICP Certificate Zhe B2-20160106 Zhe Hang Food and Drug Supervision Equipment Business Registration No. 20171029 Business License NetEase Company All rights reserved ©  1997-2024
+Radio transmitting equipment sales filing: 42202011096855 Internet drug information service qualification certificate: (Zhejiang) - profit-making -2022-0075 Third party platform filing for medical device network transaction: (Zhejiang) WXDYBZ [2020] No. 00029
+Third party platform registration number for online drug trading: (Zhe) Wangyao Platform Bei Zi [2024] No. 00000 7-000 (Zhe Hang) Wangxie Enterprise Bei Zi [2019] No. 00119 (Yue) Wangxie Platform Bei Zi (2019) No. 00004 (Yue) - Non operational -2021-0018
+Imported cold chain food
+Product Management Commitment Letter Zhejiang ICP No. 15041168 Food Business License: JY14207050007694 Zhejiang Province Network Food Sales Third Party Platform Provider Filing: Zhejiang Online Food A33010009 Single purpose Commercial Prepaid Card Filing Certificate: 330100AAC0024
+Publication Network Trading Platform Service Operation Filing: New Departure Zhe Bei Zi No. 2021006
+Newcomers are polite
+Scan code to receive
+APP Large Value
+Newcomer red envelope
+Subscribe to electronic journals
+Strict selection of life aesthetics
+Subscribe to the electronic magazine and get the latest news from Yan Xuan in the first time
+Subscribe Now
+Exclusive discounts
+Enjoy priority purchase
+Don't miss out on good goods
+Online Service 
+Go back to the top
+new people
+Cash gift
+Download and receive large newcomer red envelopes
+new people
+Cash gift
+Download and receive large newcomer red envelopes
+There are still 10 million waiting for you to snatch

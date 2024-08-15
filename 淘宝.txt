@@ -1,0 +1,304 @@
+Privacy Policy for Basic Functions of Taobao
+Update Date: June 23, 2024
+Effective Date: June 30, 2024
+[Introduction]
+Welcome to use our products and services! We are well aware of the importance of personal information to you, and your trust is very important to us. We will strictly comply with legal and regulatory requirements based on the principles of legality, legitimacy, and minimum necessity, and take corresponding security protection measures, committed to protecting the security and controllability of your personal information. Based on this, Taobao service providers (or referred to as "us") have formulated this "Taobao Basic Function Privacy Policy" (hereinafter referred to as "this policy"/"this privacy policy") to help you fully understand how we collect, use, share, store, and protect your personal information during your use of our products and services, as well as how you can manage your personal information, so that you can make appropriate choices better.
+Before you start using our products and services, please carefully read and understand this policy, especially the terms marked in bold/bold underline, to ensure that you fully understand and agree before starting to use. We will try our best to explain the professional vocabulary involved in this policy in concise and popular terms for your understanding.
+If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through the contact information at the end of this policy.
+You agree to the privacy policy, which means that you have understood the basic functions provided by our products and services, as well as the necessary personal information required for the operation of basic functions, and have given corresponding collection and use authorization. However, it does not mean that you have separately agreed to enable additional functions. For the activation of additional functions, we will seek your consent separately based on your actual usage situation. If you refuse to enable additional features and we collect non essential personal information, it will not affect your use of basic functions.
+This privacy policy will help you understand the following:
+1、 Scope of application
+2、 Information Collection and Use
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+4、 Your rights
+5、 Storage of Information
+6、 Policy updates
+7、 Protection of Minors
+8、 Contact Us
+Appendix: Relevant Definitions
+1、 Scope of application
+This policy applies to the products and services that Taobao service providers provide you with basic online shopping functions through websites, clients, mini programs, and new forms that emerge with technological development.
+Except for the information collection and use activities described in this policy, this policy does not apply to other services provided to you by Taobao sellers and other third parties. Other services are subject to the personal information collection and use rules that they have separately explained to you. For example, when you join a seller or brand as a member, the use of membership information by such sellers or brands is subject to the rules they specifically explain to you.
+To achieve the basic functions of providing our products and/or services to you, you must authorize us to collect and use the necessary information.
+2、 Information Collection and Use
+If you refuse to provide the corresponding information, you will not be able to use our products and/or services normally.
+We will provide you with various specific functional scenarios, including:
+（1） Help you become our member and manage your account
+1. Taobao platform account service
+We provide services based on your Taobao platform account. In order to create a Taobao platform account, you need to provide us with at least your
+Mobile phone number, intended membership name, and password
+. If you refuse to provide the above information, you will not be able to register a Taobao platform account and can only use browsing and search services. We will determine your current level based on the usage of your Taobao platform account and the account level calculation rules set by the platform, and provide you with the basic benefits corresponding to the corresponding account level.
+You can use the products or services provided by us and/or our affiliated companies through the link entrance or other product/service entrance provided on our website or client through your Taobao platform account. For the convenience of managing your Taobao platform account, we will synchronize and display your registration information in the Taobao platform account service, as well as the operations you perform on the Taobao platform or in products and services associated with your Taobao platform account, including displaying your personal information, promotional benefits, and transaction orders through the Taobao platform account. The above information associated with your Taobao platform account will be used to provide you with customer service, identify account security risks, and recommend products or services that you may be interested in.
+You can set your own nickname, gender, and avatar, and this information will be publicly displayed in evaluations, sharing, and other interactive scenarios. You can set your date of birth information by yourself, and Taobao may display birthday related benefits to you based on your date of birth information. This type of information is non essential personal information, and your failure to provide the aforementioned information will not affect your use of Taobao platform services.
+2. Authorized login
+We may provide your account information (avatar, nickname, and other page prompts) to third parties with your separate consent, so that you can easily register for a third-party account or log in directly from a third party. In addition, we may obtain your third-party account information from third parties with your separate consent and bind it to your Taobao platform account, allowing you to log in and use our products and/or services directly from the third party. We will use your relevant information within the scope of your separate consent authorization.
+3. Identity verification
+To meet relevant legal and regulatory requirements, ensure the authenticity of user identity, implement anti fraud risk control, and ensure system and service security, we need to collect your relevant information for identity verification when you use specific services/functions, such as:
+When you use functions such as "Retrieve Taobao Account" and "Retrieve Password", we may collect your identity information, including your
+, or other verifiable information (such as email, etc.), used to verify your identity and help you retrieve your Taobao platform account.
+[Real name/real person authentication] It is necessary to verify the real identity of users based on the realization of special types of commodity or service transactions, the application for the role of members with additional identity authentication requirements, and other scenarios that need to verify the real identity of users according to the Regulations on the Management of Internet User Account Information and other laws and regulations (including protecting the rights and interests of minors in accordance with the law, combating telecommunications network fraud, withholding individual income tax, administrative law enforcement or identification of relevant subjects in judicial proceedings)
+You need to undergo real name or real person authentication.
+In order to achieve the purpose of authentication, you need to actively provide relevant real identity information (name, ID number and other ID information or facial recognition information, which may vary according to the actual situation, subject to the prompts on the page) and authorize us to conduct information verification through the national authoritative and trusted identity certification authority, or authorize us to obtain the necessary authentication information for your Alipay account from Alipay. We will record and save the authentication information and authentication results according to law. These information is only for the purpose of authentication, or other purposes specified by laws and regulations, and will not be used for other purposes without your express authorization. In addition, when you participate in promotional and interactive activities on the platform, we need to query Alipay's real name authentication status of your bound Alipay account to verify your basic participation conditions and ensure your activity experience.
+（2） Show you product or service information
+1. Browse
+When you browse Taobao, you can choose to bookmark/subscribe/add/follow/share/like the products, stores, channels, live streaming rooms, content (and content creators) that interest you. We will collect your operation records to achieve the aforementioned functions and other purposes that we explicitly inform you of.
+You can view and manage your operation record information through "My Taobao" - "Favorites"/"Subscription Store"/"Footprints"/"Follow", etc.
+2. Search
+When you use the search function (including image and voice search), we will collect your search history, including search content (search terms, images, voice information), browsing history/time, search time/frequency, and apply according to the requirements of the function you are using
+Microphone permission, camera permission, or the image you provided
+In order to provide efficient search services, some of the aforementioned information will be temporarily stored on your local device and display your search history.
+3. Personalized recommendations
+To display and recommend products or services that may be of interest to you, we will collect and use your browsing, search, purchase, and transaction records when visiting or using the Taobao platform website or client, combined with lawfully collected device information, service log information, and other authorized information obtained from you, to predict your preference characteristics through algorithm models. We will push you commercial advertisements and other information that you may be interested in on Taobao and other third-party applications or terminals based on your preference characteristics, or send you commercial messages. We will also use sorting and selection algorithms to generate relevant selected rankings based on statistical analysis of the hotspots, trends, and tendencies of Taobao platform users browsing and searching for products or services, and recommend them to you.
+Personalized recommendation and retrieval algorithms will predict your preference features based on the model, match products, services, or other information that you may be interested in, and sort the products, services, or other information displayed to you. We will provide real-time feedback on the recommendation model based on your browsing behavior during the use of the product, and continuously adjust and optimize the recommendation results. To meet your diverse needs, we will introduce diversified recommendation techniques in the sorting process to expand the recommended content and avoid excessive concentration of similar content.
+At the same time, we strive to ensure your privacy experience through the following measures:
+1. If you do not want to accept the advertisements or commercial messages we send you, you can unsubscribe by replying via SMS, email, or phone, or by using other methods we provide such as customer service to unsubscribe or close them;
+2. If you need to view rankings that are not based on your personal characteristics when using our on-site search service, you can click "Filter" on the search results page and select "General Sorting" to set it up;
+3. If you do not want to see the products or services we recommend to you on the homepage or on the payment completion page, you can long press the image of the recommended product or service and choose to block similar products or services in the category that they belong to in the pop-up window that appears;
+4. If you want to manage the personalized ads we send to you, you can set them up in "My Taobao - Settings - Privacy Settings - Ad Management". （
+5. If you want to manage the personalized content we push to you, you can set it up in "My Taobao - Settings - Privacy Settings - Recommendation Management". （
+（3） Assist you in completing the transaction
+1. Shopping cart
+When you use the shopping cart function, we will collect your additional purchase information for the products and use your order information to optimize your shopping experience (such as providing price/discount reminders, filtering frequently purchased products, recommending specific shopping cart sharing links, etc.).
+Ordering and Order Management
+When you order specific goods and/or services in our products and/or services, we will generate an order for you to purchase the goods and/or services through the system. During the ordering process, you need to provide at least your
+Recipient's name, shipping address, recipient's contact phone number,
+For some special types of goods and services, you also need to provide other necessary information for the goods or services, such as
+When conducting cross-border transactions, you need to provide your identification information to complete customs clearance
+You can provide additional information, including other contact numbers and delivery times, to ensure accurate delivery of goods or services. If you need to issue an invoice, you also need to provide the invoice header, taxpayer identification number, and email address for receiving the invoice.
+At the same time, the order will include information about the goods and/or services you purchased, the specific order number, the time the order was created, the discounts you have used, the amount to be paid, and your remarks.
+We collect this information to assist you in completing transactions smoothly, ensuring the security of your transactions, facilitating your order information inquiry, providing customer service and after-sales support, reconciling accounts, and tax declarations corresponding to discount information (if necessary), as well as other purposes that we have explicitly informed you of.
+You can order goods and/or services for others through Taobao,
+You need to provide the aforementioned personal information of the actual recipient and ensure that their consent has been obtained.
+For your convenience in understanding, querying, and managing order information, we will collect the order information generated during your use of our services to display to you and facilitate your order management.
+You can check through "My Taobao" - "My Orders"
+View and manage your order information.
+Payment and delivery of goods or services
+When you purchase goods or services, in order to assist you in completing or representing others in completing order payments and smoothly receiving the purchased goods or services, we or third parties providing services will collect your order information and delivery information. For specific content, please refer to "III. Partners involved in data use and transfer/disclosure of personal information - (1) Partners involved in data use -5. Cooperation scenarios -1) Implementation of business functions - A. Payment services/B. Logistics services" in this policy.
+（4） Provide you with information publishing function
+1. Evaluation and Comment
+When you evaluate the products and/or services traded, we will collect and publicly display your feedback and shared content (including text, images, videos, etc.), avatar, nickname on both in store and out of store pages. If you choose to leave an anonymous review, your avatar and nickname will not be publicly displayed to other users, except for those who share the review publicly (such as on browsing, Taobao Moments, etc.). If you choose to leave an anonymous review and then share it publicly, your avatar and nickname will be displayed on the public sharing channel.
+When you comment on reviews and content posted by other users, your profile picture, nickname, and comment content will be publicly displayed.
+You can ask questions to purchased users, and as a purchased user, you may receive invitations randomly pushed by the system to answer questions from other users. When you choose to ask or answer, your Q&A content, avatar, and nickname will be publicly displayed.
+2. Personal homepage
+Your personal homepage displays your profile picture, nickname, posted content, and related interactive information (fans, followers, comments/likes, reviews, Q&A, favorites), etc. Other users can view your personal homepage by searching for Taobao nickname or browsing account (you can turn off this method through "My Taobao" - "Settings"). You can click on the avatar in the upper right corner of "My Taobao" to enter the "Personal Page" to view and manage personal information, posted information/content, and set personal page privacy settings.
+Please note that your use of the information publishing function may involve personal information or even sensitive personal information of yourself or others. Please consider more carefully whether to share or even publicly share relevant information when using our services. If the information you publicly release involves personal information of others, you need to obtain their consent before publishing.
+（5） Notification and interactive communication
+1. Message notification
+We may send you one or more types of notifications, such as service notifications, identity verification, security verification, user experience research, etc., through the contact information you provide during the use of our products and/or services (such as contact phone number, contact email). We may also send you commercial messages and other product or service information about services, features, or activities that you may be interested in through SMS or pop-up notifications. If you do not wish to receive our commercial messages and other product or service information, you can unsubscribe or turn it off through the unsubscribe methods provided in SMS, phone, email, or through our customer service. If you wish to turn off pop-up notifications, you can choose to turn on/off Taobao's notification permissions in your device's "Settings", or set up message notifications through "My Taobao - Settings - Message Notifications". You can also turn it off through the "Skip" button or related buttons on the pop-up page.
+In addition, when you initiate customer service inquiries or engage in transactions or interactions with the store (such as subscribing or joining the store as a member), you will receive a customer service message from the store in the "Messages" section. You can enter the chat page of the corresponding store to set up a "Do Not Disturb" feature.
+2. Activity participation
+When you participate in our e-commerce marketing interactive activities, we may need to collect and use your relevant personal information (including but not limited to your nickname, avatar, etc.)
+Contact information and shipping details
+Order information, browsing history, account level, etc. are provided to assist you in registering for, participating in, enjoying activity benefits, lottery, prize redemption, etc. Please pay attention to the specific scope of personal information collection and use that will be notified to you separately in the relevant scenarios, and participate in the corresponding activities after agreeing.
+If the relevant activities are jointly organized by us and affiliated companies or third parties, we will share necessary information with the affiliated company or third party after obtaining your consent, or bind your Taobao account with the affiliated company or third-party platform account, and/or synchronize your participation account, participation progress, specific benefits enjoyed, and other information among multiple participating platforms to ensure that you receive consistent and complete services during the activities.
+In some activities, we provide you with shooting beautification functions such as filters and props (such as face stickers) to help you achieve better visual effects in pictures/videos. When you use this feature, we need to use technical capabilities (such as the True Depth API in iOS) to intelligently recognize your skin and facial features parameters, in order to locate the position of your facial features and match you with corresponding makeup and/or special effects based on the location judgment results. This feature is implemented on your local device, and we will not use the aforementioned information for facial recognition or other purposes, nor will we transmit it back, store it on servers, or share it with third parties.
+3. Share and interact
+When you share or receive shared information, participate in activities, etc., we will read the content of your clipboard to determine whether there are relevant passwords, sharing codes, links, in order to achieve functions or services such as jumping, sharing, and activity linkage. However, we only upload the clipboard content to our server when we locally recognize that it belongs to Taobao jumping, sharing, activity linkage, etc. We will not collect or store other information on your clipboard, and individual clipboard information cannot identify your personal identity. At the same time, we may need to access your phone's photo album for you to share or receive the shared pictures or videos.
+Live room interaction
+When you watch the live broadcast, your nickname, avatar, and interactive information in the live room (such as comments, likes, tips, gifts, fan ratings, etc.) will be publicly displayed in the live room. At the same time, we will collect your interaction situation to form statistical data in the live room (such as rankings, popularity, etc.) and display it publicly.
+（6） Customer service and dispute resolution
+When you contact us or make a request
+In order to ensure the security of your account and system during sales, after-sales, and dispute resolution applications,
+We need you to provide necessary personal information to verify your membership status.
+In order to facilitate contact with you, assist you in resolving issues as soon as possible, or record the solutions and results of related issues, we may keep records of your communication, correspondence/call records, and related content (including account information, order information, other information you provide to prove relevant facts, or contact information you leave behind). If you make inquiries, complaints, or provide suggestions regarding specific orders, we will use your account information and order information.
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+We will use deep learning technology to provide you with intelligent Q&A conversations and intelligent voice customer service. De identify your communication, communication/call records, and related content with us, and use them for intelligent customer service algorithm model training in cases where your identity cannot be identified. During the period when you receive intelligent customer service, we will provide you with significant reminders. We will continuously improve the service quality of our intelligent customer service based on your usage records.
+（7） To provide you with security protection
+We are committed to providing you with a secure and trustworthy e-commerce transaction environment. To ensure the order and security of e-commerce transactions, prevent and control telecommunications network fraud, maintain normal and stable network operation, prevent illegal and criminal activities, effectively respond to network security incidents, protect the personal and property safety of you or other users or the public from infringement, and more accurately identify violations of laws and regulations or Taobao related agreements and rules, we will collect your device identifier (Android ID), variable identifier (IDFA) IDFV、OAID、GAID）、 Application information (application crash information, notification switch status, running processes of this app, and other related information of this app), device parameters and system information (device type, device model, operating system, and hardware related information), device network environment information [IP address, WLAN (Wi Fi) network protocol configuration excluding WLAN (Wi Fi) Mac information, Bluetooth information, device sensor information, and other network related information], operator information, and broadcast component communication information. To prevent phishing websites, fraud, network attacks, and network intrusion risks, we only process software installation information locally on the device and will not upload it to the server.
+We may use your above information, as well as Taobao platform account information, service log information, and information authorized by you or lawfully provided to us by our affiliates and partners, to determine account security, transaction security, conduct identity verification, identify illegal and irregular situations, detect and prevent security incidents, and take necessary recording, analysis, and disposal measures in accordance with the law.
+（8） Other additional services provided for you
+1. Additional services based on system permissions
+The basic functions we provide to you may involve enabling system permissions to collect and use your personal information. If we want to ensure the implementation of related product or service functions, we can apply to you when you want to quickly fill in the shipping address, recommend nearby products or services and local content, help you add location in the published information, or use membership code products
+And collect your
+If you do not agree to enable the relevant permissions, it will not affect your use of Taobao's basic services,
+You can view and manage the status of the above permissions item by item in your device's "Settings" or our client's "My Taobao - Settings - Privacy - System Permissions". You can decide whether to turn these permissions on or off at any time. After turning them off, we will no longer continue to collect and use relevant personal information based on the corresponding permissions. Your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+View the application permission application and usage instructions.
+2. Cookies and similar technology services
+Cookies and similar device information identification technology are widely used in the Internet. When you use our services, we may use relevant technologies to send one or more cookies or anonymous identifiers (hereinafter referred to as "cookies") to your device to collect, identify, and store information about your access to and use of this product. We promise not to use cookies for any purposes other than those described in this privacy policy. We use cookies mainly to ensure the security and efficient operation of our products and services. They allow us to confirm the security status of your account and transactions, investigate related abnormal situations such as crashes and delays, and help you avoid repeating the steps and processes of filling out forms and entering search content.
+At the same time, we may use cookies to display information or features that you may be interested in and optimize your advertising choices. Most browsers provide users with the function of clearing browser cache data. You can perform corresponding data clearing operations, or modify the acceptance level of cookies or refuse our cookies. You may not be able to use services or corresponding functions that rely on cookies due to these modifications.
+（9） Other rules for collecting and using personal information
+If the information you provide contains personal information of other users, you need to ensure that you have obtained legal authorization before providing this personal information to Taobao.
+2. If we use the information for other purposes not specified in this policy, or use the information collected for specific purposes for other purposes, we will obtain your consent in advance.
+Under the premise of secure encryption technology and strict de identification, we will use the collected data for machine learning, algorithm model training, or other data analysis and mining processing to better ensure our product experience, assist business decision analysis, and model optimization.
+View the explanation of Taobao's algorithm principles and information processing situation.
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+（1） Partners involved in the use of data
+1. Basic principles
+We collaborate with our partners
+When working, the following principles will be followed:
+Principle of legality, legitimacy, and minimum necessity:
+Data processing should have a legal basis, a legitimate purpose, and be limited to the minimum scope of achieving the processing purpose.
+The principle of maximizing users' right to know and decision-making power:
+Fully respect the user's right to know and make decisions regarding the processing of their personal information during the data processing process.
+The principle of strongest security guarantee capability:
+We will take necessary measures to ensure the security of the personal information processed, carefully evaluate the purposes for which our partners use the data, conduct a comprehensive assessment of their security capabilities, and require them to comply with the relevant requirements of the cooperation agreement.
+View the explanation of data partners on the Taobao platform.
+2. Scope of cooperation partners
+If the specific functions and scenarios involve services provided by our affiliates or third parties, the scope of cooperation includes our affiliates and third parties.
+3. Entrusted processing
+We may entrust authorized partners to process your personal information in order to authorize partners to provide certain services or perform functions on our behalf for you. We will only entrust them to process your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through an agreement not to use this information for any other purposes beyond the scope of the delegation. If the authorized partner uses your information for purposes that we have not delegated, they will obtain your consent separately.
+4. Joint processing
+For the scenario of jointly processing personal information, we will sign relevant agreements with our partners in accordance with legal provisions and agree on their respective rights and obligations, ensuring compliance with legal provisions and protection of data security in the process of using relevant personal information.
+5. Collaboration Scenario
+To achieve business functions
+A. Payment Services
+To complete order payment, you need to bind your Alipay account and select a payment method. We will
+Collected during your use of payment services
+Your Taobao platform account member name, corresponding Alipay account member name, order payment related information, order security related equipment information and other necessary information required by anti money laundering laws are shared with Alipay through the Alipay software tool development package (software tool development package is referred to as "SDK" in this policy) embedded in the website or client and other security methods. If you choose to have other financial institutions or third-party payment tools provide you with payment services, the payment institution may also collect or verify your bank card (including savings cards, credit cards) information and other necessary payment information on their own or on behalf of us. If the aforementioned information is collected by us, it will be shared with the corresponding payment institution you choose.
+You can request someone else to make the payment for you, then you need to provide
+Payer's Alipay account and/or mobile phone number
+In order to let us know and confirm your payment progress and status in a timely manner, and provide you with after-sales and dispute resolution services, you agree that we can collect information related to the payment progress from the trading partner you choose, Alipay or other financial institutions you choose.
+You can view the Alipay account information bound to your Taobao platform account or apply for changing the bound Alipay account.
+B. Logistics services
+To ensure the smooth, safe, and accurate delivery and provision of the goods and/or services you purchase, we will disclose the delivery information related to the order to Zhejiang Cainiao Supply Chain Management Co., Ltd., which provides logistics information systems and technical services for the Taobao platform, and synchronize the relevant delivery information with the corresponding logistics delivery entity based on the selection of the goods and/or services provider. You acknowledge and agree that the corresponding logistics delivery entity inevitably obtains and uses your delivery information for the purpose of completing the delivery.
+For the purpose of providing you with after-sales and dispute resolution services, we need to be informed and confirm the delivery progress and status in a timely manner. You agree that we may collect information related to the delivery progress from logistics related service providers.
+Channel (Mini Program) Service
+When you use the channel (mini program) service, we will collect and use your channel login, browsing, usage, subscription/add/cancel and other operation records based on your operation situation, in order to provide you with more convenient, high-quality and personalized channel services and content. In order for you to use the products and/or services provided by our partners on Taobao through your Taobao platform account, our partners (usually channel (mini program) developers) will use your authorized personal information such as your nickname and avatar.
+Advertising and Analytics Services
+We will entrust our partners to handle information related to advertising placement, coverage, and effectiveness, while adopting industry standard security technologies. We will not entrust your personal identification information to our partners for processing.
+Security and Statistical Analysis
+We attach great importance to the security of our products and/or services. In order to protect the legitimate rights and interests of our users from illegal infringement, the partners we entrust to handle may use necessary devices, accounts, and log information that are strictly de identified and cannot be traced back to specific individuals.
+To analyze the stability of products and/or services, partners providing analysis services may need to use information such as service usage, device identification information, and overall application installation and usage.
+To enhance research capabilities in related fields and promote technological development, we may use de identified or anonymized data with our partners (such as research institutes, universities, etc.) while ensuring data security and legitimate purposes.
+Other cooperation scenarios
+In addition to the above-mentioned cooperation scenarios, we may also entrust information to other partners who support our business, including providing technical infrastructure services, analyzing the usage of our services, providing merchant membership services, or other customer services on our behalf.
+To ensure the stable operation and functional implementation of our client, and to enable you to use and enjoy more services and features, our application will embed SDK or other similar applications from authorized partners. We will conduct strict security checks on the application programming interfaces (APIs) and SDKs used by authorized partners to obtain relevant information, and agree with authorized partners on strict data protection measures to process personal information in accordance with this policy and any other relevant confidentiality and security measures. Except for authorized partners who obtain your consent separately
+.
+View the details of the SDK we have integrated.
+（2） Transfer
+If we need to transfer personal information due to merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name or contact information. The recipient will continue to fulfill this policy and other legal obligations. If the recipient changes the original processing purpose or method, they will obtain your consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+1. Based on your voluntary choice and other separate consent, we may publicly disclose your personal information;
+If we determine that you have violated laws and regulations or seriously violated relevant agreements and rules of the Taobao platform, or to protect the personal and property safety of Taobao platform users or the public from infringement, we may disclose personal information about you,
+Including relevant violations and measures taken by the Taobao platform against you.
+（4） Stop operation
+If we cease to operate our products and/or services, we will promptly stop collecting your personal information. We will notify you one by one or send you a notice of cessation of operation in the form of an announcement, and provide information on the products we hold that have been shut down
+Personal information related to services shall be deleted or anonymized in accordance with the methods outlined in this privacy policy's "Storage of Information - Storage Period" and "Your Rights - Deletion".
+（5） Exemption from obtaining your authorization and consent in accordance with the law
+Please understand that in the following situations, according to laws, regulations, and national standards, the use of your personal information by our partners, or our transfer or disclosure, does not require your authorization and consent:
+1. According to your requirements, it is necessary to enter into or fulfill a contract: When you purchase goods or services through the Taobao platform, we will share the necessary information related to the transaction in your order information with the providers of relevant goods or services or the operators of the relevant service market on the Taobao platform based on your choice, in order to meet your transaction, delivery, and after-sales service needs.
+2. To fulfill legal duties or obligations, we may share your personal information as required by laws and regulations, litigation, dispute resolution, or as requested by competent authorities such as administrative, judicial, supervisory, and other legal obligations.
+3. It is necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations.
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to handle personal information within a reasonable range.
+5. Process your self disclosed personal information within a reasonable range, or other legally disclosed personal information (such as legally disclosed personal information through legitimate news reports, government information disclosure, and other channels).
+6. Other circumstances stipulated by laws and regulations.
+4、 Your rights
+You can access and manage your information through the following methods:,
+We will respond to your request in compliance with legal and regulatory requirements:
+（1） Review, Correction, and Supplement
+You have the right to access, correct, and supplement your information through the following methods:
+1. Log in to Taobao, go to "My Taobao", select "Account Settings";
+2. Log in to the Taobao client and go to "My Taobao - Settings";
+3. Log in to Taobao and select "Contact Customer Service", or log in to the Taobao client and select "My Taobao - Official Customer Service/Exclusive Butler (88VIP)".
+（2） Copy
+You can copy your information in the following ways:
+1. Log in to the Taobao client and go to "My Taobao - Settings - Privacy - Personal Information Download";
+2. You can copy your personal information by searching through the path listed in "(1) View, Correction, and Supplement".
+（3） Delete
+You can delete some of your information through the path listed in "(1) Review, Correction, and Supplement", or apply to cancel your account and delete all of your information.
+In the following situations, you can request the deletion of personal information by contacting customer service:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect and use your personal information without your explicit consent;
+3. If our handling of personal information seriously violates our agreement with you;
+4. If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+5. If we cease to provide products or services, or if the retention period has expired.
+If we decide to respond to your deletion request, we will also notify the subjects who have obtained your personal information from us as much as possible and request them to delete it in a timely manner (unless otherwise provided by laws and regulations, or these subjects have independently obtained your authorization).
+When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to immediately delete the corresponding information from the backup system. We will securely store your personal information and restrict any further processing of it until the backup can be cleared or anonymized.
+（4） Change the scope of authorization
+You can change or revoke the scope of your authorization for us to collect and process your personal information through the following methods:
+1. Manage authorization in "My Taobao - Settings - Privacy - Find My Way".
+2. Manage authorization in "My Taobao - Settings - Privacy - Personal Page".
+3. Manage the system permission authorization for app usage in "My Taobao - Settings - Privacy - System Permission Management".
+4. Manage your authorized applications in "My Taobao - Settings - Privacy - Authorization Management".
+For authorizations that cannot be set directly through the above methods, you can modify them by contacting customer service,
+However, please note that for some types of personal information, such as information necessary to implement basic functions of Taobao or information necessary for us to fulfill our obligations under laws and regulations, we may not be able to respond to your request to change the scope of authorization.
+After you withdraw your authorization, we will no longer process the corresponding personal information. But your decision to revoke authorization will not affect the personal information processing we have previously carried out based on your authorization.
+（5） Cancel account
+You can apply to cancel your account through the following methods:
+1. In 'My Taobao'
+Submit an account cancellation application under "Bao Settings Account and Security Cancel Account";
+2. Contact customer service to apply for the cancellation of your account.
+To protect the rights and interests of platform users and the security of orders, Taobao account cancellation requires certain conditions to be met. Please refer to the relevant matters for Taobao account cancellation
+. After you voluntarily cancel your account, we will cease to provide you with products or services and delete or anonymize your personal information in accordance with applicable laws.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including algorithms. If these decisions affect your legitimate rights and interests, you can contact us through customer service.
+（7） In response to your above request
+For you or your potential guardians, close relatives, and other authorized parties who make the above requests to us, as well as your relevant personal information rights under the laws of the People's Republic of China and other applicable laws, you can contact us through customer service or directly file a complaint with our personal information protection department. We will provide a response within 15 days.
+To ensure the security of your account and personal information, when you make the above request to us, we may first verify your identity (such as adding account verification, requesting you to provide a written request, or other reasonable means), and then process your request.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain fee at our discretion. We may refuse requests for information that is not directly related to your identity, information that is repeatedly applied for without reasonable reasons, or requests that require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are unrealistic.
+5、 Storage of Information
+（1） Storage period
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law,
+For example, the Electronic Commerce Law of the People's Republic of China requires that information on goods and services, as well as transaction information, be kept for no less than three years from the date of completion of the transaction.
+We determine the storage period of personal information mainly based on the following criteria:
+1. To complete the transaction purposes related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+2. Ensure the safety and quality of the services we provide to you;
+3. Do you agree to a longer retention period;
+4. According to the relevant requirements of the statute of limitations for litigation;
+5. Is there any other special agreement or legal regulation regarding the retention period.
+After exceeding the retention period, we will delete or anonymize your personal information in accordance with applicable laws.
+（2） Storage location
+In principle, personal information collected and generated within the territory of the People's Republic of China shall be stored within the territory in accordance with applicable laws. We will only provide your personal information to overseas parties for the purpose necessary to fulfill our contract with you or for other legitimate processing reasons. For example, if you purchase cross-border e-commerce goods/services provided to you by overseas sellers and other third-party partners through our or our affiliated platforms, or if you sell goods overseas as a Taobao seller. To fulfill your cross-border transactions, cross-border logistics delivery and collection, customs clearance, and after-sales service needs, we or our affiliates will transmit necessary information related to the transaction, including the delivery address, from your order information to cross-border delivery/buyers and other third-party partners. Such overseas countries/regions may have different data protection laws, and may not even have relevant laws in place. In such cases, we will evaluate and make every effort to ensure that your personal information receives sufficient protection equivalent to that within China, in accordance with the requirements of Chinese law. For example, we will adopt de identification processing, encrypted transmission, regularly evaluate and audit the security capabilities of the recipient, and sign data processing agreements/terms for cross-border transportation of waybill information. If we need to transfer your personal information overseas due to business needs, we will comply with laws and regulations and the requirements of relevant regulatory authorities. In the relevant service agreement or specific function page authorization agreement, we will inform you of the name, contact information, processing purpose, processing method, types of personal information of the overseas recipient, and the ways and procedures for you to exercise relevant rights to the overseas recipient, and obtain your separate consent (if applicable). For specific overseas seller information, you can view the public announcement on the specific store page. Before providing your personal information overseas, we will take measures such as security assessment, personal information protection certification by professional institutions, or entering into contracts with overseas recipients in accordance with the standard contracts formulated by the national cyberspace administration to meet the legal conditions for providing personal information overseas.
+（3） Storage Security
+1. Data protection technology measures
+We have taken security measures that comply with industry standards and are reasonable and feasible to protect your information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, we use encryption technology to enhance the security of personal information. When exchanging data between your browser and server, it is protected by SSL protocol encryption. We provide HTTPS protocol for secure browsing; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information. At present, our important information systems have passed the third level or above evaluation of network security protection.
+2. Organizational measures for data protection management
+We have established an advanced data security management system in the industry, with data as the core and centered around the data lifecycle, to enhance the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We have established a dedicated department for personal information protection and designated a person to be responsible for the protection of children's personal information. We continuously enhance employees' awareness of the importance of protecting personal information through training courses and exams.
+3. Response to Personal Information Security Incidents
+If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, and causing damage to your legitimate rights and interests, we will promptly activate emergency plans and take reasonable and necessary measures to do our best
+It can reduce the impact on you personally. If a personal information security incident occurs, we will also inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you through SMS, phone calls, push notifications, and other reasonable channels. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+4. Prevention of Account Security Risks
+When using Taobao services for online transactions, it is inevitable for you to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. In addition, you can also establish communication, exchange information or analyze content with third parties through our services. Please protect your personal information properly and only provide it to others when necessary. Do not trust other trading tools to avoid information theft or even telecom fraud.
+If you are concerned about the leakage of your personal information, especially your account or password, please contact Taobao customer service immediately
+So that we can take appropriate measures based on your application. You can also independently manage devices, maintain accounts, lock accounts, and submit fraud complaints and reports in "My Taobao - Settings - Account and Security - Security Center".
+6、 Policy updates
+To provide you with a better product and service experience, we continuously strive to improve our products, services, and technology. When new services and business processes change, we may update our privacy policy to inform you of specific changes. But without your explicit consent, we will not restrict your rights under this policy. We will
+Publish any changes made to this policy.
+For significant changes, we will also provide more prominent notifications (including notifications through Taobao or providing you with pop-up prompts).
+The significant changes referred to in this policy include but are not limited to:
+1. The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+2. The subject change of privacy policy caused by business adjustments, transaction mergers and acquisitions, and the change of the original processing purpose and processing method of the new subject recipient;
+3. The main objects of personal information sharing or public disclosure have changed;
+4. Significant changes have occurred in the user's personal information rights and their exercise methods;
+5. When the contact information and complaint channels of the person in charge of personal information protection change;
+6. When the personal information protection impact assessment report indicates that the product has a significant impact on individual rights and interests.
+We will also update the old version of this policy
+Archive for your reference.
+7、 Protection of Minors
+We assume that you have the corresponding capacity for civil conduct in e-commerce activities.
+If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+If you are a child under the age of 14, you and your guardian should carefully read our specially formulated guidelines before using our services
+Please ensure that you obtain the consent of your guardian to the "Children's Personal Information Protection Rules and Guardian Notice" before using our services under their guidance, to ensure your safety when using our services and conducting transactions.
+If you are the parent or other guardian of a child, please pay attention to whether the child is using our services after obtaining your authorization and consent.
+If you have any questions about children's personal information, please contact our dedicated department for personal information protection.
+8、 Contact Us
+You can contact us through the following methods, and we will reply to your request within 15 days:
+1. If you have any questions, opinions or suggestions regarding the content of this policy, you can contact Taobao customer service or
+Contact us;
+2. We have also established a dedicated department for personal information protection, which you can access through【 pipwg@service.alibaba.com 】Contact them (please indicate that it is related to Taobao and provide specific factual information) at the legal service desk on the first floor of Building 4, No. 969 Wenyi West Road, Yuhang District, Hangzhou City.
+Please note that we may not respond to questions unrelated to this policy or your personal information rights.
+If you are not satisfied with our response, especially if you believe that our personal information processing has harmed your legitimate rights and interests,
+You can also seek a solution by filing a lawsuit with the court with jurisdiction over the defendant's domicile.
+Refers to the Taobao website (domain name taobao.com) and Taobao client.
+Appendix: Relevant Definitions
+Taobao website: refers to the Taobao website (domain name taobao.com) and Taobao client.
+Taobao service provider:
+Refers to Zhejiang Taobao Network Co., Ltd. and Taobao (China) Software Co., Ltd., the Internet information and software technology service providers of Taobao.
+Related companies:
+Refers to the affiliated companies of Taobao platform service providers disclosed in the latest annual report of Alibaba Group Holding Limited.
+Alipay:
+It refers to Alipay (China) Network Technology Co., Ltd., the main provider of Alipay services.
+personal information:
+All kinds of information related to identified or identifiable natural persons recorded in electronic or other ways, excluding anonymized information.
+Sensitive personal information:
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety, including biometric identification, religious beliefs, specific identities, medical and health information, financial accounts, tracking information, and personal information of minors under the age of fourteen.
+Children: Refers to minors under the age of fourteen.
+Equipment information:
+Including device identifiers (Android ID, IMEI only for Taobao App versions before 27.40)
+Variable identifiers (IDFA, OAID, GAID) application information (application crash information, notification switch status, running processes, and other application related information), device parameters and system information (device type, device model, operating system, device sensor, hardware serial number, and hardware related information), device network environment information [IP address, WLAN (Wi Fi) information, Bluetooth information, base station information, and other network related information, WLAN-MAC only collects after applying for location permissions], operator information, and broadcast component communication information.
+Service log information:
+This includes browsing history, click view history, search query history, favorites, adding to cart, transactions, after-sales service, following and sharing information, posting information, as well as IP address, browser type, telecom operator, language used, access date and time.
+De identification:
+The process of processing personal information to make it impossible to identify a specific individual without the need for additional information.
+The process of processing personal information that cannot identify a specific natural person and cannot be restored.

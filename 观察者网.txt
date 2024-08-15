@@ -1,0 +1,311 @@
+This Privacy Policy of Observer Network (hereinafter referred to as "this Privacy Policy") applies to all client applications, official websites, and software development kits (SDKs) and application programming interfaces (APIs) used by third-party websites and applications directly operated by Observer Network or operated in cooperation with third parties. The terminal devices of the above products/services include but are not limited to PCs, tablets, mobile devices, etc.
+Special Reminder: Due to the wide range of products/services offered by Observer Network, the content of the products/services provided to you may also vary. This privacy policy is a general privacy policy clause uniformly applicable to Observer Network. For certain specific products/services of Observer Network, Observer Network will also develop specific privacy policies. You should fully read and agree to the entire content of the specific privacy policy before using that specific product/service.
+Please carefully read and fully understand all the contents of this privacy policy before using the products/services of Observer Network. Once you use or continue to use the products/services of Observer Network, you agree to our use and processing of your relevant information in accordance with this privacy policy.
+We may revise this privacy policy from time to time in accordance with laws, regulations, or business adjustments. When this privacy policy changes, we will display the updated content to you through prominent prompts or push notifications, messages, and other forms after the version update.
+You need to understand that we will only collect, use, process, and store your personal information in accordance with the revised Privacy Policy of Observer Network after you confirm and agree to it; You have the right to refuse to agree to the changed privacy policy, but please be aware that once you refuse to agree to the changed privacy policy, it may result in you being unable or unable to continue to fully use the relevant services and functions of Observer Network, or unable to achieve the service effect we intend to achieve.
+2. About Us
+Observer Network refers to Shanghai Observer Information Technology Co., Ltd. and its affiliated companies (hereinafter collectively referred to as "we").
+Affiliated companies refer to companies or institutions that currently or in the future control Shanghai Observer Information Technology Co., Ltd., are controlled by Shanghai Observer Information Technology Co., Ltd., or are under joint control with Shanghai Observer Information Technology Co., Ltd. Control refers to the ability to directly or indirectly influence the management/operation of the controlled entity through ownership, voting shares, contracts, actual operational relationships, or other legally recognized means.
+The basic information of our main operating entity is as follows: Shanghai Observer Information Technology Co., Ltd., established on November 6, 2012, with a contact number of 021-62808296, registered address at Room 301B, Building 20 (Building 2), 641 Tianshan Road, Changning District, Shanghai, and commonly used office address at No. 7, Lane 300, Panyu Road, Changning District, Shanghai.
+How do we collect and use your personal information
+Observer Network collects and uses personal information voluntarily provided by you during the use of the service or generated due to product/service needs, in accordance with laws and regulations and following the principles of legitimacy, legality, and necessity. If we wish to use your personal information for purposes not specified in this privacy policy, or for specific purposes, we will promptly inform you in a reasonable manner and obtain your consent again before use.
+The types of personal information we collect and use from you include two: the first type is information necessary for the core business functions of our products/services. This type of information is essential for the normal operation of the products/services and you must authorize us to collect it. If you refuse to provide, you will not be able to use our products/services normally; The second type: Information that may need to be collected for additional business functions: This information is not required for core business functions, and you can choose whether to authorize us to collect it. If you refuse to provide, it will result in the inability to implement additional business functions or achieve the desired effect, but it will not affect your normal use of core business functions.
+You can check the specific situation of our collection and use of your personal information through the "List of Personal Information Shared with Third Parties by Observer Network".
+Normally, we collect and use your personal information in the following scenarios:
+3.4.1.
+Login and Registration
+3.4.1.1.
+When you register and log in to your Observer account, you need to follow our instructions to complete a series of registration procedures. During this process, you need to provide us with the following information: mobile phone number, mobile SIM card status permissions (including device IMSI/IMEI numbers for Android devices) (sensitive personal information used to receive verification codes to match personal identity). You can only successfully register an Observer account and use the core functions of the product/service by providing truthful and accurate information as mentioned above. If you choose not to provide the necessary information mentioned above to implement the core product functionality of Observer Network, it may result in us being unable to provide you with that core product functionality.
+3.4.1.2.
+Our product supports you to log in using third-party platform accounts (AppleID/WeChat account/QQ account/Weibo account). If you log in with an account on a third-party platform, we will obtain relevant information (including user ID, nickname, avatar) and identity verification information (sensitive personal information) under that third-party account based on your authorization. We promise to collect the above information for the purpose of providing you with account login services, ensuring the security of your account, and preventing security risks. If you refuse to authorize such information, you will not be able to log in to our platform using third-party platform accounts, but it will not affect the normal use of other products/services we provide.
+3.4.1.3.
+At the same time, you need to understand that the matching results of your mobile phone number and verification code belong to your sensitive personal information. We collect such information based on relevant requirements of laws and regulations. If you refuse to provide it, it may result in you being unable to register an account and use related product functions. Please carefully consider before choosing whether to provide it.
+3.4.2.
+Real name authentication
+3.4.2.1.
+Some products or services provided by Observer Network (such as Fengwen Community) require you to complete real name authentication in accordance with relevant laws and our guidelines. You can use real name authentication on the APP through 【 My Settings Account Password Real Name Authentication 】
+You can also log in to the website (www.guancha. cn) and use the real name authentication service through the "Account Settings - Authentication Center - Real Name Authentication (Immediate Authentication)" page.
+3.4.2.2.
+We provide manual authentication to complete the real name authentication process. In order to complete the real name authentication service, we will obtain and store your personal identity information in accordance with relevant laws and regulations, including the following: name (sensitive personal information), ID type (including but not limited to corresponding ID cards, military officer certificates, passports, Taiwan residents' Mainland Travel Permit, Hong Kong and Macao residents' Mainland Travel Permit, etc.), ID number and corresponding front and back pictures of the ID (sensitive personal information), and photos of you holding the corresponding ID (sensitive personal information).
+3.4.2.3.
+If you need to change your real name authentication information due to name change, immigration, or other reasons, you can contact customer service to complete the real name authentication.
+3.4.2.4.
+If you register and log in using a mobile phone number outside of China and wish to use the article publishing function in Fengwen Community, you should complete real name authentication on your PC before you can enjoy the relevant services or use the relevant functions. During this process, we need you to provide your real name, valid identification number, a photo of yourself holding the identification, and a valid mobile phone number that you have bound.
+3.4.2.5.
+You need to understand that your name, ID number, and a photo of yourself holding your ID are sensitive personal information. We collect this type of information based on the requirements of the real name authentication process. If you refuse to provide it, it may prevent you from logging into your account and using related product functions. Please carefully consider before choosing whether to provide it.
+3.4.3.
+Browse graphic and textual content and play audio and video
+3.4.3.1.
+Our products/services provide you with graphic and textual content browsing and audio and video playback services. During this process, we need to collect (including in the background) your following personal information: device memory storage write permissions, WiFi and mobile data (to ensure that images can be stored in the user's phone memory, mobile data and WiFi switching). We collect this information to provide you with graphic and textual content browsing and audio/video playback services. Refusing to provide the above permissions may result in you being unable to use our related products and services. Please understand that individual device information and log information cannot identify the identity of a specific individual. If we combine this type of non personal information with other information to identify the identity of a specific natural person, or use it in conjunction with personal information, during the combined use period, this type of non personal information will be considered personal information. Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify this type of personal information. When using mobile data browsing, images will only display default identifiers to ensure that users spend mobile data traffic on large images to the maximum extent possible.
+3.4.3.2.
+When you log in to our product using a mobile device and use graphic and textual content browsing and audio/video playback services, we may obtain wireless data permissions related to your device. The permission setting path for the Observer Network APP (iOS version) is: [My Settings Privacy Permission Settings Allow Observer Network to Access Wireless Data Permission]. The mobile network information access permission setting path for the Observer Network APP (Android version) is: [My Settings Privacy Permission Settings Allow Observer Network to View Phone Information]. You can set (enable or disable) relevant permissions at any time through the aforementioned path. By granting the permissions mentioned in this clause, you are deemed to have authorized us to access, obtain, collect, and use your personal information; But when you cancel the authorization, we will no longer collect this information and will no longer be able to provide you with the corresponding services mentioned above; But unless you delete your personal information in accordance with legal provisions, your cancellation will not affect our processing and storage of your personal information based on your previous authorization. After you update the app version, we will not change the permission status you previously set without your explicit consent.
+3.4.3.3.
+Please understand that you can only use the core functions of Observer Network products/services by providing the above information. If you choose not to provide the necessary information to implement Observer Network's core product functions, it may result in us being unable to provide you with that core product function.
+3.4.4.
+Picture and audio/video caching
+When you log in to our product using a mobile device and use our image and audio/video caching services, we may obtain access to your device's photo album. The permission setting path for the Observer Network APP (iOS version) is: [My Settings Privacy Permission Settings Allow Observer Network to Access Album Permissions]. The mobile network information access permission setting path for the Observer Network APP (Android version) is: "[My - Settings - Privacy Permission Settings - Allow Observer Network to use file storage and access functions]. You can set (turn on or off) the relevant permissions at any time through the above path. If you refuse to provide this permission, it will only prevent you from using this function, but it will not affect your normal use of other functions of the product/service. Enabling this permission means that you authorize us to access, obtain, collect, and use your personal information. However, when you cancel this authorization, we will no longer collect this information and cannot provide you with the corresponding services mentioned above; But unless you delete your personal information in accordance with legal provisions, your cancellation will not affect our processing and storage of your personal information based on your previous authorization. After you update the app version, we will not change the permission status you previously set without your explicit consent.
+3.4.5.
+Calling of graphics, text, and video
+3.4.5.1.
+Our products/services provide you with commenting, posting (submitting), and avatar setting functions. During this process, we need to collect your personal information such as pictures and videos. We collect this information to provide you with image, text, and video upload services. Refusing to provide the above permissions may result in you being unable to use our related products and services.
+3.4.5.2.
+When you log in to our product on a mobile device and use comments, posts (submissions), and avatar settings
+When it comes to functionality, we may obtain access to your device's photo album and camera usage permissions. The album permission setting path for the Observer Network APP (iOS version) is: [My Settings Privacy Permission Settings Allow Observer Network to Access Album Permission]; The camera permission setting path for the Observer Network APP (iOS version) is: [My Settings Privacy Permission Settings Allow Observer Network to Access Album Permission]. The album permission setting path for the Observer Network APP (Android version) is: [My Settings Privacy Permission Settings Allow Observer Network to use file storage and access functions]; The camera permission setting path for the Observer Network APP (Android version) is: "[My Settings Privacy Settings Allow Observer Network to Use Camera Shooting Function]. If you refuse to provide this function, it will only prevent you from using it, but it will not affect your normal use of other functions of the product/service. Enabling this permission means that you authorize us to access, obtain, collect, and use your personal information. When you cancel this authorization, we will no longer collect this information and will no longer be able to provide you with the corresponding services mentioned above. However, unless you delete your personal information in accordance with the law, your cancellation will not affect our ability to collect your personal information based on your previous authorization. Processing and storage. After you update the app version, we will not change the permission status you previously set without your explicit consent.
+3.4.6.
+share
+3.4.6.1.
+Our products/services provide you with sharing function services. When reading shared short links for automatic and password redirection, your clipboard function will be called. At the same time, we will also obtain your consent to access your mobile phone photo album for the convenience of sharing graphic and video content. The album permission setting path for the Observer Network APP (iOS version) is: [My Settings Privacy Permission Settings Allow Observer Network to Access Album Permission]; The album permission setting path for the Observer Network APP (Android version) is: [My Settings Privacy Permission Settings Allow Observer Network to use file storage and access functions]. If you refuse to provide, it will only prevent you from using that feature, but it will not affect your normal use of other features of the product/service. By granting this permission, you authorize us to access, obtain, collect, and use your personal information; After you cancel the authorization, we will no longer collect this information and will no longer be able to provide you with the corresponding services mentioned above; But unless you delete your personal information in accordance with legal provisions, your cancellation will not affect our processing and storage of your personal information based on your previous authorization. After you update the app version, we will not change the permission status you previously set without your explicit consent.
+3.4.7.
+customer service
+When you initiate system feedback to Observer Network, in order to ensure the security of your account and system, we may need you to provide account information first and match it with your previous personal information to verify your user identity. At the same time, in order to facilitate contact with you or help you solve problems, we may also need you to provide the following sensitive personal information: name, phone number and other contact information, city/region information.
+In addition, we will also collect communication information between you and us (including text/images/audio/video/call records), as well as other necessary information related to your needs. We collect this information to investigate the facts and help you solve the problem. If you refuse to provide the above information, we may not be able to provide you with timely feedback on the results.
+3.4.8.
+payment
+When you open observer services or purchase props such as "opinions" on the Observer website, you need to use the payment function. During the payment process, we may collect your user ID (such as Alipay User ID, WeChat Open ID) (sensitive personal information) of the third-party payment channel. The above information is necessary for us to provide you with the necessary information for purchasing goods and/or services. We cannot obtain your personal property information solely based on this information, nor can we identify specific natural person identity information.
+3.4.9.
+Certification Services
+We provide identity authentication services for individual users on the Observer Network platform. When you apply for Observer Network to authenticate your identity, we need to collect your name, ID number, and relevant identification materials (sensitive personal information) to confirm your personal identity. After verifying the authenticity of your personal information, we will mark a verification mark for you and provide exclusive services for verifying your account.
+3.4.10.
+Shortcut (Siri)
+When you log in to our product using an iOS device and use the shortcut feature, we may gain access to Siri on your device and collect your voice information and voice interaction information (personal information). You understand and confirm that we will not collect or store your voice data or personal information. If you refuse to provide it, it will only prevent you from using the function, but it will not affect your normal use of other functions of the product/service. Meanwhile, if your device system is iOS 10 or above, you can also enable/disable this permission at any time through your device system or by using the relevant feature settings page of our products/services. The Siri usage permission setting path for the iOS Observer Network app is: "My Settings Privacy Settings Allow Observer Network to access Siri". By granting the above permissions, you authorize us to access, obtain, collect, and use your personal information; But when you cancel the authorization, we will no longer collect this information and will no longer be able to provide you with the corresponding services mentioned above; But unless you delete your personal information in accordance with the law, your cancellation will not affect our processing of your personal information based on your previous authorization. After you update the app version, we will not change the permission status you previously set without your explicit consent.
+In addition to the above situations, we may also collect and use your personal information in the following scenarios:
+3.5.1.
+Your personal information indirectly collected from third parties
+3.5.1.1.
+You understand and acknowledge that you are reporting to external third parties (observers)
+We are unable to obtain personal information provided by affiliated companies under the Internet, or collected by external third parties, and we will not use unconventional methods (such as malicious interference with the other party's series of APP data) to obtain your personal information through software programs without authorization. Observer Network may need to indirectly collect (such as sharing) your personal information from third parties due to business development needs, and if we directly or jointly provide you with products or services, we (or the third party) will inform you of the source, type, purpose, method, business function, and scope of authorization and consent of the shared personal information before collection (if the method and scope of use exceed your original authorization scope in the third party, we will obtain your authorization and consent again). When some of our products or services are provided or jointly provided by third-party business partners, in order to conduct necessary and reasonable business, we may indirectly collect some of your information from some business partners, as well as information about you provided by other parties when using our products/services.
+3.5.1.2.
+Our professional security team will strengthen the security of personal information, including sensitive information reporting, encrypted storage, access control, etc. We will use no less protective measures and measures than we do for our own users' personal information to protect indirectly obtained personal information.
+3.5.2.
+Message notification
+We may send you one or more types of notifications for user message notifications, identity verification, security verification, and user experience research through the contact information (such as phone number) provided by you during the use of the product/service; In addition, we may also provide you with commercial information such as services, features, or activities that you may be interested in through SMS or phone calls. If you do not wish to receive our commercial information, you can unsubscribe through the unsubscribe method provided in your mobile SMS, or you can contact us to unsubscribe (Article 10 "Contact Us" of this Observer Privacy Policy).
+3.5.3.
+We may need your permission to access the network status again to help users troubleshoot network connection issues when content loading problems occur on mobile terminals.
+3.5.4.
+In order to provide users with a better user experience, we will obtain the permission to monitor the download progress of new versions in iOS devices to understand the download status of the APP, and enable the Observer APP to automatically install after the download is completed. In Android devices, we will obtain permission to listen to the status bar, allowing us to monitor the progress of file downloads and the status of version updates.
+3.5.5.
+For other reasonable and necessary purposes
+If a product/service that requires the collection of your personal information is not specified in this privacy policy, or if we exceed the stated purpose and scope of direct or reasonable association with the collection of your personal information, we will separately explain to you through updating this privacy policy, page prompts, pop ups, private messages, website announcements, or other means that are convenient for you to know before collecting and using your personal information, and provide you with the option to choose and agree, and collect and use it with your explicit consent.
+3.5.6.
+The situation where consent is obtained for exemption or exemption in accordance with the law
+You understand and agree that we do not need your authorization to collect and use your personal information in the following circumstances:
+3.5.6.1.
+Necessary for entering into and fulfilling the contract we have signed with you;
+3.5.6.2.
+Necessary for fulfilling statutory duties or obligations, such as those directly related to national security, defense security, criminal investigation, prosecution, trial, and enforcement of judgments;
+3.5.6.3.
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+3.5.6.4.
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+3.5.6.5.
+Process personal information that individuals have voluntarily disclosed or other legally disclosed information within a reasonable range;
+3.5.6.6.
+Other circumstances stipulated by laws and regulations.
+How do we share, transfer, and publicly disclose your personal information
+share
+Normally, we do not share your personal information with any company, organization, or individual. However, in order to provide you with more comprehensive and high-quality products/services, we may share some of your personal information with third-party partners while adhering to the principles of legality, minimum necessity, and clear purpose. At this point, we will sign strict confidentiality agreements with our partners, requiring them to process your personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. If you refuse our partners to collect personal information necessary for providing services, it may result in you being unable to use the third-party service on our platform. Our usual partners include the following categories:
+4.1.1.
+Service providers who provide functional support for our products/services, such as payment institutions that offer payment services, one click login with mobile phone numbers, and authentication with mobile phone numbers. Our purpose of sharing information is only to achieve the functionality of our products/services;
+4.1.2.
+Third party SDK service providers: Our products may include third-party SDKs or other similar applications. If you use these third-party services on our platform, you agree to have them directly collect and process your information (such as in the form of embedded code, plugins, etc.). Currently, the third-party SDK services included in our product can be found in the "List of Personal Information Sharing with Third Parties by Observer Network". The aforementioned service providers' collection and processing of information comply with their own privacy policies and are not applicable to this policy. To ensure the maximum security of your information, we recommend that you review the privacy policy of any third-party SDK services before using them. To protect your legitimate rights and interests, if you discover any risks associated with such SDKs or similar applications, we recommend that you immediately terminate the relevant operations and contact us promptly.
+transfer the possession of
+Except with your explicit consent
+We will not transfer your personal information to any company, organization, or individual. If it is necessary to transfer your personal information due to mergers, acquisitions, or bankruptcy liquidation, we will inform you of the recipient's name or title and request that the recipient continue to be bound by this privacy policy. If the recipient changes the purpose and method of processing personal information as stipulated in this privacy policy, we will require the recipient to obtain your authorization and consent again.
+Public disclosure
+We will not publicly disclose any personal information that you have not disclosed on your own or that has not been lawfully disclosed, except in accordance with legal regulations or with your separate consent. If we need to publicly disclose your personal information, we will conduct a personal information protection impact assessment in advance and adopt security measures and means that comply with industry standards to protect the security of your personal information.
+Exceptions to sharing, transferring, and publicly disclosing your personal information
+Please be informed that according to laws and regulations, sharing, transferring, and publicly disclosing your personal information does not require your prior authorization and consent in the following situations:
+4.4.1.
+Necessary for entering into and fulfilling the contract we have signed with you;
+4.4.2.
+Necessary for fulfilling statutory duties or obligations, such as those directly related to national security, defense security, criminal investigation, prosecution, trial, and enforcement of judgments;
+4.4.3.
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+4.4.4.
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+4.4.5.
+Process personal information that individuals have voluntarily disclosed or other legally disclosed information within a reasonable range;
+4.4.6.
+Other circumstances stipulated by laws and regulations.
+How do we share, transfer, and publicly disclose your personal information
+Normally, we do not share your personal information with any company, organization, or individual. However, in order to provide you with more comprehensive and high-quality products/services, we may share some of your personal information with third-party partners while adhering to the principles of legality, minimum necessity, and clear purpose. At this point, we will sign strict confidentiality agreements with our partners, requiring them to process your personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. If you refuse our partners to collect personal information necessary for providing services, it may result in you being unable to use the third-party service on our platform. Our usual partners include the following categories:
+Service providers who provide functional support for our products/services, such as payment institutions that offer payment services, one click login with mobile phone numbers, and authentication with mobile phone numbers. Our purpose of sharing information is only to achieve the functionality of our products/services;
+We will not transfer your personal information to any company, organization, or individual except with your explicit consent. If it is necessary to transfer your personal information due to mergers, acquisitions, or bankruptcy liquidation, we will inform you of the recipient's name or title and request that the recipient continue to be bound by this privacy policy. If the recipient changes the purpose and method of processing personal information as stipulated in this privacy policy, we will require the recipient to obtain your authorization and consent again.
+We will not publicly disclose any personal information that you have not disclosed on your own or that has not been lawfully disclosed, except in accordance with legal regulations or with your separate consent. If we need to publicly disclose your personal information, we will conduct a personal information protection impact assessment in advance and adopt security measures and means that comply with industry standards to protect the security of your personal information.
+Exceptions to sharing, transferring, and publicly disclosing your personal information
+Please be informed that according to laws and regulations, sharing, transferring, and publicly disclosing your personal information does not require your prior authorization and consent in the following situations:
+Your right to manage personal information
+We understand your concern about personal information and make every effort to ensure your right to access, correct, delete, and revoke authorization for your personal information, so that you have sufficient ability to protect your privacy and security. Your rights include:
+You have the right to access your personal information
+You can refer to the relevant personal information you have provided to us according to the instructions (or settings) of the products/services we provide. include:
+5.1.1.
+Account information: You can log in to your personal center at any time through the relevant product page to access the personal profile information in your account, including: avatar, nickname, gender, date of birth, personal signature, graduation school, and occupation;
+5.1.2.
+Usage information: You can check your usage information at any time through relevant product pages, including browsing history, submission content, favorites, likes, replies, billing records, order information, download information, etc;
+5.1.3.
+Other information: If you encounter operational problems during the access process and need to obtain other personal information that cannot be obtained as mentioned above, you can contact us through the methods provided in this privacy policy.
+You have the right to correct/modify your personal information
+When you find that the personal information you provide to us has registration errors, incompleteness, or updates, you can correct/modify your personal information in our products/services.
+5.2.1.
+For some of your personal information, we have provided you with operation settings on the relevant product function pages. You can directly make corrections/modifications, such as "avatar, nickname, gender, date of birth, personal signature, graduation school, occupation". The correction/modification path on the Observer website iOS client is: "My - Avatar banner - Edit".
+5.2.2.
+For the difficulties you encounter in exercising the above rights, or for other situations where we may not currently be able to provide you with online self correction/modification services, after verifying your identity and ensuring that the correction/modification does not affect the objectivity and accuracy of the information, you have the right to make corrections or modifications to incorrect or incomplete information, or in specific circumstances, especially when there are data errors, submit your correction/modification application through our published feedback and error reporting measures
+Leave it to us and request us to correct or modify your data, except as otherwise provided by laws and regulations. However, due to security and identity recognition considerations, you may not be able to modify certain initial registration information submitted during registration.
+You have the right to delete your personal information
+5.3.1.
+For some of your personal information, you can also proactively delete the information you provide through the functional pages of the relevant products/services we provide. For example, the deletion path for "History" information in the Observer Network iOS client is: "My - Browsing History". You can also delete the text, images, etc. you have posted independently. Once you delete it, we will delete or anonymize such information, unless otherwise required by laws and regulations.
+5.3.2.
+When the following situations occur, you can directly request us to delete your personal information, except for those that have been anonymized or are otherwise required by laws and regulations:
+5.3.2.1.
+When our handling of personal information violates laws and regulations;
+5.3.2.2.
+When we collect and use your personal information without your consent;
+5.3.2.3.
+When our handling of personal information violates our agreement with you;
+5.3.2.4.
+When you cancel your Observer Network account;
+5.3.2.5.
+When we terminate our services and operations.
+You have the right to revoke your authorization for personal information
+As mentioned earlier, some functions of the products/services we provide require relevant permissions for your device usage (including photo albums, cameras, etc., subject to Article 3 of this Privacy Policy). You can revoke (or stop) the continued authorization of this permission at any time after authorization. After you update the app version, we will not change the permission status you previously set without your explicit consent. For example, you can disable your authorization for the phone's photo album by going to "Settings Privacy Photos" on your mobile device. You can also permanently revoke all authorization for us to continue collecting your personal information by canceling your account. You need to understand that when you revoke your authorization, we cannot continue to provide you with the specific product/service corresponding to the revoked authorization. But your decision to revoke authorization will not affect the personal information processing previously carried out based on your authorization.
+You have the right to cancel your account
+You can apply to cancel your account online or through customer service, or through other methods we have publicly announced. After you cancel your account, you will no longer be able to log in and use our products and services with that account (including but not limited to your previously published comments, articles, previously collected articles, memory observer status, etc.); And all rights and interests that have been generated but not fully consumed during the use of the account on Observer Network and other products and services under its umbrella, as well as future overdue benefits, will be cleared; The content, information, data, records, etc. under this account will be deleted or anonymized (except as otherwise provided by laws and regulations or required by regulatory authorities, such as according to the Cybersecurity Law of the People's Republic of China, your network operation logs will be retained for at least six months); After the Observer Network account is cancelled, it cannot be restored.
+For more information on the process, conditions, and other matters related to the cancellation of Observer Network accounts, please refer to the "Observer Network Account Cancellation Agreement".
+If you still insist on canceling your Observer Network account after careful consideration, you can submit a cancellation application to us on the relevant function settings page of our product/service you are using or according to the operating instructions. The cancellation path of the Observer Network APP is: "My>Settings>Account Number and Password>Permanent Cancellation Account".
+We will reply to you as soon as possible within 15 working days after receiving your cancellation application and verifying your user identity. If you have any questions about handling your personal information, you can communicate with us through the contact information listed in Article 10 "Contact Us" of this Privacy Policy to resolve them.
+Regarding the use of cookies and similar technologies
+When you use our products/services, we may use cookies and similar technologies to collect some of your personal information, including: your website browsing habits, your browsing information, your login information. Cookies and similar technologies collect such information for the necessary use of our products/services, to simplify the steps of repeated operations (such as registration and login), to facilitate your viewing of usage history (such as video viewing history), to provide you with more personalized service content that meets your personal needs and may be more interesting to you, to protect your information and account security, and to enhance our products/services.
+If you refuse our use of cookies and similar technologies to collect and use your relevant information, you can manage and (partially/completely) refuse cookies and/or similar technologies through your browser settings, provided that your browser has this function; Or delete cookies and/or similar technologies that have already been stored on your computer, mobile device, or other device, so that we are unable to track all or part of your personal information. If you need detailed information on how to change browser settings, please refer to the relevant settings page of the browser you are using. You understand and acknowledge that some of our products/services can only be achieved through the use of cookies or similar technologies. If you refuse to use or delete them, you may not be able to use our related products/services normally or obtain the best service experience through our products/services. At the same time, it may also have a certain impact on your information protection and account security.
+Our storage and protection of your personal information
+Information storage
+7.1.1.
+Storage location: In accordance with laws and regulations, we will only store the personal information collected about you within the territory of the People's Republic of China. At present, we do not have any cross-border storage of your personal information or provision of personal information overseas. If it is necessary to conduct cross-border data transmission, we will inform you separately (including the purpose of data export, recipient, usage method and scope, usage content, security measures, security risks, etc.), and obtain your authorization and consent. We will ensure that the data recipient has sufficient data protection capabilities to protect your personal information.
+7.1.2.
+Storage period: We are here to assist you
+To provide the necessary and shortest period of retention of your personal information to meet the purpose of the product/service, for example: when you use our registration and membership functions, we need to collect your phone number, and after you provide it and during your use of the function, we need to continuously save your phone number to provide you with the function normally, protect your account and system security. In addition, we may keep your relevant information for the necessary period stipulated by relevant laws (such as the Electronic Commerce Law, which stipulates that the retention time of product and service information and transaction information shall not be less than three years from the date of completion of the transaction).
+7.1.3.
+After exceeding the above storage period, we will delete or anonymize your personal information.
+Information Protection
+7.2.1.
+Your personal information security is crucial to us. We will strictly comply with relevant laws and regulations, take reasonable and feasible measures recognized by the industry, and protect your personal information. Prevent unauthorized access, disclosure, use, and modification of information, and avoid information damage or loss.
+7.2.2.
+Security technical measures: We use industry standard security measures to protect the personal information you provide, prevent unauthorized access, public disclosure, use, modification of data, and prevent data damage or loss. We will take all reasonable and feasible measures to protect your personal information, such as using SSL to encrypt and protect the data.
+7.2.3.
+Management system: We have established a dedicated information security department and developed a security management system, as well as a proper safety accident warning mechanism and emergency plan. We establish access control mechanisms to ensure that only authorized personnel can access personal information; We regularly hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information. Once a personal information security incident occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you, in accordance with the requirements of laws and regulations. We will immediately activate emergency plans to minimize losses. We will promptly inform you of the relevant situation of the event through phone calls, push notifications, and other means. At the same time, we have also established an Observer Network Security Emergency Response Center, which is maintained by a professional security technology and operations team, to facilitate timely and effective response and disposal of various security vulnerabilities and emergencies, and to work with relevant departments to trace and combat security incidents. Security Reminder: Despite taking the reasonable and effective measures mentioned above and complying with the standards required by relevant laws and regulations, please understand that due to technological limitations and possible malicious means, we cannot always guarantee 100% security of information. However, we will do our best to provide security measures to ensure the security of the personal information you provide to us.
+You acknowledge and understand that the system and communication network you use to access our services may result in security issues beyond our control. Therefore, we strongly recommend that you take proactive measures to protect the security of your personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your account password and related personal information to others.
+If you leave Observer Network and visit browsing pages or other products/services provided by third parties, we will have no ability or direct obligation to protect any personal information you submit to third parties, regardless of whether your login, browsing, or use of the aforementioned products or services is based on Observer Network's links or guidance. But we will remind you to pay attention to entering third-party products or services so that you can better protect your personal information.
+We protect the personal information of minors
+Minors should obtain the consent of their guardians before using our products/services. If you are a minor, before using our products/services, you should jointly read this privacy policy and the "Observer Network Personal Information Protection Guidelines for Minors" under the supervision and guidance of your guardian, and use our products/services and submit personal information with the explicit consent and guidance of your guardian. We protect the personal information of minors in accordance with relevant national laws and regulations. We will only collect, use, or publicly disclose the personal information of minors as permitted by laws and regulations, with the explicit consent of guardians, or as necessary to protect your rights and interests.
+If you are the guardian of a minor and have any questions about the personal information of the minor under your guardianship, you can communicate with us through the contact information listed in Article 10 "Contact Us" of this privacy policy to resolve them. If we discover that personal information of minors has been collected without obtaining verifiable consent from their guardians in advance, we will delete the relevant data as soon as possible.
+We protect the personal information of deceased users
+Observer Network will protect the personal information of the deceased in accordance with the relevant provisions of the Personal Information Protection Law. After the death of Observer Network users (only natural persons), their close relatives may exercise the rights to access, copy, correct, delete and other related personal information of the deceased user through the contact information disclosed in Article 10 "Contact Us" of this privacy policy for their own legal and legitimate interests, except for those who had other arrangements before the deceased user's death.
+You understand and confirm that in order to fully protect the personal information rights and interests of the deceased user, the close relatives of the deceased user who apply to exercise this right need to submit the identity proof documents of the deceased user, the death proof documents, the applicant's identity proof documents, and the proof of the applicant's family relationship with the deceased user according to the designated process or customer service prompts of Observer Network, and provide the type and purpose of the rights applied to be exercised.
+contact us
+If you have any questions, inquiries, or complaints regarding the content of this "Observer Network Privacy Policy" or any matters related to privacy protection when using our services, you can contact us through any of the following methods:
+10.1.1.
+You can contact our online customer service on the product/service function page of our platform or submit feedback online;
+10.1.2.
+You can activate it with us shequ@guancha.cn Email to contact us;
+10.1.3.
+You can write to: Legal Department, 7th Floor, No. 7, Lane 300, Panyu Road, Changning District, Shanghai (address); Postal Code: 200
+052.
+We will reply to you as soon as possible within 15 working days after receiving your feedback and suggestions, and verifying your user identity. In addition, you understand and acknowledge that we will not be able to respond to your request in the following situations related to personal information:
+10.2.1.
+Related to national security and defense security;
+10.2.2.
+Related to public safety, public health, and major public interests;
+10.2.3.
+Related to criminal investigation, prosecution, and trial;
+10.2.4.
+There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+10.2.5.
+Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+10.2.6.
+Involving trade secrets;
+10.2.7.
+Other circumstances stipulated by laws and regulations.
+How to update this policy
+In order to provide you with better service, we will update the terms of this Privacy Policy based on product updates and relevant legal requirements. Such updates form a part of this Privacy Policy. Without your explicit consent, we will not reduce the rights you are entitled to under this policy. We will notify you in a prominent location or by sending you push messages or other means before the updated privacy policy takes effect. If such updates result in a substantial reduction or significant change in your rights under this privacy policy, we will seek your explicit consent again.
+Major changes include but are not limited to:
+11.2.1.
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+11.2.2.
+We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+11.2.3.
+The main objects of personal information sharing, transfer or public disclosure have changed;
+11.2.4.
+There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+11.2.5.
+Our responsible department, contact information, and complaint channels for handling personal information security have changed;
+11.2.6.
+When the personal information security impact assessment report indicates the presence of high risks.
+Dispute Resolution
+The interpretation and dispute resolution of this privacy policy shall be governed by the laws of mainland China. You agree to submit any disputes arising from this privacy policy and our handling of your personal information to the Shanghai Arbitration Commission for arbitration resolution; The arbitration award is final and legally binding on both parties.
+If you believe that our handling of personal information has harmed your legitimate rights and interests, you can also choose to report to the relevant government departments.
+The title of this privacy policy is for convenience and readability only and does not affect the meaning or interpretation of any provisions in the main text.
+Noun Explanation
+Unless otherwise agreed, the terms used in this privacy policy typically have the following definitions:
+Personal information (from the Personal Information Protection Law): refers to various information related to identified or identifiable natural persons recorded in electronic or other ways, excluding anonymized information.
+Sensitive personal information (derived from the Personal Information Protection Law): refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety, including biometric, religious beliefs, specific identities, medical and health, financial accounts, whereabouts, and personal information of minors under the age of fourteen.
+Device information: usually includes device name, device model, hardware serial number, MAC address, device identification information (IMEI/MEID/Android ID/OpenUDID/IMSI/IDFA/IDFV/OAID/ICCID and other comprehensive device parameters and system information to form device identifiers), mobile application list and other software and hardware feature information, operating system and application version, language settings, resolution, service provider network ID (PLMN), IP address, browser type.
+SSL (Secure Socket Layer), also known as Secure Socket Layer, is a secure protocol implemented over the Transmission and Communication Protocol (TCP/IP). SSL supports various types of networks and provides three basic security services, all of which achieve information confidentiality through the use of public key and symmetric key technologies.
+Cookie: A cookie is a small file containing a string that is sent and stored on your computer, mobile device, or other device (usually encrypted) when you log in and use a website or other network content. Cookie like technologies refer to other technologies that can be used for similar purposes as cookies, such as web beacons, proxies, embedded scripts, etc.
+Anonymization: refers to the process of using technology to process personal information so that the subject of personal information cannot be identified or associated, and the processed information cannot be restored.
+De identification: refers to the process of using technology to process personal information so that it cannot be identified or associated with the subject of personal information without the need for additional information.
+home page
+previous page
+one
+two
+three
+four
+five
+six
+next page
+The remaining full text
+report
+Violation of laws and regulations
+Junk information, advertisements
+Pornographic and obscene information
+Personal attacks
+Rumors and false information
+Impersonate and use false information
+Disrupting community order
+other
+Harmful information involving minors
+Standardization of Observer Network Reporting System
+Confirm cancellation
+Tag User Observer Network
+Original title: Observer Network User Account, Content Ecology, and Public Reporting Management System
+Responsible Editor:
+Dong Jianing
+Related recommendations
+Investigation into the Chaos of Museum Non museum Explanations: The tour guide talked about wild history all the way
+2023-08-02 07:31
+Best Actor and Actress at the Magnolia Awards announced
+2023-06-23 22:20
+2023 Shanghai Film and Television Festival
+Not studying, telling Eastern stories behind closed doors, it's quite deadly
+2023-06-23 17:27
+2023 Shanghai Film and Television Festival
+Asked“
+On the head of the enterprise
+A 'tragic experience' for an investment attraction enterprise? Liaoning Benxi responds
+79 years ago today, Japan surrendered unconditionally!
+Private undergraduate programs are no longer "fragrant"?
+contact us
+About Us
+Copyright Notice
+Service Terms
+Publish an advertisement
+Contact Weibo
+Join Us
+Website Map
+Report link
+Standardization of reporting system
+Commitment Letter for Website Self discipline Management
+Copyright (C) 2014-2024 Observer All rights reserved. HUICPB No. 10213822-2 Internet News Information Service License: 31220170001
+Wangdeng Wangshibei (H) No. 02020000041-1 Internet Religious Information Service License: H (2024) 0000009
+Radio and Television Program Production and Operation License: (Hu) No. 03952 Value added Telecommunications Business Operation License: Shanghai B2-20210968 Illegal and Bad Information Reporting Hotline: 021-62376571
+Shanghai Public Security Registration No. 31010502000027
+China Internet Reporting Center
+Shanghai Internet Illegal and Bad Information Reporting Center

@@ -1,0 +1,172 @@
+This policy applies to all services provided by the platform. When you visit the platform website or log in to related clients to use the services provided by the platform, this privacy policy applies.
+We collect information to provide you with high-quality and personalized services. We will collect your personal information for the following purposes:
+（1） Provide various services for your use
+1. Business Function 1: Register as a User
+If you are a user of Spring Rain Doctor, in order to create an account, you need to provide the following information: the username and password created, and the phone number.
+The above information you provide will continue to authorize us to use it during your use of this service. When you cancel your account, we will stop using and delete the above information.
+The above information will be stored within the territory of the People's Republic of China. If cross-border transmission is required, we will separately obtain your authorization and consent.
+2. Business Function 2: Create Health Records
+In order to use health records and related services normally, when you create or manage health records in our products or services, you need to provide at least the name, gender, date of birth, and relationship with the person who owns the record. The above information you provide will continue to authorize us to use it during your use of this service. When you delete your health record or cancel your account, we will stop using and delete the above information.
+3. Business Function Three: Online Health Consultation and Consultation
+If you are a health consultant, in order to complete the service function normally, you need to provide the following information: a description of your symptoms, illness, and physical condition, including text, voice, and image descriptions, as well as uploaded examination forms, CT, MRI images, and information created in the aforementioned health record service. If you are seeking advice for others, you need to provide your relationship with the symptomatic individual, as well as their gender and date of birth. If you do not wish to disclose your consulting information publicly, you may choose not to disclose it, and we will keep your consulting information confidential.
+Please note that the information you publicly release may involve personal information or even sensitive personal information of yourself or others, such as uploading images containing personal information when evaluating. Please consider more carefully whether to share or even publicly share relevant information when using our services.
+4. Business Function 4: Provide online shopping
+When you place an order for a specific product or service in our products or services, we will generate an order for you to purchase that product and/or service through the system. During the ordering process, you need to provide the following information: your recipient's name, city, detailed address, and mobile phone number; To complete the order payment, you need to choose the payment method. If the product you purchased includes prescription drugs, you are required to provide the ID card number of the drug user to complete real name authentication according to the Internet Hospital Management Measures (for trial implementation).
+You can order goods or services for others through Spring Rain Doctor, and you need to provide the aforementioned personal information of the actual purchaser.
+To facilitate your understanding and management of order information, we will collect order information generated during your use of our services for display and management purposes.
+5. Business Function 5: Provide you with functions such as bookmarking, adding purchases, following, and sharing
+During your browsing of our website or client, you can choose to bookmark products or services of interest, add them to your shopping cart, or share information with other third parties through the functional components we provide. In the process of using the above functions, we will collect service log information including your collection and add to cart records, follow relationships, and sharing history to achieve the purpose of the above functions.
+（2） Recommend advertisements, information, etc. that you may be interested in
+The information you search and view when using our services, as well as the information on your browser and computer automatically received and recorded by the system when you use platform services or access platform web pages, including your IP address, browser information, access date and time, language, software and hardware feature information, and web page browsing records.
+（3） Conduct internal audits, data analysis, and research to improve our products and services
+The relevant information you provide when contacting our customer service team, the questionnaire response information you provide to us when participating in survey activities, and the relevant information we collect when interacting with your affiliates and partners, such as when you visit mobile web pages to use platform services, or download or use client software from affiliated companies, may read information related to your mobile device, including device model, operating system, device identification code, resolution, telecommunications operator, etc.
+（4） Security guarantee
+In order to improve the security of your use of our services and those provided by our affiliated companies and partners, protect your personal and property safety or that of other users or the public from infringement, better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, and more accurately identify violations of laws and regulations or Spring Rain related agreement rules, we will use individual or comprehensive analysis of your account information, transaction information, device information, service log information, as well as information authorized by you or shared by our affiliated companies and partners in accordance with the law, and record some of your network usage habits, commonly used software information, and URLs that we consider risky to determine the risk of your account.
+（5） Provide you with additional services
+In order to provide you with more convenient, high-quality, and personalized products or services, and strive to enhance your experience, we may collect and use your personal information in the following additional services provided to you. If you do not provide this information, it will not affect your use of basic services such as browsing, searching, and purchasing provided by Chunyu, but you may not be able to obtain the user experience that these additional services bring to you. These additional services include:
+1. Personalized recommendation service based on location information: We will access and obtain your location information after you have enabled location permission, and provide you with more suitable doctor services, hospital information, product delivery providers, etc. based on your location information.
+2. Additional services based on camera/camcorder: You can use this feature to take photos or videos for consultation with doctors, customer service, and other services after enabling camera/camcorder permissions.
+3. Photos/videos based on photo albums (image/video libraries)
+Additional services for accessing and uploading: You can use this feature to upload your photos/pictures/videos after enabling album permissions, in order to achieve functions such as changing avatars, consulting doctors, consulting customer service, sharing pictures, etc.
+4. Additional services related to microphone based voice technology: You can use the microphone to provide voice consultations with doctors, record videos, and other functions after enabling microphone permissions. Please be aware that even if you have agreed to enable microphone access, we will only obtain voice information through the microphone when you actively click on the microphone icon in the client or record a video.
+5. At the same time, Chunyu will obtain information about running processes to ensure that you prevent any third-party SDKs from initializing before clicking to agree to the Chunyu Doctor User Agreement and Privacy Policy.
+With your understanding and consent, the above additional services may require you to enable access to your camera, photo album, and microphone on your device to collect and use the information involved in these permissions. You can view the status of the above permissions item by item in your device settings and decide whether to turn them on or off at any time. Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. Once you close any permission, it means that you have cancelled the authorization. We will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we be able to provide you with the services corresponding to that permission. However, your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+When you use the functions or services we provide, in certain specific usage scenarios, we may use software service toolkits (referred to as "SDKs") provided by third-party service providers with corresponding business qualifications and capabilities to provide you with services. The third-party service providers collect your necessary information, and without authorization, you will not be able to use the corresponding functional services. Specifically, it includes the following types:
+1. In order to promptly push service notifications to you, we have used a push SDK that requires obtaining your device identification code (including IMEI, IDFA, Android ID, MAC address, etc.) OAID、Advertising ID、Serial Number、IMSI、UAID、ICCID）、 Application list information, network information (including IP address, WIFI information, base station information), location related information, and running process information are used to implement App push services; At the same time, to ensure that you receive timely reminders from doctors during consultations, after the app exits, the Android system will send a broadcast to wake up the app's self startup or associated startup behavior. For more details, please refer to the "Personal Push User Privacy Policy"
+2. In order to facilitate your use of online payment function, we use WeChat and Alipay SDK. We need to obtain your device identification code (Android such as IMEI, MEID, IMSI, Android ID, Serial, ICCID, iOS such as IDFV, IDFA), read-write storage, and view network connection permissions to ensure your normal payment.
+Privacy Policy of Tenpay
+Alipay Privacy Policy
+3. For your convenience in using the sharing function, we use QQ, Sina Weibo, and WeChat SDKs. We need to obtain your device identification code (Android such as IMEI Android ID、Serial）、 Obtain read-write storage permissions and view network connection permissions to ensure your normal sharing.
+WeChat Open SDK Personal Information Processing Rules
+QQ Internet SDK Privacy Protection Statement
+Weibo Personal Information Protection Policy
+4. For your convenience in using voice recognition, we use Baidu Voice SDK. Access to microphone permission is required to ensure the normal use of voice search function. Full network access permission is required to view network status, WiFi status, connect and disconnect WiFi, retrieve currently running applications, and modify global system settings; Device information (including device model, operating system).
+Privacy Policy for Speech Recognition SDK
+5. In order to provide you with WeChat account login services, we have used the WeChat login SDK, which requires obtaining your authorized shared account information (avatar, nickname) from WeChat.
+WeChat Open SDK Personal Information Processing Rules
+6. In order to provide you with Sina Weibo account login services, we have used the Sina Weibo SDK, which requires obtaining your authorized shared account information (avatar, nickname) from Sina Weibo.
+Weibo Personal Information Protection Policy
+7. In order to provide you with QQ account login services, we have used the QQ login SDK, which requires obtaining your authorized shared account information (avatar, nickname) from QQ.
+QQ Internet SDK Privacy Protection Statement
+8. In order to provide you with local number authentication and login services, we have used the Aurora SDK, which requires device information (IMEI/MAC address/Android ID/IDA/OAID/OpenUDID/GUID/SIM card IMSI information, etc.), network information and location information (IP address, WiFi information, base station information, etc.), APP installation list information, running process information, mobile phone number, and SDK authentication related request results.
+AURORA Aurora Privacy Policy
+9. In order to provide you with online customer service, we have used the Qiyu SDK, which requires obtaining your device identification code (Mac address/PNS Token/IMEI), obtaining read-write storage permissions, accessing microphone permissions, accessing camera permissions, and viewing network connection permissions to understand the network status and changes of the device, in order to maintain the stability of the network connection to the greatest extent possible and contact customer service normally; When the sensor information permission is enabled, distance sensor information will be collected to sense whether the phone is lifted to the ear, providing a better voice chat experience
+. It will collect directional sensor information for providing interactive advertising services such as shaking.
+NetEase Qiyu Privacy Policy
+10. In order to monitor abnormal application operation reports, we used Tencent Bugly SDK, which needs to obtain your application log information, mainly including: log information (including third-party developer custom logs, Logcat logs, and APP crash stack information), device ID (including Android ID and IDFA), network information, system name, system version, and country code.
+Bugly SDK Personal Information Protection Rules
+11. We have used the Qiniu Cloud Storage SDK to enable you to send pictures, videos, and voice messages normally.
+Qiniu Cloud Privacy Policy
+12. For your convenience in using speech recognition, we use Tencent Speech Recognition SDK. Need to access android.permission ACCESS_CETWORK_STATE permission, used to obtain network status and optimize current network communication; Need to access and android.permission INTERNET permission allows programs to access the network, connect to the network, perform data transmission, and ensure the normal use of voice to text function.
+Tencent Speech Recognition SDK Personal Information Protection Rules
+13. In order to properly recognize the QR code of the physical examination and impact report you uploaded in the graphic consultation, and to scan the device QR code when binding the health device, we used an open-source SDK (SDK name: android zxingLibrary, package name: com. zx), which requires obtaining your device serial number.
+14. In order to collect crash information and locate issues when the app crashes, we used an open-source SDK (SDK name: Sentry Android, package name: io. entry), which requires obtaining your Android-ID.
+15. In order to determine whether you are participating in innovative advertising interactive features (such as shaking) placement, we will call device sensors (such as acceleration sensors, etc.) to identify and judge the device status. Please understand that individual device sensor data does not involve any personal location information.
+3、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+We will not share your personal information with any company, organization, or individual outside of Chunyu Tianxia, except for the following situations:
+1. Sharing with explicit consent: With your explicit consent, we will share your personal information with other parties.
+2. We may share your personal information with external parties in accordance with laws and regulations or mandatory requirements of government authorities.
+3. Sharing with our affiliated companies: Your personal information may be shared with Beijing Chunyu Tianxia Software Co., Ltd. and its affiliated companies. We will only share necessary personal information and are bound by the purposes stated in this privacy policy. If the affiliated company wants to change the purpose of processing personal information, it will seek your authorization and consent again.
+4. Shared with authorized partners: Some of our services will be provided by authorized partners solely for the purposes stated in this policy. We may share some of your personal information with our partners to provide better customer service and user experience. For example, when you purchase our products online, we must share your personal information with the logistics service provider in order to arrange delivery or arrange for partners to provide services. We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose.
+At present, our authorized partners include the following two types:
+1) Authorized partners for advertising and analytics services. Unless we obtain your permission, we will not share your personal identification information (referring to information that can identify you, such as name or email, which can be used to contact or identify you) with partners who provide advertising and analytics services. We will provide these partners with information about their advertising coverage and effectiveness, without providing your personally identifiable information, or we will aggregate this information,
+So that it won't recognize you personally. For example, we may only inform advertisers about the effectiveness of their ads, how many people have watched their ads, or provide non personally identifiable demographic information to these partners (such as "25-year-old male based in Beijing who enjoys software development") after they agree to comply with our advertising guidelines,
+Help them understand their audience or customers.
+2) Suppliers, service providers, and other partners. We send information to suppliers, service providers, and other partners nationwide who support our business, including providing technical infrastructure services, analyzing how our services are used, measuring the effectiveness of advertising and services, providing customer service, facilitating payment, or conducting academic research and surveys.
+We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties.
+2. When it comes to mergers, acquisitions, or bankruptcy liquidation, if there is a transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+1
+After obtaining your explicit consent.
+2. Legal Disclosure: We may publicly disclose your personal information in the event of legal, procedural, litigation, or mandatory requirements from government authorities.
+4、 How do we use cookies and similar technologies
+（1） Cookie
+To ensure the normal operation of the website, we will store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. With the help of cookies, websites can store data such as your preferences or items in your shopping basket.
+We will not use cookies for any purposes other than those stated in this policy. You can manage or delete cookies according to your preferences. For more details, please refer to AboutCookies.org. You can clear all cookies saved on your computer, as most web browsers have blocking features
+The function of cookies. But if you do so, you will need to personally change the user settings every time you visit our website. To learn more about how to change browser settings, please visit the following links:<Internet Explorer>,<Google Chrome>,<Mozilla Firefox>,<Safari>, and<Opera>.
+（2） Website beacons and pixel tags
+In addition to cookies, we also use other similar technologies such as website beacons and pixel tags on our website. For example, the email we send you may contain clicks on links to our website content
+URL。 If you click on the link, we will track this click to help us understand your product or service preferences and improve customer service. A website beacon is typically a transparent image embedded in a website or email. By using pixel tags in emails, we can determine whether the email has been opened. If you do not want your activities to be tracked in this way, you can unsubscribe from our mailing list at any time.
+（3） Do Not Track
+Many web browsers have a Do Not Track function, which can issue Do Not Track requests to websites. At present, the major Internet standards organizations have not established relevant policies to specify how websites should respond to such requests. But if your browser has enabled Do Not
+Track， So all of our websites will respect your choices.
+5、 Location and duration of information storage
+1. Location
+We comply with the provisions of laws and regulations and store personal information collected and generated within the territory of the People's Republic of China. We will not transfer your personal information abroad. If there is a need to transfer your personal information abroad in the future, we will ensure that your personal information is adequately and equally protected within the territory of the People's Republic of China. For example, we may request your consent for cross-border transfer of personal information, or implement security measures such as data de identification before cross-border data transfer.
+2. Deadline
+We will only retain your personal information for the period necessary to achieve the purpose described in this policy, unless there is a mandatory retention requirement by law, such as the Cyber Security Law, which stipulates that the log information shall not be less than 6 months, the Electronic Commerce Law, which stipulates that the transaction information shall not be less than three years from the transaction completion date, and the Internet Information Management Measures, which stipulates that the record backup shall not be less than 60 days.
+After your personal information exceeds the retention period, we will delete your personal information or anonymize it in accordance with applicable laws.
+6、 How do we protect your personal information
+（1） We have implemented industry standard security measures to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage, or loss of data. We will take all reasonable and feasible measures to protect your personal information. For example, when exchanging data (such as credit card information) between your browser and the "service"
+SSL encryption protection; We also provide HTTPS for our website
+Safe browsing mode; We will use encryption technology to ensure the confidentiality of data; We will use trusted protection mechanisms to prevent data from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information; And we will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+（2） We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
+（3） The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+（4） After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements.
+At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+7、 Protection of Minors
+Our products, website, and services are primarily aimed at adults. Children are not allowed to create their own user accounts without the consent of their parents or guardians.
+For the collection of children's personal information with parental consent, we will only do so with legal permission and explicit consent from parents or guardians
+Or use or publicly disclose this information as necessary to protect children.
+Although local laws and customs define children differently, we consider anyone under the age of 14 as a child.
+If we find that we have collected personal information of children without obtaining verifiable parental consent in advance, we will try to delete the relevant data as soon as possible.
+8、 Your rights
+According to relevant laws, regulations, standards in China, as well as common practices in other countries and regions, we guarantee that you exercise the following rights over your personal information:
+（1） Accessing your personal information
+You have the right to access your personal information, except for exceptions provided by laws and regulations. If you want to exercise your data access rights, you can access them yourself through the following methods:
+Account Information - You can access or edit your personal profile information in your account through "My" - "Click on Avatar"; You can change your password and add security information through the "Settings" operation in the upper right corner of "My"; You can view payment information through the operation of "Personal Center" - "Account Balance" - "Transaction Details".
+Search for information - You can access or clear your search history in "Spring Rain" - "Click Search Bar".
+Health consultation information - You can access your current and historical consultation information in "My Orders".
+If you are unable to access these personal information through the above link, you can always provide feedback or contact Spring Rain Online customer service. We will reply to your visit request within 15 days.
+For other personal information generated during your use of our products or services, as long as we do not require excessive investment, we will provide it to you. If you wish to exercise your data access rights, please contact Spring Rain Online customer service.
+（2） Correct your personal information
+When you discover errors in the personal information we process about you, you have the right to request us to make corrections. You can submit a correction request through the methods listed in "(1) Accessing Your Personal Information".
+If you are unable to correct these personal information through the above link, you can always provide feedback or contact Spring Rain Online customer service. We will reply to your correction request within 15 days.
+（3） Delete your personal information
+In the following situations, you can request us to delete your personal information:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect and use your personal information without your consent;
+3. If our handling of personal information violates our agreement with you;
+4. If you no longer use our products or services, or if you cancel your account;
+5. If we no longer provide you with products or services;
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner, unless otherwise provided by laws and regulations, or if these entities have obtained your independent authorization.
+When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+（4） Change the scope of your authorized consent
+Each business function requires some basic personal information to be completed (see "2" of this policy). For the collection and use of additional personal information, you may give or revoke your authorization and consent at any time. You can operate in the following ways:
+1. You can give, modify, or revoke your authorization in the "Phone Settings" of your smart mobile device (for example, you can revoke your "Camera" user consent authorization in the phone settings).
+2. If you do not want to accept the commercial advertisements we send you, you can cancel them at any time by going to "Personal Center" - "Settings and Help" - "Message Notifications".
+3. You can also send an email to Chunyu customer service email service@chunyu.me Or call Spring Rain customer service at 400-001-8855.
+After you withdraw your consent, we will no longer process the corresponding personal information. But your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization.
+（5） Personal Information Subject Account Cancellation
+You can cancel your previously registered account at any time. You can do so by clicking on "My" - "Avatar" and selecting "Cancel Account" from the top right corner
+After canceling the account, we will cease to provide you with products or services and delete your personal information as per your request, except as otherwise provided by laws and regulations.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to demand an explanation from us, and we will also provide appropriate remedies.
+（7） In response to your above request
+To ensure safety, you may need to provide a written request or prove your identity in other ways. We may first require you to verify your identity before processing your request.
+We will provide a response within 15 working days. If you are not satisfied, you can also file a complaint through the following channels: call Chunyu customer service at 400-001-8855
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+1. Directly related to national security and defense security;
+2. Directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+5. Responding to your request will result in cooperation between you or other individuals or organizations
+Serious damage to legal rights and interests;
+6. Involving trade secrets.
+9、 How to contact us
+If you have any questions, comments, or suggestions regarding this privacy policy, please contact us through the following methods:
+Company Name: Beijing Chunyu Tianxia Software Co., Ltd
+Registered address: No. 115, 1st Floor, Building 4, Building Materials City, Xisanqi, Haidian District, Beijing
+Common office address: N5, Jinyu Intelligent Manufacturing Factory, No. 27 Jianzicheng Road, Haidian District, Beijing
+Online customer service: 400-001-8855
+Normally, we will reply within 15 working days. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also seek solutions through the following external channels:
+National Mobile Internet Application Security Management Center: http://www.cnaac.org.cn/report.html
+Spring Rain Doctor's Privacy Policy Historical Version
+·Version dated September 3rd, 2021
+·Initial version

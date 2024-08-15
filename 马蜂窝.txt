@@ -1,0 +1,976 @@
+[Special Reminder]
+In order to better protect your personal information, please carefully read and fully understand this policy before using Mafengwo's products and services. We have highlighted the key content in bold, and we hope you will pay special attention to it when reading and browsing. Once you use or continue to use Mafengwo products and services, it means that you agree to our processing of your relevant information in accordance with this policy. For the sensitive information we have collected from you, we have also highlighted it in bold to provide you with an enhanced reminder. Once you agree to provide your personal sensitive information, we will process your personal sensitive information in accordance with the purposes and methods described in this policy. We use your personal sensitive information for the purpose of implementing functions related to Mafengwo's products and services. You have the right to refuse to provide us with sensitive personal information, but refusing our collection and use of this information may affect your use of related functions.
+catalogue
+1、 How do we collect and use your personal information
+2、 How do we use cookie technology
+3、 How do we share, transfer, and publicly disclose your personal information
+4、 How do we store and protect your personal information
+5、 How do you manage your personal information
+6、 How do we protect the personal information of minors
+7、 How to update this policy
+8、 How to contact us
+1、 How do we collect and use your personal information
+Personal information refers to various information related to identified or identifiable natural persons recorded electronically or in other ways, excluding anonymized information. The personal information covered in this privacy policy includes: personal identity information (including ID card, passport, driver's license, military officer's license, social security card, residence permit, etc.), personal property information (including bank account number, asset proof information, loan information, transaction and consumption records, etc.), network identity identification information (including system account, IP address, email address, and related passwords, passwords, password protected answers, etc.), personal commonly used device information (including hardware model, device MAC address, operating system type, software list unique device identification code (such as IMEI/Android ID/IDA/OPENUDID/UUID, SIM card IMSI information, etc., which describes the basic information of personal commonly used devices), personal location information (including travel information, Accurate positioning information, accommodation information, latitude and longitude, etc.
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety. This includes biometric, religious beliefs, specific identities, medical and health care, financial accounts, and whereabouts, as well as personal information of minors under the age of fourteen. It mainly includes personal property information (including bank accounts, asset proof information, loan information, transaction and consumption records, etc.), personal biometric information (fingerprints, facial recognition features, etc.), personal identity information (including ID cards, passports, driver's licenses, military officer certificates, social security cards, residence permits, etc.), network identity identification information (including system accounts IP address, email address, and related passwords, passwords, password protected answers, etc., as well as other information such as whereabouts, web browsing history, accommodation information, precise positioning information, etc.
+We will only collect and use your personal information for the following purposes under this policy:
+（1） You need to authorize us to collect and use your personal information
+1. The functions required to obtain Mafengwo's products and services
+(1) Register as a user of Mafengwo
+When you register as a user of Mafengwo, you need to provide us with at least the Mafengwo account name, password, and your personal phone number that you plan to use. We will verify your identity by sending a SMS verification code. Your account name is your default nickname. You can modify and supplement your nickname, gender, birthday, interests and hobbies, as well as your real name verification related information, all of which belong to your "account information". The account information you provide will help us provide you with personalized product recommendations and a better user experience, but if you do not provide this supplementary information, it will not affect your use of the basic functions of Mafengwo.
+If you only use basic services such as browsing and searching, you do not need to register as a user of Mafengwo or provide the above information.
+(2) Product and service information display and search
+In order to help you quickly find the products and services you need, we may collect device information about your use of our products and services (including device name and model, device identification code (Android ID, IMEI number), operating system and application version, resolution, service provider network ID (PLMN), Mac address, etc.), browser type, etc. when the application is launched or running in the background, in order to provide you with the best way to display our products and services. We will also use your personal information to continuously improve and optimize the above functions.
+(3) Order and book at the wasp nest
+To ensure your travel safety and smooth use of the services you place orders and book on Mafengwo, when booking flights, hotels, group tours, local tours, cruise ships, scenic spot tickets, car services, insurance, global WiFi and other services, you need to provide your and the traveler's or insured's real name information in accordance with national laws and regulations or the requirements of service providers (including hotels, ticket sellers, travel agencies and their authorized agents, scenic spots, insurance companies, basic telecommunications operators, mobile resale operators, etc.). These real name information may include your identity information (such as your ID card number, passport number, and number indicating your identity certificate), your own name, telephone number, and the identity information of the traveler or the insured (such as the traveler's or the insured's ID number number, passport number, and number indicating your identity certificate), name, and telephone number. If you need to provide shipping services, you also need to provide the address, recipient's name, and phone number. All the aforementioned information constitutes your 'order information', which may include your and the traveler's names, phone numbers, departure information, etc
+Location, itinerary, calendar, region, hotel address, check-in and check-out times, room type, age, and other information. If you need to issue an invoice, when you add the invoice header, you need to provide the company name and taxpayer identification number information.
+We will use your order information for your identity verification, transaction confirmation, payment settlement, order inquiry, and customer service consultation and after-sales service; We will also use your order information to determine if there are any abnormalities in your transaction to protect your transaction security.
+The traveler information, contact information, and mailing address provided in the above services will be automatically stored as your commonly used information, so that you can directly choose to use them when making your next reservation. You can also update and delete the above information at any time on the relevant product contact editing and management page.
+If the information you provide contains personal information of other users, you need to ensure that you have obtained legal authorization, and the information of minors needs to be authorized by their guardians.
+(4) Payment function
+After you place an order, you can choose the payment services provided by the related parties of Ma Fengwo or the third-party payment institutions cooperating with Ma Fengwo (including payment channels such as Alipay and WeChat payment, hereinafter referred to as "payment institutions"). At this time, you may need to provide the bank card number, validity period, bank reserved mobile phone number, cardholder name, cardholder ID, and card verification code information. The payment function itself does not collect your personal information, but we need to share your Mafengwo order number and transaction amount information with these payment institutions to enable them to confirm your payment instructions and complete the payment. Related party "refers to any company, institution, or legal representative of a party that currently or in the future controls, is controlled by, or is under common control with the party. 'Control' refers to the ability to directly or indirectly influence the management of the mentioned company, whether through ownership, voting shares, contracts, or other means recognized by the people's court.
+(5) Deliver product and service functions
+We will confirm the relevant information of the products and services you have purchased with you through phone calls, emails, text messages, etc., and have the actual service provider deliver the products or provide services to you. You acknowledge and confirm that the affiliates of Mafengwo or the product and service providers cooperating with Mafengwo will use your order information during the above process to ensure timely delivery of relevant products and services to you.
+(6) Customer service and after-sales functions
+When you need us to provide customer service and after-sales service related to your order information, we will check your order information. Therefore, our telephone customer service and after-sales service will use your account information and order information to verify your identity. You may provide additional information beyond the original order information when communicating with our customer service personnel, such as when you request us to change the order information.
+(7) The necessary features to improve our products and services
+In order to improve user experience and service quality, we may collect your order information, browsing information for aggregation and data analysis, so that we can display product or service information that you are interested in to you; Or show you the products you may want to find when you search; Or match with data from other sources (including third parties) to improve our products and services. We may also obtain other information from you for the reasonable purpose of providing services and improving service quality, including the relevant information you provide when contacting customer service, the information you send us when participating in Mafengwo platform activities, and the relevant information we obtain when interacting with our affiliates and partners. We may associate the information collected from your various devices so that we can provide you with efficient and consistent services on these devices.
+(8) List the information collected and used by the product's business functions, item by item
+When you register as a Mafengwo user, you need to provide your phone number and set a password to create a Mafengwo account.
+When booking a domestic flight, you need to provide at least the passenger's name, identification number, date of birth, mobile phone number, departure location, region, and calendar information. When booking international flights to Hong Kong, Macau, and Taiwan, you are required to provide at least the passenger's name, gender, nationality, date of birth, ID number, ID validity period, mobile phone number, email address, departure location, region, and calendar information.
+When booking domestic train tickets, you need to provide at least the passenger's name, identification number, and mobile phone number information.
+When booking hotels, homestays, and guesthouses, you may need to provide the name, identification number, mobile phone number, email address, and room type information of the guest. If you bring children to stay, you will need to provide their age information.
+When booking an overseas airport transfer, you need to provide at least the name, phone number, WeChat ID, rental date, flight number, and arrival address information of the vehicle owner.
+When booking an international car rental, you need to provide at least the driver's name, driver ID number, mobile phone number, email address, rental date, pick-up address, and return address information.
+When booking tickets or entertainment services, depending on the type of service, you may need to provide different types of information, including the traveler's name, ID type, ID number, ID validity period, ID issuing place, place of birth, date of birth, contact phone number, nationality, gender, issuing authority, issuing date, passport type, passport validity period, weight and height, shoe size, left eye vision, right eye vision information, contact person's name, phone number, WeChat, email information.
+When booking a car rental overseas, you need to provide at least the name, ID type, ID number, contact phone number, contact person's name, phone number, email information, and may also need to provide ID validity period, date of birth, gender, nationality, domestic phone number, height, weight, shoe size, left eye vision, right eye vision, pick-up date, return date, time of use, location of use, pick-up address, return address, and flight number information.
+When you book a private car service (including airport/station pick-up and drop off, charter), you may need to provide different types of information depending on the type of service, including the traveler's name, ID type, ID number, contact phone number, ID validity period, date of birth, gender, nationality, domestic mobile phone number, height, weight, shoe size, left eye vision, right eye vision, contact person's name, mobile phone number, email, hotel name/address/phone number for pick-up and drop off, itinerary plan, and pick-up flight
+Number/train number, departure/arrival time, time of use, location of use, and number of passengers.
+When booking a travel itinerary, you need to provide at least the name, mobile phone number, email information of the contact person. You may also need to provide the traveler's name, ID type, ID number, contact phone number, ID validity period, date of birth, gender, nationality, domestic mobile phone number, height, weight, shoe size, left eye vision, right eye vision, boarding location, alighting location, meeting location, meeting time, and name/address/phone information of the pick-up and drop off hotel.
+When you book any of the services such as boat tickets or cruise ships, you need to provide at least the traveler's name, ID type, ID number, contact phone number, contact person's name, phone number, email information, and may also need to provide the traveler's ID validity period, date of birth, gender, nationality, domestic mobile phone number, and contact person's WeChat information.
+When booking airport parking services, you need to provide at least the contact person's name, mobile phone number, email information, and may also need to provide the traveler's name, ID type, ID number, ID validity period, date of birth, gender, nationality, contact phone number, domestic mobile phone number, pick-up time, flight number, flight time, and contact person's WeChat information.
+When booking visa services, you may need to provide proof of identity, proof of assets, travel information, personal information form, visa application form, and other supplementary materials.
+When you purchase insurance, you need to provide at least the insured's name, ID number, mobile phone number, and email information.
+When you purchase travel services by installment, you need to provide at least your name, ID number and mobile phone number information.
+When you use the currency exchange service, you need to provide at least your name, ID number and mobile phone number information.
+If you need to issue a paper or electronic invoice, you also need to provide invoicing information including invoice header, invoice type, tax number, as well as recipient, mobile phone number, shipping address, and email information.
+When you use innovative advertising interaction functions or play videos to switch between horizontal and vertical screens (such as shaking, twisting, or twisting the device), we will call the device's accelerometer to recognize and judge your device status; When you use community features to experience innovative dynamic backgrounds, we will call on the device's gyroscope to recognize and judge your device status. Please understand that individual device sensor data does not involve any personal location information and cannot be combined with other information to identify the identity of a specific natural person.
+When you use the "Record user steps and give away coins" function in the strategy group, you need to read the step information in your app's health data to obtain/calibrate user activity participation progress.
+2. Provide the necessary functions for security assurance
+To improve the security of your system when using our products and services, as well as those provided by our affiliated companies or partners, and to more accurately prevent phishing website or app fraud, computer viruses, network attacks, network intrusions, and protect account security, we may comprehensively assess your account and transaction risks, detect and prevent security incidents by understanding your browsing information, order information, transaction information, device application installation list, device MAC address, etc. We may also record links ("URLs") that we consider to be at risk; We will also collect your device information to analyze and track traffic for issues with the Mafengwo system, identify potential risks, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+3. Other
+To provide you with a better product and service experience, we will continue to strive to improve our products and services. Therefore, it may be necessary to collect and use new personal information or change the purpose or method of using personal information. If the above situation occurs, we will explain it to you separately through updating this policy, page prompts, etc., and start collecting and using it after obtaining your consent.
+（2） The situation where your personal information can be collected and used without obtaining your authorization and consent
+According to relevant laws, regulations, regulatory requirements, and national standards, we may collect and use necessary personal information without your authorization and consent in the following situations:
+(1) Related to our obligations under laws and regulations;
+(2) Directly related to national security and defense security;
+(3) Directly related to public safety, public health, and major public interests;
+(4) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(5) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+(6) The personal information involved is disclosed by you to the public on your own;
+(7) Based on what is necessary for you to sign and fulfill the contract with us;
+(8) Collecting your personal information from legally disclosed information, such as through legitimate news reports, government information disclosure, and other channels;
+(9) Necessary for maintaining the safe and stable operation of our products and services, such as discovering and handling product and service failures;
+(10) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+(11) When conducting statistical or academic research in the public interest and providing results of academic research or descriptions to external parties, the personal information contained in the results is de identified;
+(12) Other circumstances stipulated by laws and regulations.
+（3） You can choose whether to authorize us to collect and use your personal information
+1. To enhance user experience and make Mafengwo's products and services more user-friendly, we may collect and use your personal information in the following additional features. If you do not provide this personal information, you can still use other products and services of Mafengwo, including:
+(1) Personalized recommendation function based on location information: We will collect your location information (we only collect your geographical location at that time, but will not combine your location information from different time periods to determine your whereabouts) to determine where you are
+Location, automatically recommend products and services that can be purchased in your area. For example, recommending peripheral travel products to you based on your location information.
+(2) Additional function based on image upload: You can upload your photos on the Mafengwo platform. For example, you can upload your own photos while uploading your travelogue. You can also upload other photos to achieve the functions of posting and evaluating. We will use the evaluation of the images you upload.
+(3) Additional features based on voice technology: You can record voice uploads when posting notes on the Mafengwo platform, or synchronize voice uploads when recording videos. If you are not authorized, you will not be able to use the note upload related functions, but other functions can still be used normally. We will not collect or operate the information you record locally
+(4) Additional feature based on address book information: You can authorize access to your address book when inviting or following friends on the Mafengwo platform. This authorization will only be triggered when you use this feature and will be initiated by you. We will not perform operations such as saving or changing your address book. If you are not authorized, you can still use other functions normally.
+(5) Additional features based on media file location: After publishing content on the Mafengwo platform, we can provide you with better footprint services, and we will not modify your media files.
+2. The scenarios that require the use of your bank card information (such as bank card number) mainly include: when you apply for compensation, you need to provide your bank card information in order to pay you compensation; When you use the withdrawal function in the wallet business or make payments, you need to bind your bank card to complete the withdrawal or payment; When you cooperate with us as a partner, you need to provide your bank card information to complete the settlement. You understand and agree that we will use your bank card information based on the above scenario. If you do not provide this information, payment, withdrawal, settlement, etc. may not be completed.
+3. The first additional feature mentioned above may require you to grant us access to your location information (precise positioning, rough location), camera (shooting), photo album (image library), microphone (recording), write to external storage, read from external storage, and address book on your device to collect and use the information involved in these features. You can find the application details through settings, click on "Access Permissions" to view the status of the above permissions enabled, and decide whether to enable or disable these permissions at any time. Please note that by granting these permissions, you authorize us to collect and use your personal information to achieve the aforementioned functions. By granting these permissions, you cancel them, and we will no longer continue to collect and use your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. Your decision to close permissions will not affect the processing of personal information based on your authorization.
+（4） We obtain your personal information from third parties
+We may collect and use your personal information from third parties (our partners) within the scope of your authorized consent. We will use your personal information based on agreements with third parties and after confirming the legality of the source of your personal information, in compliance with relevant laws and regulations. Please also carefully read the privacy policy and user agreement of the third party. If you refuse to allow third parties to collect, use, or transmit your personal information while providing services, it may result in you being unable to use the products and services corresponding to Mafengwo.
+（5） Rules for the Use of Your Personal Information
+1. We will use the collected personal information in accordance with the provisions of this privacy policy and to achieve the functionality of our products and services. When we want to use your personal information for other purposes not specified in this policy, we will seek your authorization and consent in advance.
+2. After collecting your personal information, we will process it for de identification, and the de identified information will not be able to identify the subject. Please note that in this situation, we have the right to use the de identified information. Without disclosing your personal information, we may analyze and commercially utilize the de identified user database.
+3. Please note that when you use our products and services, unless you delete or refuse our collection through system settings, you will continue to authorize us to use them during your use of our products and services.
+4. We will conduct statistics on the usage of our products and services, and may share this statistical information with the public or third parties to showcase the overall usage trends of our products and services. But these statistical information do not include any of your identification information.
+5. If our merger, acquisition or bankruptcy liquidation may involve the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this policy.
+6. List the application scenarios and potential impacts of using personal information for portrait purposes one by one:
+Browsing, searching, shopping, and interaction records
+Browsing, searching, shopping, and interaction records
+Browsing, shopping, and interaction records
+Browsing, searching, shopping, and interaction records
+2、 How do we use cookie technology
+To ensure the normal operation of the website or app, we will store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. With the help of cookies, websites or apps can store your preference data. We will not use cookies for any purposes other than those stated in this policy. You can manage or delete cookies according to your preferences. For more details, please refer to AboutCookies.org. You can clear all cookies saved on your computer, and most web browsers have a feature to block cookies. But if you do so, you will need to change the user settings every time you visit our website or app.
+3、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+1. We may
+Share your order information, account information, device information, and location information with third parties such as partners to ensure the smooth completion of the products and services provided to you. But we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose. Our partners include the following types:
+(1) Suppliers: including but not limited to hotels, airlines, cruise ships, travel agencies, scenic spots, and event providers and agents to meet your booking needs. These suppliers may contact you as needed to complete travel products and services or other products and services. You can check the information and contact information on the business license of the provider of the relevant goods and services engaged in business activities on the main page or relevant booking page to identify your trading partner identity.
+(2) Financial institutions and third-party payment institutions: When you book an order, apply for a refund, or purchase insurance, we will share specific order information with financial institutions or third-party payment institutions. When we deem it necessary for fraud detection and prevention purposes, we will further share other necessary information with relevant financial institutions, such as IP addresses.
+(3) Business partners: We may work with our partners to provide you with products or services, including communication services, customer service, marketing, advertising, technical services, real name authentication services, consulting services, and more.
+(4) Considering the necessity of providing risk control (such as anti fraud) in our business, you agree that we have the right to inquire about your personal information (including IP address, encrypted phone number, account ID, device sensor information, etc.) from third-party risk control service providers we cooperate with, depending on the actual situation of our business development, in order to complete the necessary risk control process mentioned above. You further agree that when assisting us in completing the necessary risk control process mentioned above, the third-party risk control service provider has the right to store, process, associate and use your personal information provided by us within a reasonable and necessary scope. At the same time, third-party risk control service providers will adopt privacy protection measures that are no less stringent than this privacy policy.
+(5) Affiliated companies: We may share your personal information with our affiliated companies, enabling us to provide you with information related to travel or other products and services. They will take no less stringent protection measures than this privacy policy. The so-called affiliated company refers to any individual, partnership, organization, or entity that directly or indirectly (through one or more intermediaries or contractual arrangements) controls, is controlled by, or is jointly controlled with us. 'Control' refers to the ability to directly or indirectly influence the management of the mentioned company, whether through ownership, voting shares, contracts, or other means recognized by the people's court.
+If you refuse our partner to collect personal information necessary for providing services, it may result in you being unable to use the products and services provided by Mafengwo through that partner.
+2. Except for the first scenario mentioned above, we will not share your personal information with any company, organization, or individual, except for the following situations:
+(1) Obtaining your explicit authorization or consent in advance: After obtaining your explicit consent, we will share your personal information with other parties;
+(2) Sharing under legal circumstances: Your personal information needs to be shared in accordance with applicable laws and regulations, legal procedures, litigation/arbitration, government mandatory orders, and regulatory requirements;
+(3) Within the scope required or permitted by law, it is necessary to provide your personal information to third parties (including industry organizations such as consumer rights protection departments) in order to protect your or the public's interests, property, or safety from harm;
+(4) To protect national security, public safety, and the significant legitimate rights and interests of you and other individuals, it is necessary to share your personal information;
+(5) You publicly disclose your personal information on your own or we can obtain it from other legitimate public channels.
+3. Examples of situations involving embedding third-party code and plugin transmission of personal information:
+(1) Third party SDK: Shumeng
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Data statistics, obtaining device unique identifier oaid
+Third party organization name: Beijing Digital Alliance Network Technology Co., Ltd https://www.shuzilm.cn/
+Third party related privacy policies: https://www.shuzilm.cn/main/privacy.html?from=singlemessage
+Is the data being transmitted in a labeled manner? Yes
+(2) Third party SDK: Shumei
+Personal information types: personal commonly used device information, network identification information
+Personal information fields: device MAC address, Bluetooth MAC address, SIM card information (ICCID, IMSI), unique device identification code (IMEI, IDFA, Android ID, device hardware serial number), installation software list, basic configuration information of the device (device name, CPU, memory, screen, model, operating system), system and software related configuration information, WIFI and cellular network information (WIFI network card MAC address, WIFI hotspot MAC address, WIFI name, surrounding WIFI information list, network connection method, operator information), IP address
+Application scenario: User risk control and anti fraud to ensure account and transaction security
+Third party organization name: Beijing Shumei Times Technology Co., Ltd https://www.ishumei.com
+Third party related privacy policies: https://www.ishumei.com/legal/cn/privacy.html
+Is the data being transmitted in a labeled manner? Yes
+(3) Third party SD
+K: Baidu Maps
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: device information, location information
+Application scenario: Provide map and location related services
+Third party organization name: Beijing Baidu Netcom Technology Co., Ltd http://lbsyun.baidu.com
+Third party related privacy policies: https://lbsyun.baidu.com/index.php?title=FAQ/tags   https://map.baidu.com/zt/client/privacy/index.html
+Is the data being transmitted in a labeled manner? Yes
+(4) Third party SDK: Gaode Open Platform Map SDK (bundled)
+Purpose of use: To provide services such as map display, positioning, and search
+Usage scenario: Business scenarios that utilize maps and location services
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: latitude and longitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure, direction, geomagnetic), device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (device brand and model, operating system, operator information, screen resolution)
+Application scenario: Provide map and location related services
+Third party organization name: Gaode Software Co., Ltd https://lbs.amap.com
+Third party related privacy policies: https://lbs.amap.com/pages/privacy/
+Is the data being transmitted in a labeled manner? Yes
+(5) Third party SDK: Alipay payment
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: E-commerce payment
+Third party organization name: Ant Financial (Hangzhou) Network Technology Co., Ltd https://open.alipay.com/
+Third party related privacy policies: https://render.alipay.com/p/c/k2cx0tg8
+Is the data being transmitted in a labeled manner? Yes
+(6) Third party SDK: JD Pay
+Personal Information Type: Personal Common Device Information
+Personal information fields: device type, device name, system version, network type, network operator
+Application scenario: E-commerce payment
+Third party organization name: JD Digital Technology Holdings Co., Ltd https://www.jdpay.com/home/page
+Third party related privacy policies: https://about.jd.com/privacy/
+Is the data being transmitted in a labeled manner? Yes
+(7) Third party SDK: WeChat Pay
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: E-commerce payment
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://open.weixin.qq.com
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?stype=&promote=&fr= <=zh_cn&adtag=&check=fall&nav=faq&t=weixin'agreement
+Is the data being transmitted in a labeled manner? Yes
+(8) Third party SDK: WeChat login
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: WeChat login
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://open.weixin.qq.com
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?stype=&promote=&fr= <=zh_cn&adtag=&check=fall&nav=faq&t=weixin'agreement
+Is the data being transmitted in a labeled manner? Yes
+(9) Third party SDK: Weibo login
+Purpose of use: Login&Share
+Usage scenario: Login through Weibo account or share on Weibo
+Personal Information Type: Personal Common Device Information
+Personal information fields: device information, android_id
+Application scenario: Weibo login
+Third party organization name: Beijing Weimeng Chuangke Network Technology Co., Ltd http://open.weibo.com/authentication
+Third party related privacy policies: https://www.weibo.com/signup/v5/privacy
+Is the data being transmitted in a labeled manner? Yes
+(10) Third party SDK: QQ login
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: QQ login
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd http://wiki.connect.qq.com/
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?stype=&promote=&fr= <=zh_cn&adtag=&check=fall&nav=faq&t=weixin'agreement
+Is the data being transmitted in a labeled manner? Yes
+(11) Third party SDK: Quick Check
+Purpose of use: A
+PP One Click Login
+Usage scenario: When logging into the Mafengwo App with just one click
+Personal Information Type: Personal Common Device Information
+Personal information fields: device information, application list information, geographic location information
+Application scenario: Used to implement the function of one click login number authentication for apps
+Third party organization name: Shanghai Youkun Information Technology Co., Ltd https://www.mob.com/
+Third party related privacy policies: https://www.mob.com/wiki/detailed?wiki=639&id=78
+Is the data being transmitted in a labeled manner? Yes
+(12) Third party SDK: Push notifications
+Purpose of use: Push messages
+Usage scenarios: When updating message reminders, when recommending messages
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: device model, GAID, android_id, WiFi information, application list, MAC address, network information (ssid, bssid), and location related information
+Application scenario: Used to generate unique push target IDs (CIDs) and device IDs (GIDs) to ensure accurate message delivery and accurate identification of message devices. Provide push technology services
+Third party organization name: Zhejiang Daily Interactive Network Technology Co., Ltd https://www.getui.com/cn/
+Third party related privacy policies: http://docs.getui.com/privacy
+Is the data being transmitted in a labeled manner? Yes
+(13) Third party SDK: Huawei Push
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide PUSH push service
+Third party organization name: Huawei Developer Alliance https://developer.huawei.com/consumer/cn/hms/huawei-pushkit
+Third party related privacy policies: https://www.huawei.com/cn/privacy-policy
+Is the data being transmitted in a labeled manner? Yes
+(14) Third party SDK: OPPO push
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide PUSH push service
+Third party organization name: OPPO Guangdong Mobile Communication Co., Ltd https://push.oppo.com/
+Third party related privacy policies: https://www.oppo.com/cn/service/help/640?id=640&name=%E6%9C%8D%E5%8A%A1%E6%94%BF%E7%AD%96&hdscreen=1
+Is the data being transmitted in a labeled manner? Yes
+(15) Third party SDK: VIVO push
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide PUSH push service
+Third party organization name: Guangdong BBK Electronics Industry Co., Ltd https://dev.vivo.com.cn
+Third party related privacy policies: https://www.vivo.com/about-vivo/privacy-policy
+Is the data being transmitted in a labeled manner? Yes
+(16) Third party SDK: Xiaomi Push
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide PUSH push service
+Third party organization name: Xiaomi Technology Co., Ltd https://dev.mi.com/console/appservice/push.html
+Third party related privacy policies: https://dev.mi.com/console/doc/detail?pId=1822
+Is the data being transmitted in a labeled manner? Yes
+(17) Third party SDK: Honor Push
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide PUSH push service
+Third party organization name: Honor Terminal Co., Ltd https://developer.hihonor.com/cn/tg/page/tg2022092817400001?navation=dh41628589245436395522%2F1
+Third party related privacy policies: https://www.hihonor.com/cn/privacy/privacy-policy/
+Is the data being transmitted in a labeled manner? Yes
+(18) Third party SDK: Tencent Lite AV Tencent Live
+Personal Information Type: Personal Common Device Information
+Personal information fields: device information, microphone usage permissions, camera usage permissions
+Application scenario: Providing live streaming services
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://cloud.tencent.com/document/product/454/7886
+Third party related privacy policies: https://cloud.tencent.com/document/product/301/11470
+Is the data being transmitted in a labeled manner? Yes
+(19) Third party SDK: Tencent RTMP
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Provide live streaming and push streaming services
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://cloud.tencent.com/document/product/454/7886
+Third party related privacy policies: https://cloud.tencent.com/document/
+product/301/11470
+Is the data being transmitted in a labeled manner? Yes
+(20) Third party SDK: Tencent Bugly
+Purpose of use: To troubleshoot crash issues and help the app improve stability
+Usage scenario: When the app crashes abnormally
+Personal Information Type: Personal Common Device Information
+Personal information field: used to investigate device information related to crashes (including phone model, phone brand, Android system version, Android API level, manufacturer system version, CPU architecture type, whether the device is root, disk space occupation size, sdcard space occupation size, internal storage space occupation size, network type), ICCID, list of currently running processes on the device
+Environment: Crash information and thread stack, ROM/RAM/SD card capacity, network/language status, etc
+Application scenario: Used for statistical analysis of program crash information
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://bugly.qq.com/v2/index
+Third party related privacy policies: https://bugly.qq.com/docs/user-guide/faq-android/?v=20200622202242#9 -bugly
+Is the data being transmitted in a labeled manner? Yes
+(21) Third party SDK: Tencent IM
+Personal Information Type: Personal Common Device Information
+Personal information fields: network information, WiFi information
+Application scenario: Used for small community group chats and live chat rooms
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://cloud.tencent.com/document/product/454/7886
+Third party related privacy policies: https://cloud.tencent.com/document/product/548/50955
+Is the data being transmitted in a labeled manner? Yes
+(22) Third party SDK: Google Maps
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: device information, location information
+Application scenario: Provide map related services
+Third party organization name: Google https://cloud.google.com/maps-platform/?hl=zh -cn
+Third party related privacy policies: https://policies.google.com/privacy?hl=zh -CN
+Is the data being transmitted in a labeled manner? Yes
+(23) Third party SDK: Second hand system
+Personal Information Type: Personal Common Device Information
+Personal Information Field: Device Information
+Application scenario: Data statistics, obtaining device unique identifier oaid
+Third party organization name: Beijing Digital Alliance Network Technology Co., Ltd https://www.shuzilm.cn/
+Third party related privacy policies: https://www.shuzilm.cn/main/privacy.html?from=singlemessage
+Application scenario: Third party advertising measurement
+Third party organization name: Second hand system
+Third party related privacy policies: https://www.miaozhen.com/cn/privacy
+Is the data being transmitted de identified? Yes
+(24) Third party SDK: China Mobile Authentication
+Purpose of use: Identify the user's mobile phone number for quick login and number verification
+Usage scenario: Mobile phone number user selects one click login to Mafengwo App
+Personal information types: network type, network address, operator type, local phone number, mobile device type, mobile operating system, hardware manufacturer
+Personal information fields: SIM card, IMSI information
+Name of the third party organization: China Mobile Internet Co., Ltd
+Third party related privacy policies: https://wap.cmpassport.com/resources/html/contract.html
+(25) Third party SDK: Certified by China Unicom
+Purpose of use: Identify the user's mobile phone number for quick login and number verification
+Usage scenario: Users with China Unicom mobile phone numbers can choose to log in to the Mafengwo App with just one click
+Personal information types: network type, network address, operator type, local phone number, mobile device type, mobile operating system, hardware manufacturer
+Personal information fields: SIM card, IMSI information
+Third party organization name: China United Network Communications Co., Ltd
+Third party related privacy policies: https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true
+(26) Third party SDK: China Telecom Certification
+Purpose of use: Identify the user's mobile phone number for quick login and number verification
+Usage scenario: Telecom phone number user selects one click login to Mafengwo App
+Personal information types: network IP address, network type, registered mobile phone number, local phone number, international mobile user identification code, application process information, network connection type, network status information, network address, operator type, mobile device type, mobile device manufacturer, mobile operating system type and version
+Personal information fields: SIM card, IMSI information
+Third party organization name: Century Dragon Information Network Co., Ltd
+Third party related privacy policies: https://e.189.cn/sdk/agreement/detail.do?hidetop=true&appKey=
+(27) Third party SDK: Tencent Hot Patch (Tinker SDK)
+Purpose of use: Tinker is WeChat's official Android hot patch solution, which enables bug free, so library, and resource fixing of apps in emergency situations.
+Usage scenario: There is an urgent bug online that requires no version release
+When this update is urgently repaired
+Personal information types: device information (IDFA, operating system, device model, device manufacturer, system version, android_id, MAC address, etc.), the name and PID of the currently running process of the application
+Personal information field: List of currently running processes on the device
+Third party organization name: Shenzhen Tencent Computer System Co., Ltd
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/huoarEhtzhI0UMTT
+Is the data being transmitted in a labeled manner? Yes
+(28) Third party SDK: Facebook React Native
+Purpose of use: To improve the efficiency of app development
+Usage scenario: Business scenarios using the Facebook React Native framework
+Third party organization name: Facebook Inc
+(29) Third party SDK: UnionPay mobile payment control
+Purpose of use: To meet the scenario of users using cloud flash payment within the application
+Usage scenario: When users use Cloud QuickPass payment within the app
+Third party institution name: China UnionPay Co., Ltd https://cn.unionpay.com/upowhtml/cn/templates/index/index.html
+Third party related privacy policies: https://base.95516.com/s/wl//WebAPP/helpAgree/page/agreement/regPrivacy.html
+Is the data being transmitted in a labeled manner? Yes
+(30) Third party SDK: Embedded browser
+Purpose of use: Open source development tool, browsing web pages
+Usage scenario: When using Chromium as a built-in browser to access web pages within the app
+Personal information type: current device network information, network status information
+Personal information fields: SSID, WiFi information
+Environment: Accessing and browsing webview pages within the app
+Third party organization name: Google Inc
+Third party related privacy policies: https://chromium.googlesource.com/chromium/src/
+Is the data being transmitted in a labeled manner? Yes
+(33) Third party SDK: Gaode Open Platform Positioning SDK
+Purpose of use: To provide location services
+Usage scenario: Business scenarios using location services
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: latitude and longitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure), device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (device brand and model, operating system, operator information, screen resolution)
+Environment: When triggering the necessary use of location information function
+Third party organization name: Gaode Software Co., Ltd https://lbs.amap.com
+Third party related privacy policies: https://lbs.amap.com/pages/privacy/
+Is the data being transmitted in a labeled manner? Yes
+(31) Third party SDK: Gaode Open Platform Positioning SDK
+Purpose of use: To provide location services
+Usage scenario: Business scenarios using location services
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: latitude and longitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure), device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (device brand and model, operating system, operator information, screen resolution)
+Environment: When triggering the necessary use of location information function
+Third party organization name: Gaode Software Co., Ltd https://lbs.amap.com
+Third party related privacy policies: https://lbs.amap.com/pages/privacy/
+Is the data being transmitted in a labeled manner? Yes
+(32) Third party SDK: Tencent Object Storage COS V5 Android SDK
+Usage scenario: Provide video content upload and publishing related services
+Personal Information Type: Personal Network Permissions
+Personal information fields: network status, IP address, system properties, multimedia files, android_id
+Third party organization name: Tencent Cloud Computing (Beijing) Co., Ltd
+Third party related privacy policies: https://privacy.qq.com/document/preview/e822b3b07d36440db40abf7afa48574e
+Is the data being transmitted in a labeled manner? Yes
+(33) Third party SDK: Huawei Wallet
+Usage scenario: Implement the electronicization of various vouchers such as cards, certificates, coupons, tickets, keys, etc., and collect and display them on the Huawei Wallet APP
+Personal Information Type: Voucher Information
+Third party organization name: Huawei Software Technology Co., Ltd
+Third party related privacy policies:
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-00000010500
+forty-two thousand three hundred and ninety-two
+Is the data being transmitted in a labeled manner? Yes
+(34) Third party SDK: Huawei Machine Learning
+Usage scenario: Provide machine learning services for images/videos, voice/audio, and text, and improve the service by analyzing the call situation
+Personal information types: data you actively upload, device information (device model, operating system version number), network information (network type), application information, interface information
+Third party organization name: Huawei Software Technology Co., Ltd
+Third party related privacy policies:
+https://developer.huawei.com/consumer/cn/doc/development/hiai-Guides/android-sdk-ys-0000001222765290
+Is the data being transmitted in a labeled manner? Yes
+(35) Third party SDK: Litesuits
+Usage scenario: Used for local database storage
+Personal Information Type: Read/Write SD Card and Local Database
+Third party organization name: GitHub Inc
+Third party related privacy policies:
+https://github.com/litesuits/android-lite-orm
+Is the data being transmitted in a labeled manner? Yes
+(36) Third party SDK: Alibaba Cloud UTDID
+Usage scenario: Udid is a basic library that generates unique device IDs for devices
+Personal information types: device information, unique device identification code
+Personal information fields: IMEI IMSI、android_id、bssid
+Name of third party organization: Alipay (Hangzhou) Information Technology Co., Ltd
+Third party related privacy policies:
+https://opendocs.alipay.com/open/204/105296/
+Is the data being transmitted in a labeled manner? Yes
+(37) Third party SDK: Huawei Unified Scan Code
+Usage scenario: Code recognition and code generation
+Personal Information Types: Text Information, Images, Sensor Information (Acceleration Sensor, Light Sensor), Network Information, In App Device Identifier, Application Basic Information, Device Hardware Information, Operator Information (Operator Name), System Information (System Settings, System Properties, Device Model, Operating System), Wi Fi Information (Wi Fi Status), Information About Your Use of This Application
+Third party organization name: Huawei Software Technology Co., Ltd
+Third party related privacy policies:
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050043971
+Is the data being transmitted in a labeled manner? Yes
+(38) Third party SDK: Huawei Analytics
+Usage scenario: Provide data collection, data management, and data analysis services for developer applications
+Types of personal information: application information, device information, account information, network information, application usage information
+Third party organization name: Huawei Software Technology Co., Ltd
+Third party related privacy policies:
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/android-sdk-data-security-0000001050745153
+Is the data being transmitted in a labeled manner? Yes
+(39) Third party SDK: LianLian Payment
+Usage scenario: When users use LianLian Pay within the app
+Personal information types: device information, location information, network IP address, device MAC address, browser version information
+Third party institution name: Lianlian International Payment Co., Ltd
+Third party related privacy policies:
+https://open.lianlianpay.com/vault/docs/receive-money/ios/overview.html
+Is the data being transmitted in a labeled manner? Yes
+(2) Third party SDK: Shumei
+Personal information types: personal commonly used device information, network identification information
+Application scenario: User risk control and anti fraud to ensure account and transaction security
+Third party organization name: Beijing Shumei Times Technology Co., Ltd https://www.ishumei.com
+Third party related privacy policies: https://www.ishumei.com/legal/cn/privacy.html
+(3) Third party SDK: Baidu Maps
+Personal information types: personal commonly used device information, personal location information
+Personal information fields: device information, location information
+Application scenario: Provide map and location related services
+Third party organization name: Beijing Baidu Netcom Technology Co., Ltd http://lbsyun.baidu.com
+Third party related privacy policies: https://lbsyun.baidu.com/index.php?title=FAQ/tags   https://map.baidu.com/zt/client/privacy/index.html
+(4) Third party SDK: Gaode Open Platform Map SDK (bundled)
+Purpose of use: To provide services such as map display, positioning, and search
+Usage scenario: Business scenarios that utilize maps and location services
+Personal information fields: latitude and longitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure, direction, geomagnetic), device signal strength information), device identification information (IDFA, OAID), when
+Pre application information (application name, application version number), device parameters and system information (device brand and model, operating system, operator information, screen resolution)
+Third party organization name: Gaode Software Co., Ltd https://lbs.amap.com
+Third party related privacy policies: https://lbs.amap.com/pages/privacy/
+(5) Third party SDK: Alipay payment
+Application scenario: E-commerce payment
+Third party organization name: Ant Financial (Hangzhou) Network Technology Co., Ltd https://open.alipay.com/
+Third party related privacy policies: https://render.alipay.com/p/c/k2cx0tg8
+(6) Third party SDK: JD Pay
+Personal information fields: device type, device name, system version, network type, network operator
+Third party organization name: JD Digital Technology Holdings Co., Ltd https://www.jdpay.com/home/page
+Third party related privacy policies: https://about.jd.com/privacy/
+(7) Third party SDK: WeChat Pay
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://open.weixin.qq.com
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?stype=&promote=&fr= <=zh_cn&adtag=&check=fall&nav=faq&t=weixin'agreement
+(8) Third party SDK: WeChat login
+Application scenario: WeChat login
+(9) Third party SDK: Weibo login
+Purpose of use: Login&Share
+Usage scenario: Login through Weibo account or share on Weibo
+Personal information fields: device information, android_id
+Application scenario: Weibo login
+Third party organization name: Beijing Weimeng Chuangke Network Technology Co., Ltd http://open.weibo.com/authentication
+Third party related privacy policies: https://www.weibo.com/signup/v5/privacy
+(10) Third party SDK: QQ login
+Application scenario: QQ login
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd http://wiki.connect.qq.com/
+(11) Third party SDK: Quick Check
+Purpose of use: One click login to the app
+Usage scenario: When logging into the Mafengwo App with just one click
+Personal information fields: device information, application list information, geographic location information
+Application scenario: Used to implement the function of one click login number authentication for apps
+Third party organization name: Shanghai Youkun Information Technology Co., Ltd https://www.mob.com/
+Third party related privacy policies: https://www.mob.com/wiki/detailed?wiki=639&id=78
+(12) Third party SDK: Push notifications
+Purpose of use: Push messages
+Usage scenarios: When updating message reminders, when recommending messages
+Personal information fields: device model, GAID, android_id, WiFi information, application list, MAC address, network information (ssid, bssid), and location related information
+Application scenario: Used to generate unique push target IDs (CIDs) and device IDs (GIDs) to ensure accurate message delivery and accurate identification of message devices. Provide push technology services
+Third party organization name: Zhejiang Daily Interactive Network Technology Co., Ltd https://www.getui.com/cn/
+Third party related privacy policies: http://docs.getui.com/privacy
+(13) Third party SDK: Huawei Push
+Application scenario: Provide PUSH push service
+Third party organization name: Huawei Developer Alliance https://developer.huawei.com/consumer/cn/hms/huawei-pushkit
+Third party related privacy policies: https://www.huawei.com/cn/privacy-policy
+(14) Third party SDK: OPPO push
+Third party organization name: OPPO Guangdong Mobile Communication Co., Ltd https://push.oppo.com/
+Third party related privacy policies: https://www.oppo.com/cn/service/help/640?id=640&name=%E6%9C%8D%E5%8A%A1%E6%94%BF%E7%AD%96&hdscreen=1
+(15) Third party SDK: VIVO push
+Third party organization name: Guangdong BBK Electronics Industry Co., Ltd https://dev.vivo.com.cn
+Third party related privacy policies: https://www.vivo.com/about-vivo/privacy-policy
+(16) Third party SDK: Xiaomi Push
+Third party organization name: Xiaomi Technology Co., Ltd https://dev.mi.com/console/appservice/push.html
+Third party related privacy policies: https://dev.mi.c
+om/console/doc/detail?pId=1822
+(17) Third party SDK: Honor Push
+Third party organization name: Honor Terminal Co., Ltd https://developer.hihonor.com/cn/tg/page/tg2022092817400001?navation=dh41628589245436395522%2F1
+Third party related privacy policies: https://www.hihonor.com/cn/privacy/privacy-policy/
+(18) Third party SDK: Tencent Lite AV Tencent Live
+Personal information fields: device information, microphone usage permissions, camera usage permissions
+Application scenario: Providing live streaming services
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://cloud.tencent.com/document/product/454/7886
+Third party related privacy policies: https://cloud.tencent.com/document/product/301/11470
+(19) Third party SDK: Tencent RTMP
+Application scenario: Provide live streaming and push streaming services
+(20) Third party SDK: Tencent Bugly
+Purpose of use: To troubleshoot crash issues and help the app improve stability
+Usage scenario: When the app crashes abnormally
+Personal information field: used to investigate device information related to crashes (including phone model, phone brand, Android system version, Android API level, manufacturer system version, CPU architecture type, whether the device is root, disk space occupation size, sdcard space occupation size, internal storage space occupation size, network type), ICCID, list of currently running processes on the device
+Application scenario: Used for statistical analysis of program crash information
+Third party organization name: Tencent Technology (Shenzhen) Co., Ltd https://bugly.qq.com/v2/index
+Third party related privacy policies: https://bugly.qq.com/docs/user-guide/faq-android/?v=20200622202242#9 -bugly
+(21) Third party SDK: Tencent IM
+Personal information fields: network information, WiFi information
+Application scenario: Used for small community group chats and live chat rooms
+Third party related privacy policies: https://cloud.tencent.com/document/product/548/50955
+(22) Third party SDK: Google Maps
+Application scenario: Provide map related services
+Third party organization name: Google https://cloud.google.com/maps-platform/?hl=zh -cn
+Third party related privacy policies: https://policies.google.com/privacy?hl=zh -CN
+(23) Third party SDK: Second hand system
+Application scenario: Third party advertising measurement
+Third party organization name: Second hand system
+Third party related privacy policies: https://www.miaozhen.com/cn/privacy
+Is the data being transmitted de identified? Yes
+(24) Third party SDK: China Mobile Authentication
+Purpose of use: Identify the user's mobile phone number for quick login and number verification
+Usage scenario: Mobile phone number user selects one click login to Mafengwo App
+Personal information types: network type, network address, operator type, local phone number, mobile device type, mobile operating system, hardware manufacturer
+Personal information fields: SIM card, IMSI information
+Name of the third party organization: China Mobile Internet Co., Ltd
+Third party related privacy policies: https://wap.cmpassport.com/resources/html/contract.html
+(25) Third party SDK: Certified by China Unicom
+Usage scenario: Users with China Unicom mobile phone numbers can choose to log in to the Mafengwo App with just one click
+Personal information types: network type, network address, operator type, local phone number, mobile device type, mobile operating system, hardware manufacturer
+Third party organization name: China United Network Communications Co., Ltd
+Third party related privacy policies: https://opencloud.wostore.cn/authz/resource/html/disclaimer.html?fromsdk=true
+(26) Third party SDK: China Telecom Certification
+Usage scenario: Telecom phone number user selects one click login to Mafengwo App
+Personal information types: network IP address, network type, registered mobile phone number, local phone number, international mobile user identification code, application process information, network connection type, network status information, network address, operator type, mobile device type, mobile device manufacturer, mobile operating system type and version
+Third party organization name: Century Dragon Information Network Co., Ltd
+Third party related privacy policies: https://e.189.cn/sdk/agreement/detail.do?hidetop=true&appKey=
+(27) Third party SDK: Tencent Hot Patch (Tinker SDK)
+Purpose of use: Tinker is WeChat's official Android hot patch solution, which enables bug free, so library, and resource fixing of apps in emergency situations.
+Usage scenario: There is an urgent bug online that needs to be fixed without releasing a version update
+Fu Shi
+Personal information types: device information (IDFA, operating system, device model, device manufacturer, system version, android_id, MAC address, etc.), the name and PID of the currently running process of the application
+Personal information field: List of currently running processes on the device
+Third party organization name: Shenzhen Tencent Computer System Co., Ltd
+Third party related privacy policies: https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/huoarEhtzhI0UMTT
+(28) Third party SDK: Facebook React Native
+Purpose of use: To improve the efficiency of app development
+Usage scenario: Business scenarios using the Facebook React Native framework
+Third party organization name: Facebook Inc
+(29) Third party SDK: UnionPay mobile payment control
+Purpose of use: To meet the scenario of users using cloud flash payment within the application
+Usage scenario: When users use Cloud QuickPass payment within the app
+Third party institution name: China UnionPay Co., Ltd https://cn.unionpay.com/upowhtml/cn/templates/index/index.html
+Third party related privacy policies: https://base.95516.com/s/wl//WebAPP/helpAgree/page/agreement/regPrivacy.html
+(30) Third party SDK: Embedded browser
+Purpose of use: Open source development tool, browsing web pages
+Usage scenario: When using Chromium as a built-in browser to access web pages within the app
+Personal information type: current device network information, network status information
+Personal information fields: SSID, WiFi information
+Environment: Accessing and browsing webview pages within the app
+Third party organization name: Google Inc
+Third party related privacy policies: https://chromium.googlesource.com/chromium/src/
+Is the data being transmitted in a labeled manner? Yes
+(33) Third party SDK: Gaode Open Platform Positioning SDK
+Purpose of use: To provide location services
+Usage scenario: Business scenarios using location services
+Personal information fields: latitude and longitude, device information (such as IP address, GNSS information, network type, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, sensor information (vector, acceleration, pressure), device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (device brand and model, operating system, operator information, screen resolution)
+Environment: When triggering the necessary use of location information function
+(31) Third party SDK: Gaode Open Platform Positioning SDK
+(32) Third party SDK: Tencent Object Storage COS V5 Android SDK
+Usage scenario: Provide video content upload and publishing related services
+Personal Information Type: Personal Network Permissions
+Personal information fields: network status, IP address, system properties, multimedia files, android_id
+Third party organization name: Tencent Cloud Computing (Beijing) Co., Ltd
+Third party related privacy policies: https://privacy.qq.com/document/preview/e822b3b07d36440db40abf7afa48574e
+(33) Third party SDK: Huawei Wallet
+Usage scenario: Implement the electronicization of various vouchers such as cards, certificates, coupons, tickets, keys, etc., and collect and display them on the Huawei Wallet APP
+Personal Information Type: Voucher Information
+Third party organization name: Huawei Software Technology Co., Ltd
+Third party related privacy policies:
+(34) Third party SDK: Huawei Machine Learning
+Usage scenario: Provide machine learning services for images/videos, voice/audio, and text, and improve the service by analyzing the call situation
+Personal information types: data you actively upload, device information (device model, operating system version number), network information (network type), application information, interface information
+(35) Third party SDK: Litesuits
+Usage scenario: Used for local database storage
+Personal Information Type: Read/Write SD Card and Local Database
+Third party organization name: GitHub Inc
+(36) Third party SDK: Alibaba Cloud UTDID
+Usage scenario: Udid is a basic library that generates unique device IDs for devices
+Personal information types: device information, unique device identification code
+Personal information fields: IMEI IMSI、android_id、bssid
+Name of third party organization: Alipay (Hangzhou) Information Technology Co., Ltd
+(37) Third party SDK: Huawei Unified Scan Code
+Usage scenario: Code recognition and code generation
+Personal Information Types: Text Information, Images, Sensor Information (Acceleration Sensor, Light Sensor), Network Information, In App Device Identifier, Application Basic Information, Device Hardware Information, Operator Information (Operator Name), System Information (System Settings, System Properties, Device Model, Operating System), Wi Fi Information (Wi Fi Status), Information About Your Use of This Application
+(38) Third party SDK: Huawei Analytics
+Usage scenario: Provide data collection, data management, and data analysis services for developer applications
+Personal information types: application information, device information, account information
+Information, network information, and application usage information
+(39) Third party SDK: LianLian Payment
+Usage scenario: When users use LianLian Pay within the app
+Personal information types: device information, location information, network IP address, device MAC address, browser version information
+Third party institution name: Lianlian International Payment Co., Ltd
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual unless the following situations occur:
+(1) Obtaining your explicit consent in advance;
+(2) According to applicable laws and regulations, industry rules, legal procedural requirements, litigation/arbitration, government mandatory orders, and regulatory requirements that must be provided;
+(3) To protect national security, public safety, and the significant legitimate rights and interests of you and other individuals, it is necessary to transfer your personal information;
+(4) You publicly disclose your personal information on your own or we can obtain it from other legitimate public channels.
+If a merger, acquisition, or bankruptcy liquidation occurs, it may involve the transfer of personal information, in which case we will require the new company or organization holding your personal information to continue to be bound by this policy. If there is any change in the collection and processing of personal information as stipulated in this policy, the company or organization will seek your authorization and consent again.
+（3） Public disclosure
+We will not publicly disclose your personal information unless we obtain your explicit consent. We may disclose your personal information to authorized authorities or the public in order to protect national security, public safety, and the significant legitimate rights and interests of you and other individuals, based on laws, legal procedures, litigation, or mandatory requirements of government regulatory authorities. But we guarantee that in the event of the above situation, we will require the disclosing party to provide corresponding valid legal documents and take security measures that comply with laws and industry standards for the disclosed information.
+Your posting of travel information or comments such as travelogues, photos, buzzes, etc. (hereinafter referred to as "travel information and comments") may disclose your personal sensitive information, and travel information and comments are public to any third party accessing the Mafengwo website or app. Please note that all of this publicly available information may be read by the public. Please consider carefully before deciding to disclose travel information and comments that contain your personal information.
+4、 How do we store and protect your personal information
+（1） Storage of your personal information
+1. Your personal information will be stored entirely within the territory of the People's Republic of China, including servers of Mafengwo and its affiliated companies, or servers of Mafengwo's authorized institutions. We will take reasonable and feasible measures to avoid collecting irrelevant personal information as much as possible. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law. For example, the Electronic Commerce Law of the People's Republic of China requires that information on goods and services, as well as transaction information, be kept for no less than three years from the date of completion of the transaction. And our criteria for determining the aforementioned deadline include:
+Complete transaction purposes related to you, maintain relevant transaction and business records, and respond to possible inquiries or complaints;
+Ensure the safety and quality of the services we provide to you;
+Do you agree to a longer retention period;
+Are there any other special agreements regarding retention periods.
+Please note that after your personal information exceeds the retention period, we will delete your personal information or anonymize it in accordance with applicable laws; In addition, after canceling the account, we will cease to provide you with products and services, and according to your request, delete your personal information or anonymize it, except as otherwise provided by laws and regulations.
+2. The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within China, and some scenarios require the transfer of your personal information overseas
+The applicable laws have clear provisions;
+Obtain your explicit authorization;
+You conduct cross-border transactions and other personal initiatives through the Internet.
+In response to the above situation, we will ensure that your personal information is adequately protected in accordance with this privacy policy.
+If you use cross-border transaction services and need to transfer your personal information overseas to complete the transaction, we will separately obtain your authorization and consent, and require the recipient to process this personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+（2） Our technology and measures to protect your personal information
+We attach great importance to personal information security and take all reasonable and feasible measures to protect your personal information:
+1. Data security technical measures
+We will adopt security measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, public disclosure, use, and modification of your personal information, and to avoid data damage or loss.
+Mafengwo's network services adopt encryption technologies such as transport layer security protocols, and provide browsing services through HTTPS and other methods to ensure the security of user data during transmission.
+Mafengwo adopts encryption technology to encrypt and store users' personal information, and isolates it through isolation technology.
+When using personal information, such as displaying personal information and calculating personal information associations, we will use various data anonymization techniques including content replacement, SHA256, and FPE to enhance the security of personal information during use.
+Mafengwo adopts strict data access control, multi factor authentication technology, and data leakage prevention technology to protect personal information and prevent unauthorized use of data.
+Mafengwo adopts code security automatic inspection, data access log analysis, system access permission audit, and data access traffic audit technologies for personal information security audit.
+2. Other security measures taken by Mafengwo to protect personal information
+Mafengwo manages and regulates the storage and use of personal information by establishing a data classification and grading system, data security management standards, general principles for personal information protection and compliance, user information security display standards, security development standards, and code release standards.
+Mafengwo provides comprehensive security control over data through information contact confidentiality agreements, monitoring, and auditing mechanisms.
+Mafengwo establishes an Information Security Department and sets up a dedicated Information Security Protection Department and a Data Security Emergency Response Department
+Heart to heart promotion and protection of personal information security.
+Security certification and services. We have passed the third level security protection certification of the Ministry of Public Security, and also obtained PCIDSS&UPDSS certification.
+Strengthen safety awareness. We will also regularly report information security awareness and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+3. We only allow employees and partners of Mafengwo and its affiliates who need to know this information to access personal information, and have established strict access control and monitoring mechanisms for this purpose. We also require all personnel who may have access to your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or cooperation with Mafengwo may be suspended.
+4. We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
+5. Mafengwo's website or app, products, or services may contain links to other websites or apps. We remind you that Mafengwo cannot make commitments or guarantees regarding privacy protection measures for other websites or apps. However, the pages of our website or app have prominent "hornet's nest" markers, which you can use to determine whether you have been redirected to external links.
+6. The Internet is not an absolutely secure environment, and the way of communication with other users such as email, instant messaging, social software, etc. cannot be determined whether it is fully encrypted. We recommend that you use complex passwords when using such tools, and pay attention to protecting your personal information security.
+7. The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+8. After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will also promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+5、 How do you manage your personal information
+Mafengwo attaches great importance to your attention to personal information and makes every effort to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security. Your rights include:
+1. Accessing and correcting your personal information
+You have the right to access and correct your personal information, except for exceptions provided by laws and regulations. If you want to exercise your data access rights, you can access them yourself through the following methods:
+(1) Your account information: On the PC side, you can view all the personal information you have submitted to Mafengwo in the "Settings" menu on the "My Mafengwo" page. The specific path for mobile devices is: account name, personal information, permanent residence, and common information settings: homepage - "My" - "Settings" in the upper right corner; Account password, phone number, email, third-party account binding: Home - "My" Enter My Mafengwo - "Settings button" in the upper right corner - Account binding and settings; Hobbies: Home - "My" Enter My Beehive - My Favorites.
+(2) Your order information: On the PC side, you can view all your completed, pending payment, or after-sales orders by accessing the "My Orders" page. The specific path for the mobile end is: Mobile homepage - "My" - My Orders. You can choose to delete completed orders to delete your order information, but this may cause us to be unable to accurately determine your purchase information and provide corresponding after-sales service.
+(3) Your browsing information: You can access or clear your search history, view and modify interests, and manage other data. On the PC end, please view the browser history by accessing it. The mobile path is: Home - "My" Enter My Wasp Nest - My History; Interests and other data: Home - "My" - My Favorites.
+(4) Your comment information: You can access your personal comment, and on the PC end, you can access your personal comment. The path is: Avatar dropdown menu in the upper right corner - My Orders - View Review; The mobile path is: Home - My - My Orders - View Reviews.
+(5) Your invoice information: filled in when applying for an invoice on the order page, currently not stored in the system.
+(6) If you need to access or correct any other personal information generated during your use of our products and services, please feel free to contact us at any time. We will respond to your request in the manner and within the timeframe specified in this privacy policy.
+(7) Personal information that you are unable to access and correct: In addition to the information listed above, we are unable to provide you with access and correction services for some of your personal information. This information is mainly collected to enhance your user experience and ensure transaction security, including your device information and personal information generated when you use additional features. The above information will be used within your authorized scope, and you cannot access or correct it. However, you can contact us for deletion or anonymization.
+2. Delete your personal information
+The information that you can directly clear or delete on our product and service pages, including order information, browsing information, and shipping address information;
+In the following situations, you can request us to delete your personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your consent;
+(3) If we deal with individuals
+The behavior of the information violates the agreement with you;
+(4) If you no longer use our products and services, or if you cancel your account;
+(5) If we no longer provide our products and services to you.
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner, unless otherwise provided by laws and regulations, or if these entities have obtained your independent authorization. When you delete information from our service, due to applicable legal requirements or security technology reasons, we may not be able to immediately delete the corresponding information from the backup system, but we will delete this information or achieve anonymity when the backup is updated.
+3. Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, turning off device features, changing the settings in the Mafengwo app - Me - Privacy settings. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+4. Cancel account
+You can directly apply to cancel your account in our product. You can operate it yourself by going to the PC end, going to the homepage - Settings - Account Security, and clicking "Cancel Account"; You can also log in to the mobile app, go to My Settings FAQ and Feedback, and click on "Cancel Account". After you cancel your account, we will stop providing you with products and services, and according to your request, unless otherwise stipulated by laws and regulations, we will delete your personal information.
+5. Regarding Personalized Services
+We provide personalized services. If you have any questions about this, you can turn off the personalized recommendation option in the Mafengwo APP - My - Settings - Privacy Settings or contact us through the contact information disclosed in this policy.
+6. Responding to your request
+To ensure safety, we may require you to provide a written request or other proof of your identity. We will respond to your request within 30 days after receiving your feedback and verifying your identity. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(6) Involving trade secrets.
+7. If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+(1) You can reply with "TD" at any time to cancel the mobile promotion message we sent you.
+(2) You can set whether to accept the products and promotional information recommended to you through "notifications" through the mobile app "Account Settings - Settings - Push Message Settings - Notifications"
+(3) In order to protect your privacy, we will not push any promotions or product information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+6、 How do we protect the personal information of minors
+1. Mafengwo attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain written consent from your parents or legal guardian before using our products and services. Mafengwo protects the personal information of minors in accordance with relevant national laws and regulations.
+2. For the collection of personal information of minors with the consent of parents or legal guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect minors.
+3. If we find that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible.
+4. If you are a child under the age of 14, we will not only protect the information of minors in accordance with this policy, but also protect the personal information of children under the age of 14 in accordance with relevant regulations such as the "Regulations on the Protection of Children's Personal Information Network".
+7、 How to update this policy
+1. Our privacy policy may change. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. When this policy changes, we will display the updated policy to you in advance through announcements, pop ups, or other appropriate means on the Mafengwo website or app, or Mafengwo mobile devices. Without your consent, we will not restrict the relevant rights that you should enjoy according to the policy.
+2. For significant changes, we will also provide more prominent notifications (including but not limited to emails, text messages, or special prompts on browsing pages to explain the specific changes to the privacy policy).
+The significant changes referred to in this policy include but are not limited to:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Ru Ye
+Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+3. Please note that we will only collect, use, process, and store your personal information in accordance with the updated policy after obtaining your consent. You can choose not to agree, and we offer you the ability to browse as a 'visitor', but this may prevent you from fully using Mafengwo's products and services.
+4. We will also archive the old version of this policy. You can contact us through the contact information provided in this policy to view the old version of the privacy policy.
+8、 How to contact us
+1. If you have any questions, opinions, or suggestions regarding this privacy policy, please contact us through the following methods:
+Phone: 010-87412588
+2. We have a dedicated department for personal information protection, with personal information protection officers and minors' information protection officers. You can contact them through the following methods:
+Phone: 010-87412588
+Email: mfwjubao@mafengwo.com
+3. Normally, we will reply within fifteen days. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also file a complaint or report to regulatory authorities such as cyberspace, public security, and market supervision.
+Note: This policy will officially come into effect on August 8, 2024.
+Click to download
+3. Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, turning off device features, changing the settings in the Mafengwo app - Me - Privacy settings. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+4. Cancel account
+You can directly apply to cancel your account in our product. You can operate it yourself by going to the PC end, going to the homepage - Settings - Account Security, and clicking "Cancel Account"; You can also log in to the mobile app, go to My Settings FAQ and Feedback, and click on "Cancel Account". After you cancel your account, we will stop providing you with products and services, and according to your request, unless otherwise stipulated by laws and regulations, we will delete your personal information.
+5. Regarding Personalized Services
+We provide personalized services. If you have any questions about this, you can turn off the personalized recommendation option in the Mafengwo APP - My - Settings - Privacy Settings or contact us through the contact information disclosed in this policy.
+6. Responding to your request
+To ensure safety, we may require you to provide a written request or other proof of your identity. We will respond to your request within 30 days after receiving your feedback and verifying your identity. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(6) Involving trade secrets.
+7. If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+(1) You can reply with "TD" at any time to cancel the mobile promotion message we sent you.
+(2) You can set whether to accept the products and promotional information recommended to you through "notifications" through the mobile app "Account Settings - Settings - Push Message Settings - Notifications"
+(3) In order to protect your privacy, we will not push any promotions or product information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+6、 How do we protect the personal information of minors
+1. Mafengwo attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain written consent from your parents or legal guardian before using our products and services. Mafengwo protects the personal information of minors in accordance with relevant national laws and regulations.
+2. For the collection of personal information of minors with the consent of parents or legal guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect minors.
+3. If we find that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible.
+4. If you are a child under the age of 14, we will protect the information of minors in accordance with this policy
+At the same time, personal information of children under the age of 14 will also be protected in accordance with relevant regulations such as the "Regulations on the Protection of Children's Personal Information Network".
+7、 How to update this policy
+1. Our privacy policy may change. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. When this policy changes, we will display the updated policy to you in advance through announcements, pop ups, or other appropriate means on the Mafengwo website or app, or Mafengwo mobile devices. Without your consent, we will not restrict the relevant rights that you should enjoy according to the policy.
+2. For significant changes, we will also provide more prominent notifications (including but not limited to emails, text messages, or special prompts on browsing pages to explain the specific changes to the privacy policy).
+The significant changes referred to in this policy include but are not limited to:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+3. Please note that we will only collect, use, process, and store your personal information in accordance with the updated policy after obtaining your consent. You can choose not to agree, and we offer you the ability to browse as a 'visitor', but this may prevent you from fully using Mafengwo's products and services.
+4. We will also archive the old version of this policy. You can contact us through the contact information provided in this policy to view the old version of the privacy policy.
+8、 How to contact us
+1. If you have any questions, opinions, or suggestions regarding this privacy policy, please contact us through the following methods:
+Phone: 010-87412588
+2. We have a dedicated department for personal information protection, with personal information protection officers and minors' information protection officers. You can contact them through the following methods:
+Phone: 010-87412588
+Email: mfwjubao@mafengwo.com
+3. Normally, we will reply within fifteen days. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also file a complaint or report to regulatory authorities such as cyberspace, public security, and market supervision.
+Note: This policy will officially come into effect on August 8, 2024.
+Click to download
+3. Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, turning off device features, changing the settings in the Mafengwo app - Me - Privacy settings. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+4. Cancel account
+You can directly apply to cancel your account in our product. You can operate it yourself by going to the PC end, going to the homepage - Settings - Account Security, and clicking "Cancel Account"; You can also log in to the mobile app, go to My Settings FAQ and Feedback, and click on "Cancel Account". After you cancel your account, we will stop providing you with products and services, and according to your request, unless otherwise stipulated by laws and regulations, we will delete your personal information.
+5. Regarding Personalized Services
+We provide personalized services. If you have any questions about this, you can turn off the personalized recommendation option in the Mafengwo APP - My - Settings - Privacy Settings or contact us through the contact information disclosed in this policy.
+6. Responding to your request
+To ensure safety, we may require you to provide a written request or other proof of your identity. We will respond to your request within 30 days after receiving your feedback and verifying your identity. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(6) Involving trade secrets.
+7. If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+(1) You can reply with "TD" at any time to cancel the mobile promotion message we sent you.
+(2) You can set whether to accept the products and promotions recommended to you through "notifications" through the mobile app "Account Settings - Settings - Push Message Settings - Notifications"
+information
+(3) In order to protect your privacy, we will not push any promotions or product information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+6、 How do we protect the personal information of minors
+1. Mafengwo attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain written consent from your parents or legal guardian before using our products and services. Mafengwo protects the personal information of minors in accordance with relevant national laws and regulations.
+2. For the collection of personal information of minors with the consent of parents or legal guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect minors.
+3. If we find that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible.
+4. If you are a child under the age of 14, we will not only protect the information of minors in accordance with this policy, but also protect the personal information of children under the age of 14 in accordance with relevant regulations such as the "Regulations on the Protection of Children's Personal Information Network".
+7、 How to update this policy
+1. Our privacy policy may change. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. When this policy changes, we will display the updated policy to you in advance through announcements, pop ups, or other appropriate means on the Mafengwo website or app, or Mafengwo mobile devices. Without your consent, we will not restrict the relevant rights that you should enjoy according to the policy.
+2. For significant changes, we will also provide more prominent notifications (including but not limited to emails, text messages, or special prompts on browsing pages to explain the specific changes to the privacy policy).
+The significant changes referred to in this policy include but are not limited to:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+3. Please note that we will only collect, use, process, and store your personal information in accordance with the updated policy after obtaining your consent. You can choose not to agree, and we offer you the ability to browse as a 'visitor', but this may prevent you from fully using Mafengwo's products and services.
+4. We will also archive the old version of this policy. You can contact us through the contact information provided in this policy to view the old version of the privacy policy.
+8、 How to contact us
+1. If you have any questions, opinions, or suggestions regarding this privacy policy, please contact us through the following methods:
+Phone: 010-87412588
+2. We have a dedicated department for personal information protection, with personal information protection officers and minors' information protection officers. You can contact them through the following methods:
+Phone: 010-87412588
+Email: mfwjubao@mafengwo.com
+3. Normally, we will reply within fifteen days. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also file a complaint or report to regulatory authorities such as cyberspace, public security, and market supervision.
+Note: This policy will officially come into effect on August 8, 2024.
+Click to download
+Mafengwo Tourism Network
+More travel websites are emerging among the younger generation in China
+The 'travel artifact' jointly created by billions of travelers
+Over 60000 global tourist destinations
+600000 new segmented destinations gameplay
+760000000 strategy downloads
+38000 tourism product suppliers
+About Us
+About Mafengwo Contact Us
+Privacy Policy Trademark Statement
+Service Agreement
+Mall Platform Service Agreement
+Guidelines for Notice of Network Information Infringement
+Mafengwo Tourism Network Service Supervisor
+Add website map to Mafengwo
+Travel Services
+Travel Guide
+hotel reservation 
+Travel specials
+Travel Q&A
+tourist guide
+Travel information
+APP Download
+Global merchants have settled in the travel mall
+Mafengwo Liangpin Official Service Number
+Mafengwo Travel Subscription Account
+Scan the Mafengwo APP and download it now
+Before traveling, get on the beehive!
+©  2024 Mafengwo.cn
+Beijing ICP No. 11015476
+Beijing Public Security Registration No. 11010502013401
+Beijing ICP Certificate No. 110318
+Value added Telecommunications Business License
+Business license
+Radio and Television Program Production and Operation License
+Online Harmful Information Reporting Zone
+Help Center
+Illegal and harmful information reporting and complaint hotline: 010-83024977 Reporting and complaint email: mfwjubao@mafengwo.com Special reporting email for inappropriate information involving minors: wcnrjubao@mafengwo.com Algorithm recommendation violation information dedicated reporting email: sftjjubao@mafengwo.com National tourism complaint hotline: 12345
+Mafengwo Customer Service: Domestic 4006-345-678
+Overseas+86-10-8302-4987
+Mafengwo Tourism Butler provides free destination tourism consultation services for you
+Basic Travel Information
+set out
+land
+destination
+Travel date
+Return date 
+adult
+position
+children
+position
+remarks
+contact information 
+contacts
+contact number
+Image verification code
+Customize for me now
+Return to top
+Feedback on opinions
+Mafengwo Tourism Network
+More travel websites are emerging among the younger generation in China
+The 'travel artifact' jointly created by billions of travelers
+Over 60000 global tourist destinations
+600000 new segmented destinations gameplay
+760000000 strategy downloads
+38000 tourism product suppliers
+About Us
+About Mafengwo Contact Us
+Privacy Policy Trademark Statement
+Service Agreement
+Mall Platform Service Agreement
+Guidelines for Notice of Network Information Infringement
+Mafengwo Tourism Network Service Supervisor
+Add website map to Mafengwo
+Travel Services
+Travel Guide
+hotel reservation 
+Travel specials
+Travel Q&A
+tourist guide
+Travel information
+APP Download
+Global merchants have settled in the travel mall
+Mafengwo Liangpin Official Service Number
+Mafengwo Travel Subscription Account
+Scan the Mafengwo APP and download it now
+Before traveling, get on the beehive!
+©  2024 Mafengwo.cn
+Beijing ICP No. 11015476
+Beijing Public Security Registration No. 11010502013401
+Beijing ICP Certificate No. 110318
+Value added Telecommunications Business License
+Business license
+Radio and Television Program Production and Operation License
+Online Harmful Information Reporting Zone
+Help Center
+Illegal and harmful information reporting and complaint hotline: 010-83024977 Reporting and complaint email: mfwjubao@mafengwo.com Special reporting email for inappropriate information involving minors: wcnrjubao@mafengwo.com Algorithm recommendation violation information dedicated reporting email: sftjjubao@mafengwo.com National tourism complaint hotline: 12345
+Mafengwo Customer Service: Domestic 4006-345-678
+Overseas+86-10-8302-4987
+Mafengwo Tourism Butler provides free destination tourism consultation services for you
+Basic Travel Information
+place of departure
+destination
+Travel date
+Return date 
+adult
+position
+children
+position
+remarks
+contact information 
+contacts
+contact number
+Image verification code
+Customize for me now
+Return to top
+Feedback on opinions
+Mafengwo Tourism Network
+Travel artifact
+60,000
+600,000
+760,000,000
+38,000
+About Us
+Travel Services
+Travel Guide
+hotel reservation 
+Travel specials
+Travel Q&A
+tourist guide
+Travel information
+APP Download
+Global merchants have settled in the travel mall
+Mafengwo Liangpin Official Service Number
+Mafengwo Travel Subscription Account
+Scan the Mafengwo APP and download it now
+©  2024 Mafengwo.cn
+Beijing ICP No. 11015476
+Beijing Public Security Registration No. 11010502013401
+Beijing ICP Certificate No. 110318
+Value added Telecommunications Business License
+Business license
+Radio and Television Program Production and Operation License
+Online Harmful Information Reporting Zone
+Help Center
+Illegal and harmful information reporting and complaint hotline: 010-83024977 Reporting and complaint email: mfwjubao@mafengwo.com Special reporting email for inappropriate information involving minors: wcnrjubao@mafengwo.com Algorithm recommendation violation information dedicated reporting email: sftjjubao@mafengwo.com National tourism complaint hotline: 12345
+Mafengwo Customer Service: Domestic 4006-345-678
+Overseas+86-10-8302-4987
+Mafengwo Tourism Butler provides free destination tourism consultation services for you
+Basic Travel Information
+place of departure
+destination
+Travel date
+Return date 
+adult
+position
+children
+position
+remarks
+contact information 
+contacts
+contact number
+Image verification code
+Customize for me now
+Return to top
+Feedback on opinions

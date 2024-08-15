@@ -1,0 +1,491 @@
+Introduction to Alipay
+Register on Alipay website
+Register on Taobao website
+
+Account assets
+Recharge
+Withdrawal
+Red envelope
+Jifenbao
+
+Account Settings
+authentication
+Account password
+Account Information Management
+Account information modification
+mobile phone
+Receiving address
+Message Center
+Cancel account
+Account Pass
+
+transfer accounts
+Transfer to Alipay account
+Transfer to bank card
+Find someone to pay on your behalf
+I want to receive payment
+AA Collection
+Chat box transfer and receipt
+
+payment method
+Introduction to Quick Payment
+Yu'ebao
+Huabei
+Balance of Alipay account
+Online Banking Service
+Credit Cards Accepted
+Charge card
+Cash on Delivery
+Alipay card
+Fingerprint payment
+Watch payment
+Common Payment Issues
+
+Transaction records
+Transaction records
+Recharge Record
+Withdrawal record
+Electronic statement
+Bookkeeping
+
+Trading Rules
+Transaction process
+Trading Rules
+Transaction payment
+Transaction refund
+Trading issues
+
+Member Protection
+Account funds
+Shopping transactions
+pay
+Transfer service guarantee
+Speed compensation
+Account security insurance
+
+Security Center
+Security Control
+digital certificate 
+Payment Shield
+Security protection issues
+security policy 
+Green Umbrella APP (Mobile Treasure)
+Electronic work badge
+
+Wireless Alipay
+Alipay APP
+Pad client
+Alipay APP (WP8 version)
+
+international business 
+Exclusive for mainland users
+For non mainland users only
+
+Application Center
+Financial Management and Insurance
+repayment
+pay
+Campus One Card
+Buy a car ticket
+Buy train tickets
+Red envelope
+Other services
+
+Business Development
+China Development Bank student loans
+Universal withholding
+Quick Payment Service
+
+Activity Zone
+Payment discount activities
+Alipay offline activities
+Other activities
+
+Standard compliance
+
+Insurance claims
+
+Other issues
+other
+contact us
+Introduction to Ant Cloud Customer Service
+Notice
+
+Protocol Zone
+Announcement on Change of Alipay Privacy Policy
+In order to better protect your personal information when you use our services, we have updated the Alipay Privacy Policy according to the relevant provisions of the Personal Information Protection Law and Alipay services. The main updated contents of this version include:
+1. Further clarify the circumstances and purposes of our processing of your personal information in accordance with legal and regulatory requirements.
+2. The use and sharing of information and access to Alipay APP were supplemented.
+3. Provide detailed disclosure of our personal information protection agency and contact information, as well as the methods and procedures for exercising your personal information rights.
+4. Other adjustments made in accordance with legal and regulatory requirements and business development.
+This update will take effect 30 days after the expiration of this announcement. Thank you for your attention and support to our services.
+Alipay (China) Network Technology Co., Ltd
+October 31, 2021
+Attachment: Alipay privacy policy text
+Release date of this version: 2021
+Year 10
+On the 31st of the month
+day
+Effective Date: 2021
+Year 11
+Month 30
+day
+summary
+We understand the importance of personal information to you and appreciate your trust in us. Through this policy, we will explain to you how Alipay will collect, store, protect, use and provide your information externally, and explain your rights. The key points are as follows:
+one
+In order to facilitate your understanding of the types and purposes of information we need to process when using our services, we will explain them to you one by one in conjunction with specific services.
+two
+In order to provide you with the necessary services, we will process your information in accordance with the principles of legality, legitimacy, necessity, and integrity.
+three
+If it is necessary to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the information collected by the third party. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations, and regulatory requirements. In addition, we will obtain your consent or confirm that a third party has obtained your consent in accordance with the requirements of laws, regulations, and national standards through confirmation agreements, text confirmations in specific scenarios, pop-up prompts, and other forms.
+four
+If it is necessary to obtain your information from a third party in order to provide services to you, we will require the third party to explain the source of the information and demand that the third party ensure the legality of the information provided; If the personal information processing activities required for our business exceed the scope of your authorization to provide personal information to third parties, we will obtain your explicit consent.
+five
+You can visit through the introduction of this policy
+Ask and manage your information, set privacy functions, log off your Alipay account or report complaints.
+You can read the corresponding chapters according to the following index to further understand the specific provisions of this policy:
+1、 How do we collect information
+2、 How do we use technologies such as cookies, beacons, proxies, etc
+3、 How do we store and protect information
+4、 How we use information
+5、 How do we provide information to the outside world
+6、 How do you realize your personal information rights
+7、 Declaration of Third Party Liability
+8、 How do we protect the information of minors
+9、 Application and update of this policy
+10、 Keyword description in this policy
+Alipay (China) Network Technology Co., Ltd. (registered address/common office address: Floor 15, No. 447, North Nanquan Road, China (Shanghai) Pilot Free Trade Zone; Contact information: 95188; We respect and protect your privacy. When you use our services, we will collect, store, use and provide your information externally in accordance with Alipay's privacy policy (hereinafter referred to as "the policy"). At the same time, we will explain to you through this policy how we provide services for accessing, updating, managing, and protecting your information.
+This policy is closely related to your use of our services. We recommend that you carefully read and understand all the contents of this policy, and make the choices you deem appropriate. We strive to express in plain and concise language, and use bold font to highlight the clauses and personal information in this policy that have a significant impact on your rights and interests.
+In order to comply with national laws, regulations, and regulatory requirements (such as implementing real name management, fulfilling anti money laundering responsibilities, fulfilling payment compliance responsibilities, and security management), as well as to provide you with services and improve service quality, we need to collect, store, use, and provide your information to external parties. We will process your information in accordance with the provisions of this policy, so that you can enjoy high-quality, convenient, and personalized services, while better protecting the security of your account and funds.
+How do we collect information
+According to relevant laws, regulations, and national standards, we may lawfully process your personal information in the following situations:
+(1) Obtain your consent;
+(2) Necessary to enter into and fulfill the contract according to your requirements;
+(3) Necessary information required by relevant laws and regulations to fulfill legal obligations, such as anti money laundering, counter-terrorism financing, real name management, etc;
+(4) Directly related to national security and defense security;
+(5) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(6) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(7) The personal information collected is self disclosed by you;
+(8) Personal information collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+(9) Necessary for maintaining the safe and stable operation of the services provided, such as discovering and handling product or service failures;
+(10) Other circumstances stipulated by laws and regulations.
+It should be noted that when your personal information processing falls under the circumstances mentioned in items (2) to (10) above, we may not need to obtain your consent again in accordance with applicable laws and regulations.
+When you use the following business functions of Alipay (hereinafter referred to as "services"), we need to collect some of your information in the following situations to provide you with services, improve our service quality, ensure the security of your account and funds, and comply with national laws, regulations and regulatory provisions:
+one
+Fulfill anti money laundering obligations and implement real name management in accordance with laws, regulations, and regulatory provisions
+(1) When you register your Alipay account or use Alipay services, you need to provide
+phone number
+E-mail
+As an account login name. You need to provide your information in accordance with the requirements of the "Management Measures for Network Payment Business of Non bank Payment Institutions"
+Basic identity information
+Name, nationality, gender, occupation, address, contact information, as well as the type, number, and expiration date of valid identification documents
+The basic identity information includes your sensitive personal information,
+If you do not provide the above information, you may not be able to register your Alipay account or use Alipay services. According to relevant laws and regulations, you need to pass multiple cross verification of your basic identity information before you can increase the cumulative limit of balance payment transactions or use your account balance to purchase financial products such as investment and wealth management. External verification channels for basic identity information include government department databases, commercial bank information systems, and commercial databases. If you choose to verify your basic identity information through the commercial bank information system, you will need to provide your
+Type I bank account or credit card information and bank reserved mobile phone number
+In order to complete the verification. The above information belongs to your personal sensitive information. If you do not provide the above information, you may not be able to use some services that require multiple cross validation, but it does not affect your use of other services we provide.
+(2) We need to remind you to provide timely information in accordance with relevant anti money laundering laws, regulations, and regulatory requirements such as the "Management Measures for Anti Money Laundering and Counter Terrorist Financing of Payment Institutions"
+Color photocopy or photo of valid identification document
+For us to verify and retain; In order to enhance your service experience, if you have retained the aforementioned information during the use of our affiliated company services, we may collect information through our affiliated companies to prevent you from resubmitting.
+The aforementioned information belongs to your personal sensitive information,
+If you do not provide the aforementioned information, you may not be able to use some of the services related to regulatory requirements, but it does not affect your use of the other services we provide.
+two
+Balance payment
+In order for you to use balance payment services for consumption, transfer, and purchase of financial products such as investment and wealth management (based on the supported payment account type), we need to record your
+Payment account balance information and transaction information
+The aforementioned information belongs to your personal sensitive information, and recording the aforementioned information is our legal obligation to fulfill
+three
+Quick payment
+In order to use the quick payment service to recharge and withdraw the balance of Alipay account with your bank card, as well as to consume, transfer and purchase investment and wealth management products based on your bank card, you need to provide your
+Bank card information, name, ID card number, bank reserved mobile phone number
+The aforementioned information contains your personal sensitive information,
+We will verify the aforementioned information with the issuing bank. When you use the quick payment service, we need to record your
+Transaction information
+The aforementioned information belongs to your personal sensitive information. If you do not provide the aforementioned information,
+You may not be able to use the quick payment service, but it does not affect your use of other services we provide.
+four
+Transfer funds
+In order to accurately execute your payment instructions, when you transfer money to someone else's Alipay account, you need to enter or confirm according to the prompts on the page
+Recipient's account, recipient's partial name, transfer amount
+； When you transfer money to someone else's bank card, you need to enter or confirm
+Payee's name, card number, and bank of deposit
+The aforementioned information contains sensitive personal information of the payee,
+If you do not provide the aforementioned information, the transfer may not be possible, but it does not affect your use of other services we provide.
+five
+Red envelope
+When you send red envelopes to others, you can follow the prompts on the page to enter
+Red envelope amount, number of red envelopes, and recipients
+The aforementioned information contains your personal sensitive information,
+If you do not provide the aforementioned information, the red envelope may not be able to be sent, but it does not affect your use of other services we provide; Meanwhile, you can also choose different options
+Red envelope theme
+Blessing language
+If you do not provide the aforementioned information, it will not affect your ability to send red envelopes.
+six
+AA Collection
+When you initiate a payment request using AA payment, you can follow the prompts on the page to enter
+Total amount and total number of people
+The aforementioned information contains your personal sensitive information,
+If you do not provide the aforementioned information, you may not be able to initiate AA payment, but it does not affect your use of other services we provide; Meanwhile, you can also choose to fill in
+Reason for receiving payment
+If you do not provide the aforementioned information, it will not affect your ability to initiate AA payment.
+seven
+Consumption
+When you make a purchase at a merchant, we need to manage the merchant in accordance with laws, regulations, and regulatory requirements to prevent cash out or fraud risks. Therefore, we will directly collect or collect your information from the merchant
+Transaction information
+Transaction amount, transaction partner, transaction product, transaction time, delivery information (if any)
+The aforementioned information belongs to your personal sensitive information, and recording the aforementioned information is our legal obligation to fulfill
+eight
+Credit card repayment
+When you use credit card repayment services, you need to provide the information you want to repay
+Credit card number, issuing bank, name, repayment amount
+The aforementioned information belongs to your personal sensitive information,
+If you do not provide the aforementioned information, you may not be able to use the credit card repayment service, but it does not affect your use of other services we provide.
+nine
+Bill inquiry
+You can view your billing details (i.e. your payment account transaction information) on the billing page. You can modify it
+Bill classification
+Labels and remarks
+The aforementioned information belongs to your personal sensitive information,
+If you do not provide the aforementioned information, it will not affect your ability to view the bill details.
+ten
+Identity verification
+(1) Login verification
+In order to enable you to log in to Alipay more safely and conveniently, you can choose our face swipe login service to provide us with your
+Facial images or videos
+To verify your identity; If your device and Alipay APP version both support fingerprint function or facial ID function, you can choose to use fingerprint login or facial ID login service. You need to enter your fingerprint information or facial ID information on your device. When you log in with your fingerprint or facial ID, you need to complete information verification on your device.
+We only receive verification results and do not collect your fingerprint or facial ID information. Facial images or videos belong to your personal sensitive information,
+If you do not need to use facial recognition login, fingerprint login, or facial ID login services, you can also choose other methods such as password login, SMS verification code login, etc.
+(2) Verification of important operational behaviors
+In order to ensure the security of your account and funds, we need to verify your identity when you perform some important account operations (such as password recovery, account loss reporting, freezing transaction funds, issuing account and fund related vouchers), for which you may need to provide us with
+Copy of ID card, photo of holding ID card, transaction voucher
+And other identifiable identification materials collected based on your consent during the specific business process;
+The aforementioned information belongs to your personal sensitive information,
+If you do not agree to provide the aforementioned information, you will not be able to complete specific operations, but it does not affect your use of other services we provide.
+(3) Payment instruction verification
+When you use a payment account for transactions, we need to verify your identity to ensure the security of your account and funds. We may provide you with multiple authentication methods, and you can choose to use them
+Static passwords, digital certificates, electronic signatures, one-time passwords, or biometric information
+Complete verification; When the security risk level increases, we may prompt you to re verify.
+The aforementioned information belongs to your personal sensitive information,
+If you do not agree to provide the aforementioned information, the transaction may not be completed, but it does not affect your use of other services we provide. In order to allow you to use the payment service more safely and conveniently, for example, your device and Alipay APP version both support the fingerprint function or face ID function, you can choose to use the fingerprint payment or face ID payment service. You need to enter your fingerprint or facial ID information on your device, and when you make fingerprint or facial ID payments, you need to complete information verification on your device.
+We only receive verification results and do not collect your fingerprint or facial ID information.
+If you do not want to use fingerprint verification or facial ID verification, you can still pay through other methods.
+eleven
+Safety management
+In order to ensure the safe and stable operation of the services provided to you, prevent transaction and capital risks, and prevent viruses, trojans or other malicious programs and websites, we need to record the types, methods and
+Device brand, device model, device name, IP address, MAC address, device software version information, device identification information (such as IMEI, IDFA, OAID, etc.), region, network usage habits, device related application information/software installation list, and other log information related to Alipay services
+The aforementioned information contains your personal sensitive information,
+If you do not agree with us
+Recording the aforementioned information may not complete risk control verification.
+twelve
+Customer Service
+We will collect your
+Search history
+The information you provided when contacting the customer service team and the information you sent us when participating in the survey. At the same time, in order to ensure service quality,
+We may need to record the content of customer service phone calls;
+Before the recording begins, we will provide you with necessary prompts to fully protect your right to know and choose.
+The aforementioned information belongs to your personal sensitive information,
+Balance payment
+Payment account balance information and transaction information
+The aforementioned information belongs to your personal sensitive information, and recording the aforementioned information is our legal obligation to fulfill
+Quick payment
+Bank card information, name, ID card number, bank reserved mobile phone number
+The aforementioned information contains your personal sensitive information,
+The aforementioned information belongs to your personal sensitive information. If you do not provide the aforementioned information,
+Recipient's account, recipient's partial name, transfer amount
+Payee's name, card number, and bank of deposit
+The aforementioned information contains sensitive personal information of the payee,
+Red envelope amount, number of red envelopes, and recipients
+Total amount and total number of people
+Transaction amount, transaction partner, transaction product, transaction time, delivery information (if any)
+Credit card repayment
+Credit card number, issuing bank, name, repayment amount
+Bill inquiry
+Labels and remarks
+Identity verification
+(1) Login verification
+Facial images or videos
+We only receive verification results and do not collect your fingerprint or facial ID information. Facial images or videos belong to your personal sensitive information,
+(2) Verification of important operational behaviors
+Copy of ID card, photo of holding ID card, transaction voucher
+(3) Payment instruction verification
+Static passwords, digital certificates, electronic signatures, one-time passwords, or biometric information
+We only receive verification results and do not collect your fingerprint or facial ID information.
+Safety management
+Device brand, device model, device name, IP address, MAC address, device software version information, device identification information (such as IMEI, IDFA, OAID, etc.), region, network usage habits, device related application information/software installation list, and other log information related to Alipay services
+Customer Service
+We may need to record the content of customer service phone calls;
+If you do not provide the aforementioned information, it will not affect your use of the other services we provide.
+thirteen
+Other
+Please understand that the services we provide to you are constantly updated and developed. If you choose to use other services not covered in the above instructions, and based on this service, we need to collect your information, we will separately explain the scope and purpose of information collection to you through page prompts, interaction processes, and agreement agreements. We will use, store, provide and protect your information in accordance with this policy and the corresponding user agreement; If you choose not to provide the aforementioned information, you may not be able to use a certain service or part of it, but it does not affect your use of other services we provide. In addition, third-party entities may provide services to you through Alipay APP. When you enter the service page operated by a third-party entity, please note that the relevant services are provided to you by the third-party entity. If it involves third-party entities collecting personal information from you, we suggest that you carefully review the privacy policy or agreement of the third-party entities.
+How do we use technologies such as cookies, beacons, proxies, etc
+In order to make your access experience easier, when you visit Alipay website or use the services provided by Alipay, we may identify your identity through small data files. Doing so can help you save the step of repeatedly entering registration information, or help you judge the security status of your account. These data files may be cookies, Flashcookies, other local storage provided by your browser or associated applications (hereinafter referred to as "cookies").
+Please understand that some of our services can only be implemented through the use of cookies. If your browser or browser add-on service allows, you can modify your acceptance of cookies or reject Alipay's cookies. The "Help" section in most browser toolbars will tell you how to prevent your browser from accepting new cookies, how to make your browser notify you when you receive a new cookie, or how to completely turn off cookies. In addition, you can turn off or delete Flash cookies and similar data used by browser add ons by changing their settings or by accessing the provider's webpage. However, in some cases, this action may affect your safe access to Alipay website and use of services provided by Alipay.
+Our website may also contain some electronic images (hereinafter referred to as "network beacons"), which can help the website calculate the number of users browsing web pages or accessing certain cookies. We will collect information about your browsing activity through network beacons
+(The address of the page you visited, the location of the referenced page you previously visited, your browsing environment, and display settings).
+If you use services provided by a third party other than Alipay through our website or APP, we may use special network protocols and proxy technology (hereinafter referred to as "proxy technology") to try our best to ensure the security of your account and enable you to obtain a more secure access experience. Using proxy technology can help you identify known high-risk sites, reduce risks such as phishing and account leaks, and better protect the common rights and interests of you and third parties, preventing criminals from tampering with normal service content between you and the third parties you wish to access, including advertising injection and illegal content tampering caused by insecure routers, illegal base stations, etc. During this process, we may also obtain and save the IP address, hardware ID, and page location of your device.
+How do we store and protect information
+1. The personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China.
+As part of
+If the service involves cross-border business and we need to transmit relevant personal information collected domestically to overseas institutions, we will comply with laws, regulations, and relevant regulatory authorities, explain the purpose of personal information export and the types of personal information involved, and require overseas institutions to keep the personal information obtained confidential through effective measures such as signing agreements and on-site verification.
+We will only store your personal information for the period necessary for the purposes stated in this policy and within the time limit specified by laws, regulations, and regulatory requirements. We will keep your identity information and transaction records for the period specified in the "Management Measures for Anti Money Laundering and Counter Terrorist Financing of Payment Institutions".
+2. In order to ensure the security of your information, we will take various reasonable and necessary measures to protect your information after collecting it. For example, in the technology development environment, we only use information that has been de identified for statistical analysis; When providing research reports to external parties, we will de identify the information contained in the report. We will store the de identified information separately from the information that can be used to recover and identify individuals, ensuring that individuals are not re identified in the subsequent processing of de identified information.
+3. We promise to achieve industry-leading security levels in information security protection. To ensure your information security, we are committed to using various security technologies and supporting management systems to minimize the risks of your information being leaked, damaged, misused, accessed, disclosed, and altered without authorization. For example, encrypted transmission through network security layer software (SSL), encrypted storage of information, and strict restrictions on access to data centers.
+When transmitting and storing personal sensitive information (including personal biometric information), we will adopt security measures such as encryption, permission control, and de identification/anonymization.
+4. We have established a department responsible for personal information protection to conduct a personal information security impact assessment on the processing of personal information. At the same time, we have established relevant internal control systems and adopted the principle of minimum sufficient authorization for staff who may come into contact with your information; Systematically monitor the behavior of staff in handling your information, continuously train staff on relevant laws and regulations, privacy and security guidelines, and strengthen security awareness, and organize all staff to participate in security exams every year. In addition, our corresponding network/system has passed the national network security level protection evaluation. We also hire external independent third parties every year to evaluate our information security management system.
+5. We have developed an emergency plan for personal information security incidents and regularly organize internal personnel to receive emergency response training and drills, so that they can master their job responsibilities, emergency response strategies, and procedures. After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will promptly inform you of the relevant situation of the event through APP push notifications, email/short messages, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements. If your legitimate rights and interests are damaged, we will bear corresponding legal responsibilities.
+six
+Please keep your Alipay login name and other identity elements properly. When you use Alipay service, we will identify you by your login name and other identity elements. Once you disclose the aforementioned information, you may suffer losses and may have adverse effects on you. If you find that Alipay login name and/or other identity elements may or have been disclosed, please contact us immediately so that we can take appropriate measures in time to avoid or reduce related losses.
+7. After you terminate using Alipay services, we will stop collecting and using your information, unless otherwise specified by laws and regulations or regulatory authorities. If we cease operations, we will promptly cease the collection of your personal information, notify you of the cessation of operations in the form of individual delivery or announcement, and delete or anonymize the personal information we hold about you.
+How we use information
+1. In order to comply with national laws, regulations, and regulatory requirements, as well as to provide you with services and improve service quality, or to ensure the security of your account and funds, we will use your information in the following situations:
+(1) To achieve the purpose stated in "How We Collect Information" in this policy.
+(2) In order to let you know the status of using Alipay service, we will send you a service reminder. You can unsubscribe from the message on the "Service Reminder" page and re subscribe through "Service Reminder ->Settings ->Message Management".
+To ensure the security of your account and funds, payment reminders cannot be cancelled.
+(3) In order to ensure the stability and security of our services, protect the security of your account and funds, and fulfill legal obligations such as anti money laundering, we will use your information for identity verification, security prevention, fraud/theft/suspicious transaction monitoring, prevention or prohibition of illegal activities, risk reduction and prevention of risk transmission, archiving and backup purposes.
+(4) Report to relevant departments in accordance with laws, regulations or regulatory requirements.
+(5) We invite you to participate in customer research related to our services.
+(6) We will adopt methods such as desensitization, de identification/anonymization to comprehensively analyze and process your information, in order to provide you with more accurate, personalized, smooth and convenient services, or help us evaluate, improve or design services and operational activities.
+(7) In order to enhance the user service experience and recommend better or more suitable services to users, we may form group characteristic tags based on user information, which are used to provide users with marketing activity notifications, commercial electronic information or advertisements that they may be interested in. If you do not wish to receive such information, you can choose to unsubscribe or click according to the methods we prompt
+Set up.
+(8) According to applicable laws, we may anonymize your personal information through technical and other necessary measures, and use the processed data for research, statistical analysis, and prediction, to provide product or service support for business decisions, and to improve our products and services (such as conducting machine learning or model algorithm training)
+We do not need to notify you separately and obtain your consent for the use of such processed data.
+(9) We may collaborate with partners who engage in advertising and content promotion, entrusting them to process information related to advertising coverage and effectiveness. However, unless we obtain your permission, we will not share information used to identify your personal identity, or we will only provide partners with processed information that cannot identify your personal identity, in order to help them improve the effective reach of promotional content without identifying your personal identity.
+two
+When we intend to use the information for purposes not specified in this policy, we will obtain your consent again in accordance with the requirements of laws, regulations, and national standards through confirmation agreements, specific scenario confirmation actions, and other forms.
+How do we provide information to the outside world
+one
+Sharing
+（1） Other user queries
+To ensure the accuracy of the transfer and receipt targets and avoid financial losses caused by inputting the wrong account, others can search for your account
+Email and phone number
+Found you and saw the corresponding account for your account
+After desensitization, Alipay login name and corresponding nickname, avatar, whether it has real name and region
+In order to transfer money, collect money or add you as a friend of Alipay. You can turn off the function of searching for you via email or mobile phone number through "My → User Protection Center → Privacy Settings → Common Privacy Settings" of Alipay APP. At the same time, you can also enable the "verification required when adding me as a friend" function.
+（2） Complaint Handling
+When you complain or are complained about by others, in order to protect your and others' legitimate rights and interests, and maintain a green shopping environment, we may
+Name and valid identification number, contact information, complaint related content
+Provide to consumer rights protection departments and regulatory agencies for timely resolution of complaints and disputes, except for those explicitly prohibited by laws and regulations.
+（3） Data sharing when using third-party services through Alipay account
+In order to enable you to use third-party websites or APPs conveniently and quickly, you can choose to use Alipay login name to quickly log in to third-party websites or APPs. We will provide some of your information to third parties based on your explicit consent. Third party websites or apps may have separate privacy protection rules. Before authorizing us to provide your information to third parties, we recommend that you carefully review and make the choices you deem appropriate.
+（4） Business sharing
+We promise to keep your information strictly confidential. Unless otherwise stipulated by laws, regulations, and regulatory authorities, we only share your information with third parties in the following situations, including our affiliated companies, cooperative financial institutions, and other partners. If it is necessary to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the information collected by that third party. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations, and regulatory requirements. In addition, we will obtain your consent in accordance with the requirements of laws, regulations, and national standards through confirmation agreements, text confirmations in specific scenarios, pop-up prompts, etc., or confirm that third parties are processing your personal information in compliance with relevant laws and regulations.
+(1) In order for you to complete the transaction and achieve the transaction purpose, we need to provide information to your counterparty
+Transaction number and related payment information
+At the same time, your counterparty can view your transaction during the payment process or after successful payment
+Partial registration information
+(2) Some products or services may be provided by third parties or jointly provided by us and third parties, therefore,
+Only by sharing your information can we provide the products or services you need;
+(3) If you choose to participate in the lottery, competition or similar promotional activities jointly organized by us and third parties, we may share with you the information generated during the activity process that is necessary to complete the activity, so that the third party can timely distribute prizes to you or provide services to you,
+We will inform you clearly on the activity rules page or through other means what information needs to be provided to third parties in accordance with the requirements of laws, regulations or national standards;
+(4) With your explicit consent in advance, we will share your information with third parties within the scope permitted by laws and regulations and not violating public order and good customs, in accordance with your authorized scope.
+You can click to view
+Description of Alipay Sharing Personal Information with Third Parties
+Understand the details.
+two
+Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+(1) Obtaining your explicit consent in advance;
+(2) According to laws and regulations or mandatory administrative or judicial requirements;
+(3) When it comes to asset transfer, acquisition, merger, restructuring or bankruptcy liquidation, if it involves the transfer of personal information, we will inform you of the relevant situation and require new companies or organizations holding your personal information to continue to be bound by this policy. If the purpose of using personal information is changed, we will require the company or organization to obtain your explicit consent again.
+three
+Public disclosure
+Except for the announcement of the winning activity list, which will be based on specific activity participation rules
+Desensitization display winner's mobile phone number or Alipay login name
+In principle, we will not publicly disclose your information. If it is necessary to disclose publicly, we will inform you of the purpose of the disclosure, the type of information to be disclosed, and any sensitive information that may be involved, and obtain your explicit consent.
+four
+Entrusted processing
+In order to improve information processing efficiency, reduce information processing costs, or enhance information processing accuracy, we may entrust our affiliated companies or other professional organizations with the ability to process information on our behalf. We will require the entrusted company to comply with strict confidentiality obligations and take effective confidentiality measures through written agreements, on-site audits, etc., and prohibit them from using this information for unauthorized purposes. When the entrusted relationship is terminated, the entrusted company will no longer retain personal information. We promise to take responsibility for this.
+How do you realize your personal information rights
+During your use of Alipay service, in order to facilitate your access and management of your information and protect your right to log off your account, we have provided you with corresponding operation settings in the client. You can refer to the following guidelines for operation.
+one
+Manage your information
+You can log in to your Alipay account through Alipay's official website
+In "Account Management" and "Service Hall → Self service", as well as logging into Alipay account from Alipay APP, in "My → Personal Information", "My → Settings", "User Protection Center - Privacy Protection":
+(1) Check your identity information, billing information, account information, login device, and linked bank card information. For the security of your personal information, your ID card number and bank account will be displayed desensitized;
+In order to protect your information security, you can select the page to be unlocked through "My → Settings → Account and Security → Unlock Settings" in Alipay APP. After completing the settings, you must complete the fingerprint, face ID or gesture unlocking before entering the corresponding page;
+(2) If you find that your information is incorrect, you can modify it yourself according to the prompts on the page. You can also contact our customer service at 95188 or request correction through our online customer service.
+For security and identity recognition considerations, or in accordance with laws, regulations, and regulatory requirements, you need to pass verification before you can modify your authenticated name or bound mobile phone number;
+(3) You can delete your billing information or manage the linked bank card;
+(4) You can apply for issuing electronic transfer receipts and transaction record bills through Alipay APP, or you can download transaction record bills through Alipay's official website.
+two
+Manage your authorization scope
+If you want to change the scope of authorization, you can modify the scope of authorization through mobile phone permission settings and Alipay APP "My → User Protection Center → Privacy Settings → Common Privacy Settings", for example, whether to disclose your real name to friends, whether to open birthday reminders, etc; You can also cancel the authorization to share information with a third party through Alipay APP "My → User Protection Center → Privacy Settings → Authorization Management/Account Authorization". After you cancel the authorization for information collection, we will no longer collect that information; After you cancel the authorization to share information with a third party, we will no longer provide information to that third party in that business scenario.
+three
+You can cancel your Alipay account through the following path:
+Operation path of Alipay official website: open www.alipay.com, log in to Alipay account, and go through "service hall → self-service → account self-service → account cancellation".
+Alipay APP operation path: Open Alipay APP, log in to Alipay account, and enter account cancellation process through "account cancellation" service.
+When you meet the agreed account cancellation conditions and cancel a service related account, we will delete all personal information in your account in accordance with legal requirements,
+However, if there is any personal information that has not expired the retention period stipulated by laws and regulations or is not suitable for deletion according to law, we will stop processing other than storage and taking necessary security protection measures.
+4. If you find that our collection and use of your personal information violates laws and regulations or our agreement with you, you can contact our customer service hotline 95188 or request the deletion of the corresponding information through our online customer service.
+five
+Despite the above agreement, according to relevant laws, regulations, and national standards, we may not be able to respond to your request in the following situations:
+(1) Directly related to national security and defense security;
+(2) Directly related to public safety, public health, and major public interests;
+(3) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) Responding to your request will result in serious harm to the legitimate rights and interests of other individuals or organizations;
+(6) Involving trade secrets.
+six
+We have established a Privacy Protection Office and have dedicated personnel responsible for personal information protection. If you have any questions about this policy or have any complaints or opinions about the processing of your personal information, please contact us through the following channels:
+(1) Customer Service Hotline 95188
+(2) Online customer service "My Customer Service"
+(3) Email: privacy-protection-officer@service.alipay.com
+(4) Mailing address: Privacy Protection Office, Ant A Space, No. 569 Xixi Road, Xihu District, Hangzhou City
+The customer service department will promptly respond to you in conjunction with the Privacy Protection Office. In order to provide timely service response, we recommend that you use the aforementioned customer service hotline or online service methods to contact us.
+To ensure your information security, we need to first verify your identity and credentials. We have established a customer complaint management mechanism, including a tracking process. Generally speaking, we will complete the processing within three working days after the verification is passed. In special circumstances, we will provide a response within no more than fifteen working days or within the time limit specified by laws and regulations. If you are not satisfied with our response, you can also file a complaint with the consumer rights protection department or bring a lawsuit to a court with jurisdiction.
+Declaration of Third Party Liability
+Please note that your counterparty, the third-party website operator you visit, the third-party services accessed through Alipay APP (such as applications provided by the third party in Alipay APP) and the third party receiving your personal information from Alipay may have their own privacy protection policies; When you view web pages created by third parties or use applications developed by third parties, these third parties may place their own cookies or network beacons that are not under our control and their use is not subject to this policy. We will strive to require these entities to take protective measures for your personal information. We suggest that you contact them for detailed information about their privacy policies. If you find that these third-party created web pages or third-party developed applications pose risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests.
+Please know that some services of Alipay APP are provided by our affiliated companies. If you want to know how our affiliated companies protect and process your information, please refer to《
+Ant Group Privacy Policy
+》. Some services of Alipay APP need to be jointly provided by partners (for example: notice bar message reminder). Therefore, Alipay APP will embed partners
+Companion software tool development kit (hereinafter referred to as "SDK") or other similar applications. For example, when you use a mobile device, the Push SDK provided by the phone manufacturer needs to read your device identification number and network related information for pushing/sending notification bar messages. Alipay APP will strictly check the security of SDK or other similar applications, and require partners to take strict data protection measures to effectively protect your legitimate rights and interests.
+For more details, please refer to《
+How do we protect the information of minors
+one
+We attach great importance to the protection of personal information of minors.
+We expect parents or guardians to guide minors in using our services. We will protect the confidentiality and security of minors' information in accordance with relevant national laws and regulations.
+two
+If you are a minor, we suggest that your parents or guardians read this policy and use our services or provide us with your information with their consent.
+For cases where we collect your information with the consent of your parents or guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of your parents or guardians, or when necessary to protect your rights.
+If your guardian does not agree to your use of our services or provision of information to us in accordance with this policy, please immediately terminate your use of our services and notify us promptly so that we can take appropriate measures.
+3. If you are the parent or guardian of a minor, please contact us through the contact information provided above if you have any questions regarding the information processing of the minor under your guardianship.
+4. Special note: Before registering Alipay account for children, children under 14 years old and their guardians should carefully read the Rules for the Protection of Children's Personal Information. Before children use our services, it is necessary to ensure that their guardians have given their consent to the 'Children's Personal Information Protection Rules'.
+For more details, please refer to《
+Alipay APP access instructions
+In order to provide you with services and ensure the security of your account and funds, Alipay APP may need to apply to you for permission within the necessary scope.
+Please rest assured that Alipay APP will not open these permissions by default. Alipay APP can collect your information through these permissions only if you actively confirm the opening.
+It is important to note that Alipay APP's access to a specific authority does not necessarily mean that Alipay APP will collect your relevant information; Even if you have confirmed to open permissions to Alipay APP, Alipay APP will only collect your relevant information within the legal, legitimate and necessary scope. If you choose not to open the permission, you may not be able to use specific functions related to this permission, but it will not affect your use of other services provided by Alipay APP. For more details, please refer to
+Application and update of this policy
+This policy applies to all Alipay services, unless there is an independent privacy policy for the relevant services or special agreement in the corresponding user service agreement.
+We will update this policy in a timely manner when there are significant changes in the following situations:
+(1) Our basic situation has changed, such as changes in ownership caused by mergers, acquisitions, and reorganizations;
+(2) Changes in the scope, purpose, and rules of collecting, storing, and using personal information;
+(3) Changes in the object, scope, and purpose of providing personal information to external parties;
+(4) The way you access and manage personal information has changed;
+(5) Changes in data security capabilities and information security risks;
+(6) The channels and mechanisms for user inquiries and complaints, as well as changes in external dispute resolution agencies and contact information;
+(7) Other changes that may have a significant impact on your personal information rights.
+Since Alipay has many users, if this policy is updated, we will notify you by means of APP push notification, pop-up prompt, email/SMS or announcement on Alipay's official website. In order for you to receive notifications in a timely manner, we suggest that you notify us promptly when your contact information is updated. If you continue to use Alipay services after the policy update takes effect, it means that you have fully read, understood and accepted the updated policy and are willing to be bound by the updated policy.
+You can view this policy on the home page of Alipay's official website, or through "My → User Protection Center" in Alipay APP. We encourage you to consult our privacy policy every time you use Alipay.
+Keyword description in this policy
+1. In this policy, "Alipay affiliated companies" refer to: (1) Ant Technology Group Co., Ltd; (2) Companies directly or indirectly controlled by Ant Technology Group Co., Ltd., such as Sesame Credit Management Co., Ltd., Jifanbao Nanjing Enterprise Management Co., Ltd., Ant Zhixin (Hangzhou) Information Technology Co., Ltd., Chongqing Ant Shangcheng Micro Loan Co., Ltd., Chongqing Ant Micro Loan Co., Ltd., Alipay (Hangzhou) Information Technology Co., Ltd., Ant Member (Beijing) Network Technology Service Co., Ltd., Hangzhou Zhisheng Information Technology Co., Ltd., Hangzhou Shangshu Information Technology Co., Ltd., Ant (Hangzhou) Fund Sales Co., Ltd., Ant Wealth (Shanghai) Financial Information Service Co., Ltd., Ant Shengxin (Shanghai) Information Technology Co., Ltd; (3) Ant Technology Group Co., Ltd. directly or indirectly invests in or has business cooperation relationships with enterprises that are affiliated with Ant Technology Group Co., Ltd., such as Zhejiang Wangshang Bank Co., Ltd. and Chongqing Ant Consumer Finance Co., Ltd.
+The definition of "related party" referred to in the preceding paragraph is consistent with the provisions of Accounting Standards for Enterprises No. 36- Disclosure of Related Parties.
+two
+The "identity elements" in this policy refer to the information elements used by Alipay to identify your identity, including your Alipay login name, password, SMS verification code, phone number, mobile phone number, ID number and biometric information.
+three
+In this policy, "personal sensitive information" refers to personal information such as ID number, personal biometric information, bank account number, property information, transaction information, and precise positioning information.
+Has the above content solved your problem?
+Your feedback information has been successfully submitted
+Thank you for your feedback.
+Dear user:
+We are very sorry that our help content did not solve your problem. You can write down your questions about this help content, and we will continue to optimize it to provide you with better service.
+Alipay Help Center Operation Team
+Recruiting Talents
+|
+contact us
+|
+International Business
+ICP Certificate: HeZi B2-20190046
+cshall-49-5147
+onlineServer
+onlineServer
