@@ -1,0 +1,376 @@
+1. How do we collect and use personal information
+We will collect, with your consent, the information you voluntarily provide when using the service, as well as the information generated during your use of features or acceptance of the service through automated means
+1.1 Information Collection in "Browse Only" Mode
+You can choose the "Browse Only" mode when using ZAKER for the first time. When you choose the "Browse Only" mode, you will be using ZAKER's basic functional services as a guest. We will provide you with some basic functions and services of ZAKER according to the tourist mode. Basic functional services will not collect any personal information from you
+1.2 Registration, Login, and Authentication
+1.2.1 Registration and Login
+a. When you register and log in to ZAKER and related services, you can create an account through your phone number, and you can complete the relevant network identification information (avatar, nickname). Collecting this information is to help you complete the registration. You can also choose to fill in the introduction according to your own needs to improve your information.
+b. You can also log in and use a third-party account. With your authorization and consent, we will obtain your public information (avatar, nickname, and other authorized information) registered on the third-party platform according to your authorization, which will be used to bind with your ZAKER account, so that you can directly log in and use this product and related services. We will use your relevant information within the scope of your authorization and consent. In addition, we may share your account information (avatar, nickname, and other page prompts) with third parties with your consent for your convenience in registering or logging into third-party accounts.
+1.2.2 Certification
+When you use the identity authentication function or service, according to relevant laws and regulations, you may need to provide your real identity information (phone number) to complete real name verification. The above information is personal sensitive information, and you may refuse to provide it. However, if you refuse to provide it, you may not be able to access comment and post services, but it does not affect the normal use of other functions and services.
+1.3 Information browsing
+a. ZAKER may recommend more interesting information to you, and to achieve this function, we may collect necessary log information.
+b. The log information used for information display includes:
+The behavior information you operate and use: click, subscribe, bookmark, search, browse, share
+The information you voluntarily provided: likes, comments, posts
+Location information: WLAN access point, base station sensor information
+c. We will not actively collect and use your precise geographic location.
+d. We will display and recommend local information related to your area based on the city corresponding to your IP address.
+e. The above information we collect and use has undergone de identification processing, and data analysis only corresponds to specific codes that cannot be directly associated with your identity, and will not be associated with your true identity.
+1.4 Information Release and Interaction
+1.4.1 Information Release
+a. When you comment or post, we will collect the information you post and display your nickname, avatar, and content.
+b. When you use the upload image and publish video functions, we will request your authorization for camera and album (storage) permissions. If you refuse to provide authorization, you will not be able to use this feature, but it will not affect your normal use of other features of ZAKER.
+c. Please note that the information you publicly release may involve personal information of users or others. If the information you publicly release contains personal information of others, before uploading and publishing, you must ensure that it is allowed by laws and regulations or has obtained legal authorization.
+d. The information collected by us from users who use our products or services, such as information posted by other users, may contain some of your information (such as information related to you in comments, messages, articles, audio and video).
+1.4.2 Interactive Communication
+a. When you actively follow and interact with accounts and topics that interest you, browsing, commenting, bookmarking, liking, or sharing content, we will collect the accounts you follow and show you the content you post on those accounts and topics.
+b. When you share or receive shared information or participate in activities, we need to access your clipboard and read the passwords, sharing codes, and links contained in it to achieve functions or services such as jumping, sharing, and event linkage.
+1.5 Search
+1.5.1 When you use the search service, we will collect your search keyword information and log records for analysis in order to present you with more relevant search results. Search results, popular searches, and related searches may be displayed based on your search/browsing, personal profile information, and log information.
+1.5.2 We may also record information provided, formed, or retained by you when using our services, such as entering search terms, clicking on historical keywords, prompt keywords, and clicked links when using search, or filtering search scopes, time ranges, and information submitted when participating in search operations. You have the right to refuse to provide the above information, but this may result in you being unable to use specific services or features, or unable to achieve the intended effects of the relevant services.
+1.5.3 The search results include ZAKER and third-party website information, and when you enter a third-party website, your information may be collected by the third-party website.
+1.5.4 In order to provide efficient search services, some of the aforementioned information will also be temporarily stored on your local storage device and displayed to you as search result content and search history.
+1.6 QR code scanning
+When you use the QR code scanning function, we need to obtain access to the system's camera and recorded video to support the provision of the aforementioned features. We will only collect the aforementioned information when you click on the QR code scanning entrance or activate the corresponding search function in other ways that ZAKER can provide in the future. You may refuse us to collect the above permission information. If you refuse us to collect the above information, please turn off the device's access to take photos and record videos, but this will also result in you not being able to obtain relevant services.
+1.7 Operations and Security Assurance
+1.7.1 Operations and Security
+We are committed to providing you with safety
+Our core goal is to provide high-quality, efficient, and reliable services and information through trustworthy products and usage environments.
+1.7.2 Equipment Information and Log Information
+a. In order to ensure software services, guarantee service operation quality and efficiency, identify mobile devices normally, recommend personalized content, and conduct security risk control. We may request system device information from you. Including hardware model, operating system type and model, international mobile device identification code (IMEI, ANdroid-ID), unique device identifier (IDFA/opeNUDID/GUDidi/IMSI information), device MAC address, IP address, WLAN access point, software version number, system language, software installation list, telecommunications operator, network access method/type/status. To collect the above information, we may apply for telephone access from you. This type of information is the basic information that must be collected to provide services.
+b. In order to analyze statistical indicators of application addition, activation, retention, and performance, we may call the clipboard to perform attribution analysis on relevant statistical information. Please rest assured that we will not collect your privacy information.
+c. To prevent malicious programs and ensure service security. We will collect information on installed applications or running processes, overall operation, usage and frequency of applications, application crashes, overall installation status, performance data, and application sources
+1.8 Change in the purpose of collecting and using personal information
+Please be aware that as our business develops, there may be adjustments and changes to the functions and services provided by 'ZAKER'. In principle, when new features or services are related to the ones we currently provide, the personal information collected and used will have a direct or reasonable connection with the original processing purpose. In scenarios where there is no direct or reasonable connection with the original processing purpose, we will inform you again and obtain your consent when collecting and using your personal information.
+1.9 Personal Information Exempted from Consent to Collection and Use According to Law
+Please understand that in the following situations, according to laws, regulations, and relevant national standards, we do not need to obtain your authorization and consent before collecting and using your personal information:
+a. Directly related to national security and defense security;
+b. Directly related to public safety, public health, and major public interests;
+c. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+d. For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+e. The personal information collected from you is disclosed to the public by yourself;
+f. Collecting your personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+g. Necessary to sign or fulfill the contract according to your requirements;
+h. Necessary for maintaining the safe and stable operation of software and related services, such as discovering and handling software and related service failures;
+i. Necessary for legitimate news reporting;
+j. Academic research institutions conduct statistical or academic research necessary for the public interest, and when providing results of academic research or descriptions to external parties, they de identify the personal information contained in the results;
+k. Related to our obligations under laws and regulations;
+L. Other circumstances stipulated by laws and regulations.
+Special reminder: If the information cannot be individually or in combination with other information to identify your personal identity, it does not belong to your personal information in the legal sense; When your information can be used alone or in combination with other information to identify your personal identity, or when we combine data that cannot be linked to any specific personal information with other personal information, this information will be treated and protected as your personal information in accordance with this privacy policy during the period of combined use.
+1.10 Sensor Application Scenarios
+In the following application scenarios, we may invoke your sensor permissions to provide you with corresponding business functions through your sensor information (individual sensor information is not personal information). Please be informed that individual device sensor information does not involve any personal location information and cannot be combined with other information to identify the identity of specific individuals.
+Call scenario
+Sensor name
+Call purpose
+2. Use of Cookies and Similar Technologies
+Cookies and similar technologies are widely used in the Internet. When you use ZAKER and related services, we may use relevant technologies to send one or more cookies or anonymous identifiers to your device to collect and store information about your access and use of this product. We promise not to use cookies for any purposes other than those described in this privacy policy. We use cookies and similar technologies mainly to achieve the following functions or services:
+2.1 Ensure the safe and efficient operation of products and services
+We may set authentication and security cookies or anonymous identifiers to confirm whether you have safely logged into the service or encountered theft, fraud, and other illegal activities. These technologies will also help us improve service efficiency, enhance login and response speed.
+2.2 Help you achieve a more relaxed access experience
+Using this type of technology can help you save the steps and processes of repeatedly filling in personal information and entering search content (e.g. record search, form filling).
+2.3 Recommend, display, and push content or accounts that may be of interest to you
+a. We may use cookies and similar technologies to understand your preferences and usage habits, conduct data analysis to improve product services, recommend information or features that users are interested in, and optimize your advertising choices.
+b. In ZAKER's sharing page, we may use cookies to record browsing activity, in order to recommend information to you, troubleshoot related abnormal situations such as crashes and delays, and explore better service methods.
+2.4 Clearing Cookies
+Most browsers provide users with the function to clear browser cache data, and you can perform the corresponding data clearing operation in the browser settings function. If you clear it, you may not be able to use the services provided by the company that rely on cookies due to these modifications
+Service or corresponding functions.
+3. How do we share, transfer, and publicly disclose personal information
+3.1 Sharing
+3.1.1 Principle of Sharing
+a. Principle of Authorization and Consent: Sharing your personal information with our affiliates or third parties requires your authorization and consent, unless the shared personal information is de identified and the sharing third party cannot re identify the natural person subject of such information. If related parties or third parties use information for purposes beyond the scope of the original authorization and consent, they need to obtain your consent again.
+b. The principle of legality, legitimacy, and minimum necessity: Data shared with related parties or third parties must have a legitimate and legitimate purpose, and the shared data must be limited to what is necessary to achieve the purpose.
+c. Principle of safety and prudence: We will carefully evaluate the purpose of sharing information with related parties and third-party data, comprehensively assess the security capabilities of these partners, and require them to comply with cooperation laws and agreements. We will conduct strict security monitoring on the software development kits (SDKs) and application programming interfaces (APIs) used by our partners to obtain information, in order to protect data security. List of Third Party Information Sharing
+3.1.2 Shared information for implementing functions or services
+a. When you use the features provided by our affiliates or third parties in ZAKER, or when software service providers, smart device providers, or system service providers jointly provide services to you, we may collect location information and related device information such as hardware model, operating system version number, International Mobile Equipment Identity (IMEI), network device hardware address (MAC), installed apps Android_ID、OAID）、 Hardware serial numbers, such as IDFV and IDFA, are de identified and shared with these affiliates and third parties to recommend, display, or push information that may be of interest to you, or to recommend or display specific features, services, or advertisements that are more suitable for you.
+b. Geographic location services: When you use geographic location related services, we only use IP location information to provide relevant services with your consent. Without your consent, we will not obtain your IP location information.
+c. Payment function: The payment function is provided to you by a third-party payment institution that cooperates with us. Third party payment institutions may need to collect your name, bank card type and number, expiration date, and mobile phone number. Bank card number, expiration date, and mobile phone number are sensitive personal information that are necessary for payment functions. Refusing to provide them will result in you being unable to use the function, but it will not affect the normal use of other functions.
+d. To adapt the message push function to the terminal model you are using, we may share phone models, versions, and related device information with terminal device manufacturers (Huawei, Xiaomi, OPPO, VIVO, etc.) through SDK technology.
+3.1.3 Implement shared information related to advertising
+a. Advertising push: We may share information with partners who entrust us with promotion and advertising placement, but we will not share information used to identify your personal identity (phone number). We will only provide these partners with indirect portrait tags and de identified or anonymized information that cannot identify your personal identity, in order to help them improve the effective reach of advertising without identifying your personal identity.
+b. Advertising statistics: We may access designated authorized partners, such as Guangdian and Pangolin, who provide advertising monitoring, data statistics, and data analysis services to read your device identification number and network related information (see section 3.1.2a), in order to analyze your use of our services and optimize advertising placement.
+3.1.4 Implement shared information for security and analysis statistics
+a. Ensuring usage security: We attach great importance to a good environment for accounts, services, and network information services. To protect the legitimate rights and interests of you and other users, and maintain the information network environment, we may share necessary equipment and log information with our affiliates or service providers.
+b. Analyzing product usage: In order to analyze the usage of our services and improve user experience, we may share de identified data on product sources and usage (including crashes, crashes, crashes, and usage duration) with related parties or third parties. These data are difficult to combine with other information to identify your personal identity.
+3.1.5 Assist you in participating in marketing and promotional activities
+When you choose to participate in marketing activities organized by us, our affiliates, or third parties, you may need to provide your name, mailing address, and contact information. These pieces of information are sensitive personal information, and refusing to provide them may affect your participation in related activities, but will not affect other functions. We may share avatars, nicknames, and/or the above information with affiliated parties or third parties to ensure that you receive consistent service experience in joint activities, or entrust third parties to promptly redeem rewards to you.
+3.2 Transfer
+a. We will not transfer your personal information to any other third party unless we obtain your explicit consent.
+b. As our business continues to develop, we may engage in mergers, acquisitions, and asset transfers, which may result in the transfer of your personal information. When the aforementioned changes occur, we will require the recipient to protect your personal information in accordance with laws and regulations and security standards not lower than those stated in this privacy policy. Otherwise, we will require the recipient to obtain your authorization and consent again.
+3.3 Disclosure
+a. We will not publicly disclose your information unless we comply with national laws and regulations or obtain your consent. We will adopt security measures that comply with industry standards when publicly disclosing your personal information
+b. When issuing punishment notices for illegal accounts and fraudulent behavior, we will disclose information about the relevant accounts.
+c. After you authorize the game, mini program, or other features or services, your and your friends' avatars and nicknames will be displayed in the ranking and related functions
+3.4 Personal Information Exempted from Consent to Share, Transfer, and Public Disclosure According to Law
+Please understand that in the following situations, according to laws, regulations, and national standards, we do not need your authorization or consent to share, transfer, or publicly disclose your personal information:
+a. Related to our obligations under laws, regulations, and industry regulatory authorities, or
+Resolving litigation, disputes, or requests made by administrative or judicial authorities in accordance with the law;
+b. Directly related to national security and defense security;
+c. Directly related to public safety, public health, and major public interests;
+d. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+e. For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+f. Personal information that you disclose to the public on your own;
+g. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+3.1.3 Implement shared information related to advertising
+a. Advertising push: We may share information with partners who entrust us with promotion and advertising placement, but we will not share information used to identify your personal identity (phone number). We will only provide these partners with indirect portrait tags and de identified or anonymized information that cannot identify your personal identity, in order to help them improve the effective reach of advertising without identifying your personal identity.
+b. Advertising statistics: We may access designated authorized partners, such as Guangdian and Pangolin, who provide advertising monitoring, data statistics, and data analysis services to read your device identification number and network related information (see section 3.1.2a), in order to analyze your use of our services and optimize advertising placement.
+3.1.4 Implement shared information for security and analysis statistics
+a. Ensuring usage security: We attach great importance to a good environment for accounts, services, and network information services. To protect the legitimate rights and interests of you and other users, and maintain the information network environment, we may share necessary equipment and log information with our affiliates or service providers.
+b. Analyzing product usage: In order to analyze the usage of our services and improve user experience, we may share de identified data on product sources and usage (including crashes, crashes, crashes, and usage duration) with related parties or third parties. These data are difficult to combine with other information to identify your personal identity.
+3.1.5 Assist you in participating in marketing and promotional activities
+When you choose to participate in marketing activities organized by us, our affiliates, or third parties, you may need to provide your name, mailing address, and contact information. These pieces of information are sensitive personal information, and refusing to provide them may affect your participation in related activities, but will not affect other functions. We may share avatars, nicknames, and/or the above information with affiliated parties or third parties to ensure that you receive consistent service experience in joint activities, or entrust third parties to promptly redeem rewards to you.
+3.2 Transfer
+a. We will not transfer your personal information to any other third party unless we obtain your explicit consent.
+b. As our business continues to develop, we may engage in mergers, acquisitions, and asset transfers, which may result in the transfer of your personal information. When the aforementioned changes occur, we will require the recipient to protect your personal information in accordance with laws and regulations and security standards not lower than those stated in this privacy policy. Otherwise, we will require the recipient to obtain your authorization and consent again.
+3.3 Disclosure
+a. We will not publicly disclose your information unless we comply with national laws and regulations or obtain your consent. We will adopt security measures that comply with industry standards when publicly disclosing your personal information
+b. When issuing punishment notices for illegal accounts and fraudulent behavior, we will disclose information about the relevant accounts.
+c. After you authorize the game, mini program, or other features or services, your and your friends' avatars and nicknames will be displayed in the ranking and related functions
+3.4 Personal Information Exempted from Consent to Share, Transfer, and Public Disclosure According to Law
+Please understand that in the following situations, according to laws, regulations, and national standards, we do not need your authorization or consent to share, transfer, or publicly disclose your personal information:
+a. Related to our obligations under laws, regulations, and industry regulatory authorities, or necessary for resolving litigation or disputes, or as requested by administrative or judicial authorities in accordance with the law;
+b. Directly related to national security and defense security;
+c. Directly related to public safety, public health, and major public interests;
+d. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+e. For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+f. Personal information that you disclose to the public on your own;
+g. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+4. How do we store personal information
+4.1 Storage location
+We store your personal information collected and generated during our operations within the territory of the People's Republic of China in accordance with the provisions of laws and regulations. At present, we will not transmit the above information overseas. If we do so, we will comply with relevant national regulations or seek your consent.
+4.2 Storage period
+We only retain your personal information for the period necessary to provide "ZAKER" and services: the information, comments, likes, and related information you post will be retained until you withdraw, delete, or cancel your account. After the necessary period, we will delete or anonymize your personal information, except as otherwise provided by laws and regulations.
+5. How do we protect the security of personal information
+a. We attach great importance to the security of your personal information and will strive to take reasonable security measures (including technical and management aspects) to protect your personal information, prevent the personal information you provide from being improperly used or accessed, publicly disclosed, used, modified, damaged, lost or leaked without authorization.
+b. We will use encryption technology, anonymization, and other reasonable and feasible means that are not inferior to those of our industry peers to protect your personal information, and use security protection mechanisms to prevent malicious attacks on your personal information.
+c. We will establish a dedicated security department, security management system, and data security process to ensure the security of your personal information. We adopt strict data usage and access regulations to ensure that only authorized personnel can access your personal information, and conduct security audits on data and technology in a timely manner.
+d. Although it has already been taken
+We have described reasonable and effective measures and complied with the standards required by relevant laws and regulations, but please understand that in the Internet industry, even if we try our best to strengthen security measures, it is impossible to always guarantee 100% security of information due to technical restrictions and possible malicious means. We will try our best to ensure the security of personal information you provide us.
+e. You acknowledge and understand that the system and communication network you use to access our services may experience issues due to factors beyond our control. Therefore, we strongly recommend that you take proactive measures to protect the security of your personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your account password and related personal information to others.
+f. We will develop emergency response plans and immediately activate them in case of user information security incidents, striving to prevent the impact and consequences of these security incidents from expanding. Once a user information security incident (leakage, loss) occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through push notifications, emails, letters, text messages, and other related forms. If it is difficult to inform you one by one, we will adopt a reasonable and effective way to publish announcements. At the same time, we will also report the handling of user information security incidents in accordance with the requirements of relevant regulatory authorities.
+g. Once you leave "ZAKER" and related services, browse or use other websites, services and content resources, we will have no ability or direct obligation to protect any personal information you submit on software or websites outside of ZAKER and related services, regardless of whether you log in, browse or use the above software or websites based on "ZAKER" links or guidance.
+6. Manage your personal information
+We attach great importance to your management of personal information and make every effort to protect your rights to query, access, modify, delete, revoke consent authorization, cancel accounts, file complaints and reports, and set personal updates only visible to yourself, so that you have the ability to protect your privacy and information security.
+6.1 Independent selection and control of personalized recommendation information
+6.1.1 Autonomous and controllable reception of information
+a. Autonomous decision to receive push notifications: Our information recommendation function may be based on automated decision-making mechanisms, including information systems and algorithms. While continuously improving and exploring optimization solutions for recommendation systems, we have also adopted strict auditing strategies at the auditing level. Specifically, to ensure your autonomy in receiving information, when you are not interested in the information we push or wish to reduce certain information recommendations, you can click on the "X" in the push information bar and select the relevant reasons for precise blocking.
+b. The information required for self subscription: In the subscription tab, the information of the channels you actively choose to follow will be displayed, and you can choose to subscribe or unsubscribe independently.
+6.1.2 Personalized Advertising Push
+a. Autonomous decision to receive personalized advertising information: Personalized advertising is one of the advertising display technologies, which is intelligently recommended by advertisers based on your preferences within their applications. ZAKER only provides personalized advertising docking technology and will not obtain your behavior or personal data in other applications. You can choose to turn off or turn on personalized advertising in "My" - "Privacy Settings" - "Personalized Service Push". When you turn it off, personalized services will not be pushed based on your personal information.
+6.2 Change or Withdrawal of Authorization Scope
+6.2.1 Changing or revoking sensitive permission settings
+a. You can turn off the camera, change the permission range of the photo album, or revoke your authorization in "My" - "Settings" - "Privacy Settings". After revoking authorization, we will no longer collect information related to these permissions.
+b. After using the mini program, you can manage the application permissions obtained by the mini program in the mini program interface, and you can revoke the application permission authorization for the mini program.
+6.2.2 Information processing for changing or revoking authorization
+Specific business functions and services will require your information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the functions and services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing that the company has previously carried out based on your authorization.
+6.3 Accessing, deleting, and correcting your personal information
+6.3.1 Accessing Personal Account Information
+You can search and access your avatar, username, and profile. You can search and access them in ZAKER's "My" - "Avatar" - "Edit" section.
+6.3.2 Query access, correct, and cancel your account and blacklist.
+a. Go to "My Avatar Follow" and search, access, and unfollow the accounts you follow in the follow list.
+b. View and access through "My Settings Privacy Settings Blocked Users", and you can "unblacklist" yourself.
+6.3.3 Query access, delete your favorites, read history, and search history.
+a. Click on 'My Favorites and History' to access and delete queries;
+b. Click on the search bar - delete search 'history';
+c. You can click on "My Settings" and then click on "Clear Cache".
+6.3.4 Delete published content, forwarded content, and comment content
+Enter ZAKER - "My - Click on Avatar - Enter Personal Homepage" or enter individual content through ZAKER - Click on the "..." symbol in the upper right corner of the individual content to delete it;
+Special reminder: Due to security and identity recognition considerations (such as number appeal services), you may not be able to independently modify certain initial registration information submitted during registration. If you really need to modify this type of registration information, please contact us using the contact information provided in this privacy policy.
+6.4 Account Cancellation
+You can apply to cancel your account in "My Settings Account Management Permanent Account Cancellation" on ZAKER. Before you cancel your account, we will verify your personal identity and security status. For the process and content of account cancellation, please refer to the "ZAKER Account Cancellation Notice"
+. You acknowledge and understand that the act of canceling an account is irreversible. After you cancel your account, we will delete relevant information about you or anonymize it, except as otherwise provided by laws and regulations.
+6.5 Complaints and Reports
+You can file a complaint or report according to our publicized system. If you believe that your personal information rights may be infringed, or if you discover clues of infringement of your personal information rights (such as believing that our collection of your personal information violates legal regulations or mutual agreements), "My Feedback", enter the user feedback interface and contact us. We will promptly provide feedback on your complaints and reports after verification.
+6.6 Access Privacy Policy
+a. You can view the entire content of this privacy policy in "My Settings About ZAKER/About Us" on ZAKER or through the www.myzaker.com website.
+b. Please be aware that the "ZAKER" and related services described in this privacy policy may vary depending on the phone model, system version, software application version, and mobile client factors you are using. The final product and service shall be based on the "ZAKER" software and related services you use.
+6.7 Notice of cessation of operation to you
+If we cease operations, we will promptly cease the collection of your personal information, notify you of the cessation of operations in the form of individual delivery or announcement, and delete or anonymize the personal information we hold about you.
+7. Personalized recommendations
+To recommend information that may be of greater interest to you, we collect browsing usage information, device information, and location information, and use recommendation automation to display content that may be of greater interest to you from a pool of information candidates. At the same time, we provide real-time feedback to the recommendation model based on your browsing behavior during product use, continuously adjusting and optimizing the recommendation results.
+7.1 Personalized Recommendation Mechanism
+7.1.1 We inform you of the user information collected for personalized recommendations, user feedback, and control information recommendations through this privacy policy and pop-up windows.
+7.1.2 We will collect your browsing behavior, browsing duration, device information, and location information from clicking, following, commenting, sharing, searching, and bookmarking within the app to achieve personalized recommendation analysis and calculation. Based on the calculation results, we will filter out content from the information candidate pool that you may be more interested in and push it.
+7.1.3 We will provide real-time feedback on the recommendation model based on your browsing behavior during the use of the product, and continuously adjust and optimize the recommendation results.
+7.2 Control and Management of Personalized Recommendations
+7.2.1 Autonomous and controllable reception of information
+Our relevant information recommendation function may be based on non manual automatic decision-making mechanisms, including information systems. You can control and manage personalized recommendations of information content through the following methods:
+a. Independently decide to receive personalized information:
+① You can turn on or off the personalized recommendation function through "My" - "Settings" - "Privacy Settings" - "Personalized Service Push". You can choose to turn off personalized recommendations with one click. When you choose to turn off all personalized recommendations, the "Recommendation" channel will no longer be displayed to you, and you will not be able to enjoy personalized recommendation services. However, you can still browse non personalized recommendation content including follow, popular, and news channels.
+② Content setting: We are committed to presenting you with high-quality interest information. You can choose to independently set the richness of your browsing content. When you are not interested in specific information or want to reduce certain information recommendations, you can click on the "X" in the information bar, select the relevant reasons, and we will adjust our strategy based on your feedback to achieve precise blocking;
+You can also subscribe to interest channels through self subscription, and you can choose to subscribe or unsubscribe from relevant channel information; At the same time, we also provide a "Feedback" portal to listen to your opinions and suggestions.
+b. When there is no content that interests you, you can also enter the keywords of interest in the search bar, click and read the search results.
+c. To avoid excessive acceptance of homogeneous information within a unit of time, the recommendation strategy will automatically insert other types of information and help you expand other information that may be of interest.
+d. Recommendation information utilizes natural language processing and NLP technologies, and recommendation engines will reduce or stop recommending low-quality content, including vulgar and clickbait content.
+7.2.2 Manage your programmatic ad push
+In order to provide you with free and high-quality services, we will try our best to show you advertisements that you may be more interested in and have higher relevant programs based on your use of the relevant services. At the same time, we will strive to ensure the security of data in this process.
+a. Autonomous decision to receive programmatic advertising information: Programmatic advertising is one of the advertising display technologies, which is intelligently recommended by advertisers based on your preferences within their applications. ZAKER only provides programmatic ad docking technology and does not obtain your behavior or personal data within other applications. You can choose to turn off or turn on programmatic ads in "My" - "Privacy Settings" - "Personalized Service Push". When you turn off, you will no longer receive such personalized ads, but you will still see them. The number of ads will not change, but the relevance of the ads will decrease.
+7.2.3 You can choose to use ZAKER's basic functions by turning on or off the basic functions in the privacy pop-up window, or turning off personalized recommendations in "My" - "Privacy Settings" - "Personalized Service Push" to enter the basic function mode and unable to see personalized recommendation content.
+8. Self start and associated start instructions
+To ensure that this application can receive client push broadcast information normally when it is closed or running in the background, this application must use (self start) capability to wake up the self start or associated start behavior of this application through the system sending broadcasts at a certain frequency, which is necessary for the implementation of functions and services. If you want to turn off the auto start function, it may result in the inability to receive broadcast messages pushed by the client normally. You can turn off the auto start feature in Settings - Apps - Self start Management.
+9. Provisions for Minors
+9.1 If you are a minor under the age of 18, when using "ZAK
+Before providing ER and related services, you should read and obtain the consent of your parents or legal guardians under their supervision and guidance.
+9.2 We protect the personal information of minors in accordance with relevant national laws and regulations. We will only collect, use, store, share, transfer or disclose the personal information of minors when permitted by law, with the explicit consent of parents or other guardians, or when necessary to protect minors; If we discover that personal information of minors has been collected without obtaining verifiable parental consent in advance, we will try to delete the relevant information as soon as possible.
+9.3 According to relevant laws and regulations, if you are a child under the age of 14, before using the relevant products or services, you should obtain the consent of your parents or legal guardians in advance according to the registration and use process, and have your parents or legal guardians assist you in completing the product or service registration process so that you can use the products or services we provide.
+9.4 If you are the guardian of a child, you should carefully read this policy, the specific privacy protection guidelines (if any) of the product, and the "Children's Privacy Protection Statement" before helping the child complete the registration and use of the product or service. You should decide whether to agree to this policy, the specific privacy protection guidelines (if any) of the product, and the "Children's Privacy Protection Statement" and assist the child in registration and use, so that the child can use the products or services we provide.
+9.5 If you have any questions or requests regarding the protection of personal information of the children under your guardianship, please contact us through the contact information disclosed in the "Children's Privacy Protection Statement" or this privacy policy. We will process and reply to you within a reasonable time.
+10. Revision and Notification of Privacy Policy
+a. In order to provide you with better services, ZAKER and related services will be updated and changed from time to time. We will revise this privacy policy in a timely manner, and these revisions constitute a part of this privacy policy and have the same effect as this privacy policy. Without your explicit consent, we will not reduce the rights you should enjoy under the current effective privacy policy.
+b. After the update of this privacy policy, we will issue an updated version on ZAKER and notify you of the updated content through the official website (www.myzaker. com) or other appropriate means before the updated terms take effect, so that you can keep up with the latest version of this privacy policy in a timely manner.
+11. Contact Us
+You can contact us through the following methods, and we will reply to your request within 15 working days:
+(1) If you have any questions, opinions or suggestions regarding the content of this policy, you can send an email to law@myzaker.com Contact us. Company Name: Guangzhou Jianhe Network Technology Co., Ltd. Office Address: Unit 1802, Main Building, No. 371-1 Wushan Road, Tianhe District, Guangzhou City, Guangdong Province;
+(2) If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also seek a solution by filing a lawsuit with the court with jurisdiction over the defendant's domicile.
+4. How do we store personal information
+4.1 Storage location
+We store your personal information collected and generated during our operations within the territory of the People's Republic of China in accordance with the provisions of laws and regulations. At present, we will not transmit the above information overseas. If we do so, we will comply with relevant national regulations or seek your consent.
+4.2 Storage period
+We only retain your personal information for the period necessary to provide "ZAKER" and services: the information, comments, likes, and related information you post will be retained until you withdraw, delete, or cancel your account. After the necessary period, we will delete or anonymize your personal information, except as otherwise provided by laws and regulations.
+5. How do we protect the security of personal information
+a. We attach great importance to the security of your personal information and will strive to take reasonable security measures (including technical and management aspects) to protect your personal information, prevent the personal information you provide from being improperly used or accessed, publicly disclosed, used, modified, damaged, lost or leaked without authorization.
+b. We will use encryption technology, anonymization, and other reasonable and feasible means that are not inferior to those of our industry peers to protect your personal information, and use security protection mechanisms to prevent malicious attacks on your personal information.
+c. We will establish a dedicated security department, security management system, and data security process to ensure the security of your personal information. We adopt strict data usage and access regulations to ensure that only authorized personnel can access your personal information, and conduct security audits on data and technology in a timely manner.
+d. Although the above reasonable and effective measures have been taken and the standards required by relevant laws and regulations have been complied with, please understand that in the Internet industry, even if we try our best to strengthen the security measures, it is impossible to always guarantee the security of information 100% due to technical restrictions and possible malicious means. We will try our best to ensure the security of the personal information you provide us.
+e. You acknowledge and understand that the system and communication network you use to access our services may experience issues due to factors beyond our control. Therefore, we strongly recommend that you take proactive measures to protect the security of your personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your account password and related personal information to others.
+f. We will develop emergency response plans and immediately activate them in case of user information security incidents, striving to prevent the impact and consequences of these security incidents from expanding. Once a user information security incident (leakage, loss) occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through push notifications, emails, letters, text messages, and other related forms. If it is difficult to inform you one by one, we will adopt a reasonable and effective way to publish announcements. At the same time, we will also monitor according to photographic standards
+The management department requires reporting on the handling of user information security incidents.
+g. Once you leave "ZAKER" and related services, browse or use other websites, services and content resources, we will have no ability or direct obligation to protect any personal information you submit on software or websites outside of ZAKER and related services, regardless of whether you log in, browse or use the above software or websites based on "ZAKER" links or guidance.
+6. Manage your personal information
+We attach great importance to your management of personal information and make every effort to protect your rights to query, access, modify, delete, revoke consent authorization, cancel accounts, file complaints and reports, and set personal updates only visible to yourself, so that you have the ability to protect your privacy and information security.
+6.1 Independent selection and control of personalized recommendation information
+6.1.1 Autonomous and controllable reception of information
+a. Autonomous decision to receive push notifications: Our information recommendation function may be based on automated decision-making mechanisms, including information systems and algorithms. While continuously improving and exploring optimization solutions for recommendation systems, we have also adopted strict auditing strategies at the auditing level. Specifically, to ensure your autonomy in receiving information, when you are not interested in the information we push or wish to reduce certain information recommendations, you can click on the "X" in the push information bar and select the relevant reasons for precise blocking.
+b. The information required for self subscription: In the subscription tab, the information of the channels you actively choose to follow will be displayed, and you can choose to subscribe or unsubscribe independently.
+6.1.2 Personalized Advertising Push
+a. Autonomous decision to receive personalized advertising information: Personalized advertising is one of the advertising display technologies, which is intelligently recommended by advertisers based on your preferences within their applications. ZAKER only provides personalized advertising docking technology and will not obtain your behavior or personal data in other applications. You can choose to turn off or turn on personalized advertising in "My" - "Privacy Settings" - "Personalized Service Push". When you turn it off, personalized services will not be pushed based on your personal information.
+6.2 Change or Withdrawal of Authorization Scope
+6.2.1 Changing or revoking sensitive permission settings
+a. You can turn off the camera, change the permission range of the photo album, or revoke your authorization in "My" - "Settings" - "Privacy Settings". After revoking authorization, we will no longer collect information related to these permissions.
+b. After using the mini program, you can manage the application permissions obtained by the mini program in the mini program interface, and you can revoke the application permission authorization for the mini program.
+6.2.2 Information processing for changing or revoking authorization
+Specific business functions and services will require your information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the functions and services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing that the company has previously carried out based on your authorization.
+6.3 Accessing, deleting, and correcting your personal information
+6.3.1 Accessing Personal Account Information
+You can search and access your avatar, username, and profile. You can search and access them in ZAKER's "My" - "Avatar" - "Edit" section.
+6.3.2 Query access, correct, and cancel your account and blacklist.
+a. Go to "My Avatar Follow" and search, access, and unfollow the accounts you follow in the follow list.
+b. View and access through "My Settings Privacy Settings Blocked Users", and you can "unblacklist" yourself.
+6.3.3 Query access, delete your favorites, read history, and search history.
+a. Click on 'My Favorites and History' to access and delete queries;
+b. Click on the search bar - delete search 'history';
+c. You can click on "My Settings" and then click on "Clear Cache".
+6.3.4 Delete published content, forwarded content, and comment content
+Enter ZAKER - "My - Click on Avatar - Enter Personal Homepage" or enter individual content through ZAKER - Click on the "..." symbol in the upper right corner of the individual content to delete it;
+Special reminder: Due to security and identity recognition considerations (such as number appeal services), you may not be able to independently modify certain initial registration information submitted during registration. If you really need to modify this type of registration information, please contact us using the contact information provided in this privacy policy.
+6.4 Account Cancellation
+You can apply to cancel your account in "My Settings Account Management Permanent Account Cancellation" on ZAKER. Before you cancel your account, we will verify your personal identity and security status. For the process and content of account cancellation, please refer to the "ZAKER Account Cancellation Notice". You acknowledge and understand that the act of canceling an account is irreversible. After you cancel your account, we will delete relevant information about you or anonymize it, except as otherwise provided by laws and regulations.
+6.5 Complaints and Reports
+You can file a complaint or report according to our publicized system. If you believe that your personal information rights may be infringed, or if you discover clues of infringement of your personal information rights (such as believing that our collection of your personal information violates legal regulations or mutual agreements), "My Feedback", enter the user feedback interface and contact us. We will promptly provide feedback on your complaints and reports after verification.
+6.6 Access Privacy Policy
+a. You can view the entire content of this privacy policy in "My Settings About ZAKER/About Us" on ZAKER or through the www.myzaker.com website.
+b. Please be aware that the "ZAKER" and related services described in this privacy policy may vary depending on the phone model, system version, software application version, and mobile client factors you are using. The final product and service shall be based on the "ZAKER" software and related services you use.
+6.7 Notice of cessation of operation to you
+If we cease operations, we will promptly cease the collection of your personal information, notify you of the cessation of operations in the form of individual delivery or public announcement, and provide feedback to all parties involved
+The personal information held about you will be deleted or anonymized.
+7. Personalized recommendations
+8. Terms of Use for Minors
+9. Revision and Notification of Privacy Policy
+10. Contact Us
+1.1 Information Collection in "Browse Only" Mode
+1.2 Registration, Login, and Authentication
+1.2.1 Registration and Login
+1.2.2 Certification
+1.3 Information browsing
+1.4 Information Release and Interaction
+1.4.1 Information Release
+1.4.2 Interactive Communication
+1.5 Search
+1.6 QR code scanning
+1.7 Operations and Security Assurance
+1.7.1 Operations and Security
+1.7.2 Equipment Information and Log Information
+1.8 Change in the purpose of collecting and using personal information
+1.9 Personal Information Exempted from Consent to Collection and Use According to Law
+1.10 Sensor Application Scenarios
+2.1 Ensure the safe and efficient operation of products and services
+2.2 Help you achieve a more relaxed access experience
+2.3 Recommend, display, and push content or accounts that may be of interest to you
+3.1 Sharing
+3.1.1 Principle of Sharing
+3.1.2 Shared information for implementing functions or services
+3.1.3 Implement shared information related to advertising
+3.1.4 Implement shared information for security and analysis statistics
+a. Ensuring usage security: We attach great importance to a good environment for accounts, services, and network information services. To protect the legitimate rights and interests of you and other users, and maintain the information network environment, we may share necessary equipment and log information with our affiliates or service providers.
+b. Analyzing product usage: In order to analyze the usage of our services and improve user experience, we may share de identified data on product sources and usage (including crashes, crashes, crashes, and usage duration) with related parties or third parties. These data are difficult to combine with other information to identify your personal identity.
+3.1.5 Assist you in participating in marketing and promotional activities
+a. We will not transfer your personal information to any other third party unless we obtain your explicit consent.
+a. We will not publicly disclose your information unless we comply with national laws and regulations or obtain your consent. We will adopt security measures that comply with industry standards when publicly disclosing your personal information
+b. When issuing punishment notices for illegal accounts and fraudulent behavior, we will disclose information about the relevant accounts.
+d. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+e. For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+4.1 Storage location
+4.2 Storage period
+a. We attach great importance to the security of your personal information and will strive to take reasonable security measures (including technical and management aspects) to protect your personal information, prevent the personal information you provide from being improperly used or accessed, publicly disclosed, used, modified, damaged, lost or leaked without authorization.
+b. We will use encryption technology, anonymization, and other reasonable and feasible means that are not inferior to those of our industry peers to protect your personal information, and use security protection mechanisms to prevent malicious attacks on your personal information.
+c. We will establish a dedicated security department, security management system, and data security process to ensure the security of your personal information. We adopt strict data usage and access regulations to ensure that only authorized personnel can access your personal information, and conduct security audits on data and technology in a timely manner.
+d. Although the above reasonable and effective measures have been taken and the standards required by relevant laws and regulations have been complied with, please understand that in the Internet industry, even if we try our best to strengthen the security measures, it is impossible to always guarantee the security of information 100% due to technical restrictions and possible malicious means. We will try our best to ensure the security of the personal information you provide us.
+e. You acknowledge and understand that the system and communication network you use to access our services may experience issues due to factors beyond our control. Therefore, we strongly recommend that you take proactive measures to protect the security of your personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your account password and related personal information to others.
+f. We will develop emergency response plans and immediately activate them in case of user information security incidents, striving to prevent the impact and consequences of these security incidents from expanding. Once a user information security incident (leakage, loss) occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through push notifications, emails, letters, text messages, and other related forms. If it is difficult to inform you one by one, we will adopt a reasonable and effective way to publish announcements. At the same time, we will also report the handling of user information security incidents in accordance with the requirements of relevant regulatory authorities.
+6.1 Independent selection and control of personalized recommendation information
+6.1.1 Autonomous and controllable reception of information
+a. Autonomous decision to receive push notifications: Our information recommendation function may be based on automated decision-making mechanisms, including information systems and algorithms. While continuously improving and exploring optimization solutions for recommendation systems, we have also adopted strict auditing strategies at the auditing level. Specifically, to ensure your autonomy in receiving information, when you are not interested in the information we push or wish to reduce certain information recommendations, you can click on the "X" in the push information bar and select the relevant reasons for precise blocking.
+b. The information required for self subscription: In the subscription tab, the information of the channels you actively choose to follow will be displayed, and you can choose to subscribe or unsubscribe independently.
+6.1.2 Personalized Advertising Push
+6.2 Change or Withdrawal of Authorization Scope
+6.2.1 Changing or revoking sensitive permission settings
+a. You can turn off the camera, change the permission range of the photo album, or revoke your authorization in "My" - "Settings" - "Privacy Settings". After revoking authorization, we will no longer collect information related to these permissions
+.
+b. After using the mini program, you can manage the application permissions obtained by the mini program in the mini program interface, and you can revoke the application permission authorization for the mini program.
+6.2.2 Information processing for changing or revoking authorization
+6.3.1 Accessing Personal Account Information
+6.3.2 Query access, correct, and cancel your account and blacklist.
+b. View and access through "My Settings Privacy Settings Blocked Users", and you can "unblacklist" yourself.
+6.3.3 Query access, delete your favorites, read history, and search history.
+a. Click on 'My Favorites and History' to access and delete queries;
+b. Click on the search bar - delete search 'history';
+6.3.4 Delete published content, forwarded content, and comment content
+6.4 Account Cancellation
+6.5 Complaints and Reports
+6.6 Access Privacy Policy
+6.7 Notice of cessation of operation to you
+To recommend information that may be of greater interest to you, we collect browsing usage information, device information, and location information, and use recommendation automation to display content that may be of greater interest to you from a pool of information candidates. At the same time, we provide real-time feedback to the recommendation model based on your browsing behavior during product use, continuously adjusting and optimizing the recommendation results.
+7.1 Personalized Recommendation Mechanism
+7.1.1 We inform you of the user information collected for personalized recommendations, user feedback, and control information recommendations through this privacy policy and pop-up windows.
+7.1.2 We will collect your browsing behavior, browsing duration, device information, and location information from clicking, following, commenting, sharing, searching, and bookmarking within the app to achieve personalized recommendation analysis and calculation. Based on the calculation results, we will filter out content from the information candidate pool that you may be more interested in and push it.
+7.1.3 We will provide real-time feedback on the recommendation model based on your browsing behavior during the use of the product, and continuously adjust and optimize the recommendation results.
+7.2 Control and Management of Personalized Recommendations
+7.2.1 Autonomous and controllable reception of information
+Our relevant information recommendation function may be based on non manual automatic decision-making mechanisms, including information systems. You can control and manage personalized recommendations of information content through the following methods:
+a. Independently decide to receive personalized information:
+① You can turn on or off the personalized recommendation function through "My" - "Settings" - "Privacy Settings" - "Personalized Service Push". You can choose to turn off personalized recommendations with one click. When you choose to turn off all personalized recommendations, the "Recommendation" channel will no longer be displayed to you, and you will not be able to enjoy personalized recommendation services. However, you can still browse non personalized recommendation content including follow, popular, and news channels.
+② Content setting: We are committed to presenting you with high-quality interest information. You can choose to independently set the richness of your browsing content. When you are not interested in specific information or want to reduce certain information recommendations, you can click on the "X" in the information bar, select the relevant reasons, and we will adjust our strategy based on your feedback to achieve precise blocking;
+You can also subscribe to interest channels through self subscription, and you can choose to subscribe or unsubscribe from relevant channel information; At the same time, we also provide a "Feedback" portal to listen to your opinions and suggestions.
+b. When there is no content that interests you, you can also enter the keywords of interest in the search bar, click and read the search results.
+c. To avoid excessive acceptance of homogeneous information within a unit of time, the recommendation strategy will automatically insert other types of information and help you expand other information that may be of interest.
+d. Recommendation information utilizes natural language processing and NLP technologies, and recommendation engines will reduce or stop recommending low-quality content, including vulgar and clickbait content.
+7.2.2 Manage your programmatic ad push
+In order to provide you with free and high-quality services, we will try our best to show you advertisements that you may be more interested in and have higher relevant programs based on your use of the relevant services. At the same time, we will strive to ensure the security of data in this process.
+a. Autonomous decision to receive programmatic advertising information: Programmatic advertising is one of the advertising display technologies, which is intelligently recommended by advertisers based on your preferences within their applications. ZAKER only provides programmatic ad docking technology and does not obtain your behavior or personal data within other applications. You can choose to turn off or turn on programmatic ads in "My" - "Privacy Settings" - "Personalized Service Push". When you turn off, you will no longer receive such personalized ads, but you will still see them. The number of ads will not change, but the relevance of the ads will decrease.
+7.2.3 You can choose to use ZAKER's basic functions by turning on or off the basic functions in the privacy pop-up window, or turning off personalized recommendations in "My" - "Privacy Settings" - "Personalized Service Push" to enter the basic function mode and unable to see personalized recommendation content.
+8. Self start and associated start instructions
+To ensure that this application can receive client push broadcast information normally when it is closed or running in the background, this application must use (self start) capability to wake up the self start or associated start behavior of this application through the system sending broadcasts at a certain frequency, which is necessary for the implementation of functions and services. If you want to turn off the auto start function, it may result in the inability to receive broadcast messages pushed by the client normally. You can turn off the auto start feature in Settings - Apps - Self start Management.
+9. Provisions for Minors
+9.1 If you are a minor under the age of 18, before using "ZAKER" and related services, you should read and obtain the consent of your parents or legal guardians to this privacy policy under their supervision and guidance.
+9.2 We protect the personal information of minors in accordance with relevant national laws and regulations. We will only collect, use, store, share, transfer or disclose the personal information of minors when permitted by law, with the explicit consent of parents or other guardians, or when necessary to protect minors; If we discover situations where verifiable parental consent has not been obtained beforehand
+If personal information of minors is collected, efforts will be made to delete the relevant information as soon as possible.
+9.3 According to relevant laws and regulations, if you are a child under the age of 14, before using the relevant products or services, you should obtain the consent of your parents or legal guardians in advance according to the registration and use process, and have your parents or legal guardians assist you in completing the product or service registration process so that you can use the products or services we provide.
+9.4 If you are the guardian of a child, you should carefully read this policy, the specific privacy protection guidelines (if any) of the product, and the "Children's Privacy Protection Statement" before helping the child complete the registration and use of the product or service. You should decide whether to agree to this policy, the specific privacy protection guidelines (if any) of the product, and the "Children's Privacy Protection Statement" and assist the child in registration and use, so that the child can use the products or services we provide.
+9.5 If you have any questions or requests regarding the protection of personal information of the children under your guardianship, please contact us through the contact information disclosed in the "Children's Privacy Protection Statement" or this privacy policy. We will process and reply to you within a reasonable time.
+10. Revision and Notification of Privacy Policy
+a. In order to provide you with better services, ZAKER and related services will be updated and changed from time to time. We will revise this privacy policy in a timely manner, and these revisions constitute a part of this privacy policy and have the same effect as this privacy policy. Without your explicit consent, we will not reduce the rights you should enjoy under the current effective privacy policy.
+b. After the update of this privacy policy, we will issue an updated version on ZAKER and notify you of the updated content through the official website (www.myzaker. com) or other appropriate means before the updated terms take effect, so that you can keep up with the latest version of this privacy policy in a timely manner.
+11. Contact Us
+You can contact us through the following methods, and we will reply to your request within 15 working days:
+(1) If you have any questions, opinions or suggestions regarding the content of this policy, you can send an email to law@myzaker.com Contact us. Company Name: Guangzhou Jianhe Network Technology Co., Ltd. Office Address: Unit 1802, Main Building, No. 371-1 Wushan Road, Tianhe District, Guangzhou City, Guangdong Province;
+(2) If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also seek a solution by filing a lawsuit with the court with jurisdiction over the defendant's domicile.

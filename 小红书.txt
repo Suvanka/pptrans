@@ -1,0 +1,288 @@
+Xiaohongshu (hereinafter referred to as "we") respects and protects the personal information and privacy security of all Xiaohongshu users. In order to provide you with more accurate and personalized services and a more secure Internet environment at the same time, we have clarified the principles of our collection/use/external provision of personal information and further elaborated the rights related to your personal information in accordance with the Network Security Law of the People's Republic of China, the Personal Information Protection Law of the People's Republic of China, the Civil Code of the People's Republic of China, the Personal Information Security Specification for Information Security Technology and other relevant laws, regulations and technical specifications.
+We have used bold font to distinguish the clauses in this policy that may have a significant relationship with your rights. Please review them carefully.
+Xiaohongshu specifically reminds minors under the age of 18 (especially children under the age of 14) and their guardians to pay attention. We have identified a dedicated chapter for the protection of minors (highlighted in bold), please read it carefully.
+Please carefully read and fully understand this policy before using/continuing to use our products and services, and make appropriate choices according to the guidance of this policy when necessary. If you do not agree with the content of this policy, it may cause our products and/or services to malfunction or fail to achieve the intended service effect. You should immediately stop accessing/using our products and/or services. Your use or continued use of the products and/or services we provide indicates that you fully understand and agree to all the contents of this "Xiaohongshu User Privacy Policy" (including updated versions).
+About Us
+The operator of the Xiaohongshu website and app is Xingyin Information Technology (Shanghai) Co., Ltd. and its affiliated companies.
+The registered address is Room C201, C202, C203, C204, C205, C206, C207, Building C, SOHO Fuxing Plaza, 368 Madang Road, Huangpu District, Shanghai.
+catalogue
+1、 How do we collect and use your personal information
+2、 How do we share, transfer, and publicly disclose your personal information
+3、 How do we store and protect your personal information
+4、 How do you manage your personal information
+5、 How do you cancel your account
+6、 Special instructions regarding third-party provision of products and/or services
+7、 How do we use cookies and other similar technologies
+8、 Protection of Minors
+9、 How do we update our privacy policy
+10、 How to contact us
+11、 Other
+1、 How do we collect and use your personal information
+You understand and agree that:
+Xiaohongshu is a lifestyle platform for young people, with the mission of "Inspire Lives to share and discover the wonders of the world". Users can record their daily lives through short videos, graphics, and other forms, share their lifestyles, and interact based on their interests. We will explain to you in this policy the scope of personal information that each function may collect, the purpose of collection, the method of collection, and the possible consequences of refusing to provide personal information. Please be informed that when you refuse to provide the necessary corresponding information for implementing various functions, you can still use other functions of the Xiaohongshu App.
+We will follow the principles of legitimacy, legality, and necessity to collect and use personal information that you voluntarily provide or generate as a result of using our products and/or services for the purposes described in this policy. If we want to use your personal information for other purposes not specified in this policy, or use the collected information for other purposes based on specific purposes, we will inform you in a reasonable manner and obtain your consent again before use. You can view the details through 'Me Settings Personal Information Collection Checklist'.
+1. Account registration and login
+Mobile phone number and network operator information
+【 Interest 】 and 【 Age 】
+Click on [...] - [Skip this step]
+If you use a third-party account to log in, in order to meet the requirements of network real name authentication, we will collect your mobile phone number separately to complete real name authentication before you use the functions and services that require real name authentication such as posting, commenting, and others.
+1.3.  You can also choose to fill in or change your profile picture, name, gender, birthday, occupation, region, school, profile, and dressing information according to your own needs to improve your information. However, if you do not provide such information, it will not affect your use of this product and related services.
+1.4.  If you successfully register a Xiaohongshu account, we will display your name, avatar, region, and profile information in the Xiaohongshu application and website.
+2. Provide you with products and/or services
+2.1. Information browsing, publishing, liking, bookmarking, and sharing functions
+You fill in your personal information, your gender, birthday, browsing history (your follow, browse), and click operation history (interests, clicks, searches, likes, favorites, shares, comments, posting history, and related behaviors). If you wish to turn off our recommendations based on relevant information, you can refer to section 2.14 of this policy.
+2.1.2. When you use the publish and edit content function, we will request your authorization to store (albums, media, and other files), camera (camcorder), microphone (recording) permissions. If you refuse to provide authorization, you will not be able to use the corresponding functions, but it will not affect your normal use of other functions of Xiaohongshu.
+In order to improve the upload speed of videos, enrich publishing functions, and optimize the experience, we will temporarily load your edited videos to the server before you click "publish notes". If you exit the editing page or for other reasons do not publish your notes, we will immediately delete the relevant video. You can turn off this feature by going to "Me Settings General Settings Do not allow pre uploading videos when publishing".
+When you post interactive content such as notes and live broadcasts, we will use your authorized geographic location information to determine the geographic location where you posted the content, and use this information to recommend the content you posted to other users in the future.
+With your consent, we will display your live broadcast room link and other live broadcast information to users on the nearby map interface based on your location information when you start the live broadcast, making it convenient for users in the agreed geographical area to discover and access your live broadcast room. Please note that in order to protect your privacy, if the map accuracy is too high, we will not
+Display your live streaming information on the map. You can withdraw your consent by going to Settings - Geographic Location - Hide My Geographic Location on the pre live streaming page.
+The text, photos, videos, audio, comments, likes, favorites, and sharing records you post will be stored on our servers,
+We will use your geographic location information to generate stickers
+We will also use the location information from the media information that comes with the image/video when recommending geographic anchor points
+2.1.5 When you enable and use the "Limited Memories" function, we will automatically analyze and filter the pictures and videos in your device's album based on the shooting information (time, scene, and location), and generate videos for you. To achieve the best editing effect, we need to collect shooting information for analysis before each video generation. We promise not to store any information. After you authorize the activation of the "Limited Memories" function, we will only analyze and filter within the scope of the photo album you authorize access to. You can turn on or off this feature through the path prompted in Article 4, Paragraph 3 of this Privacy Policy.
+2.2. Safe operation and risk control verification. In order to ensure the secure operation of software and services, prevent the illegal acquisition of your personal information, and more accurately prevent fraud and protect account security, we will actively collect your device information, including device/hardware model, device name, SIM card serial number (such as ICCID), hardware/device serial number (SN), and device unique identifier (including IMEI) IMSI、Android ID、IDFA、IDFV、OAID、MEID）】、 The running processes, storage (albums, media, and other files), browser type and settings, language settings, sensors, operating system, operating system version number and application version, application list, network device hardware address (MAC address), WLAN-MAC, WLAN access point (such as SSID, BSSID), IP address, Bluetooth address, network access method, network quality data, base station, mobile network information (including operator name), device sensor data (such as acceleration sensor, linear acceleration sensor, gravity sensor, gyro sensor), software version number, and software usage record information are uploaded to the server for security risk verification. If you do not agree to our collection of the aforementioned information, we may not be able to complete the risk control verification. Please understand that in order to dynamically detect any abnormal login to your account, every time you switch to the background or restart the program on Xiaohongshu, we may read it again. We will control the frequency of reading within a reasonable range. In order to maintain network security and ensure a good ecosystem, the geographical information corresponding to your IP address will be displayed on your personal profile page, note publishing page, and comments. Displayed domestically to provinces (regions, cities) and overseas to countries (regions), with information based on network operator data.
+Your search instructions (which may be in text or image form), reading history and visit time, comments and interaction records
+2.4. Geographic based functional services. When you authorize the location function of your mobile device through the system and use the related services provided by Xiaohongshu based on geographical location (including location-based content recommendation, nearby functions, display of local life information and interactive content on the nearby function map interface, location positioning during content publishing, shopping editing and receiving information, and data editing), we will collect and use your location information to provide you with the above services. You can turn off location services in the system of your mobile device to stop us from collecting your location information, but it does not affect your normal use of other functions of Xiaohongshu. We will only display potentially relevant content or services to you based on network information (such as IP) or corresponding geographic location information authorized by you, corresponding to the city and/or district and/or street.
+2.5. Interactive functions and services.
+The account you are following and the aforementioned information
+Your address book information
+If you do not want to be recommended, you can choose to turn it off in [Me] - click on the top left corner - [Settings] - [Privacy Settings] - [Do not recommend me to people you may know]. Address book information is personal sensitive information, and refusing to provide this information will only prevent you from using the above functions
+We may request address book access from you
+We may request camera permission from you
+2.5.5.  When you use the group chat function for interactive communication, we collect information related to the group and its members, and form a group list.
+2.5.6.  Live room interaction
+If you are a live streamer, your nickname and profile picture will be displayed in the live room. At the same time, interactive information and statistical data such as comments, gifts, likes, number of online viewers, and live streaming duration that you receive in the live streaming room will also be publicly displayed.
+If you are a live streaming user, your nickname, avatar, and other public account information, as well as interactive information within the live streaming room (including but not limited to comments, gifts, online status, etc.), will be publicly displayed in the live streaming room. At the same time, we will generate statistical data within the live streaming room based on your interactive activity (such as rankings, popularity, etc.) and display it publicly.
+In order to provide you with high-quality interactive services, your account's public information such as nickname and avatar, as well as the interaction information between you and the host in the live broadcast room (such as following, commenting, liking, gifts, etc.), may be synchronized for the host to view.
+The wallet will record your recharge, balance, and usage
+2.7. Identity authentication function and account retrieval.
+2.7.1. When you apply to become an authenticated user using the identity authentication function, we may collect your identity information, including your real name, ID number or photo, facial recognition information, to verify your personal identity. If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+2.7.2. When you use the account recovery function, we may collect your identity information, including your real name, ID number or photo, facial recognition information, to verify your identity and facilitate the recovery of your Xiaohongshu account. If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+Your real name, ID number or photo, and facial recognition information are used to verify your identity
+identity. If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+ID number or photo, facial recognition information
+If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+Your real name, ID number or photo, and facial recognition information are used to verify your personal identity; To help you successfully complete the product cooperation, we may collect your phone number or WeChat account. If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+Your real name, ID number or photo, Xiaohongshu account information, occupation, education, and income details. If you refuse to provide it, it will not affect the normal use of other functions on Xiaohongshu.
+Trade product/service information, order number, order time, transaction amount, payment method, recipient name, address, contact phone number, logistics information.
+For example, when it comes to cross-border transactions, you need to provide your real name, ID number, and photos of the front and back of your ID to complete customs clearance.
+Online communication records, telephone recordings
+In order to ensure the service experience and handle service disputes, the call information between you and customer service may be recorded. The rules for collecting and using the above information are as follows:
+2.9.1. When you have a dispute with the platform or merchant using the Xiaohongshu service, we may retrieve and use the recorded information as a reference for resolving the dispute.
+2.9.2. In order to provide you with customer service and after-sales service, we may store your call recordings in third-party customer service systems, and we will ensure that third parties cannot access your call recordings through protocol constraints or other means; Except for the following circumstances, the platform will not provide recordings to anyone (including the calling party and the called party): a. Authorized authorities may retrieve them in accordance with legal procedures; b. The recorded party shall retrieve the legal document issued by the judicial authority in accordance with the law.
+2.10. Payment function. You can purchase goods/services and membership services on Xiaohongshu. You may need to pay when using this function. During the payment process, we may collect your third-party payment accounts (Alipay account, WeChat account, UnionPay account and related accounts).
+2.11. Information pre filling function. When you fill out forms or order information on the Xiaohongshu platform, in order to save you time, we will automatically fill in the form information based on the name, gender (if any), phone number, and region (if any) provided to the platform during your registration and shopping.
+Collect your storage (albums, media, and other files), camera (camcorder) permissions, or facial information to provide you with this service after obtaining your separate consent through a pop-up window. But we will not store your facial feature information after providing skin testing and makeup testing services. If you refuse to provide the aforementioned facial feature information, you will not be able to experience our skin and makeup testing functions, but it will not affect the normal use of other functions on Xiaohongshu.
+Facial feature information
+2.13. To ensure that you can maintain instant communication with the backend server when using the Xiaohongshu platform services, and that you can receive personalized content push notifications in a timely manner, we will: i) obtain and call your startup broadcast permission to launch Xiaohongshu or its affiliated mobile client software; ii) use third-party message push services to generate identification IDs for you to distinguish the uniqueness of your device; iii) read the status of your phone to determine whether the Xiaohongshu software is in the frontend or backend, in order to improve the timeliness of push services.
+You search/play/display recommended content, audio and video playback records on the Xiaohongshu platform, and use the personal information you fill in (such as gender, age, birthday).
+Device information (including device information and application list information as described in section 2.2)
+Browse usage information and purchase records
+(Please understand that individual device information cannot identify the identity information of a specific natural person. If we combine this non personal information with other information to identify the identity of a specific natural person, or use it in combination with personal information, during the combined use period, this non personal information will be considered personal information. Unless authorized by you or otherwise required by laws and regulations, we will anonymize this type of personal information.)
+2.16. In the event that you share or are shared with information or participate in activities, we need to access your clipboard, read the passwords, sharing codes, and links contained therein, in order to enable you to access jump, share, and activity linkage functions or services.
+2.17. Summary of device permission calls
+We summarize the main device permissions that Xiaohongshu will call upon during the service provision process as follows. You can choose to disable some or all permissions in the device's settings function. The display and closing methods of permissions may vary among different devices. Please refer to the instructions or guidelines provided by the device and system developers for specific details
+1. Content release
+2. Live streaming
+3. Messages and chats
+1. Recording when publishing content
+2. Record when opening live streaming and live streaming connection
+3. Send voice messages when chatting with other users and record short video content when posting to the online customer service of the mall
+1. Discover or recommend friends
+2. Edit shipping information while shopping
+1. Discover or recommend friends in the address book (including message push format)
+2. When users purchase goods or services, edit the receiving information
+1. Live streaming
+2. Content notes
+3. Skin testing and makeup testing functions
+4. Scan and sweep
+5. News
+6. Registration and authentication
+7. AR shooting function
+1. Shoot during live streaming
+2. Take photos when publishing content
+3. Take photos when using skin and makeup testing functions
+4. Scan QR codes related to adding friends or activities
+5. Take photos while chatting with other users
+6. Take photos during registration and authentication
+7. When using AR shooting function for shooting
+1. Live event reminder
+2. Chat activity reminder
+1. Live streaming
+2. Chat
+1. Content recommendation
+2. Content release
+3. Edit shipping information while shopping
+4. Data editing
+5. Safe operation and risk control verification
+1. Recommend content based on the user's location, such as the map display function for nearby features
+2. When users post content, locate the area where they are located, and if the user uses the
+Positioning stickers, publishing positioning tags, using tagging functions, live broadcast positioning
+3. When users purchase goods or services, edit the receiving information
+4. Personal page editing region
+Article 2.2 of this policy describes
+1. Registration and authentication
+2. Content release
+3. Edit shipping information while shopping
+4. Data editing
+5. Safe operation and risk control verification
+1. Recommend content based on the user's location, such as the map display function for nearby features
+2. When users post content, locate their location, such as using stickers with location information, posting location tags, using tagging functions, and live streaming location
+3. When users purchase goods or services, edit the receiving information
+4. Personal page editing region
+Article 2.2 of this policy describes
+1. Registration and authentication
+3. Content saving
+4. Live streaming
+5. Skin testing and makeup testing
+6. Message
+7. Share
+8. Data Editing
+9. Feedback
+10. Scan and sweep
+11. Safe operation and risk control verification
+1. Upload photos or videos during registration and authentication
+2. Read album and media content and store them when publishing content
+3. Log information recording and information caching
+4. Live streaming: Upload photos, download live streaming content, watch local videos
+5. When using skin testing and makeup testing functions
+6. Message: Download private messages and read album content when communicating with online customer service of the mall
+7. Screenshot sharing
+8. Read album content when selecting avatar images for editing materials
+9. Read album content when using the "Feedback" function
+10. Scan the QR code related to adding friends or activities to read the content of the album
+11. App Security Operation and Risk Control Verification
+1. APP safe operation and risk control verification
+2. Content recommendation
+3. Display and other functional optimizations
+Article 2.2 of this policy describes
+2. Article 2.15 of this policy describes
+3. Display and other functional optimizations
+Article 2.2 of this policy describes
+2. Article 2.15 of this policy describes
+3. Display and other functional optimizations
+3. We may indirectly obtain your personal information from third parties
+If you use an account on a third-party platform to log in, after you explicitly authorize the account binding, the third-party platform will synchronize with us the avatar, nickname, region (if any), gender (if any), and friend information (for the Weibo platform) you use on the platform, so that you can directly log in and use Xiaohongshu.
+If you do not want to be recommended to Weibo friends, you can choose to turn off it in 【 Me 】 - 【 Settings 】 - 【 Privacy 】 - 【 Do not recommend me to Weibo friends 】.
+4. Exceptions to obtaining authorization and consent
+According to relevant laws and regulations, we may collect and use necessary personal information without your authorization and consent in the following situations:
+(1) Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+(2) Necessary for fulfilling statutory duties or obligations;
+(3) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(4) To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+(5) According to the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+(6) Other circumstances stipulated by laws and regulations.
+2、 How do we share, transfer, and publicly disclose your personal information
+1. Sharing:
+We will not share your personal information with any company, organization, or individual unless one or more of the following situations exist:
+(1) We have obtained your authorization in advance;
+(2) You raised it yourself;
+(3) Necessary sharing with business partners:
+You understand and acknowledge that in order to provide you with more comprehensive and high-quality products and services, we will authorize our business partners to provide you with some services. In this situation, we may share some of your personal information with our partners to provide better customer service and user experience. Please note that we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. We will conduct security assessments and processing on the output form, flow, and use of information data to protect data security. At the same time, we will strictly supervise and manage our partners. Once any violation of personal information processing is discovered, we will immediately cease cooperation and hold them legally responsible.
+At present, our partners include the following types, please refer to the "Third Party Information Sharing List" for details:
+Your order and transaction related information
+Your relevant delivery information
+De identified device information or statistical information
+Please be informed that for the sake of your information security, we currently only cooperate with partners who have signed strict data security and confidentiality agreements.
+D. Content audit service provider: To ensure the security of the content published by users on the Internet information platform, we may share the content information you publish on the platform with the entrusted third-party content audit service provider.
+E. Real name authentication and verification service provider: When you perform real name authentication or use the account recovery function, we will share your personal information with a third-party verification service provider so that you can successfully recover your account.
+F. The service provider for the skin testing function: The specific skin testing function is provided by a third-party service provider that cooperates with Xiaohongshu. When you use this function, we will share the personal information you provide to the platform based on this function with the third-party service provider, so that you can smoothly experience the function.
+G. Third party mini programs: When you use third-party mini programs, we will not share your personal information with these developers and operators without your consent. When you use the mini program, it may use
+You can revoke the relevant system permissions you have authorized in the corresponding mini program.
+H. Digital collectibles technology service provider: When you use the digital collectibles function, we will share the personal information you provide to the platform with third-party technology service providers, so that you can smoothly experience the function.
+Indirect User Profile
+But we promise that we will not share personal information that can identify you with you without your consent.
+We will fulfill our duty of prudence and conduct strict security monitoring on the aforementioned third-party SDKs to protect personal information security
+a. One click login function: To provide you with account login - one click login function, third-party service providers may obtain your necessary device information, network related information, geographic location, storage (photo albums, media, and other files) (including collected in the background) information;
+b. Third party account login function: In order to provide you with the function of third-party account login, third-party service providers may obtain your necessary device information, network related information, geographic location, storage (photo albums, media, and other files) (including collected in the background) information;
+c. Message push service: In order to provide you with message push, third-party push service providers may obtain your push SDK version number, necessary device information, phone status information, geographic location information, network related information, storage (photo albums, media, and other files) (including collected in the background) information in order to push you information that you may be more interested in;
+d. Geographic location service: In order to provide you with geographic location services (content recommendation, content publishing, editing delivery information during shopping, and data editing), third-party geographic location services will collect your device information and geographic location information so that they can push nearby content to you;
+e. Cloud storage service: In order to provide you with cloud storage services (the images, audio and video content you upload to Xiaohongshu will be stored in the cloud and related scenes), third-party service providers may collect your device information, network related information, and operator information;
+f. Account Security Services: To ensure the security of your and other users' accounts and property, and to protect your and our legitimate rights and interests from illegal infringement, third-party security service providers may collect your necessary device information, network related information, operator information, log information, storage (photo albums, media, and other files) (including collected in the background) information to provide account security services.
+g. Payment Services: In order to ensure your smooth purchase of goods/services and virtual goods on the platform, third-party payment service providers may collect your device information, network information, and operator information to facilitate smooth payment and ensure payment security.
+h. Live streaming service: In order to ensure the smooth use of the platform's live streaming function, third-party service providers may collect your device information, network related information, push SDK version number, and operator information.
+You may need to provide your name, gender, mailing address, contact information, and bank account information. These pieces of information may involve sensitive personal information, and refusing to provide them may affect your participation in relevant activities, but will not affect other functions
+(5) Necessary sharing with our affiliated companies: We may share your personal information with our affiliated companies. We will only share necessary personal information, and this sharing is subject to the purposes stated in this policy. If the affiliated company wants to change the purpose of processing personal information, it will obtain your authorization and consent again;
+(6) You can share your personal information or other information with third parties (including unspecified objects) based on the Xiaohongshu platform, but any information leakage, use, or related situations caused by your sharing behavior are not related to Xiaohongshu, and Xiaohongshu will not be held legally responsible for it.
+2. Transfer:
+Transfer refers to the transfer of control over your personal information to other companies, organizations, or individuals. We will not transfer your personal information to any company, organization, or individual unless we obtain your explicit consent. Except for the following situations:
+(1) We have obtained your consent in advance;
+(2) You raised it yourself;
+(3) If the company undergoes a merger, division, dissolution, or is declared bankrupt, it may involve the transfer of personal information. In such cases, we will inform you of the recipient's name or contact information and require the new company or organization holding your personal information to continue to be bound by this policy. If the recipient changes the purpose or method of processing personal information, we will require them to obtain your explicit consent again.
+(4) Other situations stipulated by laws and regulations.
+3. Public disclosure:
+Public disclosure refers to the act of releasing information to society or unspecified groups of people. In principle, we will not publicly disclose your personal information. Except for the following situations:
+(1) Displaying necessary desensitization information when announcing account winning or penalty notices;
+(2) After obtaining your explicit consent.
+4. Exceptions to authorization for sharing, transferring, and publicly disclosing personal information
+According to relevant laws and regulations, we may share, transfer, or publicly disclose your personal information without your prior authorization and consent in the following situations:
+(1) Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+(2) Necessary for fulfilling statutory duties or obligations;
+(3) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(4) To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+(5) According to the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+(6) Other circumstances stipulated by laws and regulations.
+Please be aware that according to current legal regulations and regulatory requirements, sharing or transferring anonymized personal information, and ensuring that the data recipient cannot recover and re identify the personal information subject, does not require separate notification to you and obtaining your consent.
+3、 How do we store and protect your personal information
+1. Storage:
+Storage location: We will store personal information obtained from within the territory of the People's Republic of China. In the following situations, we will ensure compliance
+After fulfilling the legal obligations, provide your personal information to overseas entities:
+(1) The applicable laws have clear provisions;
+(2) Obtain your explicit authorization;
+(3) You conduct cross-border transactions and other personal initiatives through the Internet.
+In response to the above situation, we will ensure the protection of your personal information to a level not lower than that stipulated in this policy through contracts and other forms.
+Storage time: We promise to always store your personal information within a reasonable and necessary period in accordance with legal regulations. After the above deadline, we will delete your personal information or anonymize your personal information.
+If we cease operations, we will promptly cease the collection of your personal information, notify you of the cessation of operations in the form of individual delivery or announcement, and delete or anonymize the personal information we hold about you.
+2. Protection:
+In order to protect the security of your personal information, we will strive to take various industry standard security measures to protect your personal information and minimize the risk of your personal information being damaged, stolen, leaked, accessed, used, disclosed, and altered without authorization. We will actively establish a data classification and grading system, data security management standards, and data security development standards to manage and regulate the storage and use of personal information, ensuring that personal information unrelated to the services we provide is not collected.
+Your account has security protection functions, please keep your account and password information safe. Xiaohongshu will ensure that your information is not lost, abused, or altered by backing up to other servers, encrypting user passwords, and implementing relevant security measures. Despite the aforementioned security measures, please also note that there are no "comprehensive security measures" on the information network. To prevent safety accidents, we have established a proper warning mechanism and emergency plan in accordance with laws and regulations. If a security incident does occur, we will promptly inform you of the relevant situation through email, letter, phone, push notifications, and other relevant means. If it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements and closely cooperate with government agencies.
+When our products or services cease operation, we will promptly stop the activity of collecting personal information. We will notify you of the above changes through push notifications, announcements, and related forms, and delete your personal information or anonymize it within a reasonable period of time (the so-called "anonymization processing" refers to the process of making the personal information subject unidentifiable through technical processing of personal information, and the processed information cannot be restored. Personal information obtained after anonymization processing does not belong to personal information.)
+4、 How do you manage your personal information
+We attach great importance to and make every effort to protect your rights regarding your personal information.
+1. Independently decide to receive information
+In the following, the information of the account you actively choose to follow will be displayed, and you can choose to follow or unfollow as needed.
+2. Access, acquisition, correction, and deletion of personal information copies
+We provide you with a channel for accessing, obtaining, correcting, and deleting relevant personal information through the design of the interactive interface. You can set it up in the following ways:
+(1) Access, obtain, and correct one's personal information through "Me Edit Profile", including profile picture, nickname, gender, permanent residence, school and enrollment time, birthday, and personal introduction;
+(2) Set up, access, obtain, and correct account information through "Me Settings Account and Security", including mobile phone number (can only be changed and bound once a month), login password, and bound third-party platform accounts (including WeChat, Weibo, and QQ accounts);
+(3) Set, access, retrieve, and correct privacy information through "Me Settings Privacy", including comment settings, @ settings, contact book recommendation settings, Weibo recommendation settings, location information settings, and blacklist settings;
+(4) Access, retrieve, correct, and delete relevant information through 'Me - Notes/Favorites/Likes'.
+In addition to the above, if any of the following situations occur, we should proactively delete your personal information, and you also have the right to request us to delete it:
+(1) The processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+(2) We have stopped providing products or services, or the retention period has expired;
+(3) You have explicitly withdrawn your consent;
+(4) If you have sufficient reasons to believe that we have violated laws, administrative regulations, or agreements regarding the processing of your personal information;
+(5) Other circumstances stipulated by laws and administrative regulations.
+3. Change or withdraw the scope of authorization
+You can change or revoke the scope of authorization through 【 Me Settings Notification Settings/Privacy/General 】, including: 1) binding WeChat accounts, Weibo accounts, and QQ accounts; 2) Interaction, private messaging, community content, and mall notifications; 3) Comment settings, @ settings, contact list recommendation settings, Weibo recommendation settings, location information settings, and blacklist settings; 4) Settings for obtaining and using default fonts in the system; 5) Location information in the media information that comes with images/videos; 6) The 'limited memory' function.
+However, please note that this may result in the unavailability of some or all features. Meanwhile, your decision to change or revoke authorization will not affect the personal information processing we have previously carried out based on your authorization.
+4. Conditional right to transfer personal information
+If you need to transfer your personal information to other platforms, companies, or organizations, you can contact us through the methods disclosed in this privacy policy. We will review your request and provide you with a way to transfer the corresponding personal information, subject to compliance with the regulations of China's cyberspace administration.
+5. Constrain automatic decision-making of information systems
+In some business functions, we may only make decisions based on non manual automated decision-making mechanisms, including information systems and algorithms. If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us, and we will also provide appropriate remedies.
+6. In compliance with relevant legal requirements, your close relatives may exercise the above-mentioned rights to access, copy, correct, delete, etc. your relevant personal information; Unless you have other arrangements.
+7. Contact us for management
+For security and identity recognition reasons
+Considering this, you may not be able to directly access, correct, or delete certain information (real name authenticated information, some of your usage records, and related information) through the Xiaohongshu interactive interface; If it is necessary for you to access, modify or delete such information in accordance with the law, please send your question via email to the designated contact email according to the contact information provided in Article 10 of this policy. We will review the issue as soon as possible and reply promptly after verifying your user identity.
+5、 How do you cancel your account
+You can cancel your account by selecting "Apply to Cancel Account" under "Me Settings Help and Customer Service Community Issues How to Cancel Account" or "Me Settings Account and Security Cancel Account", provided that the conditions for account cancellation are met; We will process your cancellation request and verify your user identity as soon as possible within seven working days. After account cancellation, except for personal information that is explicitly required by law to be retained by us (such as information related to your transactions on Xiaohongshu), your personal information will be removed from Xiaohongshu.
+6、 Special instructions regarding third-party provision of products and/or services
+Xiaohongshu may include third-party products and/or services or links to information and/or services provided by third parties. Before using such third-party products and/or services, you need to be redirected to the corresponding mini program or third-party page. Your use of the third-party service (including any personal information you provide to the third party) is subject to the third party's terms of service and privacy policy (not this policy), and you need to carefully read its terms and decide whether to accept them or not. Please protect your personal information properly and only provide it to others when necessary. This policy only applies to the information we collect, store, use, share, and disclose, and does not apply to any services or information usage rules provided by third parties. Third parties are responsible for their own actions when using your information.
+7、 How do we use cookies and other similar technologies
+1. Use of Cookies
+(1) If you accept cookies, Xiaohongshu will set or access cookies on your computer and related mobile devices so that you can log in or use Xiaohongshu platform services or functions that rely on cookies. Xiaohongshu uses cookies to provide you with more personalized services, including promotional services.
+(2) You have the right to choose to accept or refuse to accept cookies. You can refuse to accept cookies by modifying your browser settings or setting it on your mobile device. But if you choose to refuse to accept cookies, you may not be able to log in or use the services or features of the Xiaohongshu platform that rely on cookies.
+(3) The information obtained through the cookies set by Xiaohongshu will be subject to this policy.
+8、 Protection of Minors
+The following terms should be carefully read by underage users (especially children under the age of fourteen) accompanied by their guardians, and their guardians should make a decision on whether to accept or reject this policy after fully understanding it:
+If the user is a minor under the age of 18 (especially a child user under the age of 14), they should read this agreement and use Xiaohongshu related services under the supervision, guidance, and consent of their guardian.
+2. We attach great importance to the protection of personal information of minors. When filling out personal information, underage users should strengthen their awareness of personal protection and treat it with caution. Please use the relevant services of Xiaohongshu correctly under the guidance of their guardians.
+3. We will protect the confidentiality and security of information of underage users in accordance with relevant national laws and regulations and the provisions of this policy. If we find that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible. At the same time, we have established strict rules for the collection and use of minors' information to protect the personal information security of children and adolescents. You can learn more specific content by reading the "Little Red Book Personal Information Protection Rules for Children/Adolescents". If you are the guardian of a minor, if you have any questions about the use of our services or the user information provided to us by the minor under your guardianship, please contact us promptly according to the contact information provided in Article 10 of this policy.
+9、 How do we update our privacy policy
+In order to provide you with better service, we will update the terms of this policy based on product updates and relevant legal requirements. These updates will form part of this policy. Without your explicit consent, we will not reduce the rights you are entitled to under the current effective policy.
+2. In case of any updates to this policy, we will notify you through the APP client push notification or other reasonable means, so that you can timely understand the latest version of this policy.
+10、 How to contact us
+If you have any complaints, suggestions, or questions about personal information protection issues, or if you have any questions about this policy, you can contact us through the following methods. We will review the issues as soon as possible and respond within fifteen working days after verifying your user identity: shuduizhang@xiaohongshu.com .
+11、 Other
+1. In case of any disputes arising from this policy or our handling of your personal information, you may file a lawsuit with the People's Court of Huangpu District, Shanghai.
+If you believe that our personal information processing has harmed your legitimate rights and interests, you can also report to the relevant government departments.

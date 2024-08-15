@@ -1,0 +1,551 @@
+In the "Information We Collect and Use" section of Chapter 1, the details of WeChat's network access methods, types, and statuses, as well as the location information collected by WeChat, have been updated.
+introduction
+WeChat is a social product provided by Shenzhen Tencent Computer System Co., Ltd. (registered at 35/F, Tencent Building, Keji Zhongyi Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen) (hereinafter referred to as "we" or "Tencent") ("WeChat" in this guideline is a product different from its overseas operation version, namely "WeChat". WeChat and WeChat users are distinguished by their mobile phone numbers. Users registered through their mobile phone numbers in Chinese Mainland are WeChat users, and the rest are WeChat users. The personal information processing activities and protection involved in this guideline are all targeted at WeChat products). To illustrate how WeChat collects, uses, and stores your personal information and what rights you have, we will use the "WeChat Privacy Protection Guidelines Summary" and this guide to explain relevant matters to you. The key points are as follows:
+1. We will explain one by one the types of personal information we collect from you and their corresponding purposes, so that you can understand the specific categories, reasons for use, and collection methods of the personal information we collect for a particular function.
+Mobile contact information
+Accurate location information
+3. We will not actively share or transfer your personal information to third parties outside of Tencent Computer Systems Co., Ltd. in Shenzhen. If there are other situations where your personal information is shared or transferred, or if you need us to share or transfer your personal information to a third party outside of Tencent Computer Systems Co., Ltd. in Shenzhen, we will directly obtain or confirm that the third party has obtained your explicit consent for the above actions, except as otherwise provided by laws and regulations or necessary to protect user rights or protect WeChat ecosystem security. In addition, we will conduct risk assessments on the behavior of providing information to external parties.
+4. We will not proactively obtain your personal information from third parties outside of Tencent Computer Systems Co., Ltd. in Shenzhen. If it is necessary to obtain your personal information from a third party for business development, we will verify the legality of the source in accordance with the law, or disclose to you the source, type, and scope of use of your personal information before obtaining it. If WeChat conducts personal information processing activities beyond the scope of your original authorization and consent when providing personal information to third parties, we will obtain your explicit consent before processing your personal information; In addition, we will strictly comply with relevant laws and regulations, and require third parties to ensure the legality of the information they provide.
+5. You can access, correct, copy, and delete your personal information through the channels and methods listed in this guide. You can also withdraw your consent, cancel your account, file complaints and reports, and set personalized advertising and other privacy functions.
+Address book, location, camera, microphone, photo album
+You can also check the system permission types and purposes that we have called or used in "Me Settings Personal Information and Permissions System Permission Management", and manage them uniformly.
+It should be noted that obtaining specific sensitive permissions does not necessarily mean that we will collect your relevant information; Even if we have obtained sensitive permissions, we will only collect your relevant information within the necessary scope and in accordance with this guideline during your use of the relevant services or features.
+If you would like to learn more detailed information, please read the corresponding chapter according to the following index:
+1. The information we collect and use
+2. Storage of Information
+3. Information security
+4. Information sharing
+5. Your rights
+6. Change
+7. Protection of Minors
+8. Other
+9. Contact Us
+1. The information we collect and use
+During your use of WeChat services, we will collect and use information that you voluntarily provide or generate as a result of using the services in the following manner:
+1.1 When you register for WeChat services, we will collect and use your nickname, avatar, and phone number. Collecting this information is to help you complete WeChat registration and use WeChat social functions, and to protect the security of your WeChat account. Collecting and using mobile phone numbers is to meet the requirements of relevant laws and regulations for authenticating real identity information. If you do not provide this type of information, you may not be able to use our services properly. You can also choose to fill in information such as gender and region according to your own needs. In addition, you can choose to provide us with your voiceprint feature value information to use the voice lock function. This information is sensitive personal information, and refusing to provide it will only prevent you from using the voice lock function, but it will not affect your normal use of other functions of WeChat.
+1.2 When you use WeChat services, in order to ensure your normal use of our services, maintain the normal operation of our services, improve and optimize our service experience, and ensure the security of your account, we will collect and use log information such as your device model, operating system, unique device identifier (Android version such as Android ID/AID, iOS version such as IDFA before iOS 14.5), login IP address, WeChat software version number, network access method, type and status (such as SSID and BSSID), network quality data, device accelerator (such as gravity sensing device), operation log, service log information (such as your search and operation records on WeChat, service failure information, referral website information, etc.). At the same time, in order to prevent viruses, Trojan programs, or other malicious programs and websites, we may collect information about the applications installed on your device, running processes, or data stored in the device's memory to prevent the leakage of your personal information.
+1.3 When you use the WeChat Moments feature, in order to allow your friends to browse the content you share, we will collect, use, and display your posted Moments text, photos, videos, location information (to achieve positioning function, we will collect and use your device's GPS information, WiFi information, carrier base station information [CellID], Bluetooth information, the same below), comments, likes, Moments cover, and other information according to the rules you set. You can also delete your above Moments information at any time. Unless you choose independently or comply with relevant laws and regulations, we will not provide the above friend circle information to the public or use it for purposes other than this function. You can“
+Set the visible range of content in the "Settings" - "Friend Permissions" - "Moments" section.
+1.4 When you use your WeChat public account (including subscription number, service number, hereinafter referred to as "official account"), in order to better provide you with relevant services (including system and information security, false message identification, etc.), and in order to provide you with more convenient, high-quality and personalized services and content in the recommendation function of the "subscription number message" page, we will collect and use your official account attention, cancellation of attention, interactive records, as well as official account information content reading, viewing, collection, recommendation, sharing, WeChat internal floating window management (add floating window/remove floating window/close floating window) and other operation records. You can enter the subscription account list by clicking on the icon in the upper right corner of the "Subscription Account Messages" page, clicking on the "..." in the upper right corner of the "Subscription Account List" page, clicking on "Settings" at the bottom of the page, clicking on "Personalized Recommendation of Subscription Account Messages", and choosing to turn off the personalized content recommendation service in the recommendation function of the subscription account message.
+When you use the subscription number function, in order to show you the articles published on the official account that you are concerned about more reasonably, we will also use your subscription number information content to read, view and other operation records to display the articles in a more optimized order. You can also click on the icon in the upper right corner of the "Subscription Account Messages" page to enter the subscription account list and switch to displaying articles in order of publication time.
+If the subject of the official account needs to obtain your personal information through WeChat when providing services to you, we will provide your personal information to the subject of the official account after obtaining your express consent. The specific scope of provision is subject to your consent in the interaction page. You can also manage relevant information on the settings page of the official account, such as turning off providing your location information.
+1.5 When you use WeChat Mini Programs, in order to better provide you with relevant services (including system and information security), WeChat will collect and use your WeChat Mini Program login, browsing, usage, adding/removing from "My Mini Programs", WeChat internal floating window management (adding/removing floating windows/closing floating windows) and other operation records.
+If developers need to obtain your personal information through WeChat when providing you with WeChat mini program services, we will provide your personal information or the WeChat interface that can obtain your personal information to developers after obtaining your explicit consent. The specific scope of provision shall be subject to your consent on the interactive page. You can also manage the information or interface provided to developers through WeChat on the mini program settings page. We will assist in notifying developers to delete your personal information according to your instructions or stop providing your personal information to developers through the corresponding interface after you close it.
+1.6 When you use functions such as "People Nearby", "Shake", "Radar Add Friends", "Face to Face Group", and "Nearby Mini Programs" on WeChat, we will record your location information after obtaining your voluntary consent, in order to provide you with this service. Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of WeChat.
+1.7 When you use the WeChat sports function, we need to collect and display your step count information, compare it with your friends, and interact with them by liking. Refusing to provide this information will only prevent you from using WeChat's sports functions, but it will not affect your normal use of other functions of WeChat.
+1.8 When you use WeChat to see (including "watching" and "hot spots"), in order to provide you with more convenient, high-quality and personalized services and content, we will use your official account, video account to follow, visit, interact, and content reading, playing, liking, sharing, watching, commenting, collecting and other operation records. You can also turn off personalized content recommendation services by clicking on "Take a look" - "Personal Center" in the upper right corner - "Settings" - "Personalized Recommendation" switch. When you use the "Look (Hotspot)" feature, in order to provide you with more accurate location related recommended content, we will collect your location information after obtaining your voluntary consent.
+1.9 When you use the search ability on WeChat (including search, official account search, scan, fingertip search, image search, applet search, etc.), in order to provide you with more accurate location related search services, we will collect your location information after obtaining your independent choice consent. Refusing to provide this information may prevent you from using the above functions or achieving the intended effects of the location-based services provided, but it does not affect your normal use of other functions of WeChat. At the same time, in order to show you more accurately matched search service content, we will use your search records (including search terms and search results access records), applet access records, official account attention, and official account article reading, collection, sharing, viewing and other operation records. You can also turn off personalized search services by clicking the "Discover" - "Search" - "Privacy Settings" - "Personalized Search Results Display" switch at the bottom of the page.
+1.10 When you use WeChat voice input, voice to text conversion, search for chat content (including text information and images), search for chat images, and use WeChat internal translation function (including translating chat, Moments text information, and text in images, as well as using the write and translate function) and scan function, we will collect your voice content, voice or text information to be converted, information to be searched, search terms in the search chat image function (excluding images), information to be translated, and scanned content, which are necessary to achieve the above functions. After real-time processing, we will return the processing results to you and will not save your data (unless you proactively provide feedback on translation errors and collect information necessary to solve the problem you have reported).
+1.11 When you recharge or use WeChat beans within WeChat, we will collect your recharge order information and usage records, which are necessary to provide you with this feature. For more information about WeChat Beans, you can further refer to the "WeChat Beans and Related Function Terms of Use".
+1.12 The WeChat payment function is provided to you by Tenpay Payment Technology Co., Ltd. (hereinafter referred to as "Tenpay Company"). When you activate WeChat Pay, Tenpay will collect your surname
+Name, ID card number or other legal ID document number, bank card type and card number, validity period and mobile phone number reserved by the bank; When you use WeChat Pay, Tenpay also collects your relevant transaction orders and payment records for your reference. Refusing to provide this information will only prevent you from using WeChat Pay functions, but it will not affect your normal use of other functions of WeChat. If you need to further understand the privacy policy of WeChat Pay, you can refer to the "Tenpay Privacy Policy".
+1.13 When you add enterprise WeChat friends, join enterprise WeChat communication groups, or use other enterprise WeChat communication functions, the enterprise entity ("enterprise WeChat user") where your enterprise WeChat friends are located may collect the following information: including your nickname, avatar, and other account information, chat records between you and enterprise WeChat friends, and other data information that you voluntarily disclose to enterprise WeChat users. When choosing to use enterprise WeChat communication services, you can learn about your rights through product interaction prompts or data protection policies displayed by enterprise users. For example, when you successfully add enterprise WeChat friends or join enterprise WeChat communication groups, you can click on "Learn More" on the chat page to learn about relevant personal information processing rules and set personal information privacy settings. You can refuse to use such interoperability services, but it does not affect your normal use of other functions of WeChat. If you need to further understand the privacy policy of Enterprise WeChat, you can refer to the "Guidelines for Privacy Protection of Enterprise WeChat".
+1.14 When you use WeChat to communicate with other software or hardware, the providers of other software or hardware may obtain relevant information that you voluntarily provide, disclose, or transmit on WeChat with your consent. Before making a choice, you should fully understand the product functions and personal information processing rules of other software or hardware.
+1.15 When you use your WeChat video account to browse video content and live streaming content, in order to optimize your user experience and provide you with personalized content, we will use your records of following, liking, bookmarking (star), interaction, searching, browsing, and sharing. You can click on the "Privacy" option in the "Browse Settings" and click on "Personalized Recommendations" to turn off personalized content recommendations for video content or live streaming content.
+To achieve the purpose of recommending local content or local live streaming to you, we will collect your location information for relevant recommendations after obtaining your autonomous consent. If you do not agree or revoke authorization when using the WeChat video account function, the functions related to location information may not be available, but it will not affect your use of other functions.
+The video content you like will also be recommended to your WeChat friends. You can unlike it and it will no longer be recommended to your WeChat friends. You can also unfollow video accounts and favorite (star marked) video content. When you use the live streaming reservation function, we will collect your reservation records to remind you to watch the live stream in a timely manner, and you can cancel the reservation.
+1.16 When you comment, private message, like or follow a video account user, or when you are watching or tipping a video account user's live stream, your WeChat personal business card will be displayed to that video account user, and your avatar, nickname, and comment will also be displayed to other users. You can choose to use your WeChat ID or video account identity, or set up a new identity to watch live broadcasts or private message interactions. You can also set video accounts that you do not watch, do not watch content that some WeChat friends like, or do not allow some WeChat friends to watch content that you like. You can enter the "Interaction History" option to view the video content, messages, and private messages that you have followed, liked, and bookmarked (star marked).
+1.17 When you create a WeChat video account and publish the content, the name, avatar, gender, region, profile, cover, authentication information, blacklist account, bound official account or enterprise WeChat of the video number you set, the live content, pictures, text, location, links, and metadata contained in the content you publish, as well as the comments, interactions, message notifications and other information related to you will be collected. At the same time, when you publish video content or live content, we will ask you to authorize the camera, photo, microphone or location permissions required for the corresponding function according to the scene according to the function you want to use. If you do not agree or cancel the authorization, you will not be able to use the corresponding function, but will not affect your use Other WeChat functions. You can change the name, avatar, gender, profile, cover, blacklist account and other information of your video account, set it as a private account, and delete the updates you post. On the video account settings page, you can choose to display your video account content in your WeChat personal business card, or you can choose to turn off the display.
+1.18 When you publish video content, live broadcast content, and bind official account, you need to conduct real name authentication according to relevant laws and regulations and the need to verify your identity. The real name authentication service is provided by Tenpay. If you refuse real name authentication, you may not be able to access relevant services, but it does not affect the normal use of other functions. In addition, in order to ensure the security of the account, we may need you to fill in your real name and ID number and verify it through "face recognition" to confirm that it is your own operation. We only obtain the results of the verification, and will not retain relevant information, unless Tencent otherwise obtains your consent in accordance with laws and regulations. The above information contains sensitive personal information, and you may refuse to provide it. If you refuse to provide it, you may not be able to access the relevant services, but it does not affect the normal use of other functions. If the video content and live streaming content you publish are marked with location information, they will be recommended to authorized users and local users near the location.
+1.19 When you authenticate your video account, manage live streaming revenue, bind with institutional users, participate in live streaming tasks, or participate in various events hosted by us, it may involve processing your information. We will inform you of the corresponding rules in relevant scenarios and obtain your consent. When you use a video account for game live streaming or mini game live streaming, we will also process your information in accordance with the "WeChat Video Account Game Live Streaming Notice".
+1.20 You can enter "Privacy Settings" on your video account homepage, select "Personal Information Browse and Export" to view your account information, authentication information, etc., and follow the instructions to export relevant information.
+1.21 When you
+If you authorize WeChat games (WeChat games refer to the game related services and functions provided by WeChat to users, including the "discovery game" module, the "mini game" category applet, and the "WeChat game" official account) to use your game account information (including login information, role information, and game game data), game friendship, we will use this information in WeChat game's friend ranking, record service, game community, content and service recommendation and other scenarios. You can choose the visibility of this information, or you can choose not to display this information to your friends, which does not affect your normal use of Tencent games, WeChat games, and other WeChat functions.
+1.22 When you use mini programs in the "Mini Games" category (hereinafter referred to as "Mini Games"), in order to better provide you with related services, WeChat will use your mini game to log in, browse, add/remove "My Mini Programs", and manage floating windows in WeChat (add/remove floating windows/close floating windows) and other operation records. We will show your friends the mini games you have played, your avatar, nickname, etc. on the WeChat gaming interface. You can choose not to display this information to your friends, as it does not affect your normal use of the mini game and other functions of WeChat.
+1.23 You can set up your WeChat game card in WeChat Games. In the process of setting up WeChat game business cards, we will collect the avatar, nickname, life photo, signature, gender, birthday, region (here we will apply to you to obtain your location to quickly display your region, or you can refuse authorization to display the region) and other information that you actively fill in/set for this feature.
+After you successfully set it up, the information you filled in/set will only be used for the WeChat game business card function within WeChat games, so that you can better interact with other users (other users can follow you through WeChat game business cards or interact with you through the "say hello" function) and receive personalized game gift packages (such as birthday gift packages); And such information will not be used for other scenarios, nor will it be used to determine the ownership of WeChat account usage rights and authentication of real identity information. You can choose not to set your WeChat game card, which will not affect your normal use of other functions of WeChat Game Center, Tencent Games, and mini games.
+1.24 When you use the status function, we will collect information such as your posted content, self selected status icons, and locations to display to other users, which is necessary to implement this function. We will display the specific status information during the display period (please refer to the prompts in the status settings interface for the validity period of the status display), based on your choice of whether to make it public or not. You can also delete the status at any time to delete this information. Unless you choose independently or comply with relevant laws and regulations, we will not provide the above status information to the public or use it for purposes other than this function.
+1.25 When you use WeChat's bookmarking function to store various types of information, such information will be uploaded and stored on our servers so that you can use it when logging into WeChat on other devices, which is necessary to implement the bookmarking function. We will store the information you have collected in an encrypted manner, and you can also delete the information you have collected at any time. Unless you choose independently or comply with relevant laws and regulations, we will not provide the above information to the public or use it for purposes other than this function.
+1.26 When you use the card package function, in order to recommend local services associated with the card or facilitate your use of public transportation card services in your city, we will collect your location information with your consent. Refusing to provide this information may prevent you from using the above functions or achieving the intended effects of the location-based services provided, but it does not affect your normal use of other functions of WeChat.
+1.27 You can fill in your gender, region, personal signature, address, etc. in your personal information column, and this information will be uploaded and stored on our server for you to use when logging into WeChat on other devices. You can also modify or delete such information at any time.
+1.28 When you use the WeChat group chat function, information such as the group chat name, group announcement, group member nickname, group settings, notes, and the chat background image you set will be stored on our server, which is necessary to implement this function. Your profile picture, nickname, etc. will also be displayed to group members.
+1.29 We will not collect your chat records. Your chat records in WeChat will be stored on your terminal device, and you can choose to back up, delete, or transfer them to different devices by yourself.
+1.30 Third party services in WeChat services are provided by external third-party entities, and WeChat cannot obtain information generated when you use such third-party services. However, if you have explicitly agreed for the third party to obtain your location information, the third party will obtain the relevant information through the WeChat interface. Refusing to provide this information will only prevent you from using the third-party services mentioned above, but it will not affect your normal use of WeChat's functions.
+If you contact our customer service, we may require you to provide necessary personal information for identity verification to ensure the security of your account. To provide services based on your request, with your authorization, our human customer service personnel need to query or verify your relevant information within the scope of your authorization. We will take technical and management measures as much as possible to ensure the security and confidentiality of your information, and use it within the necessary scope. We may also save your contact information (phone number, WeChat ID, QQ number or other contact information you use or voluntarily provide), your communication records and content with us, and other necessary information to provide and record customer service for you.
+1.32 In addition, according to relevant laws, regulations, and national standards, we may process your personal information without seeking your authorization and consent in the following situations:
+a) Necessary for personal information processors to fulfill their legal obligations or duties;
+b) Necessary for the conclusion and performance of a contract to which you are a party;
+c) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+d) Handle your self disclosure or other legally disclosed individuals within a reasonable range in accordance with the law
+Information;
+e) Other circumstances stipulated by laws and administrative regulations.
+1.33 Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service does not inform you of the processing rules for collecting and using your information in the above description, we will inform you of the scope, purpose, and method of information collection through page prompts, interaction processes, website announcements, and other means to obtain your consent.
+1.34 We may use the information collected through certain functions for our other services. For example, we may use the information we collect when you use one of our features or services to provide specific content to you or your friends in another feature or service, including but not limited to displaying advertisements (you can manage personalized advertisements provided by WeChat through "Me Settings Personal Information and Permissions Personalized Advertising Management"), providing information security prompts for the content you have read, indirectly profiling people based on feature tags and providing more accurate and personalized services and content, as well as protecting user rights or protecting WeChat ecosystem security, etc.
+To ensure the security of our services and help us better understand the operation of our applications, we may record relevant information such as the frequency of your use of the application, crash data, overall usage, performance data, and the source of the application. We will not merge the information we store in the analysis software with any personally identifiable information you provide in the application.
+In order to provide you with some functions of WeChat, such as the shake function, we have used an accelerometer to identify whether the device is shaking. For specific details on the use of the sensor, please refer to the WeChat Sensor Usage Details.
+When you copy and paste information in WeChat, we will apply to use your clipboard. We only recognize the clipboard content locally and will not upload your clipboard information to our server.
+If we use your personal information beyond the purpose authorized by you and within the scope of direct or reasonable association, we will inform you again and obtain your explicit consent before using your personal information.
+1.39 Please note that currently WeChat does not proactively obtain your personal information from third parties outside of Shenzhen Tencent Computer System Co., Ltd. If we need to indirectly obtain your personal information from a third party for future business development, we will inform you of the source, type, and scope of use of your personal information before obtaining it. If WeChat's personal information processing activities exceed the scope of your original authorization and consent when providing personal information to third parties, we will obtain your explicit consent before processing your personal information.
+In addition, we will strictly comply with relevant laws and regulations, and require third parties to ensure the legality of the information they provide.
+2. Storage of Information
+2.1 Location of Information Storage
+We will store the personal information of users collected within China in accordance with laws and regulations. If your personal information storage location is transferred from within China to overseas, we will strictly comply with the legal provisions.
+2.2 Duration of Information Storage
+Generally speaking, we only retain your personal information for the time necessary to achieve the purpose and for the retention period specified by laws and administrative regulations, such as:
+Mobile phone number: Whether you register through a mobile phone number or an existing WeChat account to assist in registering a new WeChat account, if you need to use WeChat services, we need to always save your mobile phone number (including the initial registered phone number, bound phone number, etc.) to ensure that you can use the service normally. After you cancel your WeChat account, we will delete the corresponding information in accordance with the law;
+Friend circle information: When you send a friend circle information, we need to save your friend circle information to ensure that you can use the friend circle function normally. When you delete your friend circle information, we will delete the corresponding information.
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time. (The "anonymization processing" in this guideline refers to the process of using technology to process personal information so that the subject of personal information cannot be identified and the processed information cannot be restored. Personal information obtained after anonymization processing does not belong to personal information.)
+3. Information security
+We strive to provide security for our users' information to prevent loss, improper use, tampering, unauthorized access, or disclosure of information.
+We will use various security measures within a reasonable level of security to ensure the security of information. For example, we will use encryption techniques (such as SSL), de identification, anonymization, and other methods to protect your personal information.
+We enhance the security capabilities of the software installed on your device through continuously improving technological means to prevent the leakage of your personal information. For example, we will encrypt some information locally on your device for secure transmission; In order to prevent viruses, Trojan programs, or other malicious programs or websites, we may obtain information about the applications installed on your device, running processes, or data stored in the device's memory; In order to prevent illegal activities such as fraud, account theft, and impersonation of others, and to conduct security checks, unique device identifiers, login IP addresses, operation logs, location information, and other data may be analyzed and utilized to take security measures or provide security reminders.
+We establish specialized management systems, operating procedures, and organizations to ensure the security of information. For example, we strictly limit the scope of personnel accessing information, require them to comply with confidentiality obligations, and conduct audits. In addition, Tencent will also establish an independent organization mainly composed of external members to supervise our personal information protection situation.
+If a personal information leakage or other security incident occurs, we will activate emergency plans and remedial measures to prevent the security incident from escalating, and fulfill relevant reporting and notification obligations in accordance with the law.
+At present, WeChat has passed the national network security level protection (Level 3) classification, filing, and annual evaluation. In terms of information security, it has met the requirements of international authoritative certification standards such as ISO27001 and the International Information Security Management System, and has obtained corresponding certifications.
+We will do our best to protect your personal information
+Rest. We also ask for your understanding that no security measure can be flawless.
+4. Information sharing
+4.1 In order to advertise, evaluate, and optimize advertising effectiveness, we need to share some of your data with third-party partners such as advertisers and their agents, and require them to strictly comply with our measures and requirements for data privacy protection, including but not limited to processing according to data protection agreements, commitment letters, and relevant data processing policies, to avoid identifying personal identities and ensure privacy and security. Please refer to the 'List of Third Party Information Sharing' for details.
+4.2 We will not share information that can be used to identify your personal identity with our partners unless you explicitly authorize it.
+4.3 When you use WeChat login function on websites or applications operated by third-party entities, we will provide your personal information to such third-party entities. The specific scope of external provision shall be subject to your confirmation on the interactive page. In addition, we will not provide your personal information to such third-party entities without your explicit consent. You can view the list of authorized applications and manage and revoke your authorized information through "Me Settings Personal Information and Permissions Authorization Management".
+To ensure the implementation of some independent functions and enable you to use and enjoy more services and features, we will embed third-party SDKs in the application, and we will carefully evaluate the purpose of using such SDKs. For more information about the purpose, method, and scope of SDK processing of personal information, please refer to the "Third Party Information Sharing List".
+As our business continues to develop, we may engage in mergers, separations, and other transactions. If there is a transfer of personal information involved, we will inform you of the relevant situation and continue to protect or require new processors to continue protecting your personal information in accordance with laws, regulations, and standards not lower than those required by this guideline.
+5. Your rights
+During your use of WeChat, in order to make it more convenient for you to access, copy, correct, and delete your personal information, and to protect your right to withdraw your consent to the processing of personal information and cancel your account, we have provided corresponding operation settings in the product design. You can refer to the following guidelines for operation. In addition, we have established channels for complaints, reports, and requests for explanations, and your opinions and requests will be promptly addressed.
+Please note that there may be differences in operation settings between different operating systems and versions of WeChat software; In addition, in order to optimize your user experience, we may also adjust the operation settings. Therefore, the following guidelines are for reference only. If you still have any questions about the ways and means of exercising relevant rights, you can contact us through the disclosure method in Article 9 of these rules.
+5.1 Accessing and Copying Personal Information
+5.1.1 Check basic information such as profile picture, nickname (i.e. "name", the same below), photo, WeChat ID, QR code, gender, region, personal signature, and my address:
+1) After entering WeChat, click on "Me";
+2) Click on the avatar bar;
+3) Perform information query access.
+5.1.2 Check WeChat ID, phone number, WeChat password, voice lock, emergency contacts, login device management, and more security settings (QQ number, email address):
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Account and Security';
+4) Perform information query access.
+5.1.3 Checking Moments and Status Information:
+1) After entering WeChat, click on "Me";
+2) Click on 'Moments';
+3) Click on 'My Moments' to access Moments information, or click on' Status' to access status information.
+5.1.4 Viewing and Setting WeChat Game Privacy and Authorization, Subscription, etc.:
+1) After entering WeChat, click "Discover";
+2) Click on 'Game';
+3) Click on the avatar;
+4) Click on the settings icon;
+5) Click on "New Message Notification", "Subscription Management", "Privacy", "By Game Management", etc. to access and set up accordingly.
+5.1.5 Checking the blacklist in the address book:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Friend Permissions';
+4) Click on 'Address Book Blacklist' to search.
+5.1.6 Check the interactive information on the video account:
+1) After entering WeChat, click "Discover";
+2) Click on 'Video Number';
+3) Click on the humanoid icon in the upper right corner;
+4) Click on 'Privacy';
+5) Click on 'Interactive History'.
+5.1.7 Viewing and Exporting Personal Information of Video Account:
+1) After entering WeChat, click "Discover";
+2) Click on 'Video Number';
+3) Click on the humanoid icon in the upper right corner;
+4) Click on the avatar name column of the video account to enter the video account homepage;
+5) Click on the "..." in the upper right corner to enter the settings page;
+6) Click on 'Privacy Settings';
+7) Click on 'Personal Information Browse and Export'.
+5.1.8 Accessing and Copying Personal Information:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Personal Information and Permissions'
+4) Click on 'Personal Information' to view your personal information;
+5) Click on 'Export Personal Information' to make a copy of your personal information and send it to your designated email.
+5.1.9 Refer to the Personal Information Collection List:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Personal Information Collection Checklist'
+5.1.10 Refer to the "List of Third Party Information Sharing":
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on the 'Third Party Information Sharing List'
+5.2 Deleting Personal Information
+5.2.1 Delete all one-on-one chat records:
+1) After entering WeChat, open the conversation and click on the "..." icon in the upper right corner;
+2) Click to clear chat history.
+5.2.2 Delete group chat records:
+1) After entering WeChat, open the conversation and click on the "..." icon in the upper right corner;
+2) Click to clear chat history.
+5.2.3 Delete some/all chat records:
+1) After entering WeChat, open the conversation, long press and click on a message that needs to be deleted;
+2) Select 'Delete' to delete this message;
+3) After entering WeChat, click on "Me";
+4) Click on 'Settings';
+5) Click on 'General'
+(or "chatting");
+6) Click to clear chat history and delete all chat records.
+5.2.4 Delete personal signature, my address and other basic information (QR code cannot be modified or deleted):
+1) After entering WeChat, click on "Me";
+2) Click on the avatar bar;
+3) Delete relevant information.
+5.2.5 Delete Moments:
+1) After entering WeChat, click on "Me";
+2) Click on 'Moments';
+3) Click on 'My Moments';
+4) Click on the friend circle information that needs to be accessed;
+5) Click on the "..." in the upper right corner and delete your friend circle information.
+5.2.6 Delete video account content:
+1) After entering WeChat, follow the steps in section 5.1.7 to access the video account homepage;
+2) Click on the content to be deleted;
+3) Click on the "..." in the upper right corner;
+4) Click to delete.
+5.2.7 Delete Favorite Content:
+1) After entering WeChat, click on "Me";
+2) Click on 'Favorites';
+3) Click on the content to be deleted;
+4) Click on the "..." in the upper right corner;
+5) Click to delete.
+5.2.8 Delete login device:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Account and Security';
+4) Click on 'Login Device Management';
+5) Click 'Edit' to delete the corresponding login device.
+5.3 Correction of Personal Information
+5.3.1 Change profile picture, nickname, take a photo, gender, region, personal signature, and my address:
+1) After entering WeChat, click on "Me";
+2) Click on the avatar bar;
+3) Perform corrective actions.
+5.3.2 Change phone number, WeChat password, voice lock, emergency contact person:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Account and Security';
+4) Perform corrective actions.
+5.3.3 Change video account avatar, name, and profile:
+1) After entering WeChat, follow the steps in section 5.1.7 to access the video account homepage;
+2) Click on the "..." in the upper right corner;
+3) Click on the profile picture and name column to enter the information page and make changes.
+5.4 Function and Permission Management
+5.4.1 Close Recommended Contacts Friends:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Friend Permissions';
+4) You can turn off 'Recommend contacts to me'.
+5.4.2 Turn off nearby people settings:
+1) After entering WeChat, click "Discover";
+2) Click on 'Live and Nearby';
+3) Click on 'Nearby People' and click 'OK' to open this feature;
+4) After opening, click on the "..." in the upper right corner;
+5) Click 'Clear location information and exit' to turn off this feature.
+5.4.3 Close WeChat Movement:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'General';
+4) Click on 'Accessibility';
+5) Click on 'WeChat Sports';
+6) Click 'Disable';
+7) Click on 'Clear and Disable'.
+5.4.4 Close Shake:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'General';
+4) Click on 'Discovery Page Management';
+5) Turn off 'shake'.
+5.4.5 Release authorization to other applications:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Personal Information and Permissions';
+4) Click on 'Authorization Management';
+5) Click on the authorization content that needs to be managed;
+6) Click on 'Cancel Authorization'.
+5.4.6 System Permission Management:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Personal Information and Permissions';
+4) Click on 'System Permission Management';
+5) Click on 'Go to System Settings for More'.
+5.5 Account Cancellation
+5.5.1 Cancel WeChat account:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Account and Security';
+4) Click on "WeChat Security Center";
+5) Click on 'Cancel Account'.
+Note: After you cancel your account, we will retain your relevant information in accordance with the provisions of laws and regulations such as the Cybersecurity Law of the People's Republic of China; After exceeding the necessary retention period, we will delete or anonymize your personal information.
+5.5.2 Cancel WeChat Pay:
+1) After entering WeChat, click on "Me";
+2) Click on 'Pay';
+3) Click on the "..." in the upper right corner;
+4) Click on 'Cancel WeChat Pay'.
+5.6 Complaints and Reports
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'About WeChat';
+4) Click on 'Complaint'.
+5.7 Privacy Function Settings
+5.7.1 Do I need to verify when adding friends
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Friend Permissions';
+4) Click on 'Verification required when adding me as a friend' to make changes.
+5.7.2 Setting the way users are added:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Friend Permissions';
+4) Click on 'Add My Method' to make changes.
+5.7.3 Setting up a friend circle entrance:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'General';
+4) Click on 'Discovery Page Management';
+5) Open/close the friend circle entrance.
+5.7.4 Viewing the Public Scope of Moments:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'Moments';
+4) You can set 'Allow friends to view the range of their Moments';
+5) You can set whether to "allow strangers to view ten Moments".
+5.7.5 Setting Friend Permission Range:
+1) After entering the address book, select the friends that need to be set up;
+2) After selecting a friend, click on the "..." in the upper right corner;
+3) Click on 'Friend Permissions';
+4) Set up 'friend permissions'.
+5.7.6 Setting the location and public scope for sending Moments:
+1) After entering WeChat, click "Discover";
+2) Click on Moments;
+3) Long press the "Camera" icon in the upper right corner;
+4) You can choose content such as "location", "who can watch", "remind who to watch", etc.
+5.7.7 Setting up a blacklist and private accounts for video accounts:
+1) After entering WeChat, click "Discover";
+2) Click on 'Video Number';
+3) Click on the humanoid icon in the upper right corner;
+4) Click on the avatar;
+5) Click on "...";
+6) Click on 'Privacy Settings';
+5.7.8 Set up friends with video accounts to like and watch:
+1) After entering WeChat, click "Discover";
+2) Click on 'Video Number';
+3) Click on the humanoid icon in the upper right corner;
+4) Click on 'Privacy'.
+5.7.9 Choose to use different personal information to log in to websites or applications other than WeChat:
+1) In websites or applications that allow the use of WeChat personal accounts for login, click on "WeChat login" or other icons that refer to this meaning (usually WeChat icons);
+2) Choose different personal information (avatar, nickname), or create new user information (avatar, nickname) as the avatar and nickname for logging into the website or application.
+5.7.10 WeChat Sports Privacy Settings:
+1) After entering WeChat, click on "Me";
+2) Click on 'Settings';
+3) Click on 'General';
+4) Click on 'Accessibility';
+5) Click on 'WeChat Sports';
+6) Click on 'Privacy and Reminder Settings';
+7) Set privacy settings for WeChat campaigns.
+In addition, you can also click "Disable" on the "WeChat Sports" page to clear historical data and disable the WeChat Sports function.
+5.8 Rights of close relatives of the deceased
+If a WeChat user unfortunately passes away, their close relatives can contact us through the official Tencent customer service channel to obtain relevant guidance to exercise their legal and legitimate rights and interests.
+6. Change
+We may revise this guideline in a timely manner. When there are significant changes to the terms of the guidelines, we will display the updated guidelines to you in the form of push notifications, pop ups, or other appropriate forms that comply with legal requirements when you log in and update the version.
+7. Protection of Minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, if you are a minor under the age of 18, you should obtain written consent from your parents or legal guardians before using WeChat services. If you are the guardian of a minor and have any questions about the personal information of the minor under your guardianship, please contact us through the contact information provided in Chapter 9.
+Specifically, if you are a child under the age of 14, we have also developed a "Child Privacy Protection Statement" specifically for you. Children and their guardians should carefully read Tencent's "Child Privacy Protection Statement" before completing account registration for children under the age of 14. Children under the age of 14 can only use WeChat services after obtaining the consent of their guardians to the Children's Privacy Protection Statement.
+8. Other
+8.1 Tencent's Privacy Policy is a general privacy clause uniformly applicable by Tencent, and the user rights and information security measures stipulated therein apply to WeChat users. If there is any inconsistency or contradiction between Tencent's Privacy Policy and this guideline, please refer to this guideline.
+8.2 Under certain specific services or functions of WeChat, we may also inform you of the purpose, method, or scope of processing personal information through interactive text, product interface, or pop ups. If the content of the separate notification is inconsistent with this guideline, the content of the separate notification shall prevail.
+8.3 "Children's Privacy Protection Statement" is an information protection rule applicable to children under the age of 14. Within the scope of application of the "Children's Privacy Protection Statement", if there is any inconsistency or contradiction with Tencent's "Privacy Policy" or this guideline, please refer to the "Children's Privacy Protection Statement" for accuracy.
+9. Contact Us
+Voiceprint feature value information
+1.2 When you use WeChat services, in order to ensure your normal use of our services, maintain the normal operation of our services, improve and optimize our service experience, and ensure the security of your account, we will collect and use log information such as your device model, operating system, unique device identifier (Android version such as Android ID/AID, iOS version such as IDFA before iOS 14.5), login IP address, WeChat software version number, network access method, type and status (such as SSID and BSSID), network quality data, device accelerator (such as gravity sensing device), operation log, service log information (such as your search and operation records on WeChat, service failure information, referral website information, etc.). At the same time, in order to prevent viruses, Trojan programs, or other malicious programs and websites, we may collect information about the applications installed on your device, running processes, or data stored in the device's memory to prevent the leakage of your personal information.
+Location information（
+Official account attention, cancellation of attention, interactive records, as well as official account information content reading, viewing, collection, recommendation, sharing and WeChat floating window management (add floating window/remove floating window/close floating window) and other operation records.
+Record of content reading, viewing, and other operations
+Mini program login and browsing
+Official account and video account follow
+Access, interaction, as well as operation records such as content reading, playback, liking, sharing, watching, commenting, and bookmarking.
+Collect your location information.
+Collect your location information
+Search records (including search terms and search results access records), applet access records, official account attention, and official account article reading, collection, sharing, watching and other operation records
+Voice content, voice or text information to be converted, information to be searched
+Information to be translated and scanned content
+Order information, usage records
+Tenpay will collect your name, ID card number or other legal identity document number, bank card type and card number, validity period and mobile phone number reserved by the bank
+Tenpay will also collect your relevant transaction orders and payment records for your reference
+When choosing to use enterprise WeChat communication services, you can understand your rights through product interaction prompts or data protection policies displayed by enterprise users,
+You can refuse to use such interoperability services, but it does not affect your normal use of other functions of WeChat
+1.14 When you use WeChat to communicate with other software or hardware, the provider of the other software or hardware may, with your consent
+To obtain relevant information that you voluntarily provide, disclose or transmit on WeChat, you should fully understand the product functions and personal information processing rules of other software or hardware before making a choice.
+Records of following, liking, bookmarking (star logo), interaction, searching, browsing, and forwarding/sharing
+When you comment, private message, like or follow a video account user, and when you are watching or tipping a video account user's live stream, your WeChat personal business card will be displayed to that video account user, and your avatar, nickname, and comment will also be displayed to other users.
+You can enter the "Interaction History" option to view the video content, messages, and private messages that you have followed, liked, and bookmarked (star marked).
+Camera, photo, microphone, or location permissions
+In order to ensure the security of the account, we may need you to fill in your real name and ID number and verify it through "face recognition" to confirm that it is your own operation. We only obtain the results of the verification, and will not retain the relevant information, unless Tencent otherwise obtains your consent in accordance with laws and regulations. The above information contains sensitive personal information, and you may refuse to provide it. If you refuse to provide it, you may not be able to access the relevant services, but it does not affect the normal use of other functions. If the video content and live streaming content you publish are marked with location information, they will be recommended to authorized users and local users near the location.
+1.20 You can enter "Privacy Settings" on your video account homepage, select "Personal Information Browse and Export" to view your account information, authentication information, etc., and follow the instructions to export relevant information.
+Game friendship
+You can choose the visible range of this information, or choose not to show it to friends. Not showing it does not affect your normal use of Tencent Games, WeChat Games, and other functions of WeChat
+We will show your friends the mini games you have played, your avatar, nickname, etc. on the WeChat gaming interface. You can choose not to display this information to your friends, as it does not affect your normal use of the mini game and other functions of WeChat.
+Region (here we will apply to obtain your location to quickly display your location, you can also refuse authorization to not display the region) and other information
+You can choose not to set your WeChat game card, which will not affect your normal use of other functions of WeChat Game Center, Tencent Games, and mini games.
+When you use the status function, we will collect information such as the content you have posted, the status icon and location you have chosen independently, to display to other users, which is necessary to implement this function. We will display the specific status information during the display period (please refer to the prompts in the status settings interface for the validity period of the status display), based on your choice of whether to make it public or not. You can also delete the status at any time to delete this information. Unless you choose independently or comply with relevant laws and regulations, we will not provide the above status information to the public or use it for purposes other than this function.
+1.25 When you use WeChat's bookmarking function to store various types of information, such information will be uploaded and stored on our servers so that you can use it when logging into WeChat on other devices, which is necessary to implement the bookmarking function. We will store the information you have collected in an encrypted manner, and you can also delete the information you have collected at any time. Unless you choose independently or comply with relevant laws and regulations, we will not provide the above information to the public or use it for purposes other than this function.
+1.28 When you use the WeChat group chat function, information such as the group chat name, group announcement, group member nickname, group settings, notes, and the chat background image you set will be stored on our server, which is necessary to implement this function. Your profile picture, nickname, etc. will also be displayed to group members.
+We will not collect your chat records. Your chat records in WeChat will be stored on your terminal device, and you can choose to back up, delete, or transfer them to different devices by yourself.
+We may also save your contact information (phone number, WeChat ID, QQ number or other contact information you use or voluntarily provide), your communication records and content with us, and other necessary information to provide and record customer service for you
+In addition, according to relevant laws, regulations, and national standards, we may process your personal information without seeking your authorization and consent in the following situations:
+Necessary for personal information processors to fulfill their legal obligations or duties;
+Necessary for the conclusion and performance of a contract to which you are a party;
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+Process your self disclosed or other legally disclosed personal information within a reasonable scope in accordance with the law;
+Other circumstances stipulated by laws and administrative regulations.
+1.33 Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service does not inform you of the processing rules for collecting and using your information in the above description, we will inform you of the scope, purpose, and method of information collection through page prompts, interaction processes, website announcements, and other means to obtain your consent.
+We may use the information collected through certain functions for our other services. For example, we may use the information we collect when you use one of our features or services to provide specific content to you or your friends in another feature or service, including but not limited to displaying advertisements (you can manage WeChat's services for you through "Me Settings Personal Information and Permissions Personalized Advertising Management")
+）Provide information security prompts for the content you have read, use feature tags to indirectly profile people and provide more accurate and personalized services and content, as well as protect user rights or protect the security of the WeChat ecosystem
+To ensure the security of our services and help us better understand the operation of our applications, we may record relevant information such as the frequency of your use of the application, crash data, overall usage, performance data, and the source of the application. We will not merge the information we store in the analysis software with any personally identifiable information you provide in the application.
+1.37 When you reply on WeChat
+When creating and pasting information, we will apply to use your clipboard. We only recognize the content of the clipboard locally and will not upload the information of your clipboard to our server.
+If we use your personal information beyond the purpose authorized by you and within the scope of direct or reasonable association, we will inform you again and obtain your explicit consent before using your personal information.
+1.39 Please note that currently WeChat does not proactively obtain your personal information from third parties outside of Shenzhen Tencent Computer System Co., Ltd. If we need to indirectly obtain your personal information from a third party for future business development, we will inform you of the source, type, and scope of use of your personal information before obtaining it. If WeChat's personal information processing activities exceed the scope of your original authorization and consent when providing personal information to third parties, we will obtain your explicit consent before processing your personal information.
+2.1 Location of Information Storage
+We will store the personal information of users collected within China in accordance with laws and regulations
+2.2 Duration of Information Storage
+We also ask for your understanding that no security measure can be flawless
+4.2 We will not share information that can be used to identify your personal identity with our partners unless you explicitly authorize it.
+You can view the list of authorized applications and manage and revoke your authorized information through "Me Settings Personal Information and Permissions Authorization Management".
+Please note that there may be differences in operation settings between different operating systems and versions of WeChat software
+5.1 Accessing and Copying Personal Information
+5.1.1 Check basic information such as profile picture, nickname (i.e. "name", the same below), photo, WeChat ID, QR code, gender, region, personal signature, and my address:
+1) After entering WeChat, click on "Me";
+2) Click on the avatar bar;
+3) Perform information query access.
+5.1.2 Check WeChat ID, phone number, WeChat password, voice lock, emergency contacts, login device management, and more security settings (QQ number, email address):
+2) Click on 'Settings';
+3) Click on 'Account and Security';
+4) Perform information query access.
+5.1.3 Checking Moments and Status Information:
+2) Click on 'Moments';
+3) Click on 'My Moments' to access Moments information, or click on' Status' to access status information.
+5.1.4 Viewing and Setting WeChat Game Privacy and Authorization, Subscription, etc.:
+1) After entering WeChat, click "Discover";
+2) Click on 'Game';
+3) Click on the avatar;
+4) Click on the settings icon;
+5) Click on "New Message Notification", "Subscription Management", "Privacy", "By Game Management", etc. to access and set up accordingly.
+5.1.5 Checking the blacklist in the address book:
+3) Click on 'Friend Permissions';
+4) Click on 'Address Book Blacklist' to search.
+5.1.6 Check the interactive information on the video account:
+2) Click on 'Video Number';
+3) Click on the humanoid icon in the upper right corner;
+4) Click on 'Privacy';
+5) Click on 'Interactive History'.
+5.1.7 Viewing and Exporting Personal Information of Video Account:
+4) Click on the avatar name column of the video account to enter the video account homepage;
+5) Click on the "..." in the upper right corner to enter the settings page;
+6) Click on 'Privacy Settings';
+7) Click on 'Personal Information Browse and Export'.
+5.1.8 Accessing and Copying Personal Information:
+3) Click on 'Personal Information and Permissions'
+4) Click on 'Personal Information' to view your personal information;
+5) Click on 'Export Personal Information' to make a copy of your personal information and send it to your designated email.
+5.1.9 Refer to the Personal Information Collection List:
+3) Click on 'Personal Information Collection Checklist'
+5.1.10 Refer to the "List of Third Party Information Sharing":
+3) Click on the 'Third Party Information Sharing List'
+5.2 Deleting Personal Information
+5.2.1 Delete all one-on-one chat records:
+1) After entering WeChat, open the conversation and click on the "..." icon in the upper right corner;
+2) Click to clear chat history.
+5.2.2 Delete group chat records:
+5.2.3 Delete some/all chat records:
+1) After entering WeChat, open the conversation, long press and click on a message that needs to be deleted;
+2) Select 'Delete' to delete this message;
+3) After entering WeChat, click on "Me";
+4) Click on 'Settings';
+5) Click on "General" (or "Chat");
+6) Click to clear chat history and delete all chat records.
+5.2.4 Delete personal signature, my address and other basic information (QR code cannot be modified or deleted):
+3) Delete relevant information.
+5.2.5 Delete Moments:
+3) Click on 'My Moments';
+4) Click on the friend circle information that needs to be accessed;
+5) Click on the "..." in the upper right corner and delete your friend circle information.
+5.2.6 Delete video account content:
+1) After entering WeChat, follow the steps in section 5.1.7 to access the video account homepage;
+2) Click on the content to be deleted;
+3) Click on the "..." in the upper right corner;
+4) Click to delete.
+5.2.7 Delete Favorite Content:
+2) Click on 'Favorites';
+3) Click on the content to be deleted;
+4) Click on the "..." in the upper right corner;
+5) Click to delete.
+5.2.8 Delete login device:
+4) Click on 'Login Device Management';
+5) Click 'Edit' to delete the corresponding login device.
+5.3 Correction of Personal Information
+5.3.1 Change profile picture, nickname, take a photo, gender, region, personal signature, and my address:
+3) Perform corrective actions.
+5.3.2 Change phone number, WeChat password, voice lock, emergency contact person:
+4) Perform corrective actions.
+5.3.3 Change video account avatar, name, and profile:
+2) Click on the "..." in the upper right corner;
+3) Click on the profile picture and name column to enter the information page and make changes.
+5.4 Function and Permission Management
+5.4.1 Close Recommended Contacts
+Friend:
+4) You can turn off 'Recommend contacts to me'.
+5.4.2 Turn off nearby people settings:
+2) Click on 'Live and Nearby';
+3) Click on 'Nearby People' and click 'OK' to open this feature;
+4) After opening, click on the "..." in the upper right corner;
+5) Click 'Clear location information and exit' to turn off this feature.
+5.4.3 Close WeChat Movement:
+3) Click on 'General';
+4) Click on 'Accessibility';
+5) Click on 'WeChat Sports';
+6) Click 'Disable';
+7) Click on 'Clear and Disable'.
+5.4.4 Close Shake:
+4) Click on 'Discovery Page Management';
+5) Turn off 'shake'.
+5.4.5 Release authorization to other applications:
+3) Click on 'Personal Information and Permissions';
+4) Click on 'Authorization Management';
+5) Click on the authorization content that needs to be managed;
+6) Click on 'Cancel Authorization'.
+5.4.6 System Permission Management:
+4) Click on 'System Permission Management';
+5) Click on 'Go to System Settings for More'.
+5.5 Account Cancellation
+5.5.1 Cancel WeChat account:
+4) Click on "WeChat Security Center";
+5) Click on 'Cancel Account'.
+5.5.2 Cancel WeChat Pay:
+2) Click on 'Pay';
+3) Click on the "..." in the upper right corner;
+4) Click on 'Cancel WeChat Pay'.
+5.6 Complaints and Reports
+3) Click on 'About WeChat';
+4) Click on 'Complaint'.
+5.7 Privacy Function Settings
+5.7.1 Do I need to verify when adding friends
+4) Click on 'Verification required when adding me as a friend' to make changes.
+5.7.2 Setting the way users are added:
+4) Click on 'Add My Method' to make changes.
+5.7.3 Setting up a friend circle entrance:
+5) Open/close the friend circle entrance.
+5.7.4 Viewing the Public Scope of Moments:
+3) Click on 'Moments';
+4) You can set 'Allow friends to view the range of their Moments';
+5) You can set whether to "allow strangers to view ten Moments".
+5.7.5 Setting Friend Permission Range:
+1) After entering the address book, select the friends that need to be set up;
+2) After selecting a friend, click on the "..." in the upper right corner;
+4) Set up 'friend permissions'.
+5.7.6 Setting the location and public scope for sending Moments:
+2) Click on Moments;
+3) Long press the "Camera" icon in the upper right corner;
+4) You can choose content such as "location", "who can watch", "remind who to watch", etc.
+5.7.7 Setting up a blacklist and private accounts for video accounts:
+4) Click on the avatar;
+5) Click on "...";
+5.7.8 Set up friends with video accounts to like and watch:
+4) Click on 'Privacy'.
+5.7.9 Choose to use different personal information to log in to websites or applications other than WeChat:
+1) In websites or applications that allow the use of WeChat personal accounts for login, click on "WeChat login" or other icons that refer to this meaning (usually WeChat icons);
+2) Choose different personal information (avatar, nickname), or create new user information (avatar, nickname) as the avatar and nickname for logging into the website or application.
+5.7.10 WeChat Sports Privacy Settings:
+6) Click on 'Privacy and Reminder Settings';
+7) Set privacy settings for WeChat campaigns.
+5.8 Rights of close relatives of the deceased
+Specifically, if you are a child under the age of 14, we have specially designed a program for you
+Before completing account registration for children under 14 years old, children and their guardians should also carefully read Tencent's specially formulated guidelines
+. Only after obtaining guardianship
+After obtaining consent, children under the age of 14 are allowed to use WeChat services.
+8.2 Under certain specific services or functions of WeChat, we may also inform you of the purpose, method, or scope of processing personal information through interactive text, product interface, or pop ups. If the content of the separate notification is inconsistent with this guideline, the content of the separate notification shall prevail.
+2) Send your question to Dataprivacy@tencent.com ；
+3) Sent to the following address: Data Privacy Protection Department, Tencent Binhai Building, No. 33 Haitian 2nd Road, Nanshan District, Shenzhen, Guangdong Province, China (recipient), zip code: 518054;
+Shenzhen Tencent Computer Systems Co., Ltd

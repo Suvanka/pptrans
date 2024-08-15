@@ -1,0 +1,246 @@
+Update Date: January 12, 2023
+Effective Date: August 10, 2020
+Summary of updated content (please refer to the full text of the privacy policy for details):
+1. Improve the content of 1-4 "Third Party Information Sharing Checklist"
+2. Add 6 new content related to minors in the "Todo List Children's Personal Information Protection Rules and Guardian Notice"
+3. Remove the unreasonable statement that "continuing to use Todo List services constitutes your consent to this Privacy Policy and any updated versions"
+4. Explanation of adding notification permissions
+introduction
+This policy only applies to the product "Todo List" and related services of Hangzhou Qianxi Technology Co., Ltd. (hereinafter referred to as "us").
+Hangzhou Qianxi Technology Co., Ltd. (hereinafter referred to as "Qianxi Technology") attaches great importance to users' personal information. We make every commercially reasonable effort and security measures to protect users' privacy, while also developing strict policies to manage all data. When you access the Todo List or use the services we provide, you need to agree to the provisions in this policy regarding how we collect, use, store, and share your relevant information. If you do not agree with any content in this privacy policy, please immediately stop using or accessing our products and services. If you have any questions about this policy, please contact: contact@evestudio.cn We will complete the verification and processing within 15 working days after receiving your contact.
+This privacy policy is closely related to the Todo List service you use and the various business functions included in the service (collectively referred to as "our products and/or services"). We hope that you carefully read and confirm that you have fully understood the content stated in this privacy policy before using our products and/or services, and that you can make appropriate choices according to the guidance of this privacy policy. We strive to use concise and clear language to describe the relevant terms mentioned in this privacy policy, and provide links for further explanation to help you better understand.
+About Us
+The operator of Todo List is Hangzhou Qianxi Technology Co., Ltd. or its affiliated companies, with a registered address at Room 1010, Building 19, Times Tianyuan City, Cangqian Street, Yuhang District, Hangzhou City, Zhejiang Province.
+This policy will help you understand the following:
+How do we collect and use your personal information
+How do we share, transfer, and publicly disclose your personal information
+How do we store your personal information
+How do we protect your personal information
+Your right to manage personal information
+How do we handle the personal information of minors
+How to revise and update this policy
+How to contact us
+1、 How do we collect and use your personal information
+We will collect and use personal information voluntarily provided by you during the use of our products (or services) based on the principles of legitimacy, legality, transparency, and minimum necessity.
+（1） Register an account
+When you register and log in to the Todo List account, you need to provide the following registration methods:
+Account and password registration: account/email information, password, mobile phone brand and model (BRAND/MODEL)
+Mobile phone number registration: mobile phone number, SMS verification code, mobile phone brand and model (BRAND/MODEL)
+WeChat login: Open platform Coco, WeChat nickname, WeChat avatar, mobile phone brand and model (BRAND/MODEL)
+QQ login: Open platform openId, QQ nickname, QQ avatar, mobile phone brand and model (BRAND/MODEL)
+（2） Application Function
+Synchronize event data
+If you use it without logging in, we will not upload any of your data to the server.
+When you register and log in, and create a list and event data in your account, create and edit events, Tomato Focus, in order for you to synchronize data between devices normally and completely, you need to allow us to collect:
+Your classification list and tags
+Your event content, event description, date, reminder time, classification information, tag information, subtasks, workload grading, repetition rules, event images and files, tomato focused data of the event
+The above information is only used for data synchronization between your multiple devices, and we will not actively read your list and event content.
+Event Reminder
+If you set a reminder for the event in the Todo list and enabled the WeChat official account associated reminder service. Then when the reminder time is reached, we will remind you through WeChat official account. You need to allow us to use mobile phones for event titles, event descriptions, dates, reminder times, classification information, workload grading, repetition rules, and event sorting.
+[Subscription Calendar Service]
+After enabling the "Calendar Subscription" function and allowing Todo List to obtain the "Read System Calendar Data" permission, in order to ensure that you can view and edit system calendar events in the Todo List, the information we may collect includes: schedule content, schedule date and time, schedule reminders, and schedule participants in your system calendar. But we will not upload this information to the server, only for local display.
+Tomato Focus
+After you enable the 'Tomato' function, in order to ensure that you can use the tomato function normally between various devices, we may collect information including: your tomato focus time, short rest time, long rest time, long rest interval tomato count, related events, and tomato count.
+[Data Statistics]
+When you voluntarily agree to use the data statistics function on the Todo list, we will search for your historical events and tomato data, which will only be used for statistical display of corresponding charts. These data are only for your personal viewing and we will not actively transfer or share them.
+【 Submit Feedback 】
+When you submit feedback on the Todo checklist, in order to ensure that we can accurately understand and screen the issues you encounter, the information we may collect includes: feedback type, feedback content, contact information, device model, and operating system version.
+【 Inspiration Post 】
+When you use the inspiration post function, the information we collect includes: the content and time of the inspiration post. We will not share this information with any third party until you voluntarily choose to post it publicly.
+Bind third-party accounts or services
+When you choose to bind WeChat to your account or enable the function of WeChat official account, you need to contact
+We provide: WeChat nickname, WeChat avatar.
+When you choose to bind QQ to your account, you need to provide us with: QQ nickname, QQ avatar.
+Recharge gift service
+When you pay to upgrade your premium account, if it happens to be during the gift promotion period, you can voluntarily choose whether to receive our customized physical gifts. If you choose to collect, you need to provide us with the recipient's name, recipient's phone number, and delivery address.
+Fingerprint and password lock
+When you enable the local password lock function, you need to provide us with your fingerprint information and password. These information are only saved locally and will be destroyed when you uninstall the app.
+[Other]
+You can choose to provide us with and allow us to collect the following information by completing your personal information: profile picture, nickname, gender. These pieces of information are not necessary for the operation of various business or system functions, and we will not force you to provide them. Your refusal will not have a negative impact on the use of the Todo checklist.
+（3） Permissions that will be applied for within the application
+We need to apply for some system permissions related to personal privacy to ensure that certain functions within the application can be used normally. We will apply for authorization from you when you use these features, and only after obtaining your authorization will we access your personal information. If you do not need to use these functions, you can refuse authorization; If you have never used these features, we will not apply for permission from you or access your personal information.
+The permissions we will apply for and the corresponding functions include:
+[Permissions that will be applied for within Android applications]
+Allow access to system calendar: Non mandatory permission. You can subscribe to the schedules in the system calendar through the Todo list, and display them in the Todo list for more convenient unified viewing and management. And you can use the system calendar to implement event reminder functions more environmentally friendly, rather than relying on third-party uncontrollable push SDKs.
+Allow reading and writing to external storage space: Non mandatory permission. When you need to share a list, this permission can assist you in generating a growth chart to save locally and share with friends.
+Allow access to photo album: Non mandatory permission. Used to upload images during events or modify one's avatar.
+Allow microphone recording: Non mandatory permission. Used for long press+key voice shortcut to add events.
+Allow calling camera: Non mandatory permission. When logging in to the desktop or smartwatch, scan the QR code to quickly log in.
+Allow fingerprint reading permission: Non mandatory permission. Used to set encryption locks and encrypt in fingerprint form.
+Allow push notification permission: Non mandatory permission. Used for local push notifications at the end of tomato focus.
+Allow Bluetooth permission: Non mandatory permission. Used to support calling up the microphone of the headphones for quick voice addition of events.
+Permissions that will be applied for within the iOS app
+Allow access to system calendar: Non mandatory permission. You can subscribe to the schedules in the system calendar through the Todo list, and display them in the Todo list for more convenient unified viewing and management. And you can use the system calendar to implement event reminder functions more environmentally friendly, rather than relying on third-party uncontrollable push SDKs.
+Allow reading and writing to external storage space: Non mandatory permission. When you need to share a list, this permission can assist you in generating a growth chart to save locally and share with friends.
+Allow access to photo album: Non mandatory permission. Used to upload images during events or modify one's avatar.
+Allow microphone recording: Non mandatory permission. Used for long press+key voice shortcut to add events.
+Allow calling camera: Non mandatory permission. When logging in to the desktop or smartwatch, scan the QR code to quickly log in.
+Allow fingerprint reading permission: Non mandatory permission. Used to set encryption locks and encrypt in fingerprint form.
+Allow push notification permission: Non mandatory permission. Used for local push notifications at the end of tomato focus.
+Allow Bluetooth permission: Non mandatory permission. Used to support calling up the microphone of the headphones for quick voice addition of events.
+Allow face ID: Non mandatory permission. When you set an unlock password for the application and enable "Face ID" unlocking, we will apply for this permission. After obtaining authorization, you can use Face ID to unlock the application
+Allow the use of Siri: When you enable the 'Add events through Siri' feature, we will apply for this permission. After obtaining authorization, you can directly talk to Siri to add events
+（4） Third party SDK services
+This product is integrated with third-party SDKs or similar applications. Some third-party SDKs or similar applications that we access may collect your personal information. We will evaluate the legality, legitimacy, and necessity of such third-party SDK services collecting personal information, require third-party SDKs to take protective measures for your personal information, and strictly comply with relevant laws, regulations, and regulatory requirements. In order to provide you with more services, ensure service stability and quality, or upgrade related features, we may need to adjust the third-party SDKs we integrate. You can refer to the 'Third Party Information Sharing List' to gain a detailed understanding of the names of third-party SDKs integrated into the Todo List, the types and purposes of personal information collected.
+The above third-party SDK services are operated by the relevant third-party SDK service providers themselves. Your use of third-party SDK services (including any information you provide to third parties) is subject to the third party's own terms of service and information protection statement (not this policy), and you need to carefully read their terms. This policy only applies to the personal information we collect and does not apply to any services or information usage rules provided by third-party SDKs. If you find that these third-party SDK services pose risks, we suggest that you terminate the relevant operations to protect your legitimate rights and interests and contact us in a timely manner.
+（5） Personalized services for data statistics
+After you voluntarily agree to use the data statistics function, we will query your event and tomato data and display the corresponding statistical results through personalized algorithms. We analyze your data only for statistical display of corresponding charts. These data are for your personal viewing only and we will not actively transfer or share them.
+You can go to [Settings - Personalized Services] anytime
+Turn off this function.
+（6） System listening broadcast for Android desktop widgets
+Android.appwidget action.APPWIDGET Update broadcast is a system listening broadcast that must be registered for desktop widget functionality. It is only used to automatically start the desktop widget service of the app or update widget information. There may be a background process that starts automatically, which is managed by the system.
+（7） User survey and online interaction
+We will conduct user surveys, mainly through questionnaires, from time to time. In order to provide better functions and services to different user groups, we may collect the following personal information from respondents: age, gender, industry, occupation, device information, and personal interests.
+We will hold interactive activities on social media (WeChat subscription account, Weibo, Zhihu, Station B, Xiaohongshu, Tiktok) from time to time. In order to facilitate users to participate in interactive activities and obtain interactive prizes, we may collect the following personal information from participants: name, contact phone number, contact address.
+The above information is only for specific activities and we will not use your personal information for any other purposes. If you do not wish to provide such information, you may refuse to participate in our research and interactive activities.
+（8） Other Usage Instructions
+When we need to use your information for other purposes not specified in this policy, we will seek your consent in advance. When we need to use information collected for specific purposes for other purposes, we will seek your consent in advance.
+2、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+We will not share your personal information with any other company, organization, or individual without your consent, except in the following circumstances:
+Obtaining your explicit consent or authorization: After obtaining your explicit authorization, we will share your personal information with other parties.
+Sharing under legal circumstances: According to laws and regulations, litigation dispute resolution needs, or mandatory requirements or judicial rulings of government regulatory departments, your personal information must be shared with the outside world.
+Within the scope required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the interests, property, or safety of the Todo List and its users or the general public from harm
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual without your consent, except in the following circumstances:
+Obtaining your explicit consent or authorization: After obtaining your explicit authorization, we will transfer your personal information to other parties.
+If a merger, acquisition, or bankruptcy liquidation occurs, it may involve the transfer of personal information, in which case we will require the new company or organization holding your personal information to continue to be bound by this policy. If there is any change in the collection and processing of personal information as stipulated in this policy, the company or organization will seek your authorization and consent again.
+（3） Public disclosure
+We will not publicly disclose your personal information without your consent, except in the following circumstances:
+Obtain your explicit consent or authorization.
+We may disclose your personal information to authorized authorities based on laws, legal procedures, lawsuits, or mandatory requirements from government regulatory agencies. But we guarantee that in the event of the above situation, we will require the disclosing party to provide corresponding valid legal documents and take security measures that comply with laws and industry standards for the disclosed information.
+3、 How do we store your personal information
+（1） Retention period
+During your use of this platform, we will continue to store your personal information for a period not exceeding the period necessary to provide services to you. After you terminate the use of this platform or close the corresponding authorization, unless otherwise specified by laws and regulations for specific information retention periods, we will delete or anonymize your information.
+If we cease operations due to poor management or other reasons, we will immediately stop collecting your personal information and delete the collected personal information. We will announce this situation on the website or communicate it to each user through internal notifications, emails, software pop ups, and other reasonable means.
+（2） Save Region
+We will store the information obtained from within the territory of the People's Republic of China. If some products or services involve cross-border transactions, we need to transmit your personal information outside the country. We will strictly comply with the provisions of laws and regulations and ensure the security of your personal information.
+4、 How do we protect your personal information
+Your personal information security is crucial to us. We will strictly comply with relevant laws and regulations, take reasonable and feasible measures recognized by the industry, and protect your personal information. Prevent unauthorized access, disclosure, use, and modification of information, and avoid information damage or loss.
+（1） Technical measures and data security measures
+We have implemented security measures that comply with industry standards to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, and preventing data damage or loss. We will take all reasonable and feasible measures to protect your personal information. For example, when exchanging data between your browser and Todo manifest, it is protected by SSL encryption; We also provide HTTPS secure browsing method; We will use encryption technology to ensure the confidentiality of data; We will use trusted protection mechanisms to prevent data from being maliciously attacked; We have deployed access control mechanisms to ensure that only authorized personnel can access personal information; And we will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+The Internet is not an absolutely secure environment, and email, instant messaging, and communication with other users are not encrypted. We strongly recommend that you do not send personal information through such methods. Please use a complex password to help us ensure the security of your account.
+（2） Security incident handling
+The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information,
+If your legitimate rights and interests are damaged, we will bear corresponding legal responsibilities.
+After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will promptly inform you of the relevant situation of the event through email, letter, phone, and push notifications. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements.
+At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+5、 Your right to manage personal information
+We make every effort to protect your right to access, correct, and delete your personal information, so that you have sufficient ability to safeguard your privacy and security. Your rights include:
+（1） Accessing and correcting your personal information
+You have the right to access your personal information, except for exceptions provided by laws and regulations. If you wish to exercise your data access rights, you can access and correct them yourself through the following methods:
+Personal information. Enter 'My Account' to access or modify your profile picture, nickname, email account, and login password. Unbind your WeChat account and QQ account. Change your bound phone information.
+Apply lock password. Change or cancel digital password, disable fingerprint recognition or facial recognition.
+If you are unable to access or correct this personal information through the above methods, you can submit feedback within the Todo Checklist app or send an email to contact@evestudio.cn . We will reply to your visit request within 15 days.
+（2） Delete your personal information
+In the following situations, you can request us to delete your personal information:
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your consent;
+If our handling of personal information violates our agreement with you;
+If you no longer use our products or services, or if you cancel your account;
+If we no longer provide you with products or services.
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner, unless otherwise provided by laws and regulations, or if these entities have obtained your independent authorization. When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+After you delete your account, we will also notify the entities that have obtained your personal information from us, requesting them to delete it in a timely manner, unless otherwise stipulated by laws and regulations or these entities have obtained your independent authorization. When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+（3） Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, uninstalling software, changing the permission granting method in system settings, or setting privacy settings in the software. You can also revoke all authorization for us to continue collecting your personal information by canceling your account. Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+（4） Cancel your account
+If you need to cancel your account, please log in to the Todo List mobile app, go to "Avatar" - "Account Settings" to delete your account by yourself.
+After canceling the account, we will cease to provide you with products or services and delete your personal information as per your request, except as otherwise provided by laws and regulations.
+（5） Obtain a copy of personal information
+You have the right to obtain a copy of your personal information, and you can operate it yourself by sending an email to contact@evestudio.cn . We will respond to your access request within 15 days and export your inventory data in the form of a spreadsheet. This feature currently only supports exporting event data.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems and algorithms. For example, sending you emails on tips for using Todo checklists, recent feature updates, user surveys, or interactive activities. If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us or choose to unsubscribe in the email.
+（7） In response to your above request
+To ensure safety, you may need to provide a written request or prove your identity in other ways. We may first require you to verify your identity before processing your request. We will respond to your request within 15 days.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+Related to our obligations under laws and regulations;
+Related to national security and defense security;
+Related to public safety, public health, and major public interests;
+Related to criminal investigation, prosecution, and trial;
+We have sufficient evidence to suggest that you have subjective malice or abuse of power;
+For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals' lives and property, but it is difficult to obtain their consent;
+Responding to your request will result in you or
+Serious damage to the legitimate rights and interests of other individuals or organizations;
+Involving trade secrets.
+6、 How do we handle the personal information of minors
+We suggest that any minors participating in online activities should obtain the consent of their parents or other guardians (hereinafter referred to as "guardians") in advance. We will protect the relevant information of minors in accordance with relevant national laws and regulations.
+We encourage guardians to guide minors in using this product. If you are a minor under the age of fourteen, please notify your guardian to jointly read and accept our 'Todo List Children's Personal Information Protection Rules and Guardian Notice', and seek their consent and guidance before using this product or submitting personal information. If you are the parent or other guardian of a minor, please pay attention to whether the minor under your guardianship is using our services with your consent. When you have any questions about the personal information of minors under your guardianship, please contact us through the contact information disclosed in this policy.
+7、 How to revise and update this policy
+In order to provide you with better service, we may modify the terms of this policy in a timely manner based on the updates of this product and relevant requirements of laws and regulations. Such modifications constitute a part of this policy. We will announce any changes made to this policy on this page.
+For significant changes, depending on the specific circumstances, we may provide more prominent notices explaining the specific changes to this policy. Major changes include but are not limited to:
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+We have undergone significant changes in ownership structure and organizational structure. Changes in ownership caused by business adjustments, bankruptcy, acquisitions, and mergers and acquisitions;
+The main objects of personal information sharing, transfer or public disclosure have changed;
+There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+When the responsible department, contact information, and complaint channels for handling personal information security change;
+When the personal information security impact assessment report indicates the presence of high risks.
+8、 How to contact us
+We have established a dedicated department for personal information protection, which will strictly protect your personal information in accordance with this policy. If you have any complaints or reports regarding personal information security, or if you have any questions, opinions, or suggestions regarding this policy or your personal information, please contact our personal information protection officer. You can send an email to contact@evestudio.cn Or write to the following address: Personal Information Protection Manager, Room 1010, Building 19, Huaxia Zhixin Office Building, Yuhang District, Hangzhou City, Zhejiang Province (to be received); Phone: 18705817221; Postal code: 310000.
+Generally, we will accept and process your questions, opinions, or suggestions within fifteen working days after receiving them and verifying your user identity. If you are not satisfied with our handling, you can also file a complaint or report to the department responsible for personal information protection.
+Navigation
+home page
+Beginner's Guide
+Function manual
+Methodology of Time Management
+common problem
+explore
+Advanced Account
+Go to the official website
+Choiceness
+Desktop widget
+12 things you must value and avoid in order to develop good study habits!
+Don't let fragmented learning drag you into the abyss!
+What if I really can't keep up with my studies/work?
+Is procrastination happening again? This' anti procrastination system 'can help you take action quickly
+The world's strongest learning method - Feynman learning method (deep learning)
+How can one focus solely on studying?
+Improving Self Control | 27 Methods for Self Control
+By doing so, you can 100% complete the formulated plan
+Ding! Who is using the Todo checklist?
+Tags
+GTD
+Ivy Lee
+Todo List
+Todo List Product Introduction
+Toto List
+habit
+draw up a plan
+replay 
+study
+learning method
+arrange
+work
+work efficiency
+To Do Items
+to-do list 
+Micro habits
+thinking
+Execution power
+procrastination
+New Year's plan
+Schedule management
+schedule planning 
+time management
+Time planning
+detailed list
+anxious
+Entropy increase
+life
+Tomato working method
+Tomato Management Law
+Tomato Clock
+target
+Social Thinking
+self-discipline
+Self improvement
+Self-control
+Comfort zone
+Avili Time Management Method
+plan
+plan
+Feynman Learning Method
+read
+Efficient
+Efficient learning
+Efficient work

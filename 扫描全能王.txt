@@ -1,0 +1,427 @@
+【 Scan and Measurement King 】 Privacy Policy
+Updated on April 18th, 2024
+Effective date: April 18, 2024
+preface
+The Scanning Measurement Omnipotent King is provided by Beijing Chenxin Technology Co., Ltd. (hereinafter referred to as "we" or "Chenxin Technology"). We understand the importance of personal information to our users (hereinafter referred to as "you"), and we also recognize that providing effective protection for your personal information is the cornerstone of our business's healthy and sustainable development. Thank you for using and trusting Chenxin Technology's products or services! We are well aware that this trust is hard-earned. We adhere to the principles of openness and transparency, and make clear to you our rules for processing your personal information. We use legal and legitimate methods and clear and reasonable purposes to process your personal information. We will take corresponding security measures to protect your personal information in accordance with the requirements of laws and regulations and mature security standards in the industry, making this trust even stronger.
+We hope to explain to you through this privacy policy how we collect, use, store, share, transfer, and publicly disclose your personal information when using our products or services, as well as the ways we provide you with access, update, delete, and protect this information.
+If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through the various contact methods provided in this privacy policy.
+This privacy policy will help you understand the following:
+1、 How do we collect and use your personal information
+2、 How do we use cookies and similar technologies
+3、 How do we store your personal information
+4、 How do we share, transfer, and publicly disclose your personal information
+5、 How do we protect your personal information
+6、 Your right to manage personal information
+7、 Protection of Personal Information of Minors
+8、 Scope of Application of Privacy Policy
+9、 Changes and revisions to the privacy policy
+10、 How to contact us
+How do we collect and use your personal information
+How do we use cookies and similar technologies
+We will follow the principles of legality, legitimacy, and necessity to collect and use your personal information in accordance with the purposes stated in this policy. If your personal information is used for purposes other than this policy, we will inform you in a reasonable manner and obtain your consent.
+When you use this product, we need to collect and use your personal information in the following situations. To assist and achieve the business functions of using this product, we need your authorization to collect and use your necessary personal information. If you refuse us to collect any of your personal information, we will be unable to provide you with any features or services of this product, including basic business functions.
+（1） We need you to authorize us to collect and use your personal information for our business functions.
+Register and Login
+When you register for the 'Scan and Measure All Around King' account, in accordance with relevant laws and regulations, you need to provide us with your mobile phone number or email address for account creation, login verification, and ensuring account security. We will also collect your username and password to help you complete the registration of the 'Scan and Measure All Around King' account and protect your account security. If you refuse to provide this information, you will not be able to successfully register for the 'Scan and Measure King' account, but it will not affect your use of basic services that do not require an account.
+Based on our cooperation with communication operators, when you use the "one click login" function, with your explicit consent, the operator will send us your phone number so that we can provide you with quick login services. If you refuse to provide your phone number, you will not be able to use the "one click login" method to register and log in to the "Scan and Measure All in One King" account, but it does not affect your ability to register and log in through other methods, nor does it affect the normal use of other functions.
+When you cancel your account with 'Scan and Measure All in One King', we will stop using and delete the above information or anonymize your personal information, except as otherwise provided by laws and regulations.
+We provide you with the scanning and measurement all-in-one king business function
+Basic business functions refer to the fundamental functions that support the normal operation of this product and provide services. Basic business functions require you to click on the function key before the system can automatically obtain and process necessary information through the public interface provided, in order to run the functions and provide you with relevant services. The frequency of calling required information and permissions for basic business functions will not exceed the required functionality. If you do not agree with the following information that we must collect and use to provide you with services, please stop using this product or related functional services.
+2.1.  Photo counting
+This product provides the function of one click shooting of objects for counting and statistics. When you use this feature, you need to authorize this product to obtain the "Camera" permission. With your consent (you can enter the permission management interface for your Scan Measurement King authorization through the device "Settings ->Permission Management ->Scan Measurement King" to terminate the "Camera" authorization), you can take photos of the items inside the camera. At the same time, you can also use the pictures in your device's album for counting and statistics (you need to authorize this product to obtain "Storage" permission, you can enter the permission management interface for your Scan Measurement King authorization through the device "Settings ->Permission Management ->Scan Measurement King" to terminate the "Storage" authorization). Under your operation, we will perform algorithm detection on the images you want to count, identify and compare the detected objects in the images, and count and count the detected objects. After successful counting, we will return the statistical results and provide recommendations. This product will strictly encrypt your images during transmission and storage in accordance with legal requirements to ensure the security of your information. The use of this information is limited to providing you with this feature.
+2.2.  Real time distance measurement
+This product provides you with real-time distance measurement function, accurately measuring the distance of objects in real time. When you use this feature, you need to authorize the product to obtain "camera" permission. After obtaining your consent (you can enter the permission management interface for your authorization of "scanning and measurement king" through the device "Settings ->Permission Management ->Scanning and Measurement King" to terminate the "camera" authorization), you can take photos of the items inside the camera. Under your operation, we will guide you to set the starting and ending points of the measurement through prompts. We use AR technology to calculate
+After successfully calculating the distance between the starting and ending points that you have set, provide measurement results and suggestions. We will not store the content and measurement data captured by your camera.
+2.3.  Image Conversion
+This product provides image conversion function. When you use this feature, you need to authorize this product to obtain "camera" permission. With your consent (you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "camera" authorization), you can take photos of the items inside the camera. At the same time, you can also use the pictures in your device's album for image conversion (you need to authorize this product to obtain "storage" permission, you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "storage" authorization). At the same time, we need to collect your level sensor and acceleration sensor information. We collect the above information from you in order to use the level to adjust the image angle during the conversion process and ensure the quality of the image conversion. Under your operation, we will use OCR technology to extract and convert the text information on the image you choose to convert into the corresponding text format file. After successful conversion, we will return the recommended conversion result. This product will strictly encrypt your images during transmission and storage in accordance with legal requirements to ensure the security of your information. The use of this information is limited to providing you with this feature.
+2.4.  Extract Text
+This product provides text extraction function. When you use this feature, you need to authorize this product to obtain "camera" permission. With your consent (you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "camera" authorization), you can take photos of the items inside the camera. At the same time, you can also use the images in your device's album to extract text (you need to authorize this product to obtain "storage" permission, you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "storage" authorization). Under your operation, we will perform OCR detection on the image you want to extract text from, and recognize the text inside the image. After successful recognition, we will convert the recognized text into a text format file and return the result. This product will strictly encrypt your images during transmission and storage in accordance with legal requirements to ensure the security of your information. The use of this information is limited to providing you with this feature.
+2.5.  Image erasure
+This product provides image erasing function. When you use this feature, you need to authorize this product to obtain "camera" permission. With your consent (you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "camera" authorization), you can take pictures of the items inside the camera. At the same time, you can also use the pictures already taken in your device's album to erase the pictures (you need to authorize this product to obtain "storage" permission, you can enter the permission management interface authorized by "Settings ->Permission Management ->Scan and Measurement King" on the device to terminate the "storage" authorization). Under your operation, we will detect the image you want to erase and recognize the handwritten text inside the image. After successful recognition, we will erase the recognized handwritten text and return the erased image to the output result. This product will strictly encrypt your images during transmission and storage in accordance with legal requirements to ensure the security of your information. The use of this information is limited to providing you with this feature.
+Resolve the issue you provided feedback on
+You can provide us with feedback on the issues you have encountered while using this product through the user feedback guide in the product. If you have not registered for our account, you will need to provide us with your mobile phone number, email address, or QQ number so that we can contact you and provide answers to your feedback. If you have registered our account, you can also provide us with feedback by logging in to the 'Personal Center'. We will analyze the information mentioned in the previous paragraph to identify the cause of the problem and make efforts to solve it. The contact information you provided in your feedback will only be used for our customer service to communicate and provide feedback to you. We will not provide the contact information you provided to any third party except with the explicit consent of the user and in accordance with legal regulations.
+User Experience Improvement Plan. In order to continuously improve our products, eliminate and reduce product crashes, and provide you with better product functionality services, we will obtain the following information about your device through the common interface of the mobile system: device model, mobile system version number, system number, system ID number, screen resolution, internet type, software name, version number, package name, software usage time and frequency, software crash logs, which are used to count the number of users of our product, analyze the usage status of the product, investigate the cause of crashes, and optimize product functions. These pieces of information do not involve your personal identity related information. If you do not want to participate in this program, you can close the User Experience Improvement Program through "Me ->Settings ->General ->User Experience Improvement Program", and we will no longer obtain and use the above information.
+Security guarantee
+In order to ensure the security of your account, transaction security, and system operation, in accordance with this policy and legal requirements, we will collect your IP address, device model, operating system, and unique device identifier (Android ID) information during your use of our products or services (including backend processes) after you agree to this privacy policy during the first installation of [Scan Measurement Omni King]. This information is necessary to determine the risks of your account, as well as to prevent, detect, and investigate behaviors that endanger system operation security, are illegal, or violate our rules and agreements. Such information is the basic information that must be collected to provide services.
+To improve the security of your use of our services and those provided by our affiliated companies and partners, protect your personal and property safety or that of other users or the public from infringement, and better prevent phishing websites, fraud, network vulnerabilities
+We will use or integrate your account information, device information, application usage information, as well as information obtained by our affiliated companies and partners with your authorization or shared in accordance with the law, to identify security risks such as computer viruses, network attacks, and network intrusions, and to more accurately identify violations of laws and regulations or relevant protocol rules of Chenxin Technology. This information will be used for identity verification, detection, and prevention of security incidents, and necessary recording, auditing, analysis, and disposal measures will be taken in accordance with the law.
+（2） Device permission call
+During the service provision process, the scanning and measuring all-in-one king will call upon some of your device permissions. This section is a summary of all the system permissions mentioned in (1) above, to facilitate a complete presentation to your system.
+List of device permission calls
+Device permissions
+Application permission name
+Function and entrance
+Purpose of permission application
+Do you want to inquire
+Is it revocable
+camera
+camera
+Application homepage ->Photo counting, real-time distance measurement, text extraction, image conversion, image erasure
+The application needs to apply for camera permission for users to use the camera to capture objects, and use the captured content or images for photo counting, real-time distance measurement, text extraction, image conversion, and image erasing functions
+storage
+Read external memory
+Application homepage ->Photo counting, image conversion, text extraction, image erasure
+The application needs to obtain storage permissions for users to select images in the device album for photo counting, image conversion, text extraction, and image erasing functions. At the same time, processed images or text format files (generated by image conversion or text extraction functions) will also be saved to the device storage
+Write to external memory
+Application installation list
+Application installation list
+My - Cashier
+The application needs to judge the user's current payment method (WeChat, Alipay) to provide users with a better payment experience
+You can choose to disable some or all permissions in the device's settings function to refuse the collection of corresponding personal information by Scan and Measure King. The display and closing methods of permissions vary among different devices. Please refer to the instructions or guidelines provided by the device and system developers for specific details.
+Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. By granting any permission, you cancel the authorization, and we will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we provide you with corresponding services. However, your action of disabling permissions will not affect the information collection and use previously conducted based on your authorization.
+（3） Other
+statistical analysis
+We will collect your unique device identification code (Android ID, OAID, GAID for Android devices), device model, device serial number, system version number, operating system version number, system number, system ID number, screen resolution, internet type, version number of this product, click usage time and frequency of a certain button, option values for certain key configurations, software crash log information with your authorization during the process of providing you with products or services. After being desensitized by the MD5 algorithm, this information will be used to count the number of users of our product, advertising effectiveness, analyze the usage status of the product, investigate the cause of crashes, reduce crashes, improve our product, and provide customer support. These pieces of information do not involve your personal identity sensitive information.
+（4） We collect and use your personal information with your authorized consent as an exception
+1. Necessary for the conclusion and performance of contracts to which individuals are a party, or for the implementation of human resource management in accordance with legally established laws, regulations, and collective contracts signed in accordance with the law;
+2. Necessary for fulfilling statutory duties or obligations;
+3. Necessary for responding to sudden public health emergencies or protecting the life, health, and property safety of natural persons in emergency situations;
+Implement news reporting, public opinion supervision and other behaviors for the public interest, and process personal information within a reasonable range;
+According to the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+Other circumstances stipulated by laws and administrative regulations.
+Please be informed that according to legal regulations, information that has undergone technical processing and cannot be recovered or identified as specific individuals is not considered personal information. The use of such information does not require notification to you and your consent. In order to provide you with better service, we will access aggregated statistical data based on your personal information from our affiliates and partners. This type of statistical data belongs to non personal information. The number of people who download, install, and uninstall products reflects the usage of the product, as well as the number of requests and error feedback reflecting network performance. Our purpose of collecting such information is to improve existing products or services, or to develop new products or services.
+2、 How do we use cookies and similar technologies
+The use of cookies
+A cookie is a short text file sent by a website visited by a user to a browser, typically containing an identifier, site name, and some numbers and characters. The cookie sent to you by each website is unique and can only be read by the web server that sent you the cookie. It is commonly used to simplify the steps of your repeated login, analyze your use of our website, and help you achieve a more relaxed browsing experience.
+We will not use cookies for any purposes other than those stated in this privacy policy. You can manage or clear all cookies saved on this website according to your preferences. If you clear these cookies, the corresponding information you previously recorded will also be deleted, which will have an impact on the security and convenience of the services you use.
+How do we store your personal information
+（1） Save Region
+The personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China.
+（2） Retention period
+We only store your personal information for the shortest period of time necessary for the purposes stated in this policy and as required by laws and regulations. After this deadline, we will delete or anonymize your personal information.
+If we cease to operate this product, we will promptly cease the activity of collecting your personal information and notify you of the cessation of operation in the form of individual delivery or announcement. We will also process the personal information we store within a reasonable period of time
+Delete or anonymize.
+How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+We will not share your personal information with any company, organization, or individual, except in the following circumstances:
+1. With your explicit consent, we will share your personal information with other parties.
+2. Within the scope permitted by laws and regulations, it is necessary to share your personal information in order to protect the interests, property, or safety of you or other users of the "Scan and Measure Omnipotent King" or the public.
+3. Unless we obtain your explicit authorization and consent, we will not share your personal information with third-party advertisers, application developers, open platforms, or other partners. We will provide these partners with aggregated information, anonymized information, or other information that does not identify your personal identity. We will inform application developers how many people have installed the applications they have developed.
+To ensure the stable operation of our products or services, we will integrate third-party software development kits (SDKs) and share your personal information with them. The above sharing behavior is only for the purpose stated in this privacy policy. The providers of third-party software development kits (SDKs) that we access include our suppliers, service providers, consultants, or agents who provide us with technical infrastructure services, analyze the usage of our services, measure the effectiveness of advertising and services, provide customer services and payment services, conduct academic research and surveys, or provide legal, financial, and technical advisory services. We will periodically invite registered users to participate in lottery activities. If you are lucky enough to win, we need to provide your personal information to the logistics service provider in order to send you our prize.
+The third-party software tool development packages we access and the personal information we share are detailed in Appendix 2 of this privacy policy, titled 'Third Party SDK Partner and Shared Information Description'.
+We will sign strict data protection agreements with companies, organizations, and individuals with whom we share personal information, requiring them to process personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+（2） Transfer
+We will not transfer your personal information to any other company, organization, or individual, except in the following circumstances:
+With the development of Chenxin Technology's business, we may engage in mergers, acquisitions, asset transfers, or other similar transactions. If the relevant transaction involves the transfer of your personal information, we will require companies, organizations, and individuals who hold your personal information to continue to be bound by this policy. Otherwise, we will require the company, organization, and individual to obtain your authorization and consent again.
+2. Meet the requirements of laws, regulations, legal procedures, mandatory government requirements, or judicial rulings.
+3. Transfer with your explicit consent, that is, after obtaining your explicit consent, we will transfer the personal information we have already obtained from you to other parties.
+4. Respond to your request for transfer. If you request to transfer your personal information to a designated personal information processor and meet the conditions stipulated by the national cyberspace administration, we will provide a legal means of transfer.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+1. We have obtained your explicit consent.
+2. In cases where required by law, legal procedures, litigation, or government regulatory authorities, we will publicly disclose your personal information.
+3. Within the scope permitted by laws and regulations, it is necessary to publicly disclose your personal information in order to protect the interests, property, or safety of [Chenxin Technology], its affiliates or partners, you or other users of [Scanning Measurement Omnipotent King], or the general public from harm.
+4. Other circumstances stipulated by laws and regulations.
+（4） Exceptions to obtaining prior consent for sharing, transferring, and publicly disclosing personal information
+1. Relevant to the fulfillment of legal and regulatory obligations by personal information controllers;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their authorization and consent;
+6. Personal information that the personal information subject voluntarily discloses to the public;
+7. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+According to legal provisions, sharing, transferring, and publicly disclosing personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the personal information subject, does not constitute external sharing, transfer, and public disclosure of personal information. The storage and processing of such data will not require separate notification to you and your consent.
+How do we protect your personal information
+We have taken security measures that comply with industry standards to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage, or loss of data. We will take all reasonable and feasible measures to protect your personal information.
+We attach great importance to the security of your personal information and will strive to take reasonable security measures to protect your personal information.
+2. We will encrypt the transmission and storage of identifiable personal information to ensure the confidentiality of the data. For the unique device identifier of your phone, we will use the MD5 algorithm for anonymization and encryption on your device, and only collect and upload the anonymized and encrypted identifier.
+3. If you have registered an account for 'Scan and Measure Omnipotent King', we will analyze your login time, IP address, and login frequency to properly manage your risk. If there are suspected cases of non personal login operations, we will remind you via SMS to avoid the 'Scan and Measure All in One King' account being accessed by non personal login operations. For the data exchange between your mobile phone and our client, we use our custom encryption scheme and HTTPS dual encryption to ensure the security of data transmission.
+If our application adopts WebView technology, we will apply it to all file protocols used in WebView
+Perform URL verification and restrict access to sensitive data and SDCard data of this application to prevent any private files and sensitive information of Chenxin Technology products from being maliciously stolen without special permission, thereby causing your personal information to be leaked.
+5. We deploy access control mechanisms on the server, adopt the principle of minimum necessity for staff who come into contact with your personal information, and regularly check the list of visitors and access records.
+6. The server systems on which we store users' personal information are all secure and reinforced operating systems. We will conduct account audits and monitor server operations. If we discover server operating systems with security issues in external announcements, we will immediately perform server security upgrades to ensure the security of all our server systems and applications.
+7. We regularly hold training sessions on personal information protection laws and regulations for our staff to enhance their awareness of user personal information protection.
+8. We adopt classified and graded management measures for the personal information collected from you to ensure the security of your personal information.
+If an unfortunate incident occurs where our physical, technological, or management protective measures are compromised, we will promptly activate emergency plans to prevent the security incident from escalating. We will report to the national regulatory authorities in accordance with legal requirements and promptly inform you of the basic situation of the security incident, its possible impact, measures taken or to be taken through push notifications and announcements.
+Your right to manage personal information
+During your use of this product, you can access, correct, and delete the registration information and other personal information you provide through the following methods, or contact us according to the instructions provided in the product or service. The scope and manner in which you access, correct, and delete personal information will depend on the specific services you use.
+（1） View and correct your personal information
+Account and other personal basic information: You can access and correct your 'Scan and Measure King' account information and other information provided by you through 'My ->Account ->Account Information'.
+Order information: You can check your order information through "My ->Membership Page ->Order Management".
+（2） Delete your personal information
+When the following situations occur, you have the right to request [Chenxin Technology] to delete your personal information:
+We collected your personal information without seeking your explicit consent.
+2. Our processing of your personal information violates legal and regulatory requirements.
+3. We have violated our agreement with you by using and processing your personal information.
+4. You have cancelled your account with 'Scan and Measure All in One King', uninstalled or no longer use our products (or services).
+5. We cease to provide services to you.
+You can contact us through the methods provided in Section 10 of this Privacy Policy to request the deletion of your personal information. When we delete your personal information from the server, we will not immediately delete the corresponding data from the backup system, but will delete this information when the backup is updated.
+（3） Obtain a copy of your personal information
+You have the right to obtain a copy of your personal information. You can contact us through the contact information in Section 10 to obtain a copy of your personal information.
+（4） Cancel your personal account
+1. You can cancel your 'Scan and Measure King' account at any time by going to 'My ->Account ->Account Cancellation'. Please note that if you choose to cancel your account with 'Scan Measurement King', your account will be unusable and your account information will be deleted. You will no longer be able to log in to 'Scan Measurement King' through this account (but it will not affect your ability to use services and features that do not require account login). Therefore, please proceed with caution.
+2. In order to protect your or others' legitimate rights and interests, we will determine whether to support your cancellation request based on your usage of various products or services of Chenxin Technology. If you have a situation where it is not suitable to cancel your account, we will not immediately support your request.
+3. After you cancel your account, except for situations where laws and regulations require us to keep relevant information, we will stop providing you with corresponding products or services.
+（5） Withdraw your consent or authorization
+1. You can withdraw your consent to the collection and use of your personal information by disabling device permissions. You can enter the authorization management interface for Scan and Measurement King through the device "Settings ->Permission Management ->Scan and Measurement King", and turn off our permission to collect and use your camera and storage information. The display and closing methods of permissions vary among different devices. Please refer to the instructions or guidelines provided by the device and system developers for specific details.
+2. Please understand that each business function requires some basic personal information to be completed (see Section 1 of this Privacy Policy). When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, and will no longer process the corresponding personal information. But your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization.
+（6） In response to your above request
+To ensure safety, you need to provide a written request or prove your identity in other ways. We will first require you to verify your identity before processing your request. But please understand that due to legal and regulatory requirements, ensuring information security, and technical limitations, some of your information cannot be accessed, corrected, or deleted.
+Protection of Personal Information of Minors
+If you are a minor under the age of 18, you should obtain the consent of your parents or legal guardians before using this product.
+If you are a minor (child) under the age of 14, you must read this privacy policy or the privacy policy of the corresponding product or service with the accompaniment of a guardian to decide whether to use this product. If obtaining products or services requires submitting personal information, please obtain the consent of the guardian and complete it under the guidance of the guardian.
+If you are the guardian of a child, you should carefully read this policy or the privacy protection policy of a specific product before helping the child complete the registration and use of the product or service, and decide whether to agree to the privacy policy. When you have any questions about the personal information of the child under your guardianship, you can contact us through the contact information in Section 10 of this privacy policy.
+Scope of Application of Privacy Policy
+This privacy policy applies only to this product. Chenxin Technology
+】Other products or services will use the privacy policy of the relevant product or service. It should be noted that this privacy policy does not apply to the following situations:
+1. Embed this product into third-party products (or services) and collect information from third-party products (or services).
+2. Information collected by third-party services, advertisements, or other companies, organizations, or individuals integrated into this product.
+We would like to remind you again that when using third-party products or services, please carefully read the relevant user agreements and privacy policies displayed to you by the third party, and properly safeguard and provide your personal information with caution.
+Changes and revisions to the privacy policy
+Our privacy policy will change. We will not restrict your rights under this privacy policy without your explicit consent.
+For significant changes to this privacy policy, we will also provide significant notifications (in the form of pop ups to notify you promptly when software is updated or upgraded, or when you log in again).
+The significant changes referred to in this policy include but are not limited to:
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+We have undergone significant changes in control. Changes in ownership caused by mergers and acquisitions;
+3. The main objects of personal information sharing, transfer or public disclosure have changed;
+4. There have been significant changes in your right to participate in personal information processing and the way you exercise it;
+When the responsible department, contact information, and complaint channels for handling personal information security change;
+When the personal information security impact assessment report indicates the existence of high risks.
+How to contact us
+We will follow the principles of legality, legitimacy, and necessity to collect and use your personal information in accordance with the purposes stated in this policy. If your personal information is used for purposes other than this policy, we will inform you in a reasonable manner and obtain your consent.
+When you use this product, we need to collect and use your personal information in the following situations. To assist and achieve the business functions of using this product, we need your authorization to collect and use your necessary personal information. If you refuse us to collect any of your personal information, we will be unable to provide you with any features or services of this product, including basic business functions.
+We need you to authorize us to collect and use your personal information for our business functions.
+Account registration ensures the security of your account. If you refuse to provide this information, you will not be able to register successfully
+Account, but it does not affect your use of basic services that do not require an account.
+Based on our cooperation with communication operators, when you use
+When you cancel your account with 'Scan and Measure All in One King', we will stop using and delete the above information or anonymize your personal information, except as otherwise provided by laws and regulations.
+Basic business functions refer to the fundamental functions that support the normal operation of this product and provide services. Basic business functions require you to click on the function key before the system can automatically obtain and process necessary information through the public interface provided, in order to run the functions and provide you with relevant services. The frequency of calling required information and permissions for basic business functions will not exceed the required functionality. If you do not agree with the following information that we must collect and use to provide you with services, please stop using this product or related functional services.
+We will pass through
+Provide contact information.
+Used to count the number of users of our product, analyze the usage status of the product, investigate the causes of crashes, and optimize product functionality. These pieces of information do not involve your personal identity related information. If you do not wish to participate in this program, you can do so through "I
+The User Experience Improvement Program has been closed, and we will no longer obtain or use the above information.
+In order to ensure the security of your account, transaction security, and system operation, this policy and compliance with laws and regulations
+At the request of [Scan and Measure Omni King], we will provide you with this privacy policy upon your first installation. Once you agree to this policy, you may use our product or
+The behavior that is safe, illegal, or violates our rules and agreements is the basic information that must be collected to provide services.
+To improve the security of your use of our services and those provided by our affiliated companies and partners, protect your personal and property safety or that of other users or the public from infringement, and better prevent phishing websites, fraud, network vulnerabilities, and computing
+More accurate identification of security risks such as viruses, network attacks, and network intrusions that violate laws and regulations
+If you have any questions, opinions, suggestions or complaints about our privacy policy and the handling of your personal information, please contact us through the following methods.
+Contact email: smclqnw_kefu@163.com If you have any further questions, please click here for feedback
+You can also send your feedback to the following address:
+Chenxin Technology
+During the service provision process, the scanning and measuring all-in-one king will call upon some of your device permissions. This section is a summary of all the system permissions mentioned in (1) above, to facilitate a complete presentation to your system.
+List of device permission calls
+Application permission name
+Function and entrance
+Purpose of permission application
+Is it revocable
+Application homepage ->Photo counting, real-time distance measurement, text extraction, image conversion, image erasure
+The application needs to apply for camera permission for users to use the camera to capture objects, and use the captured content or images for photo counting, real-time distance measurement, text extraction, image conversion, and image erasing functions
+Read external memory
+Application homepage ->Photo counting, image conversion, text extraction, image erasure
+The application needs to obtain storage permissions for users to select images in the device album for photo counting, image conversion, text extraction, and image erasing functions. At the same time, processed images or text format files (generated by image conversion or text extraction functions) will also be saved to the device storage
+Application installation list
+My - Cashier
+The application needs to judge the user's current payment method (WeChat, Alipay) to provide users with a better payment experience
+You can choose to disable some or all permissions in the device's settings function to refuse the collection of corresponding personal information by Scan and Measure King. The display and closing methods of permissions vary among different devices
+Different, please refer to the instructions or guidelines provided by the device and system developers for specific details.
+Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. By granting any permission, you cancel the authorization, and we will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we provide you with corresponding services. However, your action of disabling permissions will not affect the information collection and use previously conducted based on your authorization.
+Necessary for the conclusion and performance of contracts to which individuals are a party, or for the implementation of human resource management in accordance with legally established laws, regulations, and collective contracts signed in accordance with the law;
+Necessary for fulfilling statutory duties or obligations;
+Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+According to the Personal Information Protection Law, handle personal information that individuals disclose on their own or other legally disclosed personal information within a reasonable range;
+Other circumstances stipulated by laws and administrative regulations.
+According to legal regulations, after technical processing
+And cannot restore or identify specific
+It does not belong to personal information, and there is no need to notify you or obtain your consent when using such information. In order to provide you with better service, we will access aggregated statistical data based on your personal information from our affiliates and partners. This type of statistical data belongs to non personal information. The number of people who download, install, and uninstall products reflects the usage of the product, as well as the number of requests and error feedback reflecting network performance. Our purpose of collecting such information is to improve existing products or services, or to develop new products or services.
+How do we use it
+Compared to similar technologies
+It is a short text file sent by a website visited by a user to a browser, typically containing an identifier, site name, and some numbers and characters. The cookie sent to you by each website is unique and can only be read by the web server that sent you the cookie. It is commonly used to simplify the steps of your repeated login, analyze your use of our website, and help you achieve a more relaxed browsing experience.
+We will not use cookies for any purposes other than those stated in this privacy policy. You can manage or clear all cookies saved on this website according to your preferences. If you clear these cookies, the corresponding information you previously recorded will also be deleted, which will have an impact on the security and convenience of the services you use.
+The personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China.
+We only store your personal information for the shortest period of time necessary for the purposes stated in this policy and as required by laws and regulations. After this deadline, we will delete or anonymize your personal information.
+If we cease to operate this product, we will promptly cease the activity of collecting your personal information and notify you of the cessation of operation in the form of individual delivery or announcement. We will also delete or anonymize the personal information we store within a reasonable period of time.
+We will not share your personal information with any company, organization, or individual, except in the following circumstances:
+We will share your personal information with other parties with your explicit consent.
+Within the scope permitted by laws and regulations, for you or others
+It is necessary to share your personal information to prevent harm to the interests, property, or safety of users or the general public.
+We will not share your personal information with third-party advertisers, application developers, open platforms, or other partners unless we have obtained your explicit authorization and consent. We will provide these partners with aggregated information, anonymized information, or other information that does not identify your personal identity. We will inform application developers how many people have installed the applications they have developed.
+To ensure the stable operation of our products or services, we will integrate third-party software development kits (SDKs) and share your personal information with them. The above sharing behavior is only for the purpose stated in this privacy policy. The providers of third-party software development kits (SDKs) that we access include
+Our suppliers, service providers, consultants, or agents provide us with technical infrastructure services, analyze the usage of our services, measure the effectiveness of advertising and services, offer customer service and payment services, conduct academic research and investigations, or provide legal, financial, and technical advisory services. We will periodically invite registered users to participate in lottery activities. If you are lucky enough to win, we need to provide your personal information to the logistics service provider in order to send you our prize.
+The third one we connect to
+Please refer to Appendix 2 of this Privacy Policy for the development package and shared personal information of Fang Software Tools
+Partner and Shared Information Explanation.
+We will sign strict data protection agreements with companies, organizations, and individuals with whom we share personal information, requiring them to process personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+We will not transfer your personal information to any other company, organization, or individual, except in the following circumstances:
+The development of our business may involve mergers and acquisitions
+Asset transfer or other similar transactions. If the relevant transaction involves the transfer of your personal information, we will require companies, organizations, and individuals who hold your personal information to continue to be bound by this policy. Otherwise, we will require the company, organization, and individual to obtain your authorization and consent again.
+Meet the requirements of laws, regulations, legal procedures, mandatory government requirements, or judicial rulings.
+Transfer with your explicit consent, that is, after obtaining your explicit consent, we will transfer the personal information we have already obtained from you to other parties.
+Responding to your request for transfer. If you request to transfer your personal information to a designated personal information processor and meet the conditions stipulated by the national cyberspace administration, we will provide a legal means of transfer.
+We will only publicly disclose your personal information in the following situations:
+We have obtained your explicit consent.
+We will publicly disclose your personal information when required by law, legal procedures, litigation, or government regulatory authorities.
+Within the scope permitted by laws and regulations, in order to maintain
+Related parties or partners, you or others
+It is necessary to publicly disclose your personal information to prevent harm to the interests, property, or safety of users or the general public.
+Other circumstances stipulated by laws and regulations.
+Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their authorization and consent;
+Personal information that the individual discloses to the public on their own;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+According to legal provisions, sharing, transferring, and publicly disclosing personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the personal information subject, does not constitute external sharing, transfer, and public disclosure of personal information. The storage and processing of such data will not require separate notification to you and your consent.
+We have taken security measures that comply with industry standards to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage, or loss of data. We will take all reasonable and feasible measures to protect your personal information.
+We attach great importance to the security of your personal information and will strive to take reasonable security measures to protect your personal information.
+We will encrypt the transmission and storage of identifiable personal information to ensure the confidentiality of the data. For the unique device identifier of your phone, we will use the MD5 algorithm for anonymization and encryption on your device, and only collect and upload the anonymized and encrypted identifier.
+If you have registered
+Account, we analyze your login time, IP address, login frequency and other information to properly manage risk. If there are suspected cases of non personal login operations, we will remind you via SMS to avoid
+The account was accessed by someone other than the user. For the data exchange between your mobile phone and our client, we use our custom encryption scheme and HTTPS dual encryption to ensure the security of data transmission.
+If our application adopts WebView technology, we will perform URL verification on all file protocols used in WebView and restrict access to sensitive data and SDCard data in this application to avoid unauthorized access
+Any private files and sensitive information of the product have been maliciously stolen, resulting in the leakage of your personal information.
+We deploy access control mechanisms on the server, adopt the principle of minimum necessity for staff who come into contact with your personal information, and regularly check the list of visitors and access records.
+Our server systems that store users' personal information are all operating systems that have been securely reinforced. We will conduct account audits and monitor server operations. If we discover server operating systems with security issues in external announcements, we will immediately perform server security upgrades to ensure the security of all our server systems and applications.
+We regularly hold training sessions on personal information protection laws and regulations for our staff to enhance their awareness of user personal information protection.
+We adopt classified and graded management measures for the personal information collected from you to ensure the security of your personal information.
+If an unfortunate incident occurs where our physical, technological, or management protective measures are compromised, we will promptly activate emergency plans to prevent the security incident from escalating. We will report to the national regulatory authorities in accordance with legal requirements and promptly inform you of the basic situation of the security incident, its possible impact, measures taken or to be taken through push notifications and announcements.
+During your use of this product, you can access, correct, and delete the registration information and other personal information you provide through the following methods, or contact us according to the instructions provided in the product or service. The scope and manner in which you access, correct, and delete personal information will depend on the specific services you use.
+Account and other personal basic information: You can access it through
+My ->Account ->Account Information
+Account information and other information you provide.
+Order information: You can check your order information through "My ->Membership Page ->Order Management".
+When the following situations occur, you have the right to request [Chenxin Technology] to delete your personal information:
+We did not seek your explicit consent and collected your personal information.
+We have processed your personal information in violation of legal and regulatory requirements.
+We have violated our agreement with you to use and process your personal information.
+You have cancelled your account with 'Scan and Measure All in One King', uninstalled or no longer use our products (or services).
+We have stopped providing services to you.
+You have the right to obtain a copy of your personal information. You can contact us through the contact information in Section 10 to obtain a copy of your personal information.
+You can use 'My'
+Account ->Account Cancellation
+Cancel your account at any time
+Account. Please note that if you choose to cancel
+Account, then your
+The account will no longer be usable and the account information will be deleted. You will no longer be able to access it
+Log in with this account
+(However, it will not affect your ability to use services and features that do not require an account login), so please proceed with caution.
+We will determine whether to support your cancellation request based on your usage of various products or services of Chenxin Technology in order to protect your or others' legitimate rights and interests. If you have a situation where it is not suitable to cancel your account, we will not immediately support your request.
+After you cancel your account, except for situations where laws and regulations require us to keep relevant information, we will stop providing you with corresponding products or services.
+You can withdraw your consent to the collection and use of your personal information by disabling device permissions. You can set it up through the device
+Please understand that each business function
+Basic personal information may be required to complete the process (see Section 1 of this Privacy Policy). When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, and will no longer process the corresponding personal information. But your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization.
+To ensure safety, you need to provide a written request or prove your identity in other ways. We will first require you to verify your identity before processing your request. But please understand that due to legal and regulatory requirements, ensuring information security, and technical limitations, some of your information cannot be accessed, corrected, or deleted.
+If you are a minor (child) under the age of 14, you must read this privacy policy or the privacy policy of the corresponding product or service with the accompaniment of a guardian to decide whether to use this product. If obtaining products or services requires submitting personal information, please obtain the consent of the guardian and complete it under the guidance of the guardian.
+If you are the guardian of a child, you should carefully read this policy or the privacy protection policy of a specific product before helping the child complete the registration and use of the product or service, and decide whether to agree to the privacy policy. When you have any questions about the personal information of the child under your guardianship, you can contact us through the contact information in Section 10 of this privacy policy.
+This privacy policy applies only to this product.
+Other products or services will use the privacy policy of the relevant product or service.
+It should be noted that this privacy policy does not apply to the following situations:
+Embedding this product into third-party products (or services) and collecting information from third-party products (or services).
+The information collected by third-party services, advertisements, or other companies, organizations, or individuals integrated into this product.
+We would like to remind you again that when using third-party products or services, please carefully read the relevant user agreements and privacy policies displayed to you by the third party, and properly safeguard and provide your personal information with caution.
+Our privacy policy will change. We will not restrict your rights under this privacy policy without your explicit consent.
+For significant changes to this privacy policy, we will also provide significant notifications (in the form of pop ups to notify you promptly when software is updated or upgraded, or when you log in again).
+The significant changes referred to in this policy include but are not limited to:
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+We have undergone significant changes in control. Changes in ownership caused by mergers and acquisitions;
+The main objects of personal information sharing, transfer or public disclosure have changed;
+There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+When the responsible department, contact information, and complaint channels for handling personal information security change;
+When the personal information security impact assessment report indicates the presence of high risks.
+If you have any questions, opinions, suggestions or complaints about our privacy policy and the handling of your personal information, please contact us through the following methods.
+Contact email:
+If there are more questions,
+You can also send your feedback to the following address:
+Address: International Electronic Headquarters, Electronic City, No.6 Jiuxianqiao Road, Chaoyang District, Beijing, China,
+Postal Code: 100015
+In general, we will respond to your request within 15 working days.
+Appendix 1 Definition of Terms
+Personal information: refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. Personal information includes: basic information (including personal name, date of birth, gender, address, personal phone number, email); Personal identification information (including ID card, military officer certificate, passport, driver's license, etc.); Personal biometric information (including voiceprint, fingerprint, facial features, etc.); Network identity identification information (including system account, IP address, etc.); Personal property information (including bank accounts, transaction and consumption records, virtual property information such as game redemption codes); Personal communication information (including address book content, etc.); Personal internet browsing history (including website browsing history, software usage history, click history, etc.); Personal commonly used device information (including hardware model, device MAC address, software list, unique device identification code (such as IMEI/IDFA/AndroidID/OPENUDID/GUID/SIM card IMSI information, etc., which describes the basic information of personal commonly used devices); Personal location information (including trajectory, precise positioning information, accommodation information, latitude and longitude, etc.).
+Personal sensitive information: refers to personal information that, if leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. Personal sensitive information includes: personal property information (including bank accounts, transaction and consumption records, game redemption codes, and other virtual property information); Personal biometric information (including voiceprint, fingerprint, facial features, etc.); Personal identification information (including ID card, military officer certificate, passport, driver's license, etc.); Other information (including contact list, tracking information, webpage browsing history, accommodation information, precise positioning information).
+De identification: refers to the process of using technical processing of personal information to make it impossible to identify the subject of personal information without the need for additional information.
+Anonymization: refers to the process of using technology to process personal information so that the subject of personal information cannot be identified and the processed information cannot be restored.
+Personal information deletion: refers to the act of removing personal information from systems involved in daily business functions, so that it remains unretrievable and inaccessible.
+6. Children: Refers to minors under the age of fourteen.
+Appendix 2: Explanation of Third Party SDK Partners and Shared Information
+Product/Service Name
+Shared recipient name
+Types of personal information
+Personal Information Content
+Shared purpose
+Shared Scene
+Sharing method
+Recipient's Personal Information Processing Rules
+Recipient's contact information
+WeChat Open Platform
+Shenzhen Tencent Computer Systems Co., Ltd
+Equipment and Systems
+Hardware
+Device model, terminal system type, unique device identification code (Android ID), software version information used, software language setting information, IP address, region, mobile network information, standard network log data
+Provide third-party payment services
+In app product or service recommendations
+Embedded third-party SDK, SDK collects and transmits personal information
+https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8
+Dataprivacy@tencent.com
+Xiaomi Open Platform
+Beijing Xiaomi Mobile Software Co., Ltd
+Equipment and Systems
+Device MAC address, unique device identifier (Android ID), location information, application list
+Provide Xiaomi device message push service
+Receive in app notifications
+Embedded third-party SDK, SDK collects and transmits personal information
+https://dev.mi.com/console/doc/detail?pId=1822
+four billion one million five thousand six hundred and seventy-eight
+Huawei Push Service
+Huawei Terminal Co., Ltd
+Equipment and Systems
+Unique Device Identification Code (Android ID)
+Provide Huawei device message push service
+Receive in app notifications
+Embedded third-party SDK, SDK collects and transmits personal information
+https://consumer.huawei.com/cn/privacy/privacy-policy/
+nine hundred and fifty thousand and eight hundred
+China Mobile Authentication Service
+China Mobile Internet Co., Ltd
+Equipment and Systems
+Unique Device Identification Code (Android ID), International Mobile Device Identification Code, International Mobile User Identification Code, Media Access Control Address (MAC), device model, device manufacturer, network type and WiFi strength, application data, mobile operating system, screen size, screen resolution, IP address, phone number
+Provide third-party login services
+Users use one click login
+Embedded third-party SDK, SDK collects and transmits personal information
+https://wap.cmpassport.com/resources/html/contract.html
+China Telecom Tianyi Account Service
+Century Dragon Information Network Co., Ltd
+Equipment and Systems
+Phone number, network IP address, network type
+Provide third-party login services
+Users use one click login
+Embedded third-party SDK, SDK collects and transmits personal information
+https://e.189.cn/sdk/agreement/detail.do?hidetop=true
+020-38733114
+One click login service for China Unicom mobile phone numbers
+China United Network Communications Co., Ltd
+Equipment and Systems
+Network type, screen size, IP address, phone number
+Provide third-party login services
+Users use one click login
+Embedded third-party SDK, SDK collects and transmits personal information
+https://hmrz.wo.cn/sdk-resource/terms/number_authentication.html
+four billion ninety-six thousand and eight hundred
+Alipay open platform
+Ant Technology Group Co., Ltd
+Equipment and Systems
+In app product or service recommendations
+Xiaomi Open Platform
+Beijing Xiaomi Mobile Software Co., Ltd
+Provide Xiaomi device message push service
+Receive in app notifications
+Huawei Push Service
+Huawei Terminal Co., Ltd
+Provide Huawei device message push service
+China Mobile Authentication Service
+China Mobile Internet Co., Ltd
+Users use one click login
+China Telecom Tianyi Account Service
+Century Dragon Information Network Co., Ltd
+Phone number, network IP address, network type
+One click login service for China Unicom mobile phone numbers
+China United Network Communications Co., Ltd
+Network type, screen size, IP address, phone number
+Alipay open platform
+Ant Technology Group Co., Ltd
+Hardware device model, terminal system type, unique device identification code (Android ID), software version information used, software language setting information, mobile network information
+Provide third-party payment services
+In app payment for goods and services
+Embedded third-party SDK, SDK collects and transmits personal information
+https://opendocs.alipay.com/open/54/01g6qm

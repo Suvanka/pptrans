@@ -1,0 +1,235 @@
+Youku Basic Features Privacy Policy
+Effective Date: May 14, 2024
+According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, Youku App is an online app, and its basic function services are film and television, music search and play. Youku App does not require personal information to access basic functional services. By agreeing to this privacy policy, you only acknowledge and agree that we collect and process necessary information when using basic functions, and do not represent
+Version update prompt:
+In order to better protect your rights, we have recently updated the "Youku Basic Function Privacy Policy".
+The content of this update is: Based on functional adjustments, some personal information collection situations have been changed.
+[Introduction]
+Welcome to use our products and/or services! We are well aware of the importance of personal information to you, and your trust is very important to us. We will strictly comply with legal and regulatory requirements and take corresponding security protection measures, committed to protecting the security and controllability of your personal information. Based on this, Youku service providers (or referred to as "us") have formulated this "Youku Basic Function Privacy Policy" (hereinafter referred to as "this policy" or "this privacy policy") to help you fully understand how we collect, use, share, store, and protect your personal information during your use of our products and/or services, as well as how you can manage your personal information, so that you can make appropriate choices better.
+Before you start using our products and/or services, please carefully read and understand this policy, especially the terms marked in bold/bold underline, to ensure that you fully understand and agree before starting to use. In addition to this policy, in specific scenarios, we will also inform you of the corresponding information collection purpose, scope, and usage methods through instant notifications (including pop ups, page prompts, etc.), function update instructions, etc. These instant notifications and function update instructions constitute a part of this policy and have the same legal effect as this policy. We will try our best to explain the professional vocabulary involved in this policy in concise and popular terms for your understanding. If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through the contact information at the end of this policy.
+You agree to our collection and processing of non essential personal information. Personal information collected through other extended functions will be subject to your separate consent when you use specific functions.
+This privacy policy will help you understand the following:
+1、 Scope of application
+2、 The situation where your personal information is collected and used to achieve basic functions
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+4、 Your rights
+5、 Storage of Information
+6、 Policy updates
+7、 Protection of Minors
+8、 Contact Us
+Appendix: Relevant Definitions
+1、 Scope of application
+This policy applies to the basic products and/or services provided by Youku service providers to you through websites, clients, mini programs, software development kits (SDKs), application programming interfaces (APIs), and new forms that emerge with technological development. If we and our affiliated companies have separate privacy policies for the products and/or services they provide to you, the corresponding privacy policies shall apply to the corresponding products and/or services.
+Except for the information collection and use activities described in this policy, this policy does not apply to other services provided by third parties to you. Other services are subject to the personal information collection and use rules that they have separately explained to you.
+The situation where your personal information is collected and used to achieve basic functions
+Appendix: Relevant Definitions
+This policy applies to Youku service providers' websites, clients, and mini programs
+Software Development Kit (SDK)
+Application Programming Interface (API)
+And the basic products and/or services provided to you in new forms that emerge with technological development.
+Except for the information collection and use activities described in this policy, this policy does not apply to other services provided by third parties to you. Other services are subject to the personal information collection and use rules that they have separately explained to you.
+When you use our products and/or services, the personal information we need or may need to collect and use includes the following two types:
+1. To achieve the basic functions of providing our products and/or services to you and fulfill the obligations stipulated by laws and regulations, you must authorize us to collect and use necessary information. If you refuse to provide the corresponding information, you will not be able to use our products and/or services normally;
+2. To provide you with additional features of our products and/or services, you may choose to individually agree or disagree with the information we collect and use. If you refuse to provide it, you will not be able to use the relevant additional functions normally or achieve the intended functional effects, which will not affect your use of our basic functions.
+We would like to remind you that we are committed to creating a diverse range of products and/or services to meet your needs. Due to the wide variety of products and/or services we provide to you, and the differences in the specific product and/or service scope chosen by different users, the basic or extended functions and the corresponding types and scope of personal information collected and used may vary. Please refer to the specific product and/or service functions.
+Our basic functions include video account registration/login, browsing and playback, search, customer service, operational security and protection, etc
+To achieve the basic functions of providing our products and services to you, we will collect, use, and store necessary personal information related to you. If you refuse to provide the corresponding information, you will not be able to use our products and/or services normally. The various scenarios for implementing our basic functions are as follows:
+（1） Account registration/login
+When you register our products and/or services, in order to assist you in completing the registration process, you need to provide us with your phone number for verification, as well as create a username and password. Collecting this type of information is to meet the requirements of relevant laws and regulations for network real name registration. This type of information is necessary for this function. If you do not provide this type of information, it will result in registration failure, but it does not affect your ability to browse, search, and play videos.
+When you log in to our products and/or services, you need to provide us with your phone number/email and password, or verify it; Based on our cooperation with communication operators, when you use "one click login"
+When it comes to functionality, with your explicit consent, we will obtain your mobile phone number through the operator, so that we can provide you with quick login services; When you use the "scan code login" function, we will request that you authorize camera permissions to successfully complete the QR code scan; When you log in using an account on a third-party platform (such as Taobao/Alipay/WeChat/Weibo/QQ account, etc.), you authorize us to obtain the relevant information under the third-party account you log in (including: nickname, avatar, which is subject to your authorized content), which is used to bind to your Youku account, so that you can directly log in and use relevant products and/or services. In order to meet the requirements of relevant laws and regulations for network real name registration, when you use a third-party platform account to authorize login to our products and/or services, the first authorization needs to be bound to your mobile phone number. This type of information is necessary for this feature, and if you do not provide it, you may not be able to log in properly. If you do not provide this type of information, it will result in login failure, but it will not affect your ability to browse, search, and play videos.
+[Basic Information Maintenance] When using Youku, in order to maintain your basic information and improve your service experience, you can freely choose to fill in your gender, avatar, nickname, birthday, personal profile, etc. This type of information belongs to non essential information of this function. If you do not provide this information, it does not affect the basic functions of your use of our products and/or services. When you upload/change your avatar, we will request your camera and collect information about the images you upload/change.
+（2） Browse/Play/Download
+When you use our video, audio, live streaming, electronic reading and other service content browsing and playback functions, we provide you with consistent services
+When you participate in interactive activities, we will use your gyroscope, acceleration, and direction sensors to implement interactive commands based on your sensor information.
+Please understand that individual device sensor data does not involve any personal location information and cannot be combined with other information to identify the identity of a specific natural person.
+（3） Search
+This type of information is necessary for the function, and if you do not provide this type of information, you may not be able to use the above function properly.
+Please understand that individual device sensor data does not involve any personal location information and cannot be combined with other information to identify the identity of a specific natural person.
+When you use the search function, we automatically collect some of your information, including the following personal information: the content of the search (including text, voice information when using voice search), browsing history and time, search time, and the number of interactions with them. In order to provide efficient search services, some of the aforementioned information will be temporarily stored on your local device and display your search history.
+（4） Customer Service
+When you contact us or apply for dispute resolution, in order to ensure the security of your account and system, we require you to provide necessary personal information to verify your membership status.
+In order to facilitate contact with you, assist you in resolving issues as soon as possible, or record the solutions and results of related issues, we may keep records of your communication, correspondence/call records, and related content (including account information, order information, other information you provide to prove relevant facts, or contact information you leave behind). If you make inquiries, complaints, or provide suggestions regarding specific orders, we will use your account information and order information.
+In order to provide services and improve service quality, we may also use your other information, including the relevant information you provide when contacting customer service, and the questionnaire response information you send us when participating in surveys.
+（5） Operational Safety and Security
+To improve the security of your use of our services and those of our affiliated companies and partners, protect your personal safety, property safety, account safety, and transaction safety, better prevent phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusions, malicious programs, and other security risks, and more accurately identify violations of laws and regulations or Youku related agreements and rules,
+(1) In order to ensure the secure operation of software and services, we will collect your hardware model, operating system version number, device identifier (Android such as AndroidID, OAID, HarmonyOS such as HarmonyOS OAID, iOS such as IDFA, IDFV: different identifiers may have different validity periods, whether they can be reset by users, and how they are obtained), IP address, Bluetooth, base station, software version number, network access method/type/status, network quality data, authorization/use/service logs, device sensor data (such as acceleration sensors, linear acceleration sensors, gravity sensors, gyroscope sensors), and other data.
+We will collect information on the list of installed applications
+Process information, overall operation of the application, usage and frequency, application crash status
+Overall installation and usage situation, performance data, and application sources.
+Device sensor information, service log information, usage
+Information and our affiliates and partners have obtained from you
+Or information that can be provided to us by law, for
+Account security, transaction security, identity verification, identification
+Situation, detection, and prevention of security incidents, and necessary recording, analysis, and disposal measures shall be taken in accordance with the law.
+（6） Other
+View the 'Application Permission Application and Usage Description (Basic Functions)'.
+(2) Cookies and similar technology services
+Cookies and similar device information identification technology are widely used in the Internet. When you use our services, we may use relevant technologies to send one or more cookies or anonymous identifiers (hereinafter referred to as "cookies") to your device to collect, identify, and store information about your access to and use of this product. We promise not to use cookies for any purposes other than those described in this privacy policy. We use cookies mainly to ensure the security and efficient operation of our products and/or services. They allow us to confirm the security status of your account and transactions, investigate related abnormal situations such as crashes and delays, and help you avoid filling out duplicate forms
+The steps and process for entering search content.
+At the same time, we may use cookies to display information or features that you may be interested in and optimize your advertising choices. Most browsers provide users with the function of clearing browser cache data. You can perform corresponding data clearing operations, or modify the acceptance level of cookies or refuse our cookies. You may not be able to use services or corresponding functions that rely on cookies due to these modifications.
+（11） Other rules for collecting and using personal information
+If the information you provide contains personal information of other users, you need to ensure that you have obtained legal authorization before providing us with this personal information.
+If we use the information for other purposes not specified in this policy, or use the information collected for specific purposes for other purposes, we will obtain your consent in advance.
+Under the premise of strict de identification through secure encryption technology and inability to re identify specific individuals, we will use the collected data for machine learning, algorithm model training, or other data analysis and mining processing to better ensure our product experience and assist in business decision analysis. You can
+View our algorithm principles and data processing instructions.
+Regarding the personal information we collect and use in the specific functional scenarios mentioned above, you may
+View our personal information collection checklist.
+3、 Partners involved in the use of data, as well as the transfer and disclosure of personal information
+（1） Partners involved in the use of data
+(1) Basic principles
+When we cooperate with our partners, we will adhere to the following principles:
+Principle of legality, legitimacy, and minimum necessity:
+Data processing should have a legal basis, a legitimate purpose, and be limited to the minimum scope of achieving the processing purpose.
+The principle of maximizing users' right to know and decision-making power:
+Fully respect the user's right to know and make decisions regarding the processing of their personal information during the data processing process.
+The principle of strongest security guarantee capability:
+We will take necessary measures to ensure the security of the personal information processed, carefully evaluate the purposes for which our partners use the data, conduct a comprehensive assessment of their security capabilities, and require them to comply with the relevant requirements of the cooperation agreement.
+Please refer to our data partner's description.
+Scope of cooperation partners
+If the specific functions and scenarios involve services provided by our affiliates or third parties, the scope of cooperation includes our affiliates and third parties.
+(3) Entrusted processing
+We may entrust authorized partners to process your personal information in order to authorize partners to provide certain services or perform functions on our behalf for you. We will only entrust them to process your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through an agreement not to use this information for any other purposes beyond the scope of the delegation. If the authorized partner uses your information for purposes that we have not delegated, they will obtain your consent separately.
+(4) Joint processing
+For the scenario of jointly processing personal information, we will sign relevant agreements with our partners in accordance with legal provisions and agree on their respective rights and obligations, ensuring compliance with legal provisions and protection of data security in the process of using relevant personal information.
+(5) Collaboration Scenario
+Security and Statistical Analysis
+A. Ensuring Security of Use: We attach great importance to the security of our products and/or services. In order to protect the legitimate rights and interests of Youku users from illegal infringement, our partners may use necessary devices, accounts, and log information that are strictly de identified and cannot be traced back to specific individuals.
+Analyze the product situation:
+To enhance research capabilities in related fields and promote technological development, we may use de identified or anonymized data with our partners (such as research institutes, universities, etc.) while ensuring data security and legitimate purposes.
+Other cooperation scenarios
+In addition to the above-mentioned cooperation scenarios, we may also delegate information to other partners who support our business, including providing technical infrastructure services, analyzing the usage of our services, or other customer services on our behalf.
+To ensure the stable operation and functional implementation of our client, and to enable you to use and enjoy more services and features, our application will embed SDK or other similar applications from authorized partners. We will conduct strict security checks on the application programming interfaces (APIs) and SDKs used by authorized partners to obtain relevant information, and agree with authorized partners on strict data protection measures to process personal information in accordance with this policy and any other relevant confidentiality and security measures. Except for authorized partners who obtain your consent separately.
+View the details of the SDK we have integrated.
+（2） Transfer
+If we need to transfer personal information due to merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name or contact information. The recipient will continue to fulfill this policy and other legal obligations. If the recipient changes the original processing purpose or method, they will obtain your consent again.
+（3） Public disclosure
+We will only publicly disclose your personal information in the following situations:
+(1) Based on your voluntary choice and other separate consent, we may publicly disclose your personal information;
+(2) If we determine that you have violated laws and regulations or seriously violated the relevant agreements and rules of Youku platform, or to protect the personal and property safety of Youku platform users or the public from infringement, we may disclose personal information about you, including relevant violations and measures taken by Youku platform against you.
+（4） Stop operation
+If we stop operating the product
+（5） Exemption from obtaining your authorization and consent in accordance with the law
+Please understand that in the following situations, according to laws, regulations, and national standards, the use of your personal information by our partners, or our transfer or disclosure, does not require your authorization and consent:
+It is necessary to enter into or perform a contract according to your requirements:
+(1) It is necessary to enter into or perform a contract according to your requirements:
+(2) Necessary for fulfilling statutory duties or obligations: We may, in accordance with legal regulations, litigation, dispute resolution, or
+Share your personal information as required by administrative and judicial authorities in accordance with the law, as well as necessary for fulfilling other legal obligations.
+It is necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations.
+To carry out news reporting, public opinion supervision and other activities for the public interest, and to handle personal information within a reasonable range.
+Process your self disclosed personal information within a reasonable range, or other legally disclosed personal information (such as legally disclosed personal information through legitimate news reports, government information disclosure, and other channels).
+Other circumstances stipulated by laws and regulations.
+(5) Process your self disclosed personal information within a reasonable range, or other legally disclosed personal information (such as legally disclosed personal information through legitimate news reports, government information disclosure, and other channels).
+(6) Other circumstances stipulated by laws and regulations.
+4、 Your rights
+You can access and manage your information through the following methods, and we will respond to your request in compliance with legal and regulatory requirements:
+（1） Review, Correction, and Supplement
+You have the right to access, correct, and supplement your information through the following methods:
+If you wish to access, correct, and supplement your personal basic information and payment information in your account, change your password, add security information, or close your account, you can log in to your account and perform such operations through "Account Management"; For example, you can log in to "My Account" on the PC or app to check and modify your personal information, privacy settings, security settings, and modify your personal registration information.
+（2） Copy
+You can copy your information in the following ways:
+）Contact us through the methods provided at the end of this policy, and after verifying your identity, we will provide you with a copy of your personal information in our services.
+You can copy your personal information by searching through the path listed in "(1) View, Correction, and Supplement".
+（3） Delete
+You can delete some of your information through the path listed in "(1) Review, Correction, and Supplement", or apply to cancel your account and delete all of your information.
+In the following situations, you can request the deletion of personal information from us by contacting the customer:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your explicit consent;
+(3) If our handling of personal information seriously violates our agreement with you;
+(4) If our processing purpose has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+(5) If we cease to provide products or services, or if the retention period has expired.
+If we decide to respond to your deletion request, we will also notify the subjects who have obtained your personal information from us as much as possible and request them to delete it in a timely manner (unless otherwise provided by laws and regulations, or these subjects have independently obtained your authorization).
+When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to immediately delete the corresponding information from the backup system. We will securely store your personal information and restrict any further processing of it until the backup can be cleared or anonymized.
+（4） Change the scope of authorization
+You can change or revoke the scope of your authorization for us to collect and process your personal information through the following methods:
+(1) Manage authorization in "My Settings Privacy Settings Personal Page Privacy Settings".
+(2) Manage the system permission authorization used by the app in "My Settings Privacy Settings System Permission Management"/"My Settings Privacy Other Settings".
+(3) Manage your authorized applications in "My Settings Account Security Center Bind Account".
+Full function mode
+-Other settings
+Does the management allow Youku to collect OAID recommended advertisements; Or manage the advertising identifier permissions used by the app in "My Settings Privacy Settings System Permissions Management"
+Manage it.
+If you enter full function mode
+If you do not want us to use your relevant information (historical viewing records, consumption preferences, and portraits) to recommend personalized services for you, you can go to "My Settings"
+In the "Other Settings" section, click on the "Allow Youku to recommend videos based on viewing history" and "Allow Youku to display ads based on partner data" buttons (including disabling personalized recommendations in programmatic ads) to turn off personalized recommendation services.
+For authorizations that cannot be directly set through the above methods, you can modify them by contacting customer service. However, please note that for some types of personal information, such as information necessary to implement basic functions of Youku or information necessary for us to fulfill legal obligations, we may not be able to respond to your request to change the scope of authorization. After you withdraw your authorization, we will no longer process the corresponding personal information. But your decision to revoke authorization will not affect the personal information processing we have previously carried out based on your authorization.
+（5） Cancel account
+You can apply to cancel your account through the following methods:
+(1) Submit an account cancellation application on the "Cancel Account" page (for example, on the mobile Youku app, go to "My Settings Account Security Center Account Cancellation", on the PC Youku homepage, go to "My Settings Account Security Center Account Cancellation").
+(2) Contact customer service to apply for the cancellation of your account.
+After you voluntarily cancel your account, we will cease to provide you with products and/or services, and delete or anonymize your personal information in accordance with applicable laws.
+（6） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including algorithms. If these decisions affect your legitimate rights and interests, you can contact us through customer service.
+（7） In response to your above request
+For you or your potential guardians, close relatives, and other authorized parties who make the above requests to us, as well as your relevant personal information rights under the laws of the People's Republic of China and other applicable laws, you can contact us through customer service or directly file a complaint with our personal information protection department. We will provide a response within 15 days.
+To ensure the security of your account and your personal well-being
+Information security, when you make the above request to us, we may first verify your identity (such as adding account verification, requesting you to provide a written request, or other reasonable means) before processing your request.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain fee at our discretion. We may refuse requests for information that is not directly related to your identity, information that is repeatedly applied for without reasonable reasons, or requests that require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are unrealistic.
+5、 Storage of Information
+（1） Storage period
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there is a mandatory retention requirement by law
+We determine the storage period of personal information mainly based on the following criteria:
+(1) To complete the transaction purposes related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+(2) Ensure the safety and quality of the services we provide to you;
+(3) Do you agree to a longer retention period;
+(4) Is there any other special agreement or legal regulation regarding the retention period.
+After exceeding the retention period, we will delete or anonymize your personal information in accordance with applicable laws.
+（2） Storage location
+The personal information we generate or collect within the territory of the People's Republic of China is stored on servers within China. We will not provide any of your personal information to overseas unless we have obtained your separate consent, or to fulfill the contract with you, or to comply with the obligations stipulated by laws and regulations.
+（3） Storage Security
+Data protection technology measures
+We have taken security measures that comply with industry standards and are reasonable and feasible to protect your information, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information. For example, we use encryption technology to enhance the security of personal information. When exchanging data between your browser and server, it is protected by SSL protocol encryption. We provide HTTPS protocol for secure browsing; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information. At present, our important information systems have passed the third level or above evaluation of network security protection and ISO27001 certification.
+Organizational measures for data protection management
+We have established an advanced data security management system in the industry, with data as the core and centered around the data lifecycle, to enhance the security of personal information from the dimensions of organizational construction, system design, personnel management, and product technology. We have established a dedicated department for personal information protection and designated a person to be responsible for the protection of children's personal information. We continuously enhance employees' awareness of the importance of protecting personal information through training courses and exams.
+Response to Personal Information Security Incidents
+If our physical, technical, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, and causing damage to your legitimate rights and interests, we will promptly activate emergency plans and take reasonable and necessary measures to minimize the impact on you personally. If a personal information security incident occurs, we will also inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you through SMS, phone calls, push notifications, and other reasonable channels. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+Prevention of Account Security Risks
+(4) Prevention of Account Security Risks
+When using Youku products and services, it is inevitable for you to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. In addition, you can also establish communication, exchange information or analyze content with third parties through our services. Please protect your personal information properly and only provide it to others when necessary. Do not trust other trading tools to avoid information theft or even telecom fraud.
+If you are concerned about the leakage of your personal information, especially your account or password, please contact our customer service immediately so that we can take appropriate measures based on your application. You can also independently log in to device management in "My Settings Account and Security Security Security Center".
+6、 Policy updates
+To bring you better products
+For significant changes, we will provide more prominent notifications (including providing you with pop-up prompts) to inform you again and obtain your consent in accordance with relevant legal requirements.
+The significant changes referred to in this policy include but are not limited to:
+The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+Changes in the subject of privacy policies caused by business adjustments, transaction mergers and acquisitions, and changes in the original processing purposes and methods of the new recipient;
+The main objects of personal information sharing or public disclosure have changed;
+Significant changes have occurred in the user's personal information rights and their exercise methods;
+When the contact information and complaint channels of the person in charge of personal information protection change;
+When the personal information protection impact assessment report indicates that the product has a significant impact on individual rights and interests.
+1. The business model of the product has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+2. The subject change of privacy policy caused by business adjustments, transaction mergers and acquisitions, and the change of the original processing purpose and processing method of the new subject recipient;
+3. The main objects of personal information sharing or public disclosure have changed;
+4. Significant changes have occurred in the user's personal information rights and their exercise methods;
+5. When the contact information and complaint channels of the person in charge of personal information protection change;
+6. Personal Information Protection
+When the impact assessment report indicates that the product has a significant impact on individual rights and interests.
+We will also archive the old version of this policy on a dedicated page on Youku for your reference.
+7、 Protection of Minors
+We attach great importance to the protection of personal information of minors. If you are a minor, we require you to have your parents or other guardians carefully read this policy and use our services or provide us with information with their consent.
+If you are a child under the age of 14, you and your guardian should carefully read our specially formulated guidelines before using our services
+Ensure that guardianship is obtained
+After obtaining your consent, you can use our services under the guidance of your guardian to ensure your safety when using our services and conducting transactions.
+If you are the parent or other guardian of a child, please pay attention to whether the child is using our services after obtaining your authorization and consent. If you have any questions about children's personal information, please contact our dedicated department for personal information protection.
+8、 Contact Us
+You can contact us through the following methods, and we will reply to your request within 15 days:
+If you have any questions, opinions or suggestions regarding the content of this policy, you can contact us through Youku online customer service;
+1. If you have any questions, opinions, or suggestions regarding the content of this policy, you can contact us through Youku's online customer service;
+2. We have also established a dedicated department for personal information protection, which you can access through privacy_youku@service.alibaba.com Contact them (please indicate that it is related to Youku and provide specific factual information), office address: Alibaba Center, Building 4, Zone 4, Wangjing Dongyuan, Beijing - Building B, Youku Legal Department, Postal Code 100102. Please note that we may not respond to questions unrelated to this policy or your personal information rights.
+If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also seek a solution by filing a lawsuit with the court with jurisdiction over the defendant's domicile.
+Appendix: Relevant Definitions
+Youku: refers to the Youku website operated by Youku Information Technology (Beijing) Co., Ltd., which includes but is not limited to web pages (youku. com), app applications, mini programs, etc.
+Refers to Alibaba Group Holdings Limited（
+）The affiliated companies of Youku service providers disclosed in the latest annual reports of listed companies.
+personal information:
+All kinds of information related to identified or identifiable natural persons recorded in electronic or other ways, excluding anonymized information.
+Sensitive personal information:
+Refers to minors under the age of fourteen.
+Equipment information:
+Including device identifiers (IMEI IDFA、Android ID、MAC、OAID、IMSI、ICCID、AAID
+And other device related information), application information (application crash information, notification switch status, application installation list and other application related information), device parameters and system information (device type, device model, operating system and hardware related information), device network environment information (IP address, WiFi information, base station information and other network related information), sensors (gyroscope, gravity sensor, acceleration sensor, environmental sensor, optical heart rate sensor), clipboard. The actual collection situation of the product shall prevail.
+Service log information:
+This includes search and browsing history, followers, playback history, traffic, playback duration, IP address, WLAN network (SSID, BSSID), telecom operator network, language used, access date and time.
+De identification:
+The process of processing personal information to make it impossible to identify a specific individual without the need for additional information.
+The process of processing personal information that cannot identify a specific natural person and cannot be restored.

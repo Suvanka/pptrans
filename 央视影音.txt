@@ -1,0 +1,99 @@
+This version was updated on February 21, 2022
+This version takes effect on February 21, 2022
+introduction
+When you use CCTV's mobile products and services, we may collect and use your relevant information. We hope to explain to you through this Privacy Policy how we collect, use, store, and share this information when using our services, as well as the ways we provide you with access, updates, control, and protection of this information. This Privacy Policy is closely related to the services you use, and we also hope that you can read it carefully and make appropriate choices according to the guidance of this Privacy Policy when necessary. We have tried to explain the relevant technical terms involved in this Privacy Policy to you in a concise and clear manner, and provided further explanation links for your understanding.
+By using or continuing to use our services, you agree to our collection, use, storage, and sharing of your information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or any matters related to it, please contact us through the "User Feedback and Assistance" section in your personal center.
+The information we may collect
+When we provide services, we may collect, store, and use the following information related to you. If you do not provide relevant information, you may not be able to register as our user, enjoy some of the services we provide, or even if we can continue to provide you with some services, we may not be able to achieve the intended effect of the service.
+The information you provided
+The personal information you provide to us when registering for our account or using our services, such as phone numbers, emails, etc;
+The shared information you provide to other parties through our services, as well as the information stored when you use our services.
+Your information shared by other parties
+• Shared information about you provided by other parties when using our services.
+The information we obtained about you
+When you use our services, we may collect the following information:
+• Log information refers to technical information that the system may automatically collect through cookies or other means when you use our services, including:
+• Device or software information, such as configuration information provided by your mobile device, web browser, or other programs used to access our services, your IP address, and the version and device identification code used by your mobile device;
+The information you search for and browse while using our services, such as the web search terms you use, the URL addresses of social media pages you visit, and other information and content details you browse or request while using our services;
+The information (metadata) contained in the content you share through our services, such as the date, time, or location of shared photos or videos taken or uploaded.
+Location information refers to the information we collect about your location when you enable the device positioning function and use our location-based services, including:
+When you use our services through mobile devices with location capabilities, we collect your geographic location information through GPS or WiFi, etc;
+•
+Real time information provided by you or other users that includes your geographical location, such as the region information included in the account information you provide, shared information uploaded by you or others that displays your current or past geographical location, such as geographic marker information included in photos shared by you or others;
+You can stop our collection of your geographic location information at any time by turning off the location function.
+How we may use information
+We may use the information collected during the process of providing services to you for the following purposes:
+• Provide services to you;
+When we provide services, we use them for identity verification, customer service, security prevention, fraud monitoring, archiving, and backup purposes to ensure the security of the products and services we provide to you;
+• Help us design new services and improve our existing services;
+•
+To better understand how you access and use our services, and to respond to your personalized needs in a targeted manner, such as language settings, location settings, personalized help services and instructions, or to respond to you and other users of our services in other ways;
+• Provide you with advertisements that are more relevant to you as an alternative to commonly placed advertisements;
+Evaluate the effectiveness of advertising and other promotional and advertising activities in our services, and make improvements accordingly;
+Software certification or management software upgrade;
+• Allow you to participate in surveys about our products and services.
+In order to provide you with a better experience, improve our services, or for other purposes that you agree to, and subject to relevant laws and regulations, we may use the information collected through one of our services in a aggregated or personalized manner for our other services. For example, the information collected when you use one of our services may be used in another service to provide you with specific content or to show you information that is relevant to you and not commonly pushed. If we provide corresponding options in the relevant services, you can also authorize us to use the information provided and stored in that service for our other services.
+How do you access and control your personal information
+We will do everything possible to use appropriate technical means to ensure that you can access, update, and correct your registration information or other personal information provided when using our services. When accessing, updating, correcting, and deleting your personal information, we may require you to verify your identity to ensure the security of your account.
+The information we may share
+Except for the following circumstances, we and our affiliated companies will not share your personal information with any third party without your consent:
+•
+We and our affiliated companies may share your personal information with our affiliated companies, partners, third-party service providers, contractors, and agents (such as communication service providers who send emails or push notifications on our behalf, and locations that provide location data to us)
+Sharing with image service providers (who may not be located in your jurisdiction) for the following purposes:
+• Provide our services to you;
+• To achieve the purposes described in the "How We May Use Information" section;
+• Fulfill our obligations and exercise our rights in this Privacy Policy;
+Understand, maintain, and improve our services.
+If we or our affiliates share your personal information with any of the aforementioned third parties, we will strive to ensure that such third parties comply with this Privacy Policy and other appropriate confidentiality and security measures that we require them to comply with when using your personal information.
+We or our affiliates may also need to retain, store, or disclose your personal information for the following purposes:
+Comply with applicable laws, regulations, and other relevant provisions;
+Comply with the provisions of court judgments, rulings, or other legal procedures;
+Comply with the requirements of relevant government agencies or other legally authorized organizations;
+For the purposes reasonably necessary to comply with applicable laws and regulations, safeguard the public interest, or protect the personal and property safety or legitimate rights and interests of us or our group companies, our customers, other users, or employees.
+information safety
+We will only retain your personal information for the period necessary for the purposes stated in this Privacy Policy and within the time limit required by laws and regulations.
+We use various security technologies and procedures to prevent information loss, improper use, unauthorized access, or disclosure. However, please understand that due to technical restrictions and possible malicious means, in the Internet industry, even if we try our best to strengthen security measures, it is impossible to always ensure 100% security of information. You need to understand that the system and communication network you use to access our services may encounter problems due to circumstances beyond our control. In such cases, you agree that we will take remedial measures to minimize the impact.
+The information you shared
+Our multiple services allow you to publicly share your relevant information not only with your social network, but also with all users who use the service, such as the information you upload or post on our service (including your publicly available personal information, etc.), your responses to information uploaded or posted by others, and location data and log information related to this information. Other users who use our services may also share information related to you. As long as you do not delete the shared information, the relevant information will remain in the public domain; Please note that even if you delete shared information, the information may still be independently cached, copied, or stored by other users or non affiliated third parties outside of our control, or saved in the public domain by other users or such third parties. Therefore, please carefully consider the information content uploaded, published, and communicated through our services.
+The sensitive personal information you shared
+Some personal information may be considered sensitive due to its specificity, such as your race, religion, personal health and medical information. Compared to other personal information, sensitive personal information is subject to stricter protection.
+Please note that the content and information you provide, upload, or post on our services (such as photos of your social activities) may disclose your sensitive personal information. You need to carefully consider whether to disclose sensitive personal information when using our services.
+You agree that your sensitive personal information will be processed for the purposes and in the manner described in this Privacy Policy.
+How we may collect information
+We or our third-party partners may collect and use your information through technologies such as cookies, and store such information as log information.
+We use our own cookies to provide you with a more personalized user experience and service, and for the following purposes:
+Remember your identity. For example, cookies help us identify you as our registered user or store information you provide us about your preferences or other information;
+Analyze your usage of our services. For example, we can use technologies such as cookies to understand what activities you use our services for, or which web pages or services are most popular;
+Advertising optimization. Cookies and other technologies help us provide you with relevant advertisements based on your information, rather than conducting general advertising campaigns.
+While using cookies and other technologies for the aforementioned purposes, we may also
+The non personal identity information collected by cookies and other technologies is processed and provided to advertisers or other partners for analysis of how users use our services and for advertising purposes.
+Our products and services may have cookies and web beacons placed by advertisers or other partners. These cookies and web beacons
+We may collect non personally identifiable information related to you for the purpose of analyzing how users use such services, sending you advertisements that may interest you, or evaluating the effectiveness of advertising services. These third-party cookies and web beacons
+The collection and use of such information is not subject to this Privacy Policy, but to the privacy policies of the relevant users. We are not responsible for third-party cookies or web beacons.
+You can refuse or manage cookies or web beacons through your browser settings. But please note that if cookies or web are disabled
+beacon， You may not be able to enjoy the best service experience, and some services may not function properly. Meanwhile, you will also receive the same number of advertisements, but their relevance to you will decrease.
+Advertising services
+We may use your information to provide you with advertisements that are more relevant to you.
+The emails and messages we may send to you
+Email and information push
+When you use our services, we may use your information to send emails, news, or messages to your device
+Push notifications. If you do not wish to receive these messages, you can follow our relevant prompts and choose to unsubscribe on your device.
+Announcement related to services
+We may issue service related announcements to you when necessary, such as when a service is suspended due to system maintenance. You may not be able to cancel these service related announcements that are not promotional in nature.
+Exceptions to the Application of Privacy Policy
+Our services may include or link to social media or other services provided by third parties (including websites). For example:
+You use the "Share" button to share certain content with our service, or you use a third-party connection service to log in to our service. These features may collect your relevant information (including your log information) and may be installed on your computer device
+cookies， So as to operate the above functions normally;
+We provide you with links through advertising or other means of our services, allowing you to access third-party services or websites.
+These third-party social media or other services may be operated by relevant third parties or us. Your use of such third-party social media services or other services (including any personal information you provide to such third parties) is subject to the terms of service and privacy policy of such third party (not the General Terms of Service or this Privacy Policy), and you need to carefully read its terms. This Privacy Policy only applies to the information we collect and does not apply to any services provided by third parties or their information usage rules. We are not responsible for any third-party use of the information provided by you.
+Minors using our services
+We encourage parents or guardians to guide minors under the age of 18 to use our services. We recommend that minors encourage their parents or guardians to read this Privacy Policy and seek their consent and guidance before submitting personal information.
+Scope of Application of Privacy Policy
+Except for certain specific services, all of our services are subject to this Privacy Policy. These specific services will be subject to specific privacy policies. Specific privacy policies for certain services will provide more specific instructions on how we use your information in those services. The privacy policy of this specific service constitutes a part of this Privacy Policy. If there is any inconsistency between the privacy policy of any specific service and this Privacy Policy, the privacy policy of the specific service shall apply.
+Please note that this Privacy Policy does not apply to the following situations:
+• Information collected from third-party services (including any third-party websites) accessed through our services;
+• Information collected through other companies and institutions that provide advertising services within our services.
+change
+We may revise the terms of this Privacy Policy from time to time, and such revisions shall form a part of this Privacy Policy. If such revisions result in a substantial reduction of your rights under this Privacy Policy, we will notify you in a prominent position on the homepage or by sending you an email or other means before the revisions take effect. In such cases, if you continue to use our services, you agree to be bound by the revised Privacy Policy.
+CCTV International Network Co., Ltd

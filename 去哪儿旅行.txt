@@ -1,0 +1,346 @@
+Phone: 01059563222
+Navigation Area 1
+ALT+1
+Booking Area 0
+ALT+2
+Product Area 0
+ALT+3
+Content Area 0
+ALT+4
+Exit screen reading
+Sound switch
+Speed of speech
+Exit Service
+About Qunar.com
+contact us
+business cooperation
+Platform merchants' violation handling
+Agreement and Declaration
+User Service Center
+common problem
+I want to file a complaint
+About Us
+Anti Internet Fraud Column
+Privacy Policy
+Release date: March 2, 2021
+Effective Date: March 2, 2021
+Welcome to Qunar.com! Qunar Network is operated by Beijing Quna Information Technology Co., Ltd. For specific product services, they will be provided by qualified service providers. If users access, book or use Qunar's products or services (collectively referred to as "services") on Qunar website, Qunar travel app, Qunar affiliated company website or other mobile applications or software provided by Qunar (hereinafter referred to as "Qunar website"), it is deemed that the user has accepted the following privacy policy. Please read the following content carefully, especially the bold font below. If you do not agree with any of the following content, please immediately stop accessing/using this website or any other mobile applications or software. The terms "Qunar" and "we" mentioned in this privacy policy refer to Qunar Network, while "user" and "you" refer to users who voluntarily accept this privacy policy.
+1. Confirmation and acceptance of privacy policy
+Respecting users' personal privacy is a fundamental policy of Qunar. Qunar.com collects tourism service information provided by qualified hotels, ticket agencies, travel agencies, and ride hailing service providers on Qunar.com for users to access. At the same time, Qunar.com helps users contact and book relevant tourism service projects with the aforementioned hotels, ticket agencies, travel agencies, and ride hailing service providers through Qunar.com. Before using our products and/or services, please carefully read and confirm that you have fully understood the contents stated in this privacy policy, and have reached an agreement with Beijing Quna Information Technology Co., Ltd. and accepted all service terms. We attach great importance to protecting users' personal information and privacy security. We understand that providing information to us through the internet is based on trust in us, and we value this trust. We also understand the importance of privacy to you and make every effort to protect your privacy. The content of personal information or sensitive personal information contained in this privacy policy comes from GB/T35273 "Personal Information Security Specification".
+Personal information refers to various types of information recorded electronically or in other ways that can individually or in combination with other information identify the identity of a specific natural person or reflect the activities of a specific natural person. Including name, date of birth, ID number, personal biometric information, address, communication contact information, communication records and content, account password, property information, credit information, whereabouts, accommodation information, health and physiological information, transaction information, etc., please refer to Article 2 of this privacy policy for details.
+Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, and is highly likely to cause damage to personal reputation, physical and mental health, or discriminatory treatment. Including ID number, personal biometric information, bank account number, communication records and content, property information, credit information, audio/video information, whereabouts, accommodation information, health and physiological information, transaction information, personal information of children under 14 years old (including), etc., please refer to Article 2 and Article 7 of this privacy policy for details.
+2. Information collection
+(1) In order to better serve you, Qunar will follow the principles of "reasonableness, relevance, and necessity" and collect information with your consent as a prerequisite. We will not collect information prohibited by laws and regulations. Considering the importance of Qunar's membership services, the user agrees that Qunar will collect all information entered by you on Qunar website or provided to us in other ways:
+When you register as a member of Qunar, you need to provide your phone number, email, and set a password to create a Qunar account. The aforementioned information is sensitive information, and if you refuse to provide it, you may not be able to use our services properly.
+When you authenticate your real name, you need to provide your ID card information, bank card information or third-party payment institution account information, bank reserved mobile phone number, and facial information to verify your identity. The aforementioned information is sensitive information, and if you refuse to provide it, you may not be able to use some of our services properly.
+When you book or purchase goods or services, you may need to provide the user's name, gender, nationality, identification information, date of birth, mobile phone number, email, and WeChat information. The aforementioned information is sensitive information, and if you refuse to provide it, you may not be able to complete the reservation or purchase.
+When you need to use mailing (invoice, product) services when purchasing products, you need to provide the recipient's name, phone number, landline phone number, and shipping address information so that your order can be delivered. The aforementioned information is sensitive information, and if you refuse to provide it, delivery may not be completed.
+If you need to issue a paper or electronic invoice, you also need to provide invoicing information including invoice header, email, recipient, mobile phone number, and shipping address information. The aforementioned information is sensitive information, and if you refuse to provide it, it may not be possible to issue an invoice.
+When you purchase a product for payment settlement, you need to provide your bank card number, expiration date, bank reserved mobile phone number, cardholder name, cardholder ID, and card verification code information. The aforementioned information is sensitive information, and if you refuse to provide it, payment may not be completed.
+When you contact our customer service or relevant service providers to obtain our customer service, you also need to provide your membership information and order information to verify your identity. This may involve sensitive information, and if you refuse to provide it, you may not be able to access our customer service.
+We may also be aware of your travel plans, style, and preferences, including meal requirements, travel/departure times, seat selection, ticketing options, insurance choices, and the personal information you need to provide for other services. This may involve sensitive information, and if you refuse to provide it, you may not be able to access our customer service.
+When you use financial services on our platform, you may need to provide us with and allow us to collect more information (including valid identification documents)
+Photos, facial images or videos, address information, educational background information, employer information, information related to income, property, and credit. The aforementioned information is sensitive information, and if you refuse to provide it, you may not be able to use our financial services. Before using such services, we will explain the corresponding personal information collection and usage rules to you through page prompts, interaction processes, online display of agreements, and other appropriate methods, and obtain your consent.
+When you use our ride hailing service, you are required to provide us with and allow us to collect the following information (including name, nickname, mobile phone number, user password, identity information, audio and video recordings, call records, emergency contacts, location information, itinerary information, flight number, log information, order information and transaction status, payment information, withdrawal records, bank card number and its bound mobile phone number, evaluation information, device information, IP address, mobile recharge records). The aforementioned information is sensitive information, and if you refuse to provide it, you may not be able to use or fully utilize our ride hailing service.
+(2) You can book for others through Qunar, and you need to submit the passenger's personal information. Before providing us with the passenger's personal information, you must ensure that you have obtained their consent and that they are aware of and accept this privacy policy.
+(3) We will automatically collect your personal information during your use of the Qunar service
+Log information refers to the information automatically collected by the system through cookies, web beacons, or other means when you use our services, including device information or software information, including device attribute information (hardware model, operating system version, device configuration, unique device identifier, international mobile device identity IMEI, network device hardware address MAC, IOS system advertising identifier IDFA), device connection information (browser type, telecom operator, language used), device status information (device sensor data, device application installation list), log information (including where you searched and viewed information, service failure information, referral website, operation log information). We may associate the information collected from your various devices so that we can provide you with consistent services on these devices. We may associate your device information or phone number with your Qunar account. These are the basic information we must collect to provide services.
+To accurately identify your identity and ensure the security of Qunar's services, we will collect and use the International Mobile Device Identity (IMEI) and UUID of the electronic devices you use for Qunar.
+The information you search or browse while using our services, the search terms and access pages on the web pages or apps you use, and other information you browse or provide while using our services.
+The information contained in the content you share through our services, including shared photos or comments taken or uploaded, as well as the date and time.
+Location information refers to the location information collected about you when you enable the device positioning function and use our location-based services. Your geographic location information is collected through GPS, WLAN, base stations, and other technically permissible methods, or the location information included in your account information, or shared information uploaded by you or others that displays your current or past geographic location. This information is sensitive information. You can stop collecting your geographic location information by disabling the location function, but you will not be able to use some of the location related services we provide.
+Recording information refers to the personal information you provide to the platform's customer service personnel and specific order service providers. We will record your call information, your opinions or suggestions, and the personal information you provide for verifying the relevant order situation through call recording and manual input.
+Video recording information refers to the information that some ride hailing vehicles may be equipped with in car video recorders and other devices when you use the platform's online ride hailing service, and videos may be recorded during your use of the service.
+Travel information refers to the collection of your departure, arrival, tracking, duration, and mileage information by recording user behavior when using the platform's online ride hailing service.
+(4) In order to provide you with more convenient, high-quality, and personalized products and/or services, and strive to enhance your experience, we may obtain corresponding permissions from you in the following services provided to you, and prompt you when obtaining permissions. If you do not enable these permissions, you may not be able to obtain the user experience that these services bring to you. These services include:
+1. Location based personalized recommendation service: We will access and obtain your location information after you have enabled location permissions. Based on your location information, we will provide you with page displays, products, and/or services that better meet your needs, and recommend relevant products/services nearby to you.
+2. Camera/Camera based Services: You can use this feature to scan codes for login, shopping, and receiving promotional information, take photos or videos for evaluation and sharing, and authorize facial recognition in specific scenarios after enabling camera/camera permissions.
+3. A photo/video access and upload service based on photo albums (image/video libraries): You can use this feature to upload your photos/images/videos after enabling album permissions, in order to change avatars, post comments/shares, take photos for shopping, or communicate with customer service to provide proof.
+4. Microphone based voice technology related services: After enabling microphone permissions, you can use the microphone to implement voice ordering functions, or contact customer service or interact with customer service robots through voice, or use it to record the process of ride hailing services. In these functions, we will collect your recorded content to identify your needs, or respond to your customer service and dispute resolution needs.
+5. Service based on address book information
+Service: We will collect your address book information after you enable your address book permission, so that you can conveniently access the contact information in your address book when shopping, without the need to manually enter it; In addition, in order to enhance your social interaction and sharing fun while using our products and/or services, and to share your shopping experience with people you know, with your consent, we may also encrypt and collect the names and phone numbers of your contacts to help you determine whether your contacts in your address book are also our members and establish contact for your communication on Qunar. At the same time, members can choose to turn on or off their friend privacy permissions to determine whether they can be searched and contacted by other members through their phone numbers.
+6. Calendar based services: After you grant us the permission to read/write to your calendar, we will collect your calendar information to provide you with relevant records and reminders for booking products/services.
+7. Service based on NFC close range communication: After you enable NFC permission, the application can use NFC to read bank card numbers for convenient and quick input during mobile payments.
+You understand and agree that the above services may require you to enable your permissions on your device to collect and use the information involved in these permissions. You can view the status of the above permissions item by item in your device settings and decide whether to turn them on or off at any time. Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. Once you close any permission, it means that you have cancelled the authorization. We will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we be able to provide you with the services corresponding to that permission. However, your decision to disable permissions will not affect the information collection and use previously conducted based on your authorization.
+(5) We will obtain your relevant information, such as order contact phone numbers, from affiliated companies (referring to any enterprise that controls or is controlled by Qunar.com, or is jointly controlled by Qunar.com in the same entity. Control refers to directly or indirectly owning more than fifty percent (50%) of the voting or management rights of the enterprise) and business partner sources. We will confirm the legality of the sources of these personal information based on agreements with affiliated companies and business partners. When you make a reservation through our affiliated companies, business partner websites, and their mobile applications, the reservation information you provide to them may be forwarded to us so that we can process your order and ensure a smooth booking for you. For example, we allow you to use third-party accounts associated with our account for login. With your consent (authorized by you to the third party), your relevant personal information will be shared with us through the third party. When you use the one click login service provided by the telecom operator, the telecom operator will share relevant information with us based on the service agreement confirmed when you use the service.
+(6) As the products and services we provide to you are constantly updated, if a product or service is not described in the above content and collects your information, we will separately explain the content of information collection to you through page prompts, interaction processes, website announcements, etc., in order to obtain your consent. This information is subject to the provisions of this privacy policy.
+(7) The basic functions listed above are core business functions. For third-party business functions (including financial business functions provided by third parties), we will separately explain the corresponding personal information collection and use rules to you through page prompts, interactive processes, etc., and obtain your consent.
+3. Information usage
+(1) Generally speaking, Qunar collects and uses your personal information for the following purposes:
+To provide you with services: We use your personal data to complete and manage your online bookings. In addition, we will also provide you with relevant products and services through affiliated companies, business partners, and third parties.
+Account Management: You can create an account through Qunar.com. We will use the information you provide to manage your account and provide you with a series of practical functions. You can use your account to perform various operations, such as managing orders, adjusting personal settings, adding frequently used passenger information, viewing historical order information, order reviews, payment management, etc.
+Reply to your inquiries and requests: We provide customer service to assist you when you need it.
+Marketing activities: We will also use your information for legitimate and lawful marketing activities, such as sending you the latest news on travel related products or services, providing you with personalized recommendations that you may be interested in, and other promotional activity information.
+Contact you: reply to and handle your questions or requests, send information related to the order (such as successful order submission prompts, reminders for unfinished orders to continue, etc.), we may also send you surveys or invite you to provide feedback on our services.
+Market research: We sometimes invite you to participate in market research to measure your interest in our products, services, and website.
+Data analysis: We may use your order data for analysis to form a user profile, so that we can understand your location, preferences, and demographic information, or match it with data from other sources (including third parties), in order to develop our products, services, or marketing plans and improve our services.
+Control credit risk: In order to ensure transaction security and control credit risk, Qunar and its affiliated companies and business partners may conduct data analysis on user information
+Commercially utilize the above analysis results.
+Daily operations: including but not limited to order management, customer verification, technical support, network maintenance, troubleshooting, internal administrative affairs and internal policies and procedures, generating internal reports, etc.
+Security guarantee: In order to improve the security of your use of products and services, we may use your information for identity verification, customer service, security prevention, fraud monitoring, and safeguarding the personal safety of users, in order to prevent, detect, investigate fraud, endanger security, illegal or violate our agreements, policies or rules, laws and regulations, and protect the legitimate rights and interests of you, other users, Qunar and its affiliated companies, partners, and the public.
+Phone monitoring: When you answer and call our customer service hotline, ride hailing drivers, and other service providers, it may be recorded. We may use call recordings to monitor the quality of our customer service, check the accuracy of the information you provide to prevent fraud, or for the purpose of training our internal personnel. The recording will be automatically deleted after being retained for a period of time, unless it is necessary for the scene to be retained due to compliance requirements or legitimate interests.
+Fulfilling obligations: Handling insurance claims and payments under relevant policies, handling commissions paid to partners or filing claims or recovering payments for losses caused to service partners.
+Legal Purpose: We may need to use your information to process and resolve legal disputes, or to comply with any laws, regulations, or regulatory documents that are binding on us, in order to cooperate with national authorities or regulatory agencies in investigating and complying with legal regulations.
+In addition, we may collect, use, and disclose your personal information for other purposes and inform you through the revision of this statement.
+If we want to change the purpose of processing personal information, we will seek your authorization and consent again through push notifications or other means.
+(2) We will conduct comprehensive statistics, analysis, and processing of your information. Based on the aforementioned information, we may provide you with marketing activity notifications, commercial electronic information, or advertisements that you may be interested in. While enjoying the various services provided by Qunar, you authorize and agree to receive commercial information sent by Qunar to your email, mobile phone, mailing address, etc., including but not limited to the latest product information, promotional information, etc. If you choose not to accept the various information services provided by Qunar, you can choose to refuse such information services according to the methods we prompt (any necessary fees such as information service fees, call fees, browsing fees, etc. incurred due to sending relevant notifications or similar operations will be borne by you). If there are any problems during the operation, you can contact Qunar customer service.
+(3) You are fully aware that we do not require your authorization or consent to use personal information in the following situations:
+Related to national security and defense security;
+Related to public safety, public health, and major public interests
+Related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+The collected personal information is disclosed by the personal information subject to the public on their own;
+Collecting your personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+Necessary to sign the contract according to your requirements;
+Necessary for maintaining the safe and stable operation of the provided products and/or services, such as discovering and handling faults in the products and/or services;
+Necessary for legitimate news reporting;
+Academic research institutions conduct statistical or academic research necessary for the public interest, and when providing results of academic research or descriptions to external parties, they de identify the personal information contained in the results;
+Other circumstances stipulated by laws and regulations.
+4. Information sharing, transfer, and public disclosure
+(1) We may share your order information, account information, device information, and location information with third parties such as partners to ensure the smooth completion of the services we provide to you. But we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners include the following types (including entities within and outside of China):
+Suppliers: including but not limited to hotels, airlines, cruise ships, ride hailing service providers, car rental, travel agencies, scenic spots, and event providers and agents that meet your booking needs. These suppliers may contact you as needed to complete travel products or services.
+Financial institutions and third-party payment institutions: When you book an order, apply for a refund, or purchase insurance, we will share specific order information with financial institutions or third-party payment institutions. When we deem it necessary for fraud detection and prevention purposes, we will further share other necessary information with relevant financial institutions, such as IP addresses. When you use our financial services, such as installment payments, consumer credit, wealth management, flash game cards, and credit card applications, we will share your relevant information with our partner financial institutions based on the agreement or authorization you provided when opening specific products, so that these institutions can provide you with the services you need.
+Business partners: We may work with partners to provide you with products or services, including express delivery services, communication services, customer service, marketing, advertising, technical services, real name authentication services, consulting services, one click login services, etc. In order to ensure the above user service experience, we will embed partner SDKs or other similar applications into our application to ensure that you can provide our application and enjoy the services provided by our partners conveniently. We remind you to pay attention to and clearly understand the specific information of the service provider who provides services to you, as well as how the service provider collects and uses your personal information. The SDK information sheet (details can be found at the bottom of the privacy policy) includes
+Third party SDK information (including SDK name, affiliated institution name, purpose, type of personal information collected, official website link information)
+Affiliated companies: We will share your personal information, including your device identification number and network information, with our affiliated companies to enable us to provide you with information related to travel or other products and services.
+For companies and organizations with whom we share personal information, we will require them to handle personal information in accordance with legal confidentiality and security measures.
+(2) Information transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Obtaining your explicit consent or authorization in advance;
+According to applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+When it comes to mergers, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek authorization and consent from you again.
+(3) Public disclosure
+We will only publicly disclose your personal information in the following situations:
+Desensitize and display the winners' mobile phone numbers or login names on Qunar.com when announcing the list of winning activities;
+According to your needs, disclose the personal information you have specified in the disclosure method that you have agreed to;
+In the event that national authorities require disclosure of your personal information in accordance with their authority, we may publicly disclose your personal information based on the required type and disclosure method.
+We are aware of the corresponding legal responsibilities for sharing, transferring, and publicly disclosing personal information to external parties.
+5. Information storage and cross-border transmission
+(1) We will keep your personal information for three months after the date of account cancellation, unless necessary for the purpose stated in this policy and within the time limit specified by laws, regulations, and regulatory provisions. After the expiration of the period, we will delete or anonymize your personal information. If we cease to operate Qunar.com products or services, we will promptly cease the activity of collecting your personal information. We will notify you of the cessation of operation in the form of individual delivery or announcement, and delete or anonymize the personal information we hold.
+(2) The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within China, except in the following circumstances:
+There are clear provisions in laws and regulations;
+Obtain your explicit authorization;
+You conduct cross-border transactions and other personal initiatives through the Internet.
+6. The use of cookies
+When you visit the Qunar website or use the services provided by Qunar, we may identify your identity through small data files, which can help you avoid the step of repeatedly entering registration information or help determine the security status of your account. These data files may be cookies, Flash cookies, other local storage provided by your browser or associated applications (hereinafter referred to as cookies). Please understand that some of our services can only be implemented through the use of cookies. If allowed by your browser or browser add-on services, you can modify your acceptance of cookies or refuse cookies from Qunar. The "Help" section in most browser tools will tell you how to prevent your browser from accepting new cookies, how to make your browser notify you when you receive a new cookie, or how to completely turn off cookies. In addition, you can turn off or delete similar data used by browser add ons by changing their settings or by accessing the provider's webpage. But this action may affect your secure access to Qunar and use of the services provided by Qunar in certain situations.
+7. Personal sensitive information reminder
+The personal sensitive information involved in this privacy policy includes: personal property information (including bank account number, password information, asset certification information, lending information, transaction and consumption records, virtual property information), personal health and medical information, personal biometric information (finger print, voice print, facial image, facial video), personal identity information (ID card, passport, Taiwan compatriot card, home return card, military card, driver's license, household register, birth certificate, foreigners' permanent residence ID card, Hong Kong, Macao and Taiwan residents' residence card, photos, marriage certificate, relationship certificate, employment certificate, unit certificate), online identity information (including account name, email address and password, password protection answers related to the above), And other information (including personal phone numbers, marriage history, whereabouts, accommodation information, precise positioning information, call records, audio and video recordings, racial information, religious information).
+These sensitive personal information will be strictly protected. The privacy policy of Qunar reminds you that the content and information uploaded or published in the products and services provided by Qunar may disclose and leak your personal sensitive information. Therefore, you need to carefully consider before using the products or services we provide for you. You agree that these sensitive personal information will be processed in accordance with the purposes and methods outlined in this privacy policy.
+8. Information Security and Protection
+(1) Qunar places great emphasis on information security and has established a dedicated team responsible for it. We strive to provide you with information protection and have taken appropriate management, technical, and physical security measures. We have established an information security protection system that is compatible with business development by referring to domestic and international information security standards and best practices. We have obtained PCI-DSS payment card industry data security standard certification.
+(2) We have established security measures at various stages of data collection, storage, display, processing, use, and destruction from the perspective of the lifecycle of data. Different control measures are taken according to the level of information sensitivity, including but not limited to access control, SSL/TLS encrypted transmission, and AES 256 bit or higher strength encryption algorithms for encrypted storage.
+(3) We have also implemented strict management for employees who may have access to your information, monitoring their operations. We have established approval mechanisms for important operations such as data access, internal and external transmission and use, anonymization, decryption, etc., and have signed confidentiality agreements with the aforementioned employees. At the same time, we also regularly provide information security training to our employees, requiring them to develop good operating habits in their daily work and enhance their awareness of data protection.
+(4) Despite the aforementioned security measures
+However, please also understand that there are no "perfect security measures" on the internet. We will provide corresponding security measures based on existing technology to protect your information and provide reasonable security guarantees. We will do our best to ensure that your information is not leaked, damaged or lost.
+(5) Your account has security protection functions. Please keep your account and password information safe and do not disclose your password to others. If you find that your personal information has been leaked, especially your account and password, please contact our customer service immediately so that we can take corresponding measures.
+(6) Please save or back up your text, images, and other information in a timely manner. You need to understand and accept that the system and communication network you use to access our services may encounter problems due to factors beyond our control.
+9. Information security incident handling
+In the event of an unfortunate personal information security incident, we will activate emergency plans and inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will inform you of the relevant situation of the event through push notifications and other means. When it is difficult to inform individual information subjects one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+10. Protection of Minors' Information
+(1) Qunar attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you must obtain the consent of your parents or legal guardians before using Qunar's services.
+(2) Where to go will not actively collect personal information from minors directly. For the collection of personal information of minors with the consent of their guardians, we only use, share, transfer or disclose such information as permitted by laws and regulations, with the consent of the guardians, or as necessary to protect minors.
+(3) As a guardian, you can log in to the app and use "My" ->"Common Information" to query, correct, and delete information related to minors. If there is evidence that a minor registered and used our services without the consent of their guardian, the guardian can contact Qunar customer service, and we will delete the relevant minor's personal information as soon as possible after confirmation.
+(4) For personal information of children under the age of 14, we will follow the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use, and store, use, and disclose it in accordance with the requirements of laws and regulations such as the "Regulations on the Protection of Children's Personal Information Networks". When you, as a guardian, choose to use travel services related to the child under your guardianship, we may need to collect personal information of the child under your guardianship for the purpose of providing you with necessary services. If you do not provide the aforementioned information, you will not be able to enjoy the relevant services we provide. In addition, you may voluntarily provide us with personal information of children when using the evaluation function. Please be aware of this and choose carefully. As a guardian, you should fulfill your guardianship responsibilities correctly and protect the personal information security of children. If you have any opinions, suggestions or complaints regarding children's personal information, please contact us.
+11. User Personal Information Management
+(1) You can log in to Qunar.com at any time to query, correct, and delete your account information; Modify personal information, privacy settings, and security settings; Modify the personal information you provide when using Qunar services, such as shipping address and frequently used contact information. If there are any problems during the operation, you can contact Qunar customer service. Among them, you can log in to the Qunar Travel APP, go to "My" ->"Settings" ->, click on "Username or User Avatar" to enter the personal information page for information query and modification; Click on "Account Security" to modify login passwords and set up security management settings; Click on 'Login Device Management' to manage your commonly used login devices and protect the security of your account information; On the "My" page, you can directly click on "Common Information" to view, modify, and delete information including passenger information, contact information, address information, and invoice header information; You can also view and delete your collection information and browsing history through the "Favorites" and "Footprints" functions. The source and purpose of the personal information you have inquired about are described in "2. Information Collection", and we will disclose the identity and type of third-party who obtained your personal information in "4. Information Sharing, Transfer, and Public Disclosure". If you have any questions about the source and purpose of the personal information you have inquired about, as well as the identity of the third-party who obtained your personal information, you can send an email to the personal information protection officer of Qunar.com（ qdp@qunar.com ）We promise to provide feedback within 15 days for inquiries.
+(2) You can cancel your Qunar.com account through the following path: call the customer service phone number published by Qunar.com, follow the voice prompt to go to the customer service manual service, and the account will be cancelled after verification by the customer. You can also log in to the Qunar Travel app and cancel your account in "My" ->"Settings" ->"Account Security". After canceling your Qunar.com account, all information in your account will be cleared, and we will no longer collect, use, or share personal information related to the account. However, we still need to store the previous information according to regulatory requirements, and during the legally required storage period, the authorized authorities still have the right to inquire in accordance with the law.
+(3) You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting your personal information, disabling device functions, modifying personal settings, and other means. You can also revoke all authorization for us to continue collecting your personal information by canceling your account. After you withdraw your authorization, we will no longer process the corresponding personal information. But your decision to revoke authorization will not affect the personal information processing previously carried out based on your authorization. Among them, the IOS system can find "Qunar Network Travel" in the "Settings" of the device and directly select the access permissions for "Qunar Travel", including location, photos, camera, Siri and search, notifications, background application refresh, and cellular data. The Android system can follow "Settings - Applications - Permission Management" to access it
+Find the permission that needs to be revoked, click on the permission, and in the apps that have already been granted the permission, find the Qunar Travel app and click Modify to revoke the authorization. For example, if you plan to revoke the "location information" permission, you can achieve it through the method of "Settings - Applications - Permission Management - Location Information - Where to Travel - Prohibit". Other operating systems may have customized systems, and the name and method of permission settings may not be consistent. Please consult your device seller or manufacturer to accurately grasp your personal information setting permissions. If you still have any questions when revoking authorization, you can send your questions to our personal information protection email（ qdp@qunar.com ）After receiving your email, we will provide timely feedback
+(4) If you choose to activate financial products or services, based on the special nature of such products and the requirements of relevant laws and regulations, each business function requires some basic personal information to be completed. When you withdraw your authorization, we cannot continue to provide you with the corresponding services. Meanwhile, if the service you have already used has not ended, such as unpaid debts, you may not be able to revoke your authorization until the service ends.
+(5) If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+You can cancel the mobile promotion message we sent you based on the content prompt of the promotion message.
+You can set whether to accept the products and promotional information we push to you through "notifications" on the Qunar travel app by going to "My" ->"Settings" ->"System Settings" ->"Receive Personalized Recommendations"
+(6) We will use the system's automatic decision-making mechanism to determine whether users can obtain relevant benefits based on the personal information provided by users in some business functions such as promotional subsidy activities, issuing vouchers, coupons, and commenting. If you have any objections to the decision outcome. Some activities can be appealed through the contact information on the activity page, or by accessing the online customer service system, or by calling the customer service phone number 95117 displayed on the homepage of Qunar.com. We will promptly resolve your appeal and support manual review of automated decision-making results
+(7) Obtain a copy of personal information: You can log in to Qunar website at any time to check your account information, or view all account information in the "My" section of Qunar travel app. You can also access the online customer service system, dial the customer service phone number 95117 displayed on the homepage of Qunar.com, or send an email to the person in charge of personal information protection（ qdp@qunar.com ）Apply to obtain a copy of personal information. We need to verify your identity before we can provide it. Please understand that we are unable to provide a copy of your personal information directly to unrelated third parties due to the protection of your information and existing technology. If you have this need, we will seek alternative solutions for you within the scope permitted by laws and regulations.
+(8) In response to your above request: To ensure the security of your personal information, we will promptly process your request after verifying your identity as the subject of your personal information. For your reasonable requests, we generally do not charge any fees, but for multiple, repeated, or requests that exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very unrealistic. If any of the following situations exist, according to legal requirements, we will not be able to respond to your above request:
+Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+The personal information controller has sufficient evidence to indicate that the personal information subject has subjective malice or abuse of rights;
+For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their authorization and consent;
+Responding to the request of the personal information subject will result in serious damage to the legitimate rights and interests of the personal information subject or other individuals or organizations;
+Involving trade secrets.
+12. Visit our website from outside Chinese Mainland
+If you are a citizen outside Chinese Mainland, or visit our website from outside Chinese Mainland, please note that your information may be transferred to, stored in Chinese Mainland, and processed in Chinese Mainland. The data protection law and other laws of Chinese Mainland may be different from those of your country/region. Your continued use of our services means that you have waived the applicable laws of your country/region. By choosing to use our services, you acknowledge and agree that your information may be transmitted to our website and shared with third parties as described in this privacy policy.
+13. Scope of Application of Privacy Policy
+Except for certain specific services, all of our services are subject to this privacy policy. Specific services will be subject to specific privacy policies or agreements. The privacy policy or agreement of this specific service constitutes a part of this privacy policy. If there is any inconsistency between the privacy policy or agreement of any specific service and this privacy policy, the privacy policy or agreement of the specific service shall apply.
+14. Modification of Privacy Policy
+Where will modify the privacy policy when necessary? Please understand that we may revise this privacy policy in a timely manner, and we will indicate the latest update date of this privacy policy. Without your explicit consent, going anywhere will not reduce the rights you are entitled to under this privacy policy. For significant changes, Qunar will provide more prominent notifications (including for certain services, we will send notifications via email, push notifications within the app, etc., to explain the specific changes to the privacy policy). Please regularly review this privacy policy to read the latest version.
+15. How to contact us
+The personal information controller in this privacy policy is Beijing Quna Information Technology Co., Ltd., with its registered address at Room 1709, 17th Floor, Weiya Building, No. 29 Suzhou Street, Haidian District, Beijing.
+If you have any questions, opinions or suggestions related to personal information protection or privacy protection
+For discussions, complaints, and reports, you can access the online customer service system, call the customer service hotline 95117 displayed on the homepage of Qunar.com, or send an email to the person in charge of personal information protection（ qdp@qunar.com ）Contact us through various means. You can also send your questions to the following address:
+Legal Department, 17th Floor, Weiya Building, No. 29 Suzhou Street, Haidian District, Beijing (received)
+Normally, we will reply within fifteen working days after verifying your identity.
+16. Legal jurisdiction
+The validity, interpretation, amendment, implementation, and dispute resolution of this privacy policy shall be governed by the laws of the People's Republic of China. Any disputes arising from this privacy policy shall be handled in accordance with the laws of the People's Republic of China and shall be under the jurisdiction of the people's court where the defendant resides.
+SDK Information Table (Personal Sensitive Information highlighted in red):
+Note that personal information includes: basic information (including name, gender, date of birth, address, personal phone number, email); Personal identification information (including ID card, military officer certificate, passport, driver's license and other document information); Personal biometric information (including fingerprints, voiceprints, facial recognition features); mail list; Personal commonly used device information (including hardware model, device MAC address, operating system type, software list unique device identification code (such as IMEI/Android ID/IDFA/OPENUDID/UUID, SIM card IMSI information, etc., which describes the basic information of personal commonly used devices); Personal location information (including itinerary information, accurate positioning information, accommodation information, latitude and longitude). The types of personal information collected by the following SDK are provided by the affiliated institutions. If there are any discrepancies, please contact our company as soon as possible and make timely corrections.
+SDK Name: Huawei Login
+Name of affiliated institution: Huawei Technologies Co., Ltd
+SDK purpose and function: Huawei login usage
+Types of personal information collected:
+Device information, including operating system version and device model.
+Network information, including network connection status, methods and types of network access
+Official website link, for reference only:
+SDK Name: Huawei Scenario Intelligence
+Name of affiliated institution: Huawei Technologies Co., Ltd
+SDK purpose and function: Huawei login usage
+SDK Usage and Function: Huawei Scenario Intelligence Analysis
+Types of personal information collected:
+Device and usage information: device model, client EMUI version number, Android version number, operator identification information, network link type, country code for providing services
+Application information: Developer application name, HUAWEI Awareness Kit version number, application package name, application appId.
+Interface information: interface call type, CORE version number, interface call result code, interface response latency.
+Official website link, for reference only:
+SDK Name: Meizu Login
+Name of affiliated institution: Meizu Technology Co., Ltd
+SDK purpose and function: Meizu login usage
+Types of personal information collected
+Device information, application information, log information, location information
+Official website link, for reference only
+SDK Name: Local Number One Click Login
+Name of affiliated institution: China Mobile Communications Group Co., Ltd
+SDK purpose and function: One click login function using local phone number
+Types of personal information collected:
+Network identity identification, including registered mobile phone number, registered email address, secure email address, user service usage data of local phone number, including mobile device identification code, international mobile device identification code, international mobile user identification code, media access control address (MAC), device model, device manufacturer, network type and wifi strength, application data, mobile operating system, screen size, screen resolution, IP address; Personal identification information (including name, ID card) and facial image data.
+Official website link, for reference only:
+SDK Name: Baidu Location Map
+Name of affiliated institution: Beijing Baidu Online Network Technology Co., Ltd
+SDK purpose and function: for map positioning use
+Types of personal information collected:
+Network information, including network connection status, methods and types of network access
+Accessing WI-FI status: Obtain WiFi connection information, return it to Baidu location server as auxiliary positioning basis, and then return it to the developer for more accurate location information
+Get Location: In order to provide developers with location information of the end user that can be obtained without the need for the end user to manually input their geographic coordinates
+Official website link, for reference only:
+SDK Name: Institute of Information and Communications Technology
+Name of affiliated institution: China Academy of Information and Communications Technology
+SDK Usage and Function: Obtain OAID
+Type of personal information collected: device information
+Official website link, for reference only:
+SDK Name: Facial Recognition FACE++
+Name of affiliated institution: Beijing Kuangshi Technology Co., Ltd
+SDK purpose and function: facial information recognition function, real name authentication
+Types of personal information collected:
+Network information, device information, camera permissions
+Official website link, for reference only:
+SDK name: Alipay
+Organization name: Alipay Network Co., Ltd
+SDK purpose and function: payment function
+Types of personal information collected:
+Device identification information, device status information, device environment information, network connection information
+Applying for read and write memory permissions is aimed at ensuring the stable operation of payment functions
+Official website link, for reference only:
+SDK Name: UnionPay Payment
+Name of affiliated institution: China UnionPay
+SDK purpose and function: payment function
+Types of personal information collected:
+Device information, network information, location information
+Official website link, for reference only:
+SDK Name: A Push Push
+Name of affiliated institution: Zhejiang Daily Communication Network Technology Co., Ltd
+SDK purpose and function: Push function
+Types of personal information collected:
+Device information, application list information, network information, and location related information
+Official website link, for reference only:
+SDK Name: Aurora Push
+Name of affiliated institution: Shenzhen Hexun Huagu Information Technology Co., Ltd
+SDK purpose and function: Push function
+Types of personal information collected:
+Device information, location information, network information
+Official website link, for reference only:
+SDK Name: Xiaomi Push
+Name of affiliated institution: Xiaomi Technology
+company with limited liability
+SDK purpose and function: Push function
+Types of personal information collected:
+Login account, Space ID, device information (IMEI number, device model, mobile operating system), application information (APP version number), network related information (IP or domain connection result, current network type), system language information, message sending result information
+Official website link, for reference only:
+SDK Name: Meizu Push
+Name of affiliated institution: Meizu Technology Co., Ltd
+SDK purpose and function: Push function
+Types of personal information collected:
+Device information, application information, log information, location information
+Official website link, for reference only:
+SDK Name: OPPO Push
+Name of affiliated institution: OPPO Guangdong Mobile Communication Co., Ltd
+SDK purpose and function: Push function
+Types of personal information collected:
+Device information (IMEI number, Serial Number，IMSI，User ID，Android ID，Google Advertising ID,  Mobile Region Settings, Device Model, Phone Battery Level, Phone Operating System Version and Language, Application Information (APP Package Name and Version Number, Running Status), Push SDK Version Number, Network Related Information (IP or Domain Connection Result, Current Network Type), Message Sending Result, Notification Bar Status, Lock Screen Status
+Official website link, for reference only:
+SDK Name: VIVO Push
+Name of affiliated institution: Guangdong BBK Electronics Industry Co., Ltd
+SDK purpose and function: Push function
+Types of personal information collected:
+System and application data, device information
+Official website link, for reference only:
+SDK Name: Voice Call
+Name of affiliated institution: Guangzhou Qizhi Information Technology Co., Ltd
+SDK Usage and Function: Internet Phone Function
+Types of personal information collected:
+Device information: device info, IP address, operating system type, CPU information, device battery level, network information, recording permissions
+Official website link, for reference only:
+SDK Name: Ctrip Device Fingerprint
+Name of affiliated institution: Shanghai Ctrip Business Co., Ltd
+SDK purpose and function: to mark the unique identifier of terminal devices
+Types of personal information collected:
+Device information, network information, location information
+Official website link, for reference only:
+SDK Name: Huawei Scenario Intelligence
+SDK Usage and Function: Huawei Scenario Intelligence Analysis
+Device and usage information: device model, client EMUI version number, Android version number, operator identification information, network link type, country code for providing services
+Application information: Developer application name, HUAWEI Awareness Kit version number, application package name, application appId.
+Interface information: interface call type, CORE version number, interface call result code, interface response latency.
+SDK Name: Meizu Login
+Name of affiliated institution: Meizu Technology Co., Ltd
+SDK purpose and function: Meizu login usage
+Types of personal information collected
+Official website link, for reference only
+SDK Name: Local Number One Click Login
+Name of affiliated institution: China Mobile Communications Group Co., Ltd
+SDK purpose and function: One click login function using local phone number
+SDK Name: Baidu Location Map
+Name of affiliated institution: Beijing Baidu Online Network Technology Co., Ltd
+SDK purpose and function: for map positioning use
+Accessing WI-FI status: Obtain WiFi connection information, return it to Baidu location server as auxiliary positioning basis, and then return it to the developer for more accurate location information
+Get Location: In order to provide developers with location information of the end user that can be obtained without the need for the end user to manually input their geographic coordinates
+SDK Name: Institute of Information and Communications Technology
+Name of affiliated institution: China Academy of Information and Communications Technology
+SDK Usage and Function: Obtain OAID
+Type of personal information collected: device information
+SDK Name: Facial Recognition FACE++
+Name of affiliated institution: Beijing Kuangshi Technology Co., Ltd
+SDK purpose and function: facial information recognition function, real name authentication
+Types of personal information collected:
+Network information, device information, camera permissions
+SDK name: Alipay
+Organization name: Alipay Network Co., Ltd
+SDK purpose and function: payment function
+Device identification information, device status information, device environment information, network connection information
+Applying for read and write memory permissions is aimed at ensuring the stable operation of payment functions
+SDK Name: UnionPay Payment
+Name of affiliated institution: China UnionPay
+SDK Name: A Push Push
+Name of affiliated institution: Zhejiang Daily Communication Network Technology Co., Ltd
+SDK purpose and function: Push function
+SDK Name: Aurora Push
+Name of affiliated institution: Shenzhen Hexun Huagu Information Technology Co., Ltd
+SDK Name: Xiaomi Push
+Name of affiliated institution: Xiaomi Technology Co., Ltd
+Login account, Space ID, device information (IMEI number, device model, mobile operating system), application information (APP version number), network related information (IP or domain connection result, current network type), system language information, message sending result information
+SDK Name: Meizu Push
+SDK Name: OPPO Push
+Name of affiliated institution: OPPO Guangdong Mobile Communication Co., Ltd
+SDK Name: VIVO Push
+Name of affiliated institution: Guangdong BBK Electronics Industry Co., Ltd
+System and application data, device information
+SDK Name: Voice Call
+Name of affiliated institution: Guangzhou Qizhi Information Technology Co., Ltd
+SDK Usage and Function: Internet Phone Function
+SDK Name: Ctrip Device Fingerprint
+Name of affiliated institution: Shanghai Ctrip Business Co., Ltd
+SDK purpose and function: to mark the unique identifier of terminal devices
+Contact Us User Agreement FAQ Friendly Link
+Copyright (C) 2021 Qunar.com Beijing Public Security 11010802030542 Beijing I
+CP Bei No. 05021087 Jing ICP Certificate No. 060856 Business License Information Internet Drug Information Service Qualification Certificate: (Beijing) - Non operational -2016-0110 Qunar.com Complaints, Consultation Hotline 95117 Email: tousu@qunar.com National Tourism Complaint Hotline: 12345
+Minors/Illegal and Harmful Information/Algorithm Recommendation Reporting Phone: 010-59606977 Minors/Illegal and Harmful Information/Algorithm Recommendation Reporting Email: tousu@qunar.com

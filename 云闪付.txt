@@ -1,0 +1,1489 @@
+This policy applies to users who register and use the Cloud QuickPass app within the country (excluding Hong Kong, Macau, and Taiwan).
+This policy only applies to
+Operate UnionPay Cloud QuickPass APP to provide related products and services
+2. This policy only applies to China UnionPay Co., Ltd. ("we" or "UnionPay")
+Operate the UnionPay Cloud QuickPass app to provide related products and services.
+Update Date: June 21, 2024
+Effective date: June 25, 2024
+If you have any questions, opinions or suggestions, please contact us through the following contact information:
+Contact number: 95516
+E-mail: privacy@unionpay.com
+Common business address: Cloud QuickPass Technical Support Team, 1899 Guozhan Road, Pudong New Area, Shanghai, China
+This policy will help you understand the following:
+Collection and use of personal information
+■ Security management methods for personal information
+Protection and response to user rights
+Special Reminder for Sensitive Personal Information
+Special processing rules for cross-border information
+Cookies and similar technology applications
+Protection of Personal Information of Deceased Users
+■ Policy update method
+■ Appendix
+We understand the importance of personal information to you and will do our best to protect it. We also appreciate your trust in us. We promise to adopt corresponding security protection measures in accordance with mature industry security standards to protect your personal information. We will try our best to explain and inform you in plain and understandable language, and use bold font to draw your attention to the clauses in this policy that may have a significant relationship with your legitimate interests. We strongly recommend that you carefully read and fully understand all the contents of this policy before using our services. We will provide you with cloud flash payment APP products and services based on your choice. This policy applies within the territory of the People's Republic of China
+The act of collecting, using, storing, and providing your personal information to external parties (excluding Hong Kong, Macao, and Taiwan regions for the purpose of this privacy policy).
+If you check 'I have read and agreed' and confirm submission, it is deemed that you agree to this policy and authorize us to process your personal information in accordance with the provisions of this policy. If we wish to use your personal information for other purposes not specified in this privacy policy, or for information collected for specific purposes for other purposes, we will promptly inform you in a reasonable manner and obtain your authorization and consent.
+• Basic information
+• Identity document information
+1、 Collection and Use of Personal Information
+（1） What information do we collect from you
+Basic information including name, home address, phone number, occupation, ethnicity, gender, age, and nationality.
+ID card, passport, driver's license, military officer's license
+• Personal financial authentication information (login password, query password, transaction password, dynamic password, SMS verification code, security issue, card CVN2)
+• Biometric information including facial photos, facial features, dynamic videos, and fingerprints.
+• Bank card information
+Personal financial authentication information (login password, query password, transaction password, dynamic password, SMS verification code, security question, card CVN2) is sensitive personal information.
+• Biometric information including facial photos, facial features, dynamic videos, and fingerprints. Biometric information belongs to sensitive personal information.
+Name of issuing bank, type of bank card (debit card, credit card), level of UnionPay card (general card, gold card, platinum card, diamond card) or other bank card information
+• Payment transaction information
+Transaction amount, transaction time, transaction location, merchant name, merchant number, terminal number, accepting institution, etc
+• Use of information
+Payment transaction information refers to transaction information processed by the UnionPay network, such as transaction amount, transaction time, transaction location, merchant name, merchant number, terminal number, and accepting institution. Part of the payment transaction information belongs to sensitive personal information.
+Browse history, search history, favorites, software usage history, product interaction
+• Account information
+• Device information
+• Accurate location information
+• Other information you provide to us
+• Permission information
+• Account Information: Detailed information about your Cloud QuickPass account, including the registered mobile phone number, email address, registered device, account status, and registration time.
+Device information can be used to identify the data of your device, such as device identification information (device model, device name, serial number, device MAC address, operating system type, IMEI), Android
+Information describing the basic information of personal commonly used devices, including ID, Android OAID, IDFA, OpenID, UID, SIM card IMSI, etc. Meanwhile, please understand that when you switch the mobile application to run in the background of the device, due to network abnormalities or system reasons, the information collection behavior generated by your previous use of the application may not be immediately stopped, resulting in a brief background information collection behavior.
+• Accurate location information, approximate location, and IP address. Accurate location information belongs to sensitive personal information.
+• Other information you provide to us, such as interactive content you submit through online customer service.
+Address book information, location information, camera, phone photo album, sports and fitness
+You can click here to search
+• Provide support for our services
+Will collect necessary personal information
+• Process your payment transaction
+For a detailed list of the various related business functions that may grant access to your device, please click here to check.
+（2） Purpose of using your personal information
+We collect necessary personal information to support our services, which may be used for product or service improvement, internal purposes such as auditing or data analysis, or for fault diagnosis.
+Identity information, bank card information
+• Communicate with you
+• Security and fraud prevention
+• Handling complaints and disputes
+• Comply with the law
+• Improve services
+• Optimize functionality
+• Communicate with you to carry out my
+Marketing of our products and services, such as notifying you to claim discounts, use rights, participate in lucky draws, etc. Sometimes, we may use personal information to send important notifications such as collecting and displaying your real-time payment updates. We may also push notification SMS, commercial SMS, service notification outbound calls, and research follow-up outbound calls to you for customer service, improving user experience, and other purposes.
+To ensure the stability of the service and protect the security of your account assets, prevent losses, and prevent fraud.
+Handle complaints and disputes in cooperation with any disputes that arise during your use, such as judicial requests or notifications from consumer rights protection departments.
+Compliance with laws aims to comply with applicable laws, such as anti money laundering compliance obligations or compliance with industry regulatory reporting requirements.
+Improving services to provide you with smoother and more convenient services. For example, analyzing software crashes and crashes.
+The optimization function is based on the data involved in various businesses of the Cloud QuickPass app. After desensitizing your data, it can be used in specific business scenarios to carry out privacy computing, federated learning, etc. with other professional companies in a legal and compliant manner, in order to achieve richer business scenarios and functions, such as wealth management loans, marketing activity recommendations, etc., to enhance your user experience and enjoy participating in various rights and benefits activities.
+（3） Basic business functions and extended business functions
+Account registration, login, payment, bank card management, inquiry of bank discounts, points management
+Shopping and entertainment, wealth management, cloud flash payment mini program
+If you choose to use the basic business functions provided by the Cloud QuickPass APP, you need to provide us with or allow us to collect and use necessary personal information. If you do not agree, you will not be able to use our basic product services
+Please refer to Attachment 1 for details
+Please refer to Attachment 2 for details
+（4） How do we entrust the processing, provision, transfer, and disclosure of your personal information to external parties
+1. Entrusted processing
+Some modules and functions of the Cloud QuickPass Mall service in the Cloud QuickPass APP are provided by Shanghai Rongshu Information Technology Co., Ltd. (registered address/common office address: Room 08, 6th Floor, No. 2 Maji Road, China (Shanghai) Pilot Free Trade Zone, contact information:【
+021-60606711) provided. We have signed a strict data processing agreement with them, requiring them to process your personal information in accordance with our requirements, this policy, and any other relevant confidentiality and security measures. Without your authorization and our consent, they will not entrust others to process personal information or change the data processing method, purpose, etc. We will take necessary measures to supervise their personal information processing activities.
+If you have signed corresponding authorization agreements, documents or provided authorization through other means with financial institutions such as banks, personal credit reporting agencies or other institutions (hereinafter referred to as "business entities") that have obtained legal credit reporting business qualifications, based on your aforementioned authorization agreement and this privacy policy, we will process your necessary personal information (such as personal basic information, personal identity information, personal property information, personal commonly used device information, personal internet records and network identity identification information, etc.) (including but not limited to comprehensive statistics, analysis or processing) and provide the relevant processing results to the aforementioned business entities to assist them in carrying out marketing, risk control, credit reporting business or other services they provide to you.
+Unless we obtain your consent
+2. External provision
+Unless we obtain your consent, we will not provide your personal information to any company, organization, or individual outside of UnionPay. With your separate consent, we will only provide your personal information for legal, legitimate, necessary, and clear purposes, and only provide personal information necessary for the service, except as otherwise provided by laws and regulations.
+For companies and organizations that we provide personal information to, we will sign strict data processing agreements with them, requiring them to process personal information in accordance with our instructions, this privacy policy, and any other relevant agreements. We will also require the companies and organizations to provide explanations of their data security capabilities and information security qualifications (such as level protection assessments, information security management systems, etc.).
+We may provide your personal information to government authorities in accordance with legal regulations or mandatory requirements.
+We may provide your personal information to the following partners:
+Our service providers and business partners
+We may provide your personal information to service providers and business partners who support our functions. These supports include providing us with infrastructure technology services, payment services, and data processing.
+• Affiliated companies
+We may provide your personal information to our affiliated companies. We will only provide necessary personal information and obtain your consent separately. At the same time, the personal information you generate under the services and pages of the affiliated companies will be protected according to the privacy policy provided by the affiliated companies.
+• Third parties authorized by you
+We may provide your personal information to designated individuals as per your instructions or with your consent, such as when you log in to a platform operated by someone else using your account information from UnionPay.
+Click here to search
+The scenarios, information fields, frequency, recipients, purposes, etc. provided by us to the public can be queried by clicking here.
+3. Transfer
+If it is necessary to transfer your personal information due to merger, division, dissolution, bankruptcy, or other reasons, we will inform you of the recipient's name or contact information. At the same time, we require new companies or organizations that hold your personal information to continue processing your personal information in accordance with this policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+4. Publicly available
+We disclose your personal information in necessary circumstances based on the legality required by laws and regulations. If disclosure is required, we will inform you of the purpose of disclosure, the types of personal information disclosed, the types of sensitive personal information involved, and obtain your separate consent.
+5. Tips on third-party information collection from you
+Cloud QuickPass includes third-party products and services. Before using these third-party products and services, you need to navigate to the corresponding Cloud QuickPass mini program or third-party page. The third-party services you use will be subject to the terms of service and privacy policy of the third party (not this policy), and you need to
+Carefully read its terms and decide whether to accept them. This privacy policy only applies to the processing of your personal information required for us to provide you with Cloud QuickPass APP products and services. Third parties are responsible for their own actions when processing your personal information.
+If you have objections to the use of your personal information by third parties or find that these third-party developed applications or pages have risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests. You can also negotiate with the corresponding third party to resolve the issue, and we will do our best to provide assistance. If UnionPay violates the provisions of laws and regulations during this process and causes losses to you, UnionPay will bear the corresponding responsibilities arising therefrom.
+The specific types of third parties and the types of personal information processed are as follows:
+• Third party SDK service providers
+Our product includes third-party SDKs. If you use related services on our platform, you are aware that they directly collect and process your personal information. We will constrain such third parties to strictly process it in accordance with legal, legitimate, and necessary principles. You can use
+Click here to view the third-party SDK services included in our product.
+• Other third parties
+• Storage location
+• Storage period
+The Yunshanfu APP mini program provides access services to third parties, who will be responsible for managing your personal information on their platform. You can do it through
+Click here to view our third-party access directory.
+2、 Security management methods for personal information
+1. Storage
+• Storage location: In accordance with relevant laws and regulations, we will store your personal information collected and generated during the operation within the territory of the People's Republic of China
+Within China.
+We will only retain your personal information for a period that is necessary and reasonable for the purpose of providing you with Cloud QuickPass APP products and services, or within the time limit specified by laws, regulations, and regulatory requirements. For example, according to the "Guidelines for Anti Money Laundering and Counter Terrorist Financing of Bank Card Organizations and Fund Clearing Centers", after you cancel your membership in the Cloud QuickPass APP, we will store your personal identity information for 5 years, transaction information for 5 years, and your personal identity information and clearing business data in the UnionPay clearing core business system for 15 years in accordance with laws, regulations, or regulatory requirements. After the above storage period expires, we will delete or anonymize your personal identity information and transaction information.
+2. Safety Qualification
+We have obtained the following certifications: our core business system has passed the Level 4 certification for information system protection in the People's Republic of China, and the Cloud QuickPass business system has passed the Level 3 certification for information system protection in the People's Republic of China. Our Cloud Flash APP has obtained the Mobile Internet Application (APP) security certification issued by China Network Security Review Technology and Certification Center.
+3. Internal management measures
+We have implemented various protection measures such as internal management systems and technical safeguards to safeguard your personal information, including but not limited to:
+Classification and Grading System
+• Regular safety audits
+We have established a personal information protection team
+Conduct a personal information protection impact assessment on the collection, use, provision, and entrusted processing of personal information
+We have adopted a classification and grading system based on the sensitivity and types of personal information, and according to the classification and grading results, we have implemented various aspects such as user permissions, usage scenario permissions, usage authorization permissions, and grading approval mechanisms
+Permission restrictions.
+Regular security audits are conducted to comprehensively verify and control the effectiveness of privacy policies and related regulations, as well as data security, through audit mechanisms.
+In terms of mechanism protection, we have established a personal information protection team
+Conduct a personal information protection impact assessment on the collection, use, provision, and entrusted processing of personal information, strengthen internal employee training on relevant laws and regulations, personal information security guidelines, and security awareness, and organize all staff to participate in compliance exams every year.
+When you correct, delete personal information or cancel your account, the backup system involved in your personal information will be processed in accordance with regulatory requirements.
+Irreversible encrypted storage and isolated storage
+De identification processing
+Dedicated line transmission, encrypted transmission, key and data medium isolation transmission
+4. Technical support
+In terms of technical support measures, we have adopted irreversible encrypted storage and isolated storage during storage, and implemented measures for information display and download
+De identification processing was adopted during transmission
+Technical measures such as dedicated line transmission, encrypted transmission, key and data medium isolation transmission are taken to ensure the security of your personal information.
+We have developed relevant emergency plans for information security incidents and regularly organize internal personnel to receive emergency response training and drills, so that they can master their job responsibilities, emergency response strategies, and procedures.
+In the event of an unfortunate personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through APP push notifications, email/short messages, phone calls, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements. If your legitimate rights and interests are damaged, we will bear corresponding legal responsibilities.
+Please understand that due to technological limitations and the possibility of various malicious behaviors from the outside world, we cannot guarantee 100% security of information, but we will do our best. Please be aware and understand that the system and communication network you use to access our services may have issues beyond our control
+Security issues,
+Safety reminder: Although we have taken the above-mentioned safety and effective measures and actively implemented the standards required by laws and regulations,
+Please understand that due to technological limitations and the possibility of various malicious behaviors from the outside world, we cannot guarantee 100% security of information, but we will do our best. Please be aware and understand that the systems and communication networks you use to access our services may have security issues beyond our control. Therefore, we strongly recommend that you take proactive measures to protect the security of your personal information, including but not limited to using more complex passwords, not disclosing personal account passwords and sensitive personal information to others.
+3、 Protection and response of user rights
+We guarantee that you exercise the following rights over your personal information:
+Click to view relevant paths
+（1） Search and access your personal information
+You can access and view your name and ID information (mask) through the "My Personal Center" on the Cloud QuickPass app, or contact us through the customer service hotline 95516, except for exceptions stipulated by laws and regulations.
+Click to view the relevant path.
+（2） Correct your personal information
+When you discover that there are errors in the personal information we process about you, you have the right to request us to make corrections. You can submit a request to correct your personal information to us through our customer service hotline 95516.
+Click to view the relevant path.
+（3） Transfer your personal information
+When you have a need to transfer your personal information in the Cloud QuickPass APP and meet the conditions stipulated by the Internet Information Department, you have the right to request us to provide the means of information transfer and can make specific personal information transfer requests to us by calling customer service at 95516.
+（4） Delete your personal information
+You can directly call customer service at 95516 to request the deletion of personal information in the following situations, except as otherwise provided by laws and regulations:
+(1) If our handling of personal information does not obtain your consent or violates our agreement with you;
+(2) If our handling of personal information violates laws and regulations;
+(3) If you no longer use our products or services, or if you cancel your account, or if your personal information retention period has expired;
+(4) We will inform you promptly if the purpose of processing your personal information has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose (such as bankruptcy, cessation of operations, etc.);
+(5) You have withdrawn your authorization and consent from us.
+（5） Revoke the scope of your authorized consent
+1. You can revoke all authorization for us to continue collecting your personal information by logging out of your Cloud QuickPass APP account.
+2. You can change the scope of authorization and consent within the app through the following path:
+(1) Third party account management: "My Settings Privacy Settings Account Authorization Management";
+(2) System permission management: "My Settings Privacy Settings System Permission Management";
+(3) Credit card bill authorization management: "My Settings Privacy Settings Bank Card Information Query Authorization Management Bill Query Authorization Management".
+(4) Message push management: "My Settings General Settings New Message Notifications Marketing/Reminder Notifications".
+(5) Commercial SMS push: If you do not agree to UnionPay pushing commercial SMS to you, you can call 95516 or cancel the SMS push service on the "My" - "Privacy Settings" - "Commercial SMS Management" page of the Cloud QuickPass app. The cancellation status will take effect within 24 hours. After terminating the SMS push service, you will no longer receive commercial SMS messages pushed to you by UnionPay. However, to ensure the security of your account and transactions, notification SMS such as transaction verification codes and business reminders will not be affected.
+(6) Outbound research follow-up: If you do not agree with UnionPay's outbound research follow-up content, you can explicitly refuse to receive such calls during the call process, or call 95516 to feedback your request and terminate the outbound service. The termination status will take effect within 24 hours. After terminating the outbound service, you will no longer receive UnionPay's outbound research and follow-up content. However, to ensure the security of your account and transactions, outbound calls in service continuity scenarios such as customer complaint feedback and risk control reminders will not be affected.
+3. Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+（6） Cancel your account
+When you meet the agreed cancellation conditions, you can cancel the previously registered account at any time. The specific path is "My → Settings → Security Center → Cancel Account". The system will identify risks based on the environment you are currently in
+Facial recognition or SMS with login password can be used for cancellation. If the cancellation cannot be successful due to special reasons, you can also call 95516 customer service for cancellation.
+（7） Obtain a copy of your personal information
+You have the right to obtain a copy of your personal information type. You can obtain a copy of your confirmed personal information on Cloud QuickPass by calling 95516 customer service to understand your personal information usage on the Cloud QuickPass app.
+（8） Restricting the use of automated decision-making
+1. The automated decision-making services we provide to you refer to the use of relevant information that you allow us to process, and the use of computer programs to automatically analyze and make decisions based on your preferences, habits, and other characteristics. We will not make any decisions that would have a significant impact on you without relying solely on algorithms or analytical programs and without providing opportunities for manual review.
+2. To provide you with more convenient and personalized information display, search, and push services that meet your needs, we will extract your preference features based on your device information, service log information, regional information, browsing and click records, transaction records, etc., and generate indirect demographic profiles based on feature tags to provide you with accurate information display and push services
+Business and discount display.
+3. You can disable the automated decision-making function within the app through the following path:
+(1) Enable/disable personalized display settings: "My Settings Privacy Settings Personalized Recommendation Settings";
+(2) Turn on/off personalized ad tracking settings: "My Settings Privacy Settings Ad Permission Management".
+（9） In response to your above request
+Any questions, suggestions, opinions, or complaints you have can be submitted to our customer service by calling our customer service hotline 95516 or through "My → Online Customer Service". To ensure security, we will process them after necessary identity verification. Unless otherwise stipulated by laws and regulations, we will generally complete the processing within 15 working days.
+When you choose service hotlines such as 95516 to contact us, in order to ensure service quality, we may need to record the content of customer service phone calls; Before the recording begins, we will provide you with necessary prompts to fully protect your right to know and choose.
+Sensitive personal information
+4、 Special Reminder for Sensitive Personal Information
+1. We collect and use your sensitive personal information based on the legality of laws and regulations. We only process your sensitive personal information when providing you with Cloud QuickPass products and services with specific purposes and sufficient necessity, and taking strict protective measures.
+2. The sensitive personal information we collect from you includes biometric information, specific identity information, financial account information, and personal information of children under the age of fourteen. For example, in a business core scenario, if the rule that triggers the use of a face is necessary for that business function, we will require you to provide it
+Facial information is used to verify your identity. If you refuse to agree, you will not be able to use this service feature.
+3. For special processing requirements for sensitive personal information, such as biometric information, we will obtain from you before using the service
+Agree separately and inform you of the rules for the use of sensitive personal information. In terms of transmitting and storing sensitive personal information, we will adopt security measures such as encryption. At the same time, we will store your biometric information separately from your personal identification information, and in principle, we will not store your original biometric information, only the summary information of your biometric information. In addition, we will not retain your personal financial identification information.
+Please note that handling your sensitive personal information may pose a risk to your personal dignity or personal or property safety if it is leaked or illegally used.
+5、 Special processing rules for cross-border information
+The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within China.
+Mobile phone number, bank card number, CVN2, bank card validity period
+Our Cloud QuickPass APP supports the completion of cross-border payment services for UnionPay cards. Under this service, we will provide your mobile phone number, bank card number, CVN2, and bank card validity period used for payment to affiliated companies specializing in UnionPay card cross-border transaction processing. The affiliated company is located in China and needs to transfer your relevant personal information to overseas cooperative institutions to complete cross-border bank card transactions. You can
+Click here to view details or communicate with us using the contact information provided in this privacy policy.
+In addition, our Cloud QuickPass APP's overseas services are mainly provided by affiliated companies and their cooperating third parties, involving the transmission of information to overseas partners. You can
+Click here to view details.
+If we directly transmit your personal information overseas, we will inform you of the name or name of the overseas recipient, contact information, processing purpose, processing method, type of personal information, and the way and procedure for you to exercise relevant rights to the overseas recipient, and obtain your separate consent. We will conduct a security assessment on your personal information before leaving the country in accordance with domestic laws and regulations. At the same time, when the relevant conditions are met, we will carry out cross-border transmission of personal information in accordance with the security assessment organized by the national cyberspace administration, the personal information protection certification of professional institutions stipulated by the national cyberspace administration, or the standard contract formulated by the national cyberspace administration with overseas recipients.
+6、 Cookies and similar technology applications
+To ensure a smoother and easier user experience for you, when you use the Cloud QuickPass app and related services, we may identify your identity through small data files called "cookies" to help you reduce the frequency and frequency of information entry, or assist in determining the security status of your account. Cookie
+Usually containing identifiers, site names, and some numbers and characters, with the help of
+Cookie， The website can store data such as your preferences or items in your shopping basket. We will also use cookies to transmit device identifiers, making it easier for you to participate in marketing activities on the Cloud QuickPass app.
+In addition to cookies, we also use electronic image technology (referred to as Web Beacon). We may use the web
+Beacon is used to collect anonymous access data, which is used to calculate the number of user visits, duration of stay, page addresses visited, display settings, etc., allowing you to enjoy more personalized services, and these statistical information do not include your personal information.
+7、 Protection of Personal Information of Deceased Users
+After the death of a Cloud QuickPass user, as a close relative for your own legal and legitimate interests, you can contact us through the contact information in this privacy policy to exercise the rights to access, copy, correct, delete, and other personal information generated by the deceased user on the Cloud QuickPass APP. Special reminder is needed. If you want to inquire about the bank account information of Cloud QuickPass users, please contact the bank account of the bank card.
+At the same time, in order to fully protect the personal information rights of deceased users, we will verify relevant materials, such as the deceased user's identity document proof, death certificate documents, and the applicant's identity
+Provide identification documents and proof of the applicant's family relationship with the deceased user.
+8、 Policy update method
+Our privacy policy may be changed based on product updates and legal requirements. When there are significant changes to this policy, we will promptly notify you through pop-up reminders, message push notifications, email notifications, or announcements published on the official UnionPay website. The situations that constitute significant changes include but are not limited to:
+Significant changes have occurred in the scope and mode of services we provide;
+Significant changes have occurred in our business entity, organizational structure, ownership structure, and other aspects;
+The main recipients of your personal information provided, transferred, or publicly disclosed to the outside world have changed;
+Your right to participate in personal information processing and the way you exercise it have undergone significant changes;
+Our responsible department for personal information security and its contact information and complaint channels have changed;
+Other changes that may have a significant impact on your personal information rights.
+You can view this policy through "My Settings Privacy Settings Privacy Policy" on the Cloud QuickPass APP. If you have any questions, opinions, or suggestions regarding this privacy policy or your personal information, please call our customer service hotline at 95516 or contact our "My → Online Customer Service" email at: privacy@unionpay.com Contact us through various means such as contacting them. Normally, we will complete the processing within fifteen working days. If you are not satisfied with our response, you can first negotiate in a friendly manner and communicate again. You have the right to seek a solution through the Pudong New Area People's Court or regulatory agencies in Shanghai.
+Note: This Privacy Policy was updated on June 21, 2024
+The main updates to this version of the Privacy Policy are as follows:
+1. Add business description for delegated processing
+2. The impact of supplementing sensitive personal information processing on individual rights and interests
+We will also archive the previous version of the privacy policy for your reference.
+9、 Appendix
+The specialized terms and keywords involved in this policy are:
+1. Personal information refers to various information related to identified or identifiable natural persons recorded electronically or in other ways, excluding anonymized information.
+2. Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety, including biometric, religious beliefs, specific identities, medical and health information, financial accounts, whereabouts, and personal information of minors under the age of fourteen.
+3. UnionPay card refers to a payment card issued in accordance with the technical standards and business specifications of UnionPay (China UnionPay and UnionPay International), with BIN numbers assigned or managed by UnionPay, or with the "UnionPay" logo on the card surface and corresponding payment account numbers.
+4. Affiliated Company: Under this privacy policy, our affiliated company refers to UnionPay International Limited, located at 1899 Guozhan Road, Pudong New Area, Shanghai, China, with contact information 021-20265666
+, Email upidataprivacy@unionpayintl.com .
+5. Legitimacy basis: The legality basis for all processing steps of your personal information under this privacy policy refers to the situations listed in Article 13 of the Personal Information Protection Law.
+6. Necessary information: Necessary information refers to the personal information necessary to ensure the normal operation of the basic functional services of the APP. Without this information, the APP will not be able to achieve basic functional services.
+7. Automated decision-making: refers to the activity of automatically analyzing and evaluating an individual's behavior habits, interests, or economic, health, credit status through computer programs, and making decisions.
+8. De identification: refers to the process of processing personal information to make it impossible to identify a specific natural person without the need for additional information.
+9 SDK：Software Development Kit, Software tool development kit, an embedded technical tool that provides interfaces or collects information for a certain function.
+10. Cookies: A technical tool that records user IDs, browsing information, and duration of stay.
+11. Web
+Beacon: A network beacon is a 1-pixel image that can be hidden in any webpage element or email. It is commonly used to collect data on the internet habits of target computer users and write this data into cookies.
+12. Domestic registration: For the purpose of this privacy policy, it refers to completing registration using a mobile phone number provided by a telecommunications operator's network within the country (excluding Hong Kong, Macao, and Taiwan).
+Privacy Policy of UnionPay App
+INTRODUCTION
+1. This Policy applies to users who register and use UnionPay App in China
+(except Hong Kong, Macao and Taiwan).
+2. This Policy applies only to the products and services provided by China UnionPay
+Co., Ltd. ("us" or "UnionPay") through UnionPay App.
+Updated: Jun 01, 2023
+Effective: Jun 06, 2023
+If you have any questions, comments or suggestions, please contact us at:
+Custmor Service：95516
+E-mail:  privacy@unionpay.com
+Ordinary business address: APP Data Support and Governance Team, UnionPay App Department,
+No.1699, Gutang Road, Pudong New Area, Shanghai, China
+This Policy will help you understand the following:
+■ Collection and Use of Personal Information
+■ How Personal Information is Secured
+■ Guarantee and Response of User Rights
+■ Protection of Personal Information of Minors
+■ Special Notice on Sensitive Personal Information
+■ Special Processing Rules for Cross-border Information
+■ Application of Cookies and Similar Technologies
+■ Protection of Personal Information of Deceased Users
+■ Policy Update Method
+■ Appendix
+We truly understand the importance of your personal information to you and will make
+the utmost effort to protect it, and we appreciate your trust in us. We undertake to take appropriate
+security measures to protect your personal information according to the mature security standards in the
+industry, try our best to explain and inform you in plain and easy-to-understand words of the same, and
+draw your attention to the terms in this Policy that may have a significant relationship with your
+legitimate interests in bold font. We strongly recommend you to carefully read and fully understand this
+Policy before using our services. We will provide you with UnionPay App products and services based on
+your choice. This Policy applies to the collection, use, storage and provision of your personal
+information within the territory of the People's Republic of China (excluding Hong Kong, Macao and
+Taiwan for the purposes of this Privacy Policy).
+By checking "I have read and agree" and confirming your submission,  you agree to this Policy and
+authorize us to process your personal information in accordance with this Policy. If we intend to
+use your personal information f
+or purposes other than those described in this Privacy Policy, or if
+any information collected for a particular purpose is intended to be used for other purposes, we
+will promptly notify you in a reasonable manner and obtain your consent.
+I. Collection and Use of Personal Information
+(I) What information do we collect?
+•Basic information: name,  home address, telephone number, occupation, nationality,
+gender, age, and nationality.
+•Identity document information: identity documents issued by relevant government
+authorities, such as ID card, passport, driver's license, military officer ID card, etc., which are
+subject to real-name management for users.
+•Personal financial authentication information: (login password, inquiry password,
+transaction password, dynamic password, SMS verification code, security question, CVN 2). Personal
+financial authentication information is sensitive personal information.
+•Biometric information: facial photos,  facial features, motion video, fingerprints.
+Biometric information is sensitive personal information.
+•Bank card information: for example,  the name of the issuing bank, the type of bank
+card (debit card, credit card), the grade of the UnionPay card (ordinary card, gold card, platinum
+card, diamond card), or other bank card information. Bank card information is sensitive personal
+information.
+•Payment transaction information: information on the transaction facilitated by
+UnionPay App, such as the amount, time and place of transaction, merchant name, merchant number,
+terminal number, accepting institution, etc. Some transaction information is sensitive personal
+information.
+•Usage information: information about your activities on the product and logs of
+product usage and browsing, such as app launch information (time,  location) within the service,
+including browsing history, search history, favorites, software usage, product interactions, crash
+information, performance, and other diagnostic information.
+•Account information: your UnionPay App account details,  including your mobile phone
+number used for UnionPay App registration, email address, registered device, account status and
+registration date.
+•Device information: data that can be used to identify your device, such as device
+identification information (device model,  device name, serial number, MAC address, operating system
+type, IMEI), Android ID, Android OAID, IDFA, OpenID, GUID, IMSI of SIM card, etc., which describes
+the basic information of your personal devices. You should understand that when you choose to let
+the APP run in the background, the information collection behavior caused by your previous use of
+the APP may not be stopped immediately due to network abnormality or system reasons, resulting in
+temporary background information collection behavior.
+•Location information: exact location,  approximate location, IP address. Exact
+location information is sensitive personal information.
+•Other information that you provide to us,  such as the interactive content that you
+submit through online customer service.
+•Permission information: permission information in the device, including address
+book information, location information, camera, mobile album, sports and fitness, etc. For iOS,
+click "Settings-Privacy" on your device, or for Android, click "Settings-Privacy- Permissions
+Management".
+An itemized list of the relevant business functions that ma
+y enable access to your device can be
+found here .
+(II) Use of your personal information
+•To support our services.  We collect personal information
+necessary to support our services, such as for product or service improvements, for
+internal purposes such as auditing or data analysis, or for troubleshooting.
+•To process your payment transactions.  To complete the payment, for example, we need
+your identity information and bank card information to send payment instructions to the paying bank.
+•To communicate with you.  To market our products and services, such as notifying you
+to receive offers, use your rights, enter sweepstakes, etc. We may also use personal information to
+send important notifications, such as collecting and displaying your real-time payment dynamics.
+•Security and fraud prevention.  To ensure service stability while protecting your
+account property security to prevent losses and fraud.
+•Complaints and disputes settlement.  To cooperate with you in the settlement of
+dispute arising during your usages, such as processing judicial requests and notices from consumer
+protection department.
+•Compliance with laws.  To comply with applicable laws, such as AML compliance
+obligations or compliance with industry regulatory reporting requirements.
+•Service improvement.  To provide you with a smoother and more convenient service,
+such as analyzing software flashbacks and crash.
+(III) Basic business functions and expanded business functions
+UnionPay App is a comprehensive payment application software integrating the use and management of
+bank card functions. The basic business functions we mainly provide you focus on account
+registration, login, payment, bank card management, inquiry of bank offers, bonus poin
+t
+management and other functions. Meanwhile, you can also use our extended business
+functions based on your specific needs such as shopping, entertainment, wealth management,
+UnionPay applets, etc. We collect and use the information on the basis of legitimacy
+expressly provided by laws and regulations.
+The running of basic business functions we provide requires necessary information, which refers to
+the personal information necessary to ensure the normal operation of the App's basic function
+services. If you choose to use the basic business functions provided by the UnionPay App,
+you should provide us with or allow us to collect and use your personal information as required,
+otherwise, you will not be able to use our basic products and services. Please refer to Appendix I for details of
+personal information processed by basic business functions.
+If you choose to use the extended business functions provided by UnionPay App, you
+should provide us with or allow us to collect corresponding personal information for the use of such
+extended products and services and your disagreement will not affect your use of our basic business
+functions. Please refer to Appendix II for
+details on the information collected by extended business functions.
+(IV) How we entrust to process,  provide to third parties, transfer and disclose your personal
+information
+1. Processing entrustment
+Certain modules and functions of the UnionPay App Mall service in the UnionPay App are provided by
+Shanghai Innovation and Data Information Technology Co., Ltd. (registered address/ordinary office
+address: Room 08, 6/F, No.2 Maji Road, China (Shanghai) Pilot Free Trade Zone;  te
+l.:
+[021-60606711]).  We have concluded a strict data processing agreement with them, requiring them to
+process your personal information in accordance with our requirements, this Policy and any other
+relevant confidentiality and security measures. Without your authorization and our consent, they
+will not entrust others to process your personal information or change the data processing method
+and purpose, etc., and we will take necessary measures to supervise their personal information
+processing activities.
+2. Providing to third parties
+Unless with your consent, we will not provide your personal information to any
+company, organization or individual other than UnionPay. With your separate consent, we will only
+provide your personal information for legal, legitimate, necessary and identified purposes, and will
+solely provide the personal information necessary for the service, unless otherwise stipulated by
+laws and regulations.
+For the companies and organizations to which we provide personal information, we will have strict
+data processing agreements with them, requiring them to process personal information in accordance
+with our instructions, this Privacy Policy and any other relevant agreements, and we will require
+such companies and organizations to provide certificates to prove their data security capabilities
+and information security qualifications (such as level protection assessment,  information security
+management system, etc.).
+We may provide your personal information in accordance with laws and regulations, or as required by
+mandatory requirements of competent government authorities.
+We may provide your personal information to:
+•Our service p
+roviders and business partners
+We may share your personal information with our service providers and business partners who support
+our functions. This support includes providing us with infrastructure technical services, payment
+services, and data processing.
+•Affiliates
+We may provide your personal information to our affiliates, provided that, we will only provide
+personal information to the necessary extent and will obtain your consent separately. And also, your
+personal information generated under the services and pages of affiliates will be protected
+according to the privacy policy of such affiliates.
+•Third parties authorized by you
+We may provide your personal information to others you designate at your instructions or with your
+consent, such as when you log in to a third-party platform with your UnionPay App account
+information.
+The above scenarios, information fields involved, frequency, recipients and purposes of information
+provided by us can be checked here .
+3. Transfer
+In case of transfer of your personal information due to merger, division, dissolution, bankruptcy or
+otherwise, we will inform you of the name and contact information of the recipient. At the same
+time, we will require the new company or organization holding your personal information to continue
+to process your personal information in accordance with this Policy, otherwise, we will require it
+to ask for authorization and consent from you again.
+4. Disclosure
+We disclose your personal information where necessary on the basis of legitimacy required by laws and
+regulations. If disclosure is required, we will inform you of the purpose of disclosure, the types
+of personal information disclosed, and the types of sensi
+tive personal information involved, and
+obtain your separate consent.
+5. Notice of information to be collected from you by third parties
+UnionPay App includes third-party products and services, and you should jump to the
+corresponding UnionPay applets or third-party pages before using such third-party products and
+services. Your use of third-party services should be governed by such third-party's terms of service
+and privacy policy (rather than this Policy),  which you should read carefully and decide whether to
+accept or not. This Privacy Policy is only applicable to the processing of your personal information
+necessary for us to provide you with UnionPay App products and services, and third parties are
+solely responsible for their actions in processing your personal information.
+If you have any objection to the use of your personal information by third parties or if you find
+that there are risks in the applications or pages developed by these third parties, we suggest you
+terminate relevant operations to protect your legitimate rights and interests. You can also
+negotiate with the corresponding third party for settlement, and we will give assistance as much as
+possible. If UnionPay violates any provisions of laws and regulations in this process, causing
+losses to you, we will bear the corresponding responsibilities arising therefrom. Specific
+types of third parties and types of personal information processed are as follows:
+•Third-party SDK service providers
+Our products include third-party SDKs. If you use relevant services on our platform, you know that
+your personal information will be directly collected and processed by them. We will restrict such
+third parties
+to processing it strictly in accordance with the principles of legality, legitimacy
+and necessity. You can click here to view the
+third-party SDK services included in our products.
+•Other third parties
+The applet function of UnionPay App provides access services to third parties who will be responsible
+for managing your personal information within their platforms. You can view the list of third
+parties accessing to our platform by clicking
+here.
+II. How Personal Information is Secured
+1. Storage
+•Storage location.  In accordance with relevant laws and regulations, we will store
+your personal information collected and generated during our operations in the People's Republic of
+China within the territory of China .
+•Storage period.  We will only keep your personal information for a period necessary
+and reasonable for the purpose of providing you with UnionPay App products and services or within
+the time limit stipulated by laws, regulations and regulatory requirements. For example, according
+to the Anti-money Laundering and Anti-terrorist Financing Guidelines for Bank Card Organizations and
+Fund Clearing Centers, once you cancel your account with the UnionPay App, we will keep your
+personal identity and transaction information for 5 years, and your personal identity information
+and clearing business data in the clearing core business system of UnionPay for 15 years in
+accordance with laws, regulations or regulatory requirements. Upon the expiration of the above
+periods, we will delete or anonymize your personal identity information and transaction information.
+2. Security qualifications
+We have achieved the following certifications: our core business system has been qual
+ified as Level 4
+and our UnionPay App business system as Level 3 in the Classified Information System Protection
+Certification of the People's Republic of China. Our UnionPay App has obtained the Mobile Internet
+Application (App) Security Certification issued by China Cybersecurity Review Technology and
+Certification Center.
+3. Internal management measures
+We protect your personal information through internal management systems and technical safeguard
+measures, including but not limited to:
+•According to the sensitivity and types of personal information,  the classification and
+grading system is adopted, with various authority limitations in place in
+terms of user authority, use scenario authority, use authorization authority, hierarchical approval
+mechanism and otherwise based on the classification and grading results.
+•Regular security audits ,  through which we comprehensively verify and control the
+effectiveness of our privacy policy and related procedures as well as data security.
+•In terms of the institutional guarantee,  we have set up a personal information protection
+team to carry out personal information protection impact assessment with respect to personal
+information collection, use, provision and entrusted processing. We also strengthen the
+training, publicity and guidance of internal staff on relevant laws and regulations, personal
+information security standards and safety awareness, and organize annual compliance exams for all
+staff.
+•When you correct or delete your personal information or cancel your account,  the backup system to
+which your personal information relates will be processed in accordance with regulatory
+requirements.
+4. Techni
+cal support
+In terms of technical guarantee measures, we have adopted irreversible encrypted storage and
+isolated storage of sensitive personal information for information storage, de-identification
+processing for information display and download, and technical measures such as dedicated
+line transmission, encrypted transmission, key and data medium isolation transmission for
+information transmission, so as to ensure the security of your personal information.
+•We have formulated relevant emergency plans for information security incidents and regularly
+organized emergency response training and emergency drills for relevant internal personnel to enable
+them to understand their job responsibilities and emergency disposal strategies and procedures.
+•In the event of a personal information security incident,  we will inform you, in a timely manner and
+in accordance with the requirements of laws and regulations, of the basic situation and possible
+impact of such security incident, the disposal measures we have taken or will take, the suggestions
+on how you can independently prevent and reduce the risk, and the remedial measures for you, etc. We
+will timely inform you of the incident-related information by the APP's push notification,
+email/SMS, telephone, etc. When it is difficult to inform the personal information subject one by
+one, we will issue an announcement in a reasonable and effective manner. In the meantime, we will
+also actively report the handling of personal information security incidents in accordance with laws
+and regulations and regulatory requirements. If your legitimate rights and interests are damaged, we
+will bear the corresponding liabilities.
+Security notice
+: Although we have taken the above effective security measures and
+actively implemented the standards required by laws and regulations, you should understand
+that it is impossible for us to guarantee the absolute security of information due to technical
+limitations and possible malicious acts from third parties; however, we will do every effort to
+safeguard your personal information. You should acknowledge and understand that the system and
+communication network used by you to access our services may have security issues beyond our
+control. Therefore, we strongly recommend that you take active measures to protect the
+security of your personal information, including but not limited to using more complex passwords and
+not disclosing your account password and personal sensitive information to others.
+III. Guarantee and Response of User Rights
+We guarantee that you can exercise the following rights with respect to your personal
+information:
+(I) To check and access to your personal information
+You can access and check your name, ID card information (masked) through the "My-Personal Center" of
+the UnionPay App, or contact us through our customer service hotline at 95516, except for exceptions
+stipulated by laws and regulations. Click here to view the relevant
+path .
+(II) To correct your personal information
+When you find that there is an error in your personal information processed by us, you shall be
+entitled to ask us to correct it. You can ask us to correct your personal information through our
+customer service hotline at 95516. Click here to view the relevant
+path .
+(III) To transfer your personal information
+When you need to transfer your personal
+information in UnionPay App and such transfer meets the
+conditions stipulated by the Cyberspace Administration, you shall be entitled to request us to
+provide the means for information transfer, and you can put forward your specific personal
+information transfer requirements to us by calling our customer service at 95516.
+(IV) To delete your personal information
+Unless otherwise stipulated by laws and regulations, you can call customer service directly at 95516
+to require deleting your personal information if:
+（1）we process your personal information without your consent or in violation of any agreement with
+you;
+（2）our processing of personal information violates any laws and regulations;
+（3）you cease to use our products or services,  or you cancel your account, or the personal information
+storage period has expired;
+（4）we inform you in a timely manner that the purpose for which we process your personal information
+has been achieved, cannot be achieved, or is unnecessary anymore (e.g.,  in case of bankruptcy,
+cessation of operations, etc.);
+（5）you withdraw your consent to us.
+(V) To withdraw your consent and authorization
+1. You can withdraw all your authorizations to us to keep collecting your personal information by
+cancelling your UnionPay App account.
+2. You can change the scope of your authorization and consent within the APP through the following
+paths:
+(1) Third-party account management: “My-Settings-Privacy Settings-Account Authorization
+Management”;
+(2) System privilege management: "My-Settings-Privacy Settings-System Privilege Management";
+(3) Credit card statement authorization management: "My-Settings-Privacy Settings-Bank Card
+Information Inquiry Authorization Management-Statement Inquiry Authorization Management."
+three
+You should understand that each business function may only work based on certain basic personal
+information. Once you withdraw your consent or authorization, we cannot continue to provide you with
+the services corresponding to such consent or authorization and will cease to process your relevant
+personal information. However, your decision to withdraw your consent or authorization will not
+affect the processing of personal information previously carried out based on your
+authorization.
+(VI) To cancel your account
+When you meet the agreed cancellation conditions, you can cancel the previously registered account at
+any time and the specific path for that is "My → Settings → Security Center → Account Cancellation. "
+The system will perform risk identification based on your current environment, and the cancellation
+will be performed by face recognition or SMS with the login
+password . If the cancellation failed for special reasons, you can also complete the
+cancellation by calling our customer service staff at 95516.
+(VII) To get a copy of your personal information
+You shall be entitled to receive a copy of your personal information. You can obtain a copy of the
+personal information you confirmed in UnionPay App by calling our customer service staff at 95516 to
+understand your personal information usage in the APP.
+(VIII) To constrain the use of automated decision making
+1. The automated decision-making service we provide to you means the automated analysis and
+decision-making of your preferences, habits, and other characteristics with computer programs based
+on the relevant information you allowed us to process. We will not make any decisions that could
+materially affect
+you using only algorithms or analytical programs and without providing the
+opportunity for human review.
+2. In order to provide you with more convenient and personalized information display, search and push
+services, we will extract your preference characteristics according to your device information,
+service log information, regional information, browsing and clicking records, etc., and generate
+indirect crowd portraits based on feature tags, thus providing you with a more precise information
+display and push service.
+3. You can turn off the automated decision-making in the APP by the following paths:
+(1) Enable/disable the personalized display settings: "My-Settings-Privacy Settings-[Personalized
+Recommendation Settings]";
+(2) Turn on/off personalized ad tracking settings: "My-Settings-Privacy-Ad Permissions
+Management."
+(IX) To respond to your requests above
+Your questions, suggestions, comments and complaints can be submitted by calling our customer service
+hotline at 95516 or through "My → Online Customer Service",  and for safety purposes, we will handle
+them after necessary identity verification, which, in general, will be completed with 15 working
+days, unless otherwise stipulated by laws and regulations.
+If you choose to contact us through 95516 and other service hotlines, we may have to record the
+customer service phone calls to ensure service quality, provided that, we will provide you with the
+necessary notifications before the recording to fully protect your right to know and choose.
+IV. Protection of Personal Information of Minors
+1. Our products,  websites and services are primarily for adults. If you are a minor
+over 14 and under 18, you are advised to read this Policy under the guidance of your paren
+ts or other
+guardians and obtain their consent before registering and using UnionPay App. We will protect the
+personal information of minors in accordance with the relevant laws and regulations of the People's
+Republic of China.
+2. 2.  If you are a child under 14 and wish to register and use UnionPay App, you should
+inform your parents or other guardians , obtain consent from and have your parents or legal
+guardians assist you to complete the product or service registration process. In consideration of
+the particularity of personal financial information, all payment functions of UnionPay App are not
+available for children under 14. In addition, we regard children's personal information as sensitive
+personal information and have prepared the Guidelines of UnionPay
+App for Personal Privacy Protection of Children separately in accordance with laws
+and regulations.
+3. Where you are the parent or guardian of a minor (child) under 14 and if you have any questions
+about the information processing of the minor under your guardianship, please contact us through the
+contact information provided in this Policy or the Guidelines of
+UnionPay App for Personal Privacy Protection of Children .
+V. Special Notice on Sensitive Personal Information
+1. We collect and use your sensitive personal information on the basis of legitimacy
+required by laws and regulations. We will only process your sensitive personal information if it is
+necessary to provide you with UnionPay App products and services for a specific purpose and when strict
+protective measures are in place.
+2. The sensitive personal information we collect from you includes biometric information, certain
+identit
+y information, financial account information, and personal information of children under 14.
+For example, in the identity verification business scenario and where the rule that triggers the use
+of face recognition is necessary for the business function, we will ask you to provide facial
+information for identity verification purposes, and the business function will be
+unavailable to you if you refuse to do so.
+3. In case of any special processing requirements for sensitive personal information, such as
+biometric information, we will obtain separate consent from you and inform you of
+the rules governing the use of your sensitive personal information prior to your
+use of such service. In terms of the transmission and storage of sensitive personal information, we
+will apply security measures such as encryption, and we will store your biometric information
+separately from your personally identifiable information. In principle, we will not store the
+original but only a summary of your biometric information. In addition, we will not retain your
+personal financial identification information.
+VI. Special Processing Rules for Cross-border Information
+•Personal information collected and generated by us during our operations in
+the People's Republic of China will be stored in China.
+•Our UnionPay App supports the cross-border payment of UnionPay cards.  Under this service, we will
+provide your mobile phone number, card number, CVN 2 and card validity period used
+for payment to the affiliate that specialized in UnionPay card cross-border transaction processing
+and that is in China. In order to complete the cross-border transaction with the card, it is
+required to tr
+ansmit your relevant personal information to overseas cooperative institutions. You
+may click here for details or contact us at the contact
+information provided in this Privacy Policy.
+•In addition,  overseas services of the UnionPay App are mainly provided by our affiliates and their
+third-party partners, and such services involve transmitting information to overseas partners. You
+can click here for details.
+•If we directly transfer your personal information overseas,  we will inform you of the name and
+contact information of the overseas recipient, processing purpose, processing method, type of
+personal information, and the methods and procedures for you to exercise relevant rights against the
+overseas recipient, and obtain your separate consent. We will carry out a security assessment before
+transferring your personal information overseas in accordance with domestic laws and regulations.
+Meanwhile, when relevant conditions are met, we will enter into a contract with overseas recipients
+to carry out cross-border transmission of personal information in accordance with the security
+assessment organized by, the personal information protection certification of professional
+institutions stipulated by or the standard contract formulated by the Cyberspace Administration.
+VII. Use of Cookies and Similar Technologies
+To ensure a smoother and easier experience for you, we may identify you through a
+small data file "cookie" when you use the UnionPay App and related services to help you reduce the
+number and frequency of information entries or to help determine the security status of your account.
+Cookies typically contain an identifier, the name of the site, and some numbers and characters, and
+allow websites to store data such as your preferences or the items in your shopping basket. We will also
+use Cookies to transmit device identification to facilitate your participation in the marketing
+campaigns of UnionPay App.
+In addition to Cookies, we also use electronic image technology, i.e. Web Beacon. We may collect
+anonymous access data through Web Beacon to calculate the number of visits, time spent, page
+addresses visited, display settings, etc., so that you can enjoy more personalized services, and
+there is no personal information contained in these statistics.
+VIII. Protection of Personal Information of Deceased Users
+In case of the death of a UnionPay App user, you, as a close relative and for your own
+legal and legitimate interests, may contact us through the contact information set forth in this Privacy
+Policy to exercise the rights to check, copy, correct and delete the personal information of the
+deceased user in the UnionPay App. It should be noted that you should contact the opening bank if you
+want to check the card account information of such UnionPay App user.
+Furthermore, in order to fully protect the personal information rights and interests of the deceased
+user, we will verify relevant materials, including the identity documents of the deceased user,
+death certificate, applicant's documents, and the proof of kinship between the applicant and the
+deceased user.
+IX. Policy Update Method
+Our Privacy Policy may be changed from time to time based on our product updates or as
+required by law. In case of any significant change to this Policy, we will notify you in a timely manner
+by means of a pop-up reminder, message push, email notification or announcement on the official website
+of UnionPay. Such significant changes include but are not limited to:
+•Significant changes in the scope and mode of services we provide;
+•Significant changes in our business entities,  organizational structure, or ownership structure;
+•Changes in the main objects to which your personal information is provided,  transferred, or publicly
+disclosed;
+•Significant changes in your rights to participate in the processing of personal information and the
+way you exercise them;
+•Changes in our responsible department for personal information security,  its contact information and
+complaint channels;
+•Other changes that may have a significant impact on your personal information rights and
+interests.
+You can view this Policy on UnionPay App as follows: "My → Settings → Privacy Settings → Privacy
+Policy." If you have any questions,  comments, or suggestions about this Privacy Policy or your
+personal information, please contact us through our customer service hotline at 95516, the "My →
+Online Customer Service" or email ( wallet@unionpay.com ).  In general, we will process them within 15
+working days. If you are not satisfied with our response, we can have an amicable negotiation at
+first for further communication and you should be entitled to seek solutions with the People's Court
+of Pudong New District of Shanghai or the regulatory authorities.
+Note: This Privacy Policy was updated on Jun 01, 2023
+•The updates in the current version of the Privacy Policy are as follows:
+1 Adjust and supplement SDK descriptions for Tingyun Lens, Getui Push and Shumei, etc.
+2 Add SDK descriptions for Okio and Appache
+We will also keep the previous version of the Privacy
+Policy on file for your review.
+X. Appendix
+The specific terms and keywords used in this Policy are as f
+ollows:
+1. Personal information refers to all kinds of identified or identifiable information related to a
+natural person recorded in electronic or other means, excluding anonymized information.
+2. Sensitive personal information refers to personal information that,  once disclosed or illegally
+used, may likely violate the personal dignity of natural persons or endanger personal and property
+safety, including information on biometric identification, religious belief, specific identity,
+medical health, financial accounts, whereabouts and other data, as well as personal information of
+minors under the age of 14.
+3. UnionPay card refers to the payment card issued in accordance with the technical standards and
+business specifications of UnionPay (China UnionPay and UnionPay International), with the BIN
+assigned or managed by UnionPay, or with the "UnionPay" logo on the card surface, and the payment
+account corresponding to the payment card.
+4. Affiliate: our affiliate under this Privacy Policy refers to UnionPay International Co., Ltd.,
+with an address of 2 - 7/F, Building B, Poly Plaza, No.6 Dongfang Road, Pudong New District,
+Shanghai, China, TEL: 021 - 20265666, E-mail:  upidataprivacy@unionpayintl.com.
+5. Basis of legitimacy: The basis of legitimacy for all processing of your personal information under
+this Privacy Policy refers to the circumstances listed in Article 13 of the Personal Information
+Protection Law.
+6. Necessary information: refers to the personal information necessary to ensure the normal operation
+of the APP's basic functions and services and the APP cannot achieve its basic functions and
+services without such information.
+7. Automatic decision-making: refers to the activity of
+automatically analyzing and evaluating
+personal behaviors and habits, interests and hobbies or economic, health and credit status through
+computer programs, and making decisions.
+8. De-identification: refers to the process by which personal information is processed to make it
+impossible to identify a specific natural person without the support of additional information.
+9. SDK: Software Development Kit,  a kind of embedded technical tool that provides an interface for a
+certain function or collects information.
+10. Cookies: a technical tool for recording user ID,  browsing information and length of stay.
+11. Web Beacon: a 1×1 pixel image that can be hidden in any web page element or email, often used to
+collect data such as the target computer user's Internet habits and write these data into
+Cookies.
+12. Domestic registration: for the purposes of this Privacy Policy,  it refers to the completion of
+registration in China (excluding Hong Kong,  Macao and Taiwan) by using the mobile phone number
+provided by the network of communication operators.
+Cloud QuickPass (Hong Kong Special Administrative Region, China) Privacy Policy
+1. This privacy policy of UnionPay (Hong Kong Special Administrative Region, China) ("this policy") only applies to UnionPay card users and UnionPay UnionPay UnionPay UnionPay app (hereinafter referred to as "UnionPay UnionPay") related products and services issued in Hong Kong, China.
+2. If you use the services provided by UnionPay Cloud QuickPass app within China, you may need to agree to the privacy policy of Cloud QuickPass in mainland China.
+This version of the privacy policy was released on October 31st, 2023
+The effective date of this privacy policy is October 31st, 2023
+Article 1 Overview
+（1） This policy explains that when you use the Cloud QuickPass app, UnionPay International Limited ("UnionPay International" or
+Why and how do we and our affiliated companies handle your personal data/information (collectively referred to as "personal data"). When you start using
+Before purchasing products and services related to Cloud QuickPass, please be sure to carefully read and understand this policy, especially focusing on our
+The terms marked in bold/bold underline ensure that you fully understand and agree before starting to use them. We will try our best to explain the professional vocabulary involved in this policy in concise and easy to understand terms for your understanding. Please note that this policy only applies to
+The service modules provided by UnionPay International through Cloud QuickPass are not applicable to the service modules provided to you by third parties in Cloud QuickPass.
+Please carefully choose whether to access links, content, products, and services provided by third parties. Before submitting personal information to a third party, please carefully read the privacy policy and relevant agreements of the third party, and evaluate and bear the relevant consequences.
+UnionPay International assumes no responsibility for the content or security of such third-party links or materials.
+If you do not agree with any terms of this policy, please stop using Cloud QuickPass related products or services.
+（2） If you start using or continue to use our products and services after we update this policy (which we will promptly notify you of), it means that you fully understand
+Agree to the content of this policy (including updated versions), and agree that we collect, store, use, and provide your relevant information to the public in accordance with this policy.
+（3） What is personal information?
+Personal data refers to information that is related to living individuals and can determine their personal identity (regardless of how it is stored), and must also be recorded in a way that can be accessed and processed.
+When you (i) create a Cloud QuickPass APP account or (ii)
+When using any of our services, we may collect, use, store, and transfer personal information about you, which may include the following:-
+1. Technical data: may include Internet Protocol (IP)
+Address, your login data, browser type and version, time zone settings and location, browser cheat type and version, operating system and platform, and other technologies on the device you are using to access our Cloud QuickPass APP;
+2. Personal profile data: may include your username and password, your purchases, your interests, preferences, hobbies, feedback, and survey responses;
+3. Data usage: This may include information about how you use the Cloud QuickPass app;
+4. Marketing and communication data: This may include your preferences when receiving our and our third-party marketing information, as well as your communication preferences;
+5. Interactive data: This may include any information you may provide to any discussion forum on the Cloud QuickPass app;
+6. Cookies；
+7. We receive third-party information about you from other sources; and
+8. Analysis results: including third-party analysis services used to evaluate your use of our products and services, analyze performance indicators, and collect and evaluate other information related to our products and services.
+（4） Who is UnionPay International?
+UnionPay International is a company established under the laws of the People's Republic of China ("China"), with its registered address at 2-7th floors, No. 6 Dongfang Road, Pudong New Area, Shanghai, China.
+UnionPay International is a multinational company that has established branches in multiple countries and regions around the world.
+If you have any questions about data protection, you can write to the above address or call the official UnionPay (Hong Kong, China) hotline at 800-967-222 or 006-800-800-95516 (only supports mobile phone calls).
+（5） Who is China UnionPay?
+Refers to China UnionPay Co., Ltd., registered address/common office address: 498 Guoshoujing Road, China (Shanghai) Pilot Free Trade Zone.
+（6） What is Cloud QuickPass/Cloud QuickPass APP?
+Refers to a platform/mobile application developed by China UnionPay that provides direct services to China UnionPay and UnionPay international users.
+（7） What is a Cloud QuickPass account?
+Refers to the electronic account generated by the system after successful registration through the Cloud QuickPass APP, which is used to store the user's personal information, linked UnionPay card information, and necessary information for using UnionPay international services.
+（8） What is a UnionPay international account?
+Refers to the electronic accounts generated by the service system through accessing the UnionPay International User Portal and accessing the UnionPay UnionPay App Benefits U Reward module, which are used to store users' personal information
+The linked UnionPay card information and the required information for using UnionPay international services.
+（9） Why does UnionPay International need to collect and process personal information?
+1. Process your registration information as a user of the Cloud QuickPass APP;
+2. Verify your personal identity when you bind your UnionPay card to the Cloud QuickPass app;
+3. UnionPay International provides payment and other services to users through the Cloud QuickPass app;
+4. Processing payment transactions;
+5. Provide you with personalized services and recommendations.
+For example, we will determine your location based on location information and recommend nearby merchants and stores for you;
+6. If you have expressly agreed or are permitted by applicable law to contact you regarding marketing activities;
+7. Through technological means, information is desensitized and de identified, and the de identified information will not be able to identify the subject.
+In this case, we can conduct comprehensive statistics, analysis and processing of your information in order to provide you with more accurate, personalized, smooth and convenient services, or help us evaluate, improve or design services and operational activities;
+8. Conduct statistics on the usage of our products or services, and may share this statistical information with the public or third parties to showcase the overall usage trends of our products or services.
+But these statistical information do not include any of your identification information;
+nine
+To prevent any damage or loss, report any suspected illegal activities, or handle any claims or potential claims against us by disclosing relevant information;
+10. Comply with applicable laws, regulations, and law enforcement requirements; Disclosure of data required by laws or regulations applicable to us, or by official personnel or other third parties with whom we have contractual or regulatory obligations;
+At the same time, information disclosure may also be made in accordance with court summons, writs, orders, rulings, or other legal procedures or requirements applicable to us; as well as
+11. Any other legitimate business purpose.
+（10） What role does UnionPay International play in the processing of your personal data?
+UnionPay International determines the purpose and method of collecting and processing your personal information, and this policy aims to explain how to use such personal information.
+When you use the Cloud QuickPass app for payment, in order to complete the UnionPay card transaction, we will process (such as transfer, authorization, etc.) the relevant transaction information according to the instructions initiated by UnionPay partners (such as UnionPay card acquiring institutions, issuing institutions, etc.).
+（11） The policies included in this policy
+What is key information?
+You will learn about the relevant information we collect and process about your personal data, the purposes for which we collect and process such information, and your rights.
+Article 2: Personal Information We Hold and How We Collect and Use Your Personal Information
+In order to comply with relevant laws, regulations, and regulatory requirements (such as fulfilling anti money laundering responsibilities and adopting security management), as well as to provide services to you and improve service quality (such as supporting us in developing new products or improving existing product features), we need to collect, use, and provide your information to the public.
+（1） You need to authorize us to collect and use your personal information
+When you use Cloud QuickPass related services, you understand and agree that we will collect and use your specific types of personal information for the corresponding purposes in the following different scenarios, in order to provide you with services, improve our service quality, ensure the security of your account and funds, and comply with regulatory requirements of relevant laws and regulations.
+A basic module
+When logging in, registering, and using the Cloud QuickPass app, you need to provide your phone number and
+Login and payment password;
+When binding a UnionPay card, you need to provide corresponding UnionPay card information according to the prompts on the page, such as
+UnionPay card number, UnionPay card validity period, security code (CVN2), etc;
+When you use the payment service of Cloud QuickPass, we will obtain your transaction data, including: UnionPay card number, transaction date/time/amount, merchant name;
+4. We will collect relevant operational information about your use of the Cloud QuickPass APP service, including hardware device model, screen width and height, software version information, operating system and version, IP address, location, mobile network information, device ID, device manufacturer, device model, operator, IMEI/Android
+ID/IDA/OPENUDID/UUID, SIM card IMSI information, standard network log data.
+B Value added Service Module
+You can choose to use value-added services on the Cloud QuickPass app as needed. If you use these value-added services, we will collect additional personal information about you:
+UnionPay International Account Creation: When you enter the Equity U Reward module, you acknowledge and agree to authorize us to use the mobile phone number obtained from UnionPay to register for UnionPay to create a UnionPay international account for you. For the convenience of providing corresponding account services, we may need to collect your personal information, including your UnionPay card number. You can log in using the registered mobile phone number and dynamic verification code of your Cloud QuickPass account
+UnionPay International User Portal website, view and unbind UnionPay cards in your UnionPay International account.
+1. Equity U Reward Module; Optimal Plan/Optimal Plan Gift Voucher Module
+(1) Rights U Reward Module
+The personal information we will collect is the UnionPay card number linked to Cloud QuickPass.
+Purpose: To match your applicable benefits under the Benefits U Reward module.
+(2) Excellent Plan
+The personal information we collect includes: ① User ID, order information, and coupon information;
+You can participate in UnionPay card marketing/promotions/benefits and other promotional activities in Youji; ② Your name, UnionPay card number, mobile phone number, and operation log.
+When you purchase goods from the merchant corresponding to the coupon and use the received or purchased discount coupon (i.e. redemption coupon); ③ Your transaction records (card number, transaction amount, transaction time, merchant information); ④ Email or phone number.
+Purpose: ① To display information on Youji Plan services and provide discount services: You can browse the discount service information we provide on the Youji Plan platform and receive free or paid Youji Plan coupons to record your discount eligibility. ② To process your registration application and ensure your successful participation in promotional activities; ③ In order to calculate the amount of marketing discounts you can receive and to clear the payment purposes of related card issuing and acquiring institutions, as well as to verify your identity to prevent fraud risks; ④ After obtaining your explicit consent, in order to provide you with joint/independent cardholder marketing activities with partners.
+If you do not wish to receive this information, you can unsubscribe through the unsubscribe methods provided in your mobile text message or email, or contact us directly to refuse or request termination of this service at any time.
+2. Boarding code
+We will collect personal information such as Cloud QuickPass user ID, transaction amount, and ride information (which may include your entry website, entry time, exit website, exit time, transportation route, merchant name, order number, etc. depending on the bus or subway company).
+Purpose: To achieve your purpose of entering the station for boarding and deducting fees.
+When you use the ride code function, in order to achieve the purpose of entering the station for boarding and deducting fees, and to transmit the above information to the corresponding bus for the calculation of boarding fees
+）.
+3. MTR ride code
+We will collect personal information such as user ID, transaction amount, transaction card number, and ride hailing information.
+Purpose: To achieve your purpose of entering the station for boarding and deducting fees. We will transmit the above information to [MTR Corporation Limited] for the calculation of travel expenses.
+(You can check your travel history in "MTR Ride Code → Transaction Records", including your entry information, entry time, and boarding route).
+4. Hong Kong payment service
+The personal information we collect: Depending on the payment project, we may collect your payment merchant name, account type, account number, billing number, application number, payment number, student ID number/student ID number,
+And the date, time point, and amount of the transaction.
+Purpose: To assist
+After you complete the payment process, we will transfer the above personal information to the corresponding merchant or acquiring institution for transaction processing and fee deduction.
+5. Global tax refund module
+(1) Instant airport refund
+We will collect personal information such as surname, first name, gender, date of birth, passport information (such as passport number/passport expiration date/passport issuing country, passport photo), and require you to provide your tax refund code (your tax refund code is pre-set to be generated from the first bank card you authorized to collect from Cloud QuickPass to support PCT transactions);
+You can also choose the bank card you need to bind for tax refund when binding the card.
+Purpose: To handle the tax refund service you applied for.
+(2) Departure tax refund service
+We will collect personal information such as name, English pinyin, gender, date of birth, identification information (such as identification number, expiration date), and visa information (such as issuance location and frequency).
+Purpose: To handle the tax refund service you applied for.
+6. ATM QR code withdrawal
+We will collect personal information: We will use the UnionPay card selected by you and successfully matched with the ATM withdrawal function as the payment card for subsequent ATM QR code withdrawals.
+Purpose: To show you bank cards that support ATM QR code withdrawals.
+We will update the value-added services that users can enjoy in the Cloud QuickPass app from time to time and update the terms under this policy. Users should check our updated terms from time to time. Some value-added services are subject to relevant agreements. These value-added service terms are displayed on the relevant service pages.
+Users need to carefully read this policy and these agreements.
+Article 3: Our Rules for Handling Your Personal Information
+（1） We will use the collected personal information in accordance with the provisions of this policy and to achieve our service functions;
+Due to the wide range of services we provide to you and the differences in the specific service scope chosen by different users, the types and scope of personal information we collect and use may vary accordingly. Please refer to the specific service functions for accuracy.
+（2） Please be informed that according to applicable laws, when we use your personal data for purposes not specified in this policy, or when information collected for specific purposes is used for other purposes, we will seek your consent again in accordance with the requirements of laws, regulations, and relevant standards through confirmation agreements, specific scenario confirmation actions, and other forms.
+Article 4: How We Share, Transfer or Disclose Your Personal Information
+We may share, transfer, or disclose your personal information with other companies, organizations, and individuals in the following situations:
+（1） Sharing under legal circumstances
+We may share your personal information with external parties in accordance with laws and regulations, litigation, dispute resolution needs, or as required by administrative or judicial authorities in accordance with the law. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters.
+We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law.
+We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights. Subject to legal regulations, the files we disclose are protected by encryption keys;
+（2） Sharing with explicit consent
+After obtaining your explicit consent, we will share your personal information with other parties (such as authorizing a third party to access the service module provided by Cloud QuickPass after obtaining your authorization);
+（3） Shared with affiliated/affiliated companies
+For the convenience of providing products and services to you based on our Cloud QuickPass account, recommending information that may be of interest to you, identifying account anomalies, and protecting the personal and property safety of us, our affiliated companies, other users, or the public from infringement, your personal information may be shared with our affiliated companies and/or their designated service providers. We will only share necessary personal data and are bound by the purposes stated in this policy. If we change the purpose of using and processing personal data, we will seek your authorization and consent again;
+（4） Assist you in completing payments/transactions
+In the process of completing UnionPay card payment transactions, share necessary information with UnionPay international cooperation institutions (such as issuing institutions, acquiring institutions, etc.) to complete payment transactions;
+（5） Shared with authorized partners
+We may entrust authorized partners to provide you with certain services or perform functions on our behalf. We will only share your information for the legal, legitimate, necessary, specific, and clear purposes stated in this policy statement. Authorized partners can only access the information they need to perform their duties, and we will require them through agreements not to use this information for any other purposes.
+（6） In cases involving mergers, acquisitions, or bankruptcy liquidation
+When it comes to mergers, acquisitions, or bankruptcy liquidation, if there is a transfer of personal data, you understand and agree that we may transfer your personal data to a new company, organization, or individual, and require the new company, organization, or individual holding your personal data to continue to be bound by this policy, or we may require the company, organization, or individual to comply with this policy
+Organizations or individuals are seeking your authorization and consent again.
+We will sign strict agreements with companies, organizations, and individuals with whom we share personal data, requiring them to handle personal data in accordance with our instructions, this policy, and any other relevant confidentiality and security measures.
+Privacy Policy
+UnionPay International
+（7） Exceptions to obtaining prior authorization and consent for sharing, transferring, or publicly disclosing personal information
+Under the following circumstances, sharing, transferring, or publicly disclosing your personal information does not require your prior authorization and consent:
+1. Fulfilling obligations related to relevant laws and regulations, litigation, dispute resolution needs, or legal requirements raised by administrative or law enforcement agencies;
+2. Out of
+Protecting your or other individuals' significant legitimate rights and interests such as life, but it is difficult to obtain my authorization and consent;
+3. Personal information that you disclose to the public on your own;
+4. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+5. When personal data is used for conducting due diligence on commercial transactions;
+Please be informed that, according to applicable laws, if we take technical and other necessary measures to process personal data that makes it impossible for the data recipient to re identify a specific individual and cannot be restored, the sharing, transfer, and public disclosure of such processed data do not require further notice to you and your consent;
+Article 5: Direct Promotion
+（1） UnionPay International may use your personal information (which may include your contact phone number, geographic location, device information) for direct promotion to you. After obtaining your explicit consent, we may send you updates, latest promotions, and marketing information related to products, services, or activities of other companies that have joint market promotion arrangements with UnionPay International or its agents or affiliates.
+Unless your explicit consent has been obtained, UnionPay International will not use or provide your personal information for this purpose.
+（2） According to applicable laws and regulations, such communication information may be sent to you through letters, text messages, push/pop up messages, faxes, and emails.
+You can choose to refuse to receive marketing information sent to you by UnionPay International at any time through the following methods: (1) Click on "My" in the bottom right corner of the homepage, click on "Settings icon ->General settings ->New message notifications", select to turn on or off "Promotion notifications" or call UnionPay official hotline 800-967-222/006-800-800-95516 (only supports mobile phone calls)
+, or use the exit option settings provided in the marketing promotion communication.
+Afterwards, UnionPay International will take all reasonable measures to remove your personal information from the sending list and will not charge you for this.
+Article 6: How do we protect your personal information
+We use all commercially reasonable and feasible security measures that comply with industry standards to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage or loss of data. The technical and internal management measures we have taken include but are not limited to:
+（1） In terms of internal management system, we have adopted a data classification and grading system based on the sensitivity and type of data, and have imposed various restrictions on user permissions, usage scenario permissions, usage authorization permissions, and grading approval mechanisms according to the classification and grading results.
+（2） In terms of technical security measures, we have adopted irreversible encryption and isolation storage during storage, desensitization processing during information display and download, and technical measures such as dedicated line transmission, encrypted transmission, key and data medium isolation transmission during transmission to ensure the security of your personal information.
+（3） In the event of a personal data security incident, we may inform you in accordance with applicable laws of the basic situation and possible impact of the security incident, the measures we have taken or will take to address it, suggestions for you to independently prevent and reduce risks, and remedial measures for you. At the same time, we will also report the handling of personal data security incidents in accordance with applicable laws or regulatory requirements.
+Although we will take all commercially reasonable measures to protect your personal data, given the openness of the internet, we cannot guarantee that all data transfers made through the internet, websites, mobile applications, or email or other messaging services are secure. You are responsible for the risk of transferring your personal information, and we assume that you have taken appropriate security measures to protect your personal information. We are not responsible for any theft, loss, damage, or unauthorized use of personal data. By using our website, you acknowledge that you understand and agree to assume these risks.
+If we suspect or discover any violation of personal data security, we may suspend your use of some of our services without further notice.
+Article 7: Cookies and Electronic Image Technology
+（1） To ensure a smoother and easier user experience for you, when you use the Cloud QuickPass app and related services, we may identify your identity through small data files called "cookies" to reduce the frequency and frequency of information entry or assist in determining the security status of your account.
+Cookies typically contain identifiers, website names, and some numbers and characters. With cookies, we can
+Store your preferences and other data. We will also use cookies to transmit device identifiers, making it easier for you to participate in marketing activities on the Cloud QuickPass app.
+（2） We will not use cookies for any purposes other than those described in this policy. Cookies that store your data are unique, and most web browsers have a function to block cookies. They can only be read by web servers in your domain that have published cookies.
+You can manage or delete cookies according to your preferences, and can clear all cookies saved on your device at any time. However, if you choose to clear them, you will need to reset your user settings every time you visit the relevant website using your device, and the corresponding information you previously recorded will also be deleted.
+（3） In addition to cookies, we also use electronic image technology (referred to as Web Beacon). We may use the web
+Beacon is used to collect anonymous access data, which is used to calculate the number of user visits, duration of stay, and page views visited
+Address and display settings allow you to enjoy more personalized services, and these statistical information do not include your personal data.
+Article 8 Third Party SDK
+（1） To ensure the implementation of cloud flash payment related functions and the safe and stable operation of applications, we will integrate software development kits (SDKs) provided by third parties to achieve this goal.
+（2） We will conduct strict security checks on third-party SDKs and require our partners to take strict measures to protect your personal data.
+When meeting new service requirements and business function changes, we may adjust the third-party SDKs we access and promptly disclose the latest situation of accessing third-party SDKs to you in this document. Please note that third-party SDKs may have some changes in data types due to version upgrades, policy adjustments, and other reasons. Please refer to their official website links or relevant privacy protection instructions links for reference. Please refer to their published official instructions for details.
+You can click to view the third-party SDK services included in our product.
+Article 9: International Data Transfer
+（1） According to different services or functional modules, your personal information may be stored outside of Hong Kong. In the following situations, we will provide your personal information to entities outside of Hong Kong after fulfilling our legal obligations:
+1. The applicable laws have clear provisions;
+2. Obtain your explicit authorization;
+3. You engage in personal proactive behavior such as cross-border transactions through the internet.
+4. In response to the above situation, we will ensure that your personal information receives sufficient and equal protection in mainland China and the Hong Kong Special Administrative Region.
+UnionPay International is a multinational company with branches in multiple countries and regions around the world, so it may transfer your personal information to other regions in mainland China and other countries/regions. This cross-border transfer is necessary for UnionPay International to provide related services.
+When your personal information is transferred to (or accessed from) other countries/regions, additional legal requirements need to be followed.
+UnionPay International will not or will not allow the cross-border transfer of your personal information without taking necessary measures to ensure compliance with relevant applicable laws and regulations.
+Article 10 Data Storage
+（1） We will take all commercially reasonable and feasible steps to ensure that the storage time of personal data does not exceed the time required to achieve the original purpose of collecting personal data.
+To determine the period for which we store your personal information, we will comprehensively consider the role and function of the personal information, the types of products and services, and the storage period requirements stipulated by applicable laws and regulations.
+We will take reasonable and feasible measures to avoid collecting and processing irrelevant personal information as much as possible. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless there are mandatory retention requirements under laws, regulations, or other provisions. We mainly refer to the following standards when determining the storage period of personal information, and the longer one shall prevail:
+1. Complete the transaction purposes related to you, maintain corresponding transaction and business records to respond to your possible inquiries or complaints;
+2. Ensure the safety and quality of the services we provide to you;
+3. Do you agree to a longer retention period;
+4. Are there any other special provisions regarding retention periods.
+After exceeding the retention period, we will delete your personal information or anonymize it in accordance with applicable laws, regulations, or other requirements.
+Article 11: Protection of Minors
+（1） We assume that you have the corresponding civil capacity when using our services or participating in related registration activities.
+If you are a minor under the age of 18 (or the legal age of majority in your jurisdiction), we require you to hire your parents or other guardians (collectively referred to as
+Please carefully read this privacy policy and use our services or provide us with information with the consent of your guardian.
+We do not provide services to children under the age of 14. If you are a child, please immediately stop using our services and notify your guardian.
+（2） If there is evidence that a minor registered to use our products and/or services without the consent of their guardian, we will consult with the relevant guardian and try to delete the relevant personal information as soon as possible.
+（3） If you are the guardian of a minor and find that we have inadvertently collected the personal information of a minor, or if you have any questions about the personal information of a minor under your guardianship, please contact us through the contact information mentioned in this policy.
+Article 12: Links to Third Party Websites
+（1） You may find links to access third-party websites or apps in the Cloud QuickPass app.
+Since this policy does not apply to the processing of your personal data by other websites or apps, and UnionPay International is not responsible for the processing of your personal data by external websites, we recommend that you read the privacy policies of such websites or apps.
+If you browse any linked websites that are not owned or controlled by us, we will not be responsible for their content, privacy practices, or the quality of their services.
+（2） Please note that your transaction counterparty, the third-party website operator you visit, third-party services accessed through Cloud QuickPass overseas services, and third parties who receive your personal information through us will collect, store, use, and provide your relevant data or information to external parties in accordance with their own privacy policies or other agreements;
+When you
+When viewing web pages created by third parties or using applications developed by third parties, these third parties may place their own cookies or pixel tags that are not under our control and their use is not subject to this policy. We will strive to require these entities to take protective measures for your personal information. We recommend that you fully understand their terms of service and privacy policies before accepting or using third-party products.
+If you find that these third-party created web pages or third-party developed applications pose risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests.
+Article 13: Your Rights
+（1） Search, request, correct, and supplement your personal information
+You have the right to access your personal information, except for exceptions provided by laws and regulations.
+You can log in to your UnionPay account through the UnionPay app and access, view, request, correct, and supplement your personal information through the following channels:
+A basic module
+1. Check the order page in "My → Billing";
+2. Check the amount of red envelopes you have received and used in "My → Rewards → My Red Envelopes → All Details";
+3. Check in "My → Settings → Payment Settings"
+Payment sorting (deduction order/card order), contactless payment, fingerprint payment, small payment code with no password, red envelope usage settings, and options to display names to others.
+B Value added Service Module
+1. Check your UnionPay card that has been linked in the "Rights U Reward → My → My Card Package" section; Search for the equity vouchers you have received/registered for or purchased in the "Equity U Reward → My → Equity Voucher Package" section;
+Search for the usage method of the equity certificate (including unused, non compliant, unpaid, paid, used, expired, unsubscribed, and expired) in the "Equity U Reward → My → Usage Record" section.
+2. Check the coupons or registration vouchers you have obtained in the "Optimal Plan → My → Discount Vouchers" section;
+Search for your order information in "Optimal Plan ->My ->My Orders"; Search in "Optimal Plan → My → Discount Details"
+Discount description and cumulative discount amount.
+3. Search for your outstanding billing information in the "Ride Code" function (depending on the bus, it may include the entrance website, entrance time, exit website, deduction time, mode of transportation, transaction status, and invalid order number);
+Boarding records (which may include boarding dates, station information, boarding routes, and itinerary numbers depending on the public transportation company or railway company);
+Order details (depending on the public transportation company or railway company, may include actual payment amount, discount information, order amount, payment method, merchant name, transaction status, ride information, transaction time, transaction serial number, merchant order number).
+4. Check your travel history in the "MTR Ride Code → Transaction Records" section, including your entry information, entry time, and travel route.
+5. Check your linked bill in "Hong Kong Payment ->My Orders ->Linked Bill"; Go to "Hong Kong Payment → My Orders → Payment Records"
+Check your paid information in the middle.
+For inquiries, requests, corrections, and supplements to other personal information, you can also contact us by calling our customer service hotline at 800-967-222/006-800-800-95516 (mobile phone only). UnionPay International will protect your right to data correction according to your specific needs.
+（2） Change or withdraw the scope of your authorized consent
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization or partial project authorization by disabling device functions or other means.
+You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+You can also stop our collection of your geographic location information at any time by turning off the location function. In addition, for the additional personal information we collect, you may give or revoke your authorization and consent at any time regarding its collection and use.
+If you need any explanation during this process, you can contact us using the contact information provided in the "How to Contact Us" section of this policy.
+Please understand that each business function requires some basic personal information to be completed. After you revoke your consent, we will no longer collect or use the corresponding personal information.
+This may mean that we will not be able to perform necessary operations to achieve the purpose of processing data for you as described above, and you may not be able to use our services.
+But your decision to revoke consent will not affect the personal data processing we have previously carried out based on your authorization. After you choose to withdraw your consent, UnionPay International still has the right to continue processing your personal data within the scope required or permitted by law.
+（3） Delete your personal information
+A basic module
+If you need to delete the gestures, fingerprint passwords, and last location information stored in the local cache of your device terminal, you can delete them through "My ->General Settings ->Clear Cache" and log out.
+B Value added Service Module
+1. You can contact us through the contact information provided in this agreement and related value-added service agreements to delete personal information related to value-added services.
+2. You can cancel it by going to "Hong Kong Payment ->My Orders ->Linked Statements ->Statement Settings". After cancellation, this linked statement will no longer appear in the linked statement list.
+After disconnecting, you need to reselect the payment merchant and enter the payment account number when making the payment again.
+（4） Restricting the decision-making power of automation or constraining the automatic decision-making of information systems
+In certain business functions or scenarios (such as when a transaction complies with marketing activity rules, which may be verified by our relevant prevention and control system), if you violate activity rules by exploiting system vulnerabilities, cheating software, cheating components, forging benefits/coupons/codes/certificates, or using other improper channels, means or tools to obtain benefits or discounts, we have the right to cancel your eligibility to participate in the activity and have the right to cancel or withdraw the benefits or discounts already issued directly or through the issuing bank or merchant without further notice,
+We may only make decisions based on non-human automated decision-making mechanisms, such as information systems and algorithms, and refuse your participation in our promotional activities in the future.
+If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us, and we will also provide appropriate remedies.
+（5） The right to file a complaint with regulatory authorities
+If you have any dissatisfaction with our handling of your personal data, you have the right to file a complaint with the Privacy Commissioner of Hong Kong in accordance with his instructions.
+（6） Cancel account
+A basic module
+You can cancel your Cloud QuickPass account by calling customer service at 800-967-222/006-800-800-95516 (only supports phone calls) or by going to "My Settings Security Center Cancel Account".
+B Value added Service Module
+1. You can contact us through the contact information provided in this agreement and related value-added service agreements to cancel your account for the relevant value-added services.
+2. You can select "Cancel Account" in the "My" interface of the "Equity U Reward" (canceling the UnionPay international account does not affect the cancellation of the Cloud QuickPass account). After reading the cancellation related matters, click "Confirm" to cancel the UnionPay international account;
+Or log in to the UnionPay International user portal website, click on the "Options" drop-down menu in the upper right corner, select "Cancel Account" and confirm.
+3. You can open "My" - "Cancel Account" in the "Optimal Plan" interface, read the relevant cancellation procedures, and click "Cancel".
+You can turn off the ride code service by going to 'Hong Kong Public Transport Ride Code → Close Service'.
+4. You can disable the MTR ride code service by going to "MTR Ride Code → More Settings → Disable MTR Ride Code Service".
+To ensure the security of your account, when you request to cancel your account with us,
+We may first require you to verify your identity (such as requesting a written request or other means) before processing your request.
+For your reasonable requests, we generally do not charge any fees. However, for requests that exceed the reasonable limit, we may charge a fee that is not excessive and will do so as soon as possible
+Clearly inform the requester of the fee for accessing the information within 40 days. We may refuse to comply with data access requests in the following situations:
+a) Not providing sufficient information to identify the identity of the data requester;
+b) Without disclosing the personal information of third parties, it is impossible to comply with this requirement; or
+c) Compliance with this requirement is currently prohibited by regulations or other laws.
+We will receive a request to access information within 40 days
+Within the day, provide a written response to the request for data access, stating the reasons for refusal and keeping relevant records for four years.
+Article 14: Changes to Privacy Policy
+（1） Because our services and technology are constantly updated and optimized according to the needs of you and other users, we may update our privacy policy to inform you of specific changes in the event of new service and business process changes, as well as changes in legal and regulatory guidance or internal policies of UnionPay International.
+You agree that you have an obligation to review relevant updates and changes from time to time. Your continued use of our services will be deemed as your agreement to the relevant adjustments to this policy. But without your explicit consent, we will not restrict the rights you are entitled to under this policy.
+If we want to change or expand the purpose of processing personal information, we will promptly provide you with an updated privacy policy.
+If there are significant changes to this policy, we will provide more prominent notice (including notification through public announcement or providing you with pop-up prompts), and in certain circumstances, we may seek your consent.
+（2） The circumstances that constitute significant changes include but are not limited to:
+one
+There have been significant changes in the scope and mode of services we provide, such as the purpose of collecting and using personal data, the type of processing of personal data, and the way personal data is used;
+two
+Our business entity, organizational structure, ownership structure, and other aspects have undergone significant changes, such as business adjustments, mergers and acquisitions, resulting in changes in ownership;
+3. There have been significant changes in your right to participate in personal data processing and the way you exercise it;
+4. Changes in the ways, main objects, etc. of sharing, transferring, or publicly disclosing personal information;
+5. There have been changes in the responsible department for personal data security, their contact information, and complaint channels;
+6. Other possible impacts on your personal information
+Changes that have a significant impact on material rights and interests.
+7. We will also archive old versions of this policy for your reference. Please refer to the previous version of the privacy policy.
+Article 15: How to Contact Us
+（1） If you have any questions about data protection, you can call the official UnionPay (Hong Kong, China) hotline at 800-967-222 or 006-800-800-95516 (only supports mobile phone calls).
+We will respond to your request promptly.
+（2） If you are not satisfied with our response, especially if our personal data processing behavior has harmed your legitimate rights and interests, you can also file a complaint or report.
+UnionPay International Limited
+Privacy Policy (Macau Special Administrative Region)
+1. Overview
+This privacy policy ("Privacy Policy" or "Policy") explains that when you use the UnionPay mobile application,
+Why and how UnionPay International Limited ("UnionPay International" or "we") processes your personal data.
+To use the UnionPay mobile application, you need to agree to this privacy policy.
+What is' personal data '?
+Personal data refers to any information directly or indirectly associated with an identified or identifiable personal identity.
+Who is' UnionPay International '?
+UnionPay International is a company established under the laws of the People's Republic of China ("China"), with its registered address at 2-7th floors, No. 6 Dongfang Road, Pudong New Area, Shanghai, China.
+UnionPay International is a multinational company that has established branches in multiple countries and regions around the world.
+If you have any questions about data protection, you can write to the above address or send an email to legalteam@unionpayintl.com .
+Why does UnionPay International need to process personal data?
+UnionPay International provides payment and other related services to users through the operation of UnionPay mobile applications.
+What role does UnionPay International play in your personal data?
+UnionPay International determines the purpose and method of processing your personal data, and this privacy policy aims to explain how such personal data is used.
+What is the key information included in this privacy policy?
+You will learn about the relevant information we process about your personal data, the purpose of our processing of such data, the legal basis, and your rights.
+2. Purpose of processing your personal data
+You will find that UnionPay International processes your personal data for the following purposes:
+● Process your registration information as a UnionPay mobile application user;
+When you bind your bank card to the UnionPay mobile application, verify your personal identity;
+Provide you with relevant services in the UnionPay mobile application;
+Marketing activities;
+● Enhance our services and develop new features;
+Conduct internal research, reporting, and analysis;
+● Comply with applicable laws, regulations, and law enforcement requirements;
+Any other legitimate business purpose.
+3. The personal information and categories of personal data we process about you
+The types of personal data we process include:
+Registration information (i.e. phone number, password)
+● Binding bank card information (i.e. bank card number)
+● Transaction data (i.e. personal account, transaction date/time/amount, merchant name and location)
+4. Legal basis for our processing of your personal data
+The following is the legal basis for UnionPay International to process your personal data:
+Processing your personal data for one or more specific purposes with your consent (e.g. for use in direct marketing processes);
+● Fulfill contracts between us and you or with third parties (especially UnionPay International members), or take measures according to your requirements before signing the contract (such as:
+Using credit cards issued by UnionPay International members;
+Comply with the laws applicable to us globally; And/or
+We have a legitimate right to process your personal data, unless your rights or fundamental rights and freedoms (such as complying with foreign legal obligations,
+Internal research, reporting, and analysis take priority over such rights.
+5. Your rights
+Accessing your personal information
+We understand that you may want to know what kind of personal data we store about you. We are happy to assist you. However, to protect your personal data,
+We require you to provide us with proof of your identity information when making a request:
+You can contact us in writing via email or letter containing your signature and a signed copy of the government issued identification document.
+UnionPay International reserves the right to refuse your request to access personal information in specific circumstances permitted by law. If your personal data is not disclosed to you,
+We will explain to you the reasons for not disclosing.
+Other rights
+You also have the right to:
+Refuse us to process your personal data;
+Refuse us to use your personal information for direct marketing purposes;
+Request to restrict the processing of your personal data;
+Request correction and/or deletion of your personal data;
+Revoke your consent to our processing of your personal data (in the case where UnionPay International processes your personal information based on your consent);
+̵ Request to transmit or receive personal information that you may have provided to UnionPay International in machine-readable form to other institutions;
+Complain to regulatory agencies; as well as
+When you have the option to choose whether to share personal information with UnionPay International, you can make the decision not to share personal data at any time.
+If you do not wish to receive marketing information from UnionPay International, you can call the UnionPay customer service hotline at 0800-801. You always have the right to accept or refuse any form of communication from UnionPay International. You can unsubscribe from electronic marketing communications at any time by selecting the 'unsubscribe' link included in this type of communication.
+If you refuse our request
+Regarding your personal information, or if you have agreed to our processing of your personal data but subsequently decide to revoke that consent,
+We will respect your decision.
+This may mean that we will not be able to perform the necessary operations to achieve the purpose of processing data for you as described above (see Section 2),
+And you may not be able to use our services.
+After you choose to withdraw your consent, UnionPay International still has the right to continue processing your personal information within the scope required or permitted by law.
+If you wish to exercise any of the above rights at any time, you can call the UnionPay customer service hotline at 0800-801.
+6. Transfer data to areas outside of Macau
+You agree and confirm that your personal information may be shared, disclosed or transmitted to the recipients mentioned in Article 7, who may be located outside the Macao Special Administrative Region,
+Namely Hong Kong and mainland China.
+7. Your personal data recipient and cross-border transmission
+Your personal data recipients include:
+Employees, institutions, and affiliated organizations of UnionPay International;
+● Information processors and other contractors, suppliers, and service providers of UnionPay International;
+UnionPay International Members: These members are mainly located in Hong Kong and Macau; The UnionPay International members participating in bank card transactions are the acquiring banks (i.e. the banks where you withdraw cash),
+Or the opening bank of the merchant to whom you pay for the purchase of goods or services and the issuing bank (i.e. the bank that issues the bank card you hold):
+This will help you determine the region where UnionPay International can transfer your data for each transaction;
+Any other parties necessary to ensure the effective operation of the network and promote innovation.
+The recipient shall take all necessary measures to protect your personal information.
+When your personal data is transferred to (or accessed from) other countries/regions,
+Additional requirements need to be followed. UnionPay International will only transfer personal data to another country/region if such transfer complies with data protection laws.
+8. Safety
+UnionPay International has installed a rigorous security system,
+To prevent any unauthorized individuals (including staff of UnionPay International) from accessing your personal data. We have reduced the scope of authorized access to a minimum and trained employees on how to handle personal data. Therefore,
+All employees of UnionPay International who have access to your personal data and any third party who has access to your personal data will be required to strictly comply with confidentiality obligations.
+We have taken appropriate technical and organizational measures,
+To prevent unauthorized or illegal processing of your personal data and to respond to accidental or illegal destruction, loss, alteration, unauthorized disclosure or access to personal data that has been transmitted, stored or otherwise processed.
+9.Cookies
+If you would like to know more information, please refer to UnionPay International's Cookie Policy.
+10. Data storage
+We will store your personal data within the period required by applicable laws. This may involve the storage of information after your transaction is completed. Once the information processing objectives mentioned above have been achieved,
+We will delete your personal data.
+To determine the period for which we store your personal data,
+We will comprehensively consider the role and function of information, the types of products and services, the nature of the relationship between you and us, and the storage period requirements stipulated by applicable laws and regulations.
+11. Links to other websites
+You may find links to visit other company websites or applications in the UnionPay mobile app. Considering that this privacy policy does not apply to the processing of your personal data by other websites or applications,
+And UnionPay International is not responsible for the processing of your personal data by external websites. We recommend that you read the privacy policies of such websites or applications.
+12. Changes to Privacy Policy
+We will update this privacy policy from time to time, especially in the event of changes in legal, regulatory guidance, or internal policies of UnionPay International. In such circumstances,
+We will push you the updated privacy policy through our mobile application, and in certain circumstances we may seek your consent.
+COOKIE Policy
+By continuing to visit our website, you agree to the use of cookies, especially for marketing purposes. Learn more information,
+Please read our Cookie Policy.
+1. What is a cookie?
+Cookie is a small data file consisting of letters and numbers stored on your device (such as a mobile phone) and used by UnionPay mobile applications to send information to your browser (which should be allowed to provide feedback to UnionPay mobile applications).
+Cookies are classified into different types:
+Temporary session cookies will disappear when the user closes the website;
+Permanent cookies will remain on the user's device until they expire or the user deletes them in browser settings.
+What cookies do UnionPay International's websites use?
+The UnionPay mobile application uses three types of cookies.
+2.1 Cookies required for using UnionPay mobile applications
+These cookies are essential and will ensure that you fully experience all the services provided by the UnionPay mobile application, such as accessing your personal account.
+Disabling these cookies will prevent you from using basic products
+And the functionality leads to a deterioration of user experience and a decrease in efficiency.
+The information collected through these cookies is only used for this purpose and will not be shared or sold to third parties.
+2.2 Improving Cookies Required for UnionPay Mobile Applications
+UnionPay International uses cookies to collect anonymous information to understand how visitors use UnionPay mobile applications,
+And monitor any malfunctions that users may encounter while using UnionPay mobile applications. These cookies are necessary to improve UnionPay mobile applications and enhance user experience.
+The information collected through these cookies is only used for this purpose and will not be shared or sold to third parties.
+UnionPay International uses cookies to collect anonymous information to understand how visitors use UnionPay mobile applications,
+And monitor any malfunctions that users may encounter while using UnionPay mobile applications. These cookies are necessary to improve UnionPay mobile applications and enhance user experience.
+2.3 Targeted Cookies
+These cookies will be used by UnionPay International to manage and enhance the effectiveness of its advertising campaigns, accurately targeting advertising targets,
+This ensures that UnionPay International can push the most relevant content to each user. The data collected through these cookies is anonymous.
+3. How to manage the use of cookies on UnionPay mobile applications?
+You can disable cookies by activating the settings on the browser (which should allow you to refuse all or some cookies by following these steps).
+Select 'mine';
+Select 'More';
+Select 'Clear Privacy Data';
+After the notification is displayed in the mobile application, click "Continue";
+The data will be deleted and you will be logged out of the account.
+Effective date: May 6,2019
+UNIONPAY INTERNATIONAL
+Privacy Notice (United States)
+1.In a nutshell
+This privacy notice (the “Privacy Notice” or
+“Notice” ) explains why and how UnionPay International Co. Ltd (“UPI” or “we”) may
+process your personal information when you use the UnionPay mobile wallet application (the “UnionPay
+App” )
+● What does “personal information” mean?
+Personal information means any information that can be linked directly or indirectly to identified or
+identifiable individuals.
+● Who is UPI?
+UPI is a company incorporated under the laws of the People’s Republic of China (
+“PRC” ) with its registered office at Floor 2-7,  No.6 Dongfang Road, Pudong New
+District, Shanghai, PRC.
+If you have any questions in relation to data protection matters, you can contact us by email at
+apphelp@unionpayintl.com   or call the UnionPay official hotline at 866-567-5516.
+● Why does UPI process personal information
+UPI operates the UnionPay App for providing payment and other related services to users.
+● Do you have a UPI account?  View our Gramm-Leach-Bliley Consumer Notice below.
+If you have created an account with us, our Gramm-Leach-Bliley Consumer Privacy Notice (the “GLB
+Notice” ) applies to you. The GLB Notice contains important information about your choices
+regarding how we share non-public information for marketing purposes, and how you can limit such
+sharing. Please consult the GLB Notice below, right at the end of this Privacy Notice.
+● What information is contained in this Privacy Notice?
+You will find relevant information on the personal data we process about you, the purposes and legal
+bases for the processing of this data and your rights.
+2.The purposes for which we Collect your personal information
+You will find below the purposes for which UPI collects personal information:
+● Processing your registration with us as a user of UnionPay App and creating and maintaining your
+account with us;
+● Verifying your identity when binding cards to UnionPay App;
+● Providing you with relevant products or services in UnionPay App;
+● Marketing activities,  including marketing by us, our affiliates, and our partners in the UnionPay
+App, online, via email or SMS, or otherwise;
+● Providing you with location-specific options,  functionalities, or offers;
+● Communicating with you and responding to your requests,  including by providing customer support and
+enabling you to interact with UPI through social media;
+● Operating,  evaluating, and improving our business, including improving our services and developing
+new functions;
+● Doing internal research,  reporting and analysis;
+● Protecting against,  identifying and preventing fraud and other prohibited or illegal activity,
+claims and other liabilities;
+● Establishing,  exercising, and defending legal claims;
+● Monitoring compliance issues and ensure compliance with our policies,  terms, and obligations,
+including conducting internal investigations and audits
+● Compliance with our obligations, applicabl
+e laws and regulations, and/or subpoenas, court orders or
+other legal process or requirements applicable to us.
+3.The categories of personal Information we process about you
+The types of personal information we process are the following:
+● Registration and account information (including name,  phone number, email address, machine or
+mobile ID, password);
+● Card Information for binding cards (including card number,  expiration date, card verification code
+(CVC),  and tokenized versions of the foregoing);
+● Transaction data and/or commercial information collected when you make payments with the UnionPay
+App or purchase items within the UnionPay App (i.e.,  personal account number, date/time/amount of
+the transaction, name and location of merchant, items purchased, and shipping and billing
+addresses);
+● Information about your interaction with the UnionPay App collected automatically by the UnionPay
+App when you use the App (including geolocation data,  device type, device identification number,
+time zone, language setting, browser type, and IP address);
+● Information about your use of participation in coupons or promotional offers available in the
+UnionPay App; Information collected in connection with verifying your identity and/or preventing
+suspicious activities or fraud;
+● Any information you provide to us when you communicate with us,  including audio recordings when you
+call us as permitted by law;
+● Social networking information and information from your social media profiles,  if you interact with
+us through social media.
+● Inferences drawn from any of the information identified above about you,  your activity, or your
+preferences.
+4.sources of personal information
+We collect personal information about you from t
+he following categories of sources:
+● Directly from you, for example when you provide personal information to us (such as a credit card
+number) or use the UnionPay App.
+● From our service providers,  such as providers who assist us with tokenizing your payment
+information.
+● From persons who help you make payments through the UnionPay App,  such as financial institutions,
+credit or debit card brands, payment processors, or merchants.
+● From partners who help us provide advertising or promotions to you.
+● From social media platforms,  if you interact with us through social media.
+5.Your rights
+Accessing your personal data
+We understand that you may like to know what personal data we hold about you. We are happy to assist
+you with your request. To protect your personal data, however, we require that you prove your
+identity to us at the time your request is made: you can contact us in writing via email at
+apphelp@unionpayintl.com   or letter including your signature and a copy of a signed government issued
+identification document.
+UPI reserves the right to decline access to your personal data under certain circumstances as
+permitted by law. If your personal data is not disclosed to you, you will be provided with the
+reasons for this non-disclosure.
+Other rights
+You may also be entitled to:
+̵ object to the processing of your personal data;
+̵ request the restriction of the processing of your personal data;
+̵ request the correction and/or deletion of your personal data;
+̵ withdraw your consent to the processing of your personal data (where UPI is processing your
+personal information based on your consent);
+̵ lodge a complaint with a supervisory authority; and
+Where you are given the option to share personal data with UPI, you can always choose not to do
+so.
+If you object to the processing of your personal data, or if you have provided your consent to
+processing and you later choose to withdraw it, we will respect that choice.
+This could mean that we will be unable to perform the actions necessary to achieve the purposes of
+processing data for you as described above (see article 2) and that you may be unable to use our
+services.
+After you have chosen to withdraw your consent, UPI may be able to continue to process your personal
+data to the extent required or otherwise permitted by law.
+If at any time you wish to exercise any of these rights, you can contact us by email at
+apphelp@unionpayintl.com   or call the UnionPay official hotline at 866-567-5516.
+6.The recipients of your personal Information
+The recipients of your personal information may include:
+● UPI’s establishments and affiliates;
+● UPI’s processors and other contractors,  suppliers and service providers;
+● Companies that may assist us in analyzing personal information,  improving the UnionPay App or your
+experience on it, marketing products or services, or providing promotions to you;
+● Other financial institutions we have partnered with to jointly create and offer products or
+services;
+● Companies involved in helping you make payments with the UnionPay App,  including acquiring banks
+(such as the bank you are withdrawing cash from,  or the bank of the merchant you are paying in
+exchange for goods or services), the issuing banks (such as the bank that issued your card), credit
+card brands, payment processors, and merchants;
+● Law enforcement authorities or other public or governmental agencies,  bodies, or officials, or
+other third parties pursuant to a subpoena, a court order or other legal process or requirement
+applicable
+to UPI or UPI’s affiliates;
+● With other third parties for our business purposes or as permitted or required by law.
+We make efforts designed to ensure that such recipients undertake measures to keep your personal data
+confidential.
+7.Direct Marketing
+UPI may use your personal information (including your contact numbers) for direct marketing to you,
+as permitted by applicable law. This includes sending you marketing communications about updates,
+and the latest offers and promotions about UPI’s goods, services, or activities or, as appropriate,
+those of UPI affiliates or other companies with whom UPI has partnered. UnionPay may not so use or
+provide your personal data except as permitted by applicable law.
+These communications may be sent by app, in accordance with applicable laws. If you create an
+account with UPI, you have the option to stop us from sharing your personal information with
+affiliates and non-affiliates for marketing purposes. Please see our GLB Notice below to find out
+what sharing you can stop, and how to exercise your right to stop such sharing.
+8.Security
+UPI has installed security measures designed to prevent access to your personal information by
+unauthorized persons. We have authorised and trained staff for processing personal information. As
+such, staff of UPI and third parties who are authorized to have access to your personal information
+are required to comply with non-disclosure obligations.
+Technical and organisational measures have been implemented that are designed to prevent from
+unauthorised or unlawful processing of personal information and against accidental or unlawful
+destruction, loss, alteration, unauthorised disclosure of, or access to personal information.
+9.Cookies, Tra
+cking Technology, and online behavioral advertising
+The UnionPay App may use cookies and tracking technologies to operate the App and to target
+advertising that may be of interest to you. For further information, please refer to UPI’s cookie
+policy.
+10.Data retention
+Your personal information will be stored for the period of time required or permitted by applicable
+law. This may involve retaining information following your transaction. We make efforts to delete
+your personal information once it is no longer required for any of the purposes described above.
+In order to determine the amount of time we will store your personal information we take into
+consideration the role and function of the information, type of products and services, nature of the
+relationship between you and us, and statutory requirements of retention period made by applicable
+laws and regulations.
+11.Links to other websites
+You may find links to access the websites of other companies or app on UnionPay App. We recommend
+that you read the privacy policies of these other websites or app, as this Privacy Notice does not
+apply to the processing of your personal information by them and UPI is not responsible for the
+processing of your personal information on external websites.
+12.do not track disclosure
+The UPI Mobile App is not designed to respond to “Do Not Track” requests.
+13.Changes in Privacy Notice
+We may update this Privacy Notice from time to time – in particular in case of changes to our
+business or practices, changes of law, in response to guidance from competent authorities or as
+required by UPI’s internal policies. The updated Privacy Statement will be effective as of the
+published effective date. We may also share with you the update
+d Privacy Notice through the UnionPay
+App.
+Effective date: May 6,2019
+GRAMM-LEACH-BLILEY CONSUMER PRIVACY NOTICE
+FOR UPI ACCOUNT-HOLDERS
+WHAT DOES UNIONPAY INTERNATIONAL DO WITH YOUR PERSONAL INFORMATION?
+● Why?
+Financial companies like UnionPay International, Ltd. (“UPI”) can choose how they share your personal
+information. Federal law gives consumers the right to limit some but not all sharing. Federal law
+also requires us to tell you how we collect, share, and protect your personal information. Please
+read this notice carefully to understand what we do.
+● What?
+The types of personal information we collect and share depend on the product or service you have with
+us. This information can include payment history or transaction history.
+● How?
+All ﬁnancial companies need to share personal information to run their everyday business.  In the
+section below, we list the reasons we share personal information; the reasons UPI chooses to share;
+and whether you can limit this sharing.
+Reasons we can share your personal information
+■ For our everyday business purposes — such as to process your transactions, maintain your
+account(s),  respond to court orders and legal investigations, or report to credit bureaus
+Does UPI share? Yes
+Can you limit this sharing? No
+■ For our marketing purposes— to offer our products and services to you
+Does UPI share? Yes
+Can you limit this sharing? No
+■ For joint marketing with other ﬁnancial companies
+Does UPI share? Yes
+Can you limit this sharing? No
+■ For our afﬁliates’ everyday business purposes— information about your transactions and
+experiences
+Does UPI share? Yes
+Can you limit this sharing? No
+■ For our afﬁliates’ everyday business purposes— information about your creditworthiness
+Does UPI share? No
+Can you limit this sharing? N/A
+■ For our afﬁliates to ma
+rket to you
+Does UPI share? No
+Can you limit this sharing? Yes
+■ For nonafﬁliates to market to you
+Does UPI share? No
+Can you limit this sharing? N/A
+● To limit our sharing
+Contact us by email at  apphelp@unionpayintl.com   or call the UnionPay official hotline at
+866-567-5516.
+Please note:
+If you are a new customer, we can begin sharing your information from the date we sent this Notice.
+When you are no longer our customer, we continue to share your information as described in this
+notice.
+However, you can contact us at any time to limit our sharing.
+Please note:
+● Questions
+Contact us by email at  apphelp@unionpayintl.com   or call the UnionPay official hotline at
+866-567-5516.
+● Questions
+● Who is providing this notice?
+This Privacy Notice is provided by UnionPay International Co. Ltd. (UPI) in connection with its
+provision of the mobile wallet and related services of the UnionPay App, and is applicable to your
+personal UPI account.
+● How does UPI protect my personal information?
+To protect your personal information from unauthorized access and use, we use security measures that
+comply with federal law. These measures include computer safeguards and secured ﬁles and
+buildings.
+● How does UPI collect my personal information?
+We collect your personal information, for example, when you
+■ Open an account or provide account information
+■ Link a credit or debit card to your UPI account or give us your contact information
+■ Use your UPI account to make payments
+● Why can’t I limit all sharing?
+Federal law gives you the right to limit only
+■ sharing for afﬁliates’ everyday business purposes—information about your creditworthiness
+■ afﬁliates from using your information to market to you
+■ sharing for nonafﬁliates to market to you
+State laws and individual companies may give you additional rights to limit sh
+aring. See below for
+more information on your rights under state law.
+● What happens when I limit sharing for an account I hold jointly with someone
+else?
+Your choices will apply to everyone on your account.
+● Definition
+■ Afﬁliates : Companies related by common ownership or control.  They can be ﬁnancial and nonﬁnancial
+companies. Our affiliates include China UnionPay USA, LLC.
+■ Nonafﬁliates: Companies not related by common ownership or control.  They can be ﬁnancial and
+nonﬁnancial companies.  Nonaffiliates with which we share personal information include service
+providers that perform services or functions on our behalf.
+■ Joint marketing: A formal agreement between nonafﬁliated ﬁnancial companies that together market
+ﬁnancial products or services to you.  Our joint marketing partners may include financial
+companies.
+● Other important information
+We may transfer personal information to other countries, for example, for customer service or to
+process transactions.
+California and Vermont Residents Only: We will not share your information except for our everyday
+business purposes, for marketing our products and services to you, or as required or permitted by
+law or with your consent.
+Nevada Residents Only: This notice is provided to you pursuant to state law. To stop marketing calls
+from us follow the directions in the section "To limit our sharing" to be placed on the UPI do not
+call list. Nevada law requires that we also provide you with the following contact information:
+Nevada Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave.,
+Ste 3900, Las Vegas, NV 89101; telephone: 702-486-3132; email:  aginfo@ag.nv.gov.
+Cookie Policy
+By using the UnionPay App
+,  you consent to the use of cookies and tracking
+technologies, in particular for marketing purposes. To learn more, read this Cookie Policy.
+1.What is a cookie?
+A cookie is a small file of letters and numbers that is stored on your device (e.g. phone), and used
+by the UnionPay App to return information to UPI or other parties.
+There are different types of cookies:
+● Session cookies which disappear as soon as the user leaves the website or the App;
+● Permanent cookies which remain on the user's device until they expire or until the user deletes the
+cookies.
+2.What cookies are used on UPI's website?
+The UnionPay App uses 3 types of cookies.
+2.1Cookies necessary to use UnionPay App
+These cookies are essential as they enable you to fully experience the possibilities offered by
+UnionPay App, such as accessing to your personal account.
+By disabling the use of such cookies, you will no longer be able to use the basic features and
+functionalities resulting in a slower and less efficient user experience.
+2.2Cookies necessary to improve UnionPay App
+These cookies are used to collect anonymous information and enable UPI to understand how visitors use
+UnionPay APP and monitor any errors that users may be experiencing. These cookies are necessary to
+improve UnionPay APP and provide a better user experience.
+2.3Targeting cookies
+These cookies are used to enable UPI to manage and improve the effectiveness of the delivery of
+advertising campaigns and to refine the targeting of these campaigns so that UPI can display the
+most relevant content for each user.
+3.How to manage the use of cookies on UnionPay App?
+You can block cookies by activating the settings on your browser that enable you to refuse the all or
+some cookies. You can delete personal information collected via cookies or similar
+tracking
+technologies by the following steps.
+● Choosing “My Account”;
+● Selecting “More Settings”;
+● Selecting “Delete Personal Data”;
+● After the UnionPay App displays the notification asking if you want to delete your personal
+information, click “Confirm”;
+● The data would be deleted and you will logged out of the account.

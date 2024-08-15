@@ -1,0 +1,169 @@
+1. Collection of Personal Information
+In the process of using the "Yidian Information" software and related services, we will inform you of the purpose, method, and scope of information collection and use in accordance with the principles of legality, legitimacy, and necessity. In order to provide better services and more comprehensive functions to all users, "Yidian Information" may collect, store, and use information related to you to ensure the normal basic operation of the product; At the same time, while continuously optimizing and improving the process of products and services, and ensuring the safety of products, services, and user use, your relevant information may also be collected, used, and stored. If you do not provide relevant information, you may not be able to register as a user of "Yidian Information" or enjoy certain services or features provided by "Yidian Information", or there may be no annotations [a2]: Please set the product settings link to the corresponding page to achieve the intended effect of the relevant services. This includes obtaining some basic information, as well as providing personal information to "Yidian Information" when you register or use Yidian Information related products or services; This type of information includes (you can view details through the Personal Information Collection Checklist):
+1.1 Guarantee 1. View details through the "Personal Information Collection List":
+When browsing and using the Little Information client, in order to ensure the normal operation of software basic services, we will collect device related device model, operating system version, network information (network status), IDFA (iOS), ANDROIDID during front-end and back-end runtime, and store user's internet usage and log information or process information during the operation of this app. These pieces of information are the basic information that must be collected to ensure the normal operation of some information products and provide services. The aforementioned information (such as ANDROIDID) is also the basic information required for identifying user unique identifiers, anti cheating detection, and accurate recommendations of the latest information content.
+1.2 Registration, Login User Unique Identification, Anti Cheating
+(1) When you access some information, you can browse and search anonymously, but you need to register as a platform user to use publishing, commenting, and other user services.
+(2) When you register and log in to some information and related services, you can create an account through your phone number or email, and you need to complete the relevant network identification information (avatar, nickname, password) to complete the registration. A mobile phone number is necessary information to comply with national laws and regulations regarding network real name registration. If you do not provide a mobile phone number for registration and login, we may not be able to provide you with information publishing, commenting, and other functions. After registering and logging into your account, you can fill in your profile information. We will collect the personal information (avatar, nickname, profile) that you voluntarily fill in for providing services to you and displaying to other users.
+(3) When you choose to log in with a mobile phone or email verification code, we will collect verification code information by "pasting" according to your authorization. When you authorize the use of the "one click login" function, with your consent, we will collect your mobile phone number based on our cooperation with the communication operator, so that we can provide you with quick login services. If you refuse the above processing, you will not be able to use the "one click login" method to register and log in to some information, but it will not affect your ability to register and log in through other methods, nor will it affect the normal use of other functions.
+(4) You can use third-party accounts to register or log in, and use DianDian Information. With your authorization and consent, we will obtain your public information (account, avatar, and nickname) registered on third-party platforms (such as WeChat, QQ, and Weibo) for binding with DianDian Information accounts, so that you can directly log in and use this product and service.
+(5) When you share a piece of information client and its content with a third party, you can use the copy link function, and we will obtain the copied clipboard content based on your "copy" authorization.
+1.3 Recommendation of personalized information and services
+In order to provide you with interested and valuable personalized information and services, and to achieve this core function, we may collect and use the following information:
+1.3.1 Your operation and usage behavior information such as following, bookmarking, searching, browsing preferences (articles, audio and video, images, games, animations, etc. that interest you);
+1.3.2 You actively provide feedback, publish, like, comment and other information;
+1.3.3 What functions of the application have you used and the order of access, the type and frequency of news reading, and the channels you have subscribed to for searching;
+1.3.4 We display and recommend relevant information about your location based on the city corresponding to your IP address. If you refuse to provide geographical location information, we will not push local information to you based on geographical location, but it will not affect the normal use of other functions and services of "Yidian Information". The above information we collect and use has undergone de identification processing, and data analysis only corresponds to specific codes that cannot be directly associated with user identity, and cannot and will never be associated with your real identity. You can also choose to turn off the personalized recommendation function in the settings.
+1.4 Provide you with search services
+If you use the search service provided by Yidian Information, Yidian Information will collect necessary information such as search keywords, log records, etc. in order to provide you with accurate search services. At the same time, some of this information will be temporarily stored on your local storage device.
+1.5 Provide you with information publishing and interactive services
+When you post content, comment, answer or like, we will collect the information you post and display your nickname, avatar, post content, etc.
+(1) When you upload text, multiple images, or publish audio and video, we will request that you authorize sensitive permissions such as camera, photo, album, microphone, etc. If you refuse to provide authorization, you will not be able to use this feature, but it will not affect your normal use of other features.
+(2) When you actively subscribe, follow and interact with accounts and topics that interest you, comment or share content, we will show you the content published by your subscribed and followed accounts.
+1.6 Ensure the safety of information products, services, and user usage
+In order to ensure the security of information products, services, and user provided services, we may collect your ANDROIDID information, as well as the frequency, crash data, and usage of this app and related services
+Information such as status, performance data, access frequency restrictions, and anti cheating detection.
+1.7 Provide you with high-quality video viewing experience, night reading adjustment, etc
+When you use our products, we may collect your sensor information to adapt to the status of your device or to recognize your actions when you choose to participate in activities. The types of sensors may vary in different scenarios, and we will only use them in specific needs.
+1.7.1 Through an accelerometer (gravity sensor), users can trigger an activity pop-up display by shaking it.
+1.7.2 Use gyroscope sensors to adapt to the horizontal and vertical screen status of the device.
+2. Possible usage scenarios for collecting information
+2.1. Use of Cookies
+The website version of Yidian Information will use cookies to help you personalize your experience, ensure the safe and efficient operation of products and services, and recommend, display, and push content or accounts that you may be interested in. Cookies are text files stored by web servers on your access device, and one of their main purposes is to save users' time and operational costs. For example, when you log in to an information webpage, cookies will help you call your information during subsequent visits to simplify the process of filling in personal information (such as one click login, etc.). For more information about cookies, you can refer to the accompanying files or related introductions on your browser.
+2.2 Personal Information Exempted from Consent to Collection and Use According to Law
+According to laws, regulations, and relevant national standards, we do not require your authorization or consent to collect and use your following personal information:
+（1） Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+（2） Necessary for fulfilling statutory duties or obligations;
+（3） Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+（4） To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+（5） Process personal information that individuals have voluntarily disclosed or other legally disclosed within a reasonable scope in accordance with the provisions of this law;
+（6） Other circumstances stipulated by laws and administrative regulations.
+2、 Protection and security measures for personal information
+1. Principles for the Use of Personal Information
+When using personal information, Yidian Information always adheres to the relevant requirements of laws, regulations, and personal information security norms. The purpose of using personal information is to provide services or service support to users. We adhere to the principles of necessary, reasonable, and minimal use and use of personal information, and take all reasonable technical means and measures to ensure that personal information is not leaked, protecting the integrity and availability of personal information; Take effective measures to protect personal information security during the service process and avoid causing harm to users.
+2. Personal Information Security Measures
+2.1 When using personal information, such as displaying personal information and calculating personal information associations, various data anonymization techniques including content replacement, encryption, and anonymization will be used to enhance the security of personal information during use.
+2.2 Manage and standardize the storage and use of personal information by establishing a data classification and grading system, data security management standards, and data security development standards.
+2.3 Establish a specialized department for data security, responsible for organizing security emergency response to promote and ensure personal information security.
+2.4 Strengthen safety awareness. Yidian Information will also hold training on network information security and privacy protection to enhance employees' awareness of the importance of protecting personal information.
+2.5 Develop emergency plans for personal information security incidents to ensure that relevant personnel understand their job responsibilities, emergency response strategies, and procedures.
+2.6 In the event of a security incident caused by personal information, Yidian Information will inform you immediately and report to the corresponding competent authority, record the incident, evaluate its impact, and immediately conduct problem investigation and emergency measures; And the warning information related to the public should be released in a reasonable and effective manner in the first time; Despite taking the reasonable and effective measures mentioned above and complying with the standards required by relevant laws and regulations, there is still no guarantee of the security of your personal information when communicated through insecure channels. Therefore, users should take proactive measures to ensure the security of their personal information, such as regularly changing their account passwords and not disclosing their personal information such as account passwords to others.
+3、 Personal Information Storage
+1. Personal Information Storage
+In order to achieve our service objectives, we store personal information collected and generated within the territory of the People's Republic of China. We will keep your personal information within the minimum scope and for the shortest period of time required by laws and regulations. When the retention period is exceeded, or when there is a need to delete or anonymize personal information, DianDian Consultation will take action as soon as possible.
+2. De identification processing
+After collecting personal information, a de identification process will be carried out, and technical and management measures will be taken to separate the de identified data from the information that can be used to recover and identify individuals, and ensure that personal information is not re identified in subsequent personal information processing.
+3. Transmission and storage of personal sensitive information
+When transmitting sensitive personal information, encryption and other security measures will be taken, and technical measures such as de identification and fragmentation will be taken before storage.
+4. Storage location
+According to laws and regulations, all relevant information is stored on domestic servers.
+5. Storage period
+The retention period of personal information is the shortest time necessary to achieve the service purpose, that is, from the time you use the information service until you request account cancellation and meet the legal and regulatory requirements.
+4、 Disclosure of Information
+1. An information related application will not disclose your personal information to third parties without permission, unless one of the following situations occurs:
+1.1 Provide your personal information in accordance with legal regulations or requests from authorized departments;
+1.2 In emergency situations, in order to protect the legitimate rights and interests of some information and its users or public safety and interests;
+1.3 You authorize or agree to some information disclosure;
+1.4 Comply with the provisions of the information related service terms and software usage license agreement;
+2. According to laws and regulations
+According to regulations, some information may be publicly disclosed to state agencies or organizations without your authorization or consent
+2.1 Directly related to criminal investigation, prosecution, trial, and execution of judgments
+2.2 Directly related to national security and defense security
+2.3 Directly related to public safety, public health, and major public interests
+2.4 In order to safeguard your or other individuals' significant legitimate rights and interests such as life, property, etc
+3. Notification of Personal Information Security Incidents: In the event of a personal information security incident, we will promptly inform you of the relevant information through system notifications, SMS, or other means in accordance with legal and regulatory requirements, or issue announcements in a reasonable and effective manner. At the same time, we will also report the handling of personal information security incidents in accordance with laws, regulations, and regulatory provisions, in order to timely protect your personal information security.
+5、 Sharing and Transfer of Personal Information
+In principle, we will not share or transfer your personal information to third parties unless authorized and agreed upon in advance by you, or unless the sharing or transfer of your personal information is de identified and the sharing third party cannot re identify the natural person subject of such information.
+1. Personal information that we may share
+Implement Weibo sharing and login functions to ensure the security risk control of user account login and function implementation process
+Device information (including device model, device identifier (such as AndroidID/IDFA/OPENUDID/GUID/OAID), telecom operator and other software and hardware feature information)
+Support Weibo login and sharing
+WeChat Open Platform
+Easy for users to log in with third-party accounts and share some information and news on third-party platforms
+Device identifier (Android such as AndroidID, Serial, iOS such as IDFV), WLAN access point, sharing pictures or content
+Support WeChat login and sharing
+Tencent Application Open Platform SDK (QQ Internet, Tencent Mobile Analytics)
+Equipment model information, clipboard information, memory card permissions, installation status of specific applications (QQ, TIM)
+Implement push message and login functions
+Device identifiers (such as Android ID, OAID, GAID), device information
+Use when pushing messages
+Device identifiers (such as Android ID, GAID), application information (such as application package name, version number, and running status), network information (such as IP or domain connection results, current network type)
+Implement push message function
+Basic application information, device identifiers within the application, hardware information of the device, system basic information, and system settings information
+Device and application information (device name, device identifier, operating system version, application version, software identification code, device and application settings), mobile network information
+Implement the push message function. Ensure accurate delivery of message push and accurate identification of message devices; Improve the arrival rate and stability of message push
+Device identification code (Android ID OAID、Advertising ID、UAID、IDFV）、 Equipment platform, equipment brand, equipment model, and system version
+Device Information (Android ID/IDA/OAID/OpenUDID/UUID)
+Mobile Security Alliance
+Security authentication, intrusion prevention monitoring
+Device information (device brand, model, software system version related information), Android system advertising identifier OAID, Android Id, network information (IP address, operator information, device time zone, network access method and type), application package name of this App, application version number of this App)
+Perform security authentication when users use the app
+Provide users with advertising display and sensors: advertising placement, advertising attribution, and anti cheating services; Device identification information: Monitoring of advertisements during advertising placement
+Device identification information (OAID, Android ID), network information (network information, sensors (magnetic force, acceleration, gyroscope, pressure), software list information
+Use when pushing advertising information to users
+Aurora Security Certification SDK
+Used when users log in with one click using their phone number
+Device identifiers (including Android ID GAID、OAID、UAID、IDFA）、 Device hardware information, operating system information, network information (including network type, operator name, IP address, WIFI status information)
+When users log in with one click using their phone number
+China Mobile Authentication
+Network type, network address (IP address), operator type, local number information, SIM card status, mobile device type, mobile operating system, hardware manufacturer
+When users log in with one click using their mobile phone number, use
+China Unicom Certification
+Network type, network address, operator type, local phone number, mobile device type, mobile operating system, hardware manufacturer
+When users log in with one click using their China Unicom mobile phone number, use
+China Telecom Certification
+When users log in with one click using a telecom phone number
+1.1 If you have given prior authorization and consent, we may share de identified or anonymized information with advertising partners to achieve programmatic advertising push.
+With your prior authorization and consent, we may share information with partners who entrust us with promotion and advertising, but we will not share information used to identify your personal identity, such as your name, ID number number, etc. We will only provide these partners with user portrait tags that are difficult to identify your personal identity and information after de identification or anonymization to help them improve the effective reach rate of advertising without identifying your personal identity. You can refuse our push of programmatic advertisements to you, but it does not affect your use of other services.
+1.2 Sharing with business partners to achieve specific functionalities
+The other third-party SDKs we have also integrated are as follows. The purpose and scope of collecting personal information by third-party SDKs are as follows. Please refer to the "List of Third Party Information Sharing" for details
+1.3 Recommend products or provide services to you
+We organize relevant marketing activities, and when you choose to participate, you can choose according to the needs of the event
+Provide information such as name, mailing address, contact information, bank account number, income status, etc. With your explicit consent, we will share the above information with third parties so that we can entrust them to provide you with products or services in a timely manner.
+2. Careful evaluation and responsibility constraints on third-party entities sharing personal information
+2.1 With your consent, we will conduct a personal information security impact assessment (legality, necessity assessment) and only share information necessary to achieve the purpose of cooperation with third parties. If a third party needs to use personal information beyond the authorized scope due to business needs, the third party will need to seek your consent again.
+2.2 For third parties with whom we share your personal information, the third party will sign a confidentiality agreement with us. At the same time, we will evaluate its data security capabilities and environment, and require third parties to handle such information with confidentiality and security measures not lower than those required by this privacy protection agreement.
+2.3 We will inform you of the types of sensitive personal information involved in the sharing and transfer, the identity of the data recipient, and the data security capabilities;
+2.4 We will accurately record and preserve the situation of sharing and transfer, including the date, scale, purpose, and basic information of the data recipient;
+2.5 Help you understand the data recipient's storage and use of personal information, as well as the rights of the personal information subject, such as access, correction, deletion, account cancellation, etc.
+3. Transfer of personal information during mergers, acquisitions, and reorganizations
+With the continuous development of Yidian Information's business, when mergers, acquisitions, asset transfers, reorganizations and other transactions occur that result in the transfer of your personal information to third parties, Yidian Information will inform you of the relevant situation through push notifications, announcements and other forms, and continue to protect or require new managers to continue to protect your personal information in accordance with laws and regulations and standards not lower than those required by this privacy protection agreement.
+6、 Update and disclose information
+Encourage users to update and modify their personal information to make it effective. Users can decide to modify relevant information, such as nicknames, avatars, etc.
+Please note that when you voluntarily disclose personal information (such as posting it on a message board under a certain news article), the information may be collected and used by others, resulting in the leakage of your personal information, and we will not be held responsible for any information. In addition, a reminder that you are the person responsible for keeping your account and password information confidential, please take good care to keep it safe.
+7、 Special Protection for Minors' Information and Use
+We attach great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain the consent of your parents or legal guardians before using any information services. If you apply to register an account on Yidian Information, Yidian Information will assume that you have obtained the consent of the aforementioned parents or guardians. Yidian Information will protect the relevant information of minors in accordance with relevant national laws and regulations and the provisions of this agreement.
+8、 Your rights
+1. Your information export, access, modification, deletion, and account cancellation
+After completing the account registration for DianDian Information, you can view, export, modify, and delete the personal information you have submitted to the DianDian Information operator. In general, you can browse, modify, and delete the information you submit at any time, but for security and identity recognition reasons, you may not be able to modify certain initial registration and verification information provided during registration.
+1.1. Accessing personal account information:
+You can query and access basic information such as your avatar, username, profile, etc. You can do so in the "Edit Profile" or "Account and Privacy Settings" section of Yidian Information.
+1.2 You can query, modify, and delete your personal information online through mobile applications and other means.
+For example: query access, correct, unfollow your account, blacklist; Query the information of visiting fans and visitors; Query access, change, delete your favorites, read history, search history; Delete posted content, question and answer content, and comment content.
+1.3 You have the right to independently update or correct your personal information, or authorize a Little Information customer service to update or correct the information. Before you update or correct the information, Little Information will first verify your identity before proceeding with the correction and update.
+1.4 Yidian Information always puts the protection of your personal information first and strictly collects and uses your personal information in accordance with relevant laws, administrative regulations, and the provisions of this agreement. If you find that Yidian Information violates the provisions of laws, administrative regulations, or the provisions of this agreement in collecting and using your personal information, you have the right to request Yidian Information to delete your personal information; When you discover that there is an error in the collection and storage of your personal information, you have the right to request that the information be corrected. Measures will be taken to correct some information.
+1.5 Account Cancellation
+Regarding account cancellation, please use it carefully. Once you complete the account cancellation, you will not be able to use any services and functions provided by Little Information.
+Account cancellation process: Log in to the information app → Me → Settings → Account and binding settings → Cancel account
+1.6 Stop operation
+If any information ceases to operate, the activity of collecting your personal information will be promptly stopped. The notice of cessation of operation will be delivered to you one by one or announced, and the personal information held by you will be deleted or anonymized or made unidentifiable through technical measures.
+2. Change the scope of your authorization or revoke the authorization
+2.1. Change or revoke sensitive information permissions
+You can delete information, change privacy settings, and disable geographic location, camera, microphone, and other permissions in the device's operating system through "Settings" - "Privacy Settings" - "System Permissions" to change the scope of your authorization or revoke your authorization.
+2.2. Refusal to accept push notifications and marketing information
+You can turn off push notifications by rejecting message push notifications, and turn on or off programmatic ad display settings through ad settings.
+Please understand that specific business functions and services will require your information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the functions and services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw your consent or authorization will not affect our previous actions based on your authorization
+Human information processing.
+3. Complaints and reports
+You can follow our public reporting email address tousu@yidian-inc.com Report and file complaints through the hotline "13691332103" and relevant regulations. If you believe that your personal information rights may be infringed upon, or if you discover clues of infringement of your personal information rights, you can use the aforementioned methods or user feedback email“ kefu@yidian-inc.com ”Contact us. We will provide feedback on your complaint and report within 15 working days after verification.
+9、 Disclaimer
+1. Due to you sharing your account and password with others or sharing your registered account with others, resulting in the leakage of personal information;
+2. Due to the leakage of personal data caused by links to other websites with some information, and the resulting legal disputes and consequences.
+3. Our company has taken effective measures to prevent personal information leakage, loss, theft, or tampering caused by hacker activities, computer virus intrusions, or temporary shutdowns due to government regulations that cannot be prevented by technology or capabilities, which affect the normal operation of the network.
+10、 Revision of Privacy Protection Agreement
+In order to provide you with better services, some information and related services will be updated and changed from time to time. We will revise this privacy policy in a timely manner, and these revisions constitute a part of this privacy policy and have the same effect as this privacy policy. Without your explicit consent, we will not reduce the rights you should enjoy under the current effective privacy policy.
+After the update of this privacy policy, we will send out an updated version in a message and notify you of the updated content through official website announcements or other appropriate means before the updated terms take effect, so that you can keep up with the latest version of this privacy policy in a timely manner.
+11、 Contact some information
+If you have any questions, opinions or suggestions regarding the services related to Yidian Information or the privacy measures involved in this agreement, please email to the user feedback email of Yidian Information kefu@yidian-inc.com . You can also contact Yidian Information customer service by phone, with a customer service hotline of 400-819-1599.
+12、 Agreement rights
+You agree that the effectiveness of the privacy policy only represents your knowledge and authorization of necessary personal information for basic functions.

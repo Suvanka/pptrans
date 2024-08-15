@@ -1,0 +1,376 @@
+July 26, 2024
+April 8, 2024
+November 21, 2023
+August 2, 2023
+May 19, 2023
+Version update prompt
+In order to better protect your rights and interests, we have updated the "Enterprise WeChat Privacy Protection Guidelines", which mainly include:
+In the "What types of information do we collect" section of Chapter 1, the relevant explanations for text selection processing (Section 1.2.2, Item 8), intelligent conference recording (Section 1.3.9, Item 1), secure login (Section 1.3.13), and workbench request (Section 1.6) have been updated.
+2. In Chapter 5, "External Provision, Disclosure, and Transfer of Information", the relevant instructions for each message push SDK and Weishi Tong third-party encryption SDK in the "Third Party Information Sharing List" have been updated.
+introduction
+Welcome to use Enterprise WeChat!
+Please read, understand, and agree to this privacy policy and related supplementary documents, especially the bolded, bolded, and underlined terms, before using Enterprise WeChat.
+This privacy policy applies to the functions and services of enterprise WeChat products themselves (including but not limited to instant messaging, government funded phone calls, clocking in, announcements, approvals, WeChat disks, documents, contact lists, schedules, reports, meetings, live broadcasts, emails, hardware services, as well as adding WeChat friends and other WeChat communication functions and services), and does not apply to other products or services provided through enterprise WeChat websites or clients, or any other third-party products or services (hereinafter referred to as "third-party services"). Before choosing to use third-party services, you should fully understand the product functions and privacy protection policies of third-party services.
+This privacy guide will help you understand the following:
+1. What types of information do we collect
+2. How do we store this information
+3. How do we protect this information
+4. How do we use this information
+5. External provision, disclosure, and transfer of information
+6. How do you access and manage personal information
+7. Protection of Minors
+8. Changes to this Privacy Policy
+9. Other
+10. Contact Us
+Related definitions:
+Enterprise WeChat: Enterprise WeChat is an office management communication tool provided by us. Enterprise WeChat products and services, including the official WeChat website（ https://work.weixin.qq.com ）And enterprise WeChat client (including multiple application versions such as Windows, Mac, iOS, Android, etc.).
+Enterprise WeChat operating entity: refers to the legal entity that provides enterprise WeChat products and related services, which is Shenzhen Tencent Computer System Co., Ltd., registered at 35th floor, Tencent Building, Science and Technology Zhongyi Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen. In this privacy policy, we are referred to as' we '.
+Enterprise user: refers to individuals or organizations who register, log in, use enterprise WeChat products and services and obtain management permissions, including but not limited to legal persons (such as companies, government agencies, public institutions, etc.), non legal persons (such as partnerships, etc.), individual businesses, etc. (also known as "enterprise users", "enterprise users you join" or "your enterprise"); Enterprise users can create their own workspace (a virtual workspace created and managed by enterprise users that allows multiple people to join and use enterprise WeChat services) through enterprise WeChat, and invite and authorize individual users to join their workspace as their end users.
+Enterprise User Administrator: refers to an individual designated by the enterprise user who has operational permissions for the enterprise user management backend system; Enterprise user administrators can be one or more people.
+Individual User/End User: Refers to an individual user who is invited by an enterprise user to join the enterprise work platform and register to use enterprise WeChat, hereinafter referred to as "you" or "end user". When enterprise users, enterprise user administrators, or individual users of enterprise users invite you to join their work platform as an end user, you will receive an invitation and can choose whether to join the enterprise user or not.
+Personal information: refers to various information related to identified or identifiable natural persons recorded in electronic or other ways, excluding anonymized information.
+Sensitive personal information: refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety. This includes biometric, religious beliefs, specific identities, medical and health care, financial accounts, tracking information, as well as personal information of minors under the age of fourteen.
+Anonymization processing: refers to the process of using technology to process personal information so that the subject of personal information cannot be identified and the processed information cannot be restored. The information obtained after anonymization of personal information does not belong to personal information.
+De identification processing: refers to the process of processing personal information so that it cannot identify a specific natural person without the need for additional information.
+For more definitions, please refer to the Tencent Privacy Policy.
+1. What types of information do we collect
+In order to provide services to you and enterprise users, ensure the normal operation of services, and safeguard the security of your account, we will need to request relevant permissions from you. Sensitive permissions such as cameras and microphones will not be enabled by default, and will only be authorized to us with your explicit consent. Even with your authorization, we will not collect your sensitive information in situations or functions that do not require it. We will only collect your relevant information when necessary and in accordance with this privacy policy. You can also manage your permissions independently in the enterprise WeChat privacy function interface (path: three horizontal icons in the upper left corner of enterprise WeChat - "gear" setting icon in the lower right corner - personal information and permissions - system permission management) or enter the device system management permission. For more information on permissions, usage purposes, and scenario descriptions, please refer to the "Permission Introduction and Usage Scenario Description".
+1.2 In order to provide services to you and enterprise users, ensure the normal operation of services, improve and optimize our services, and ensure account security, Enterprise WeChat will collect information that you voluntarily provide, authorize to provide, or generate as a result of using the services in the following ways:
+1.2.1 Account registration information: When you first register and log in to Enterprise WeChat, you need to provide your phone number or provide your WeChat account (your WeChat account nickname, avatar). The above information is
+It is necessary for you to use Enterprise WeChat. If you do not provide this type of information, you will not be able to use our services normally.
+1.2.2 When you use enterprise WeChat services, in order to provide you and enterprise users with enterprise WeChat products and services, maintain the normal operation of our services, improve and optimize our service experience, and ensure the security of your account or based on the need to comply with laws and regulations, we will collect the following information from you:
+1) Based on the device model and permissions granted during the installation and use of enterprise WeChat services, we will collect information about the devices and other related information that use enterprise WeChat services, including ICCID, device model, operating system, Mac address, unique device identifier (a string of characters encoded by the device manufacturer that can be used to uniquely identify the corresponding device, such as IMEI number, Android ID, OAID, IMSI, etc.), enterprise WeChat software version number, device accelerator (such as gravity sensing devices), WLAN access point (such as BSSID, SSID), login IP address, etc. At the same time, in order to prevent viruses, Trojan programs, or other malicious programs and websites, we may collect data stored in the installed applications, running processes, or device memory of your device.
+2) When you use enterprise WeChat services, we collect log information about your use of the service, including the method, type, and status of network access, network quality data, operation logs (such as the operation logs of the system permissions granted to enterprise WeChat to access microphones and cameras when you use voice or video call functions; the operation logs of the system permissions granted to enterprise WeChat to access schedules when you use schedule functions), service log information (such as the website information you view on enterprise WeChat, service failure information, etc.), etc.
+3) The information you submit through our customer service or when participating in our events. For example, the survey questionnaire you fill out when participating in our online activities may include your name, phone number, home address, and other information.
+4) We will conduct real name authentication for you in accordance with the requirements of laws and regulations. If you log in through authorized WeChat, we may confirm whether you have registered your real name based on the name you fill in, reducing the need for you to directly provide us with more personal information and making the process shorter and smoother. If we are unable to authenticate your real name in the above way, we may collect your name and ID number number provided by you on your own initiative and ask you to perform face verification for real name authentication. Your facial image is only used to verify your identity. We only obtain the verification result and will not store your facial image. Refusing to provide this information usually only prevents you from obtaining real name authentication and related functions, but does not affect your normal use of other functions of enterprise WeChat. But when the usage environment of your account has high security risks or there are security risks in your account, if your account does not undergo real name authentication, you will not be able to use the functions of enterprise WeChat. The relevant information processing rules for face verification are detailed in the "Face Recognition Identity Verification Rules". If enterprise users want to get more functions, enterprise user administrators can submit enterprise qualification information (such as enterprise name, business license, unified social credit code), subject verification information (such as enterprise account name, account bank, corporate bank account number, legal representative name and ID number number, depending on the verification method selected by the administrator), enterprise scale information (such as enterprise user size, enterprise scale certification official letter), operator information (such as name, mobile phone number, e-mail address) to apply for certification, and become the subject of enterprise WeChat certification.
+5) If you choose to authorize WeChat to log in to Enterprise WeChat, we will obtain your profile picture and nickname from WeChat with your consent. If you refuse, it may result in the inability to authorize WeChat to log in to Enterprise WeChat, but it does not affect your choice to use your phone number to log in to Enterprise WeChat; We will also collect other information that you have authorized and agreed to (such as WeChat friend relationships, specific information subject to your consent on the authorization interaction page). If you do not agree to the authorization, it will not affect your use of other functions of Enterprise WeChat.
+6) When you copy and paste information in Enterprise WeChat, we will apply to use your clipboard. We only recognize the clipboard information locally and will not upload your clipboard information to our servers.
+7) When you use the step counting function, we need to collect and display your step count information, and compare it with the end users of your enterprise who use this function. Refusing to provide this information will only prevent you from using the step counting function, but it will not affect your normal use of other functions of Enterprise WeChat. Please be informed that the functions related to exercise step counting are currently only available to some enterprise users and their end-users.
+8) When you enter and select text in Enterprise WeChat, in order to facilitate your processing (such as translation, search) of the selected text, we may collect the names of applications on your device that provide the above text processing capabilities and display them on the text selection toolbar. We only process locally and will not upload to our server.
+1.3 Enterprise users entrust us to provide office management and communication services. Enterprise users entrust us to handle the information and data submitted or generated by enterprise users and their end users during the use of enterprise WeChat, including information submitted or requested by enterprise users, information assigned to end users by enterprise users, and information submitted by end users to enterprise users for the purpose of completing work needs and meeting daily management needs of the enterprise (hereinafter referred to as "entrusted personal information"). Enterprise users are the processors of such personal information. We accept the commission of enterprise users to process such personal information based on their instructions (including operations performed by enterprise users and enterprise user administrators through the management backend), as well as agreements between us and enterprise users, or for the purpose of providing office management and communication services. The personal information entrusted for processing includes:
+1.3.1 Personal information submitted or requested by enterprise users such as your name, photo, gender, mobile phone number and ID number number.
+1.3.2 Belonging enterprise, invoice header, work signature, landline number, email address, position, job level, position, affiliated department, fax number, office seat, customer relationship, etc. related to enterprise users
+Or the information assigned to you by enterprise users.
+1.3.3 Your approval records, WeChat document information, and usage of government funded phone numbers.
+1.3.4 Your device location information (such as GPS location, CELLID, nearby WIFI, BSSID, SSID) and check-in records when using the check-in function. The above location information is sensitive personal information. Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of Enterprise WeChat.
+1.3.5 When you use the external contact function, we will accept the commission of enterprise users to collect the phone address book information you voluntarily provide to match external contacts. We will irreversibly encrypt your phone address book information and only collect encrypted information. The above information is only for matching purposes and we will not save the data or use it for other purposes. Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of Enterprise WeChat.
+1.3.6 When enterprise users register, they need to provide creator information. We accept the commission of enterprise users to collect the creator's personal information to help them achieve registration.
+1.3.7 When you use facial recognition functions such as clocking in, in order to verify your identity, reduce the cost of manual attendance and verification, and improve the convenience of attendance and verification, enterprise users entrust us to collect your facial information and use Tencent Cloud Computing (Beijing) Co., Ltd.'s technology for comparison. The above facial information is sensitive personal information. When it comes to the above functions, enterprise users will seek your separate consent and provide detailed information on the collection and use of personal information, the process of providing it to third parties, the entrusted processing relationship between enterprise users and enterprise WeChat, etc. Please read the relevant facial information processing agreement carefully before using the above functions. Refusing to provide facial information will only prevent you from using facial recognition functions such as clocking in, attendance machine clocking in, access control, visitor functions, etc., but it will not affect your normal use of other functions of enterprise WeChat. You can choose to contact your company administrator to stop collecting your facial information or delete your facial information, but your company has a certain degree of autonomy based on employment management.
+1.3.8 When you use the document function, in order to help you better participate in document collaboration, document participants can view your profile picture, nickname, document comments, and other information. At the same time, in order for you to be aware of the dynamic information of the document you are participating in, when document participants add you as the designated permission person of the document, mention you, or remind you to view dynamic information such as document modifications, you will receive corresponding reminders.
+1.3.9 When you use the meeting function, in order to help you better participate in the meeting collaboration, participants can view your profile picture, nickname, and other information. At the same time, the information will be processed according to the meeting host or the function you actually choose to use:
+1) When you use the recording function, you need to provide relevant audio and video information. If you do not provide the above information, you will not be able to use the recording function. If you are a participant in the recorded meeting, you will receive a recording reminder. If you do not agree to record your voice or video, you can choose to exit the meeting. Among them, the recording information using the local recording function will be saved on your device; The recorded information using the cloud recording function will be saved on our server. You can view the recorded content in the "Historical Meeting" record. If you are the initiator of the meeting, you can authorize others to access the cloud recording link of the hosted meeting. Please pay attention to setting permissions; When you turn on cloud recording and set "automatic meeting minutes on at the same time", you need to provide meeting audio information, meeting theme, and participant nicknames to generate optimized meeting minutes for you. When you use the intelligent recording function, we will perform algorithmic processing on your meeting related data to generate intelligent recording files for you, including intelligent chapters, speaker summaries, intelligent minutes, intelligent topics, and more. The intelligent recording files will be saved on our server, and you and your authorized users can view them through the cloud recording link.
+2) When you open subtitles, you need to provide conference audio information and participant nicknames to display the optimized text content in real-time. The conference audio information, participant nicknames, and generated text content will be deleted immediately after recognition, and we will not retain them on the server.
+3) When you use the real-time transcription function, you need to provide conference audio information, conference themes, participant avatars, and nicknames to generate optimized text content for you. If you are a participant, you will receive a transcription reminder. If you do not agree to transcribe your meeting audio information, you can choose to exit the meeting. The conference audio information will be deleted immediately after real-time transcription is completed, and we will not retain it on the server; The real-time transcribed text will be saved for the meeting initiator to view and export in the 'Historical Meeting' record.
+4) When you use the beauty function, we need to locally process some of your facial feature value information to achieve facial beauty effects. We will only process relevant facial feature information offline on your local device and will not upload, store or share such information with third parties in the background.
+5) You can view your historical meeting records through "Historical Meetings", which include meeting topics, start and end times, attendees, and other information. Enterprise user administrators can view and export the historical meeting records of their enterprise users in the enterprise WeChat management backend, including meeting topics, start and end times, meeting numbers, number of attendees, and other information.
+1.3.10 When you use the schedule function, you can create a new schedule, schedule a meeting, and add a calendar. When creating a new schedule, scheduling a meeting, or adding a calendar, you need to provide information such as the schedule activity theme, meeting theme, calendar name, calendar account, etc. If you wish to synchronize the system calendar to the enterprise WeChat display, you need to authorize us to obtain device calendar permissions. Refusing authorization will result in the inability to view the schedule in the system calendar through the enterprise WeChat schedule, but it will not affect your use of other schedule functions.
+When you use the email function, in order to achieve the purpose of sending and receiving emails, your email address, nickname, signature and other information set by you will be collected and displayed to the recipient. The emails you write and receive will be encrypted and transmitted to the email cloud server for synchronization
+Storage. You understand and agree that you will not use the email function to send or receive personal letters, nor will you or will you try to avoid sending or receiving emails containing your personal information.
+1.3.12 When you use the live streaming function to publish live content, you need to agree to and comply with the "Enterprise WeChat Live Streaming Service Agreement". At the same time, your nickname, published content, and other live streaming information will be displayed to live streaming viewers. When you watch a live stream, your nickname, avatar, company name, and other information will be displayed to the live streamer; When you post a comment, your nickname, avatar, company name, and the content of the comment will be displayed to the live stream publisher and viewers.
+1.3.13 In order to make your login service more secure, you can choose to activate the fingerprint or facial unlock function (if applicable to your device). You need to enter your fingerprint or facial information on your device. When you log in with your fingerprint or facial information, you need to complete fingerprint or facial verification on your device. We only receive verification results and do not collect your fingerprint or facial information. The above information is sensitive personal information. Refusing to provide this information will only prevent you from using fingerprint or facial unlock functions, but it will not affect your normal use of other functions of enterprise WeChat.
+1.3.14 When you use the enrollment registration or personal file function in the personnel assistant, according to the employment management requirements of your enterprise, you may be required to provide your political status, marital status, ID number number, ID card copy, social security account number, provident fund account number, bank card number and other information. The specific information is subject to the requirements of your enterprise. If you have any questions about the collection of the above information, you can contact your enterprise for processing. The above information is sensitive personal information. Refusing to provide this information will only prevent you from using the employment registration or personal profile functions, but it will not affect your normal use of other functions of enterprise WeChat.
+1.3.15 If your enterprise has opened the health reporting function, your enterprise may require you to actively report your daily health information, which may include your name, department, city of the day, whether there is any physical discomfort on the day, contact personnel on the day, special information on the day, ID number number, etc. We will collect the above information from you based on the commission of enterprise users. The above health information is sensitive personal information. Refusing to provide this information will only prevent you from using the health reporting function, but it will not affect your normal use of other functions of enterprise WeChat. If you wish for your company to stop collecting your health information or delete the health information you have already submitted, you can contact your company administrator to handle it, except for those required by laws, regulations, or government directives to be collected or not deleted.
+1.3.16 In order to achieve secure management of enterprise information, based on the security features enabled by your enterprise, we will collect and use service log information generated by security features, including device information (MAC address, serial number, motherboard UUID, hard disk serial number, domain name, and domain computer name, specific information may vary depending on the terminal type) when you log in to enterprise WeChat, log information (such as login time, login IP address, terminal type, and account information, etc.) when you log in to enterprise WeChat, operation log information for leak prevention files/address book information (such as operation time, operation behavior, file name, etc. file operation records, address book viewing records, etc.), and operation log information for security management such as screenshot/screen recording (such as screenshot time, screenshot content, etc.).
+1.3.17 Other data containing your personal information submitted or generated by enterprise users or end-users, such as organizational structure, approval processes, etc; And other data provided by you when using enterprise WeChat related functions, such as your work signature, the name and avatar of your bound video account, the content you post in your customer friend circle, the materials you add or post in the group messaging assistant, the operation logs of your use of email, document, WeChat drive and other functions (such as email sending and receiving records, login records, operation records; document, WeChat drive operation time, operation behavior, login IP address), etc. These data may include pictures, audio, videos, files, etc., depending on the format supported by the corresponding function or service and the format you provide.
+Before enterprise users upload, manage, collect, process, store, and provide their end user personal information to the outside world, and entrust us to process end user personal information, they should ensure that they have obtained explicit consent from the end user in accordance with relevant laws and regulations, and have fully informed the end user of the purpose, scope, usage, protection measures, and entrusted us to process the relevant data.
+1.4 The payment function of Enterprise WeChat is provided to you by Tenpay Payment Technology Co., Ltd. (hereinafter referred to as "Tenpay Company"). When enterprise users submit materials to create a payment account through the external payment function, in accordance with relevant laws and regulations, Tenpay will collect the name and ID information of the operator/legal person, the ID information, mobile phone number, and email address of the account administrator, as well as the name and card number of the receiving bank account; When you use the payment function, in order to facilitate your query of transaction records and for enterprise user administrators to query records related to merchant account transactions, Tenpay will collect your relevant transaction orders and payment records. Refusing to provide this information will only prevent you from using payment related functions, but it will not affect your normal use of other functions of Enterprise WeChat. If you need to further understand the privacy policy of Tenpay, you can refer to the "Tenpay Privacy Policy".
+1.5 When you use the industry news function, if you click "watching" and comment on the industry news content, your avatar, nickname, and comment will be displayed to other end users of your enterprise. In order to showcase and recommend industry news with higher relevance to you, and provide better quality and personalized content services, we may collect and use information provided by your company (such as industry type, company information preferences, job positions set for you, etc.), as well as necessary operation log information related to your browsing, viewing, commenting, bookmarking, forwarding, etc. in industry news. The personalized content recommendation model does not accurately identify your true identity. You can turn off the personalized content recommendation service by clicking on "Industry News" - "····" - "Personalized Recommendation" switch in the upper right corner. If you do not wish to receive industry news, you can click on it
+Industry News "-" ···· "-" Receive Industry News "switch, turn off receiving industry news by yourself, and your enterprise administrator can also choose to turn off the industry news function. Please be informed that the personalized recommendation function is currently only available to some enterprise users and their end-users.
+1.6 When you make a request or write a reply in the workbench's request function, your profile picture, company, surname, gender, and published content will be displayed to other end users. Please be informed that this feature is currently only available to some enterprise users and their end-users. At the same time, in order to showcase and recommend more relevant third-party applications and services to you, we may collect and use information provided by your company (such as company name, job title set for you, etc.), as well as necessary operation log information related to your viewing, clicking, searching, adding, etc. in the "Select Applications" and "Find Services" functions of the workbench. The personalized content recommendation model does not accurately recognize your true identity. You can turn off the personalized recommendation service by clicking on the "Me" - "Settings" switch in the upper right corner.
+1.7 When you add WeChat friends, create external groups, or use other functions to communicate with WeChat, WeChat users can view your nickname, avatar, company, real name, and other information you agree to display externally (such as phone number, email address, job title, etc.). If you need to further understand WeChat's privacy policy, you can refer to the "WeChat Privacy Protection Guidelines".
+1.8 Explanation of Sensor Application Scenarios
+Application scenarios
+Sensor name
+Purpose of use
+Use the clock in function
+Acceleration sensor, gyroscope sensor, rotation vector sensor, direction sensor
+By using sensors to determine device status and assist in obtaining device location information.
+Use location function in conversation
+Acceleration sensor, gyroscope sensor, rotation vector sensor
+By using sensors to determine device status and assist in obtaining device location information.
+Use meeting function
+Magnetic field sensor, distance sensor, acceleration sensor, light sensor, gravity sensor, direction sensor, device motion data (iOS only, used for collecting gyroscope data)
+1. Use sensors to determine device status and assist in implementing ear to ear mode in conference scenarios.
+2. When using the custom virtual background function, it recognizes the screen orientation of the device and assists you in switching screen orientations.
+3. Use the custom virtual background function and beauty function to correct the video direction when turning on the camera.
+Using Mini Program Features
+Accelerometer
+Determine the horizontal and vertical screen status of the device through sensors and adapt to automatic rotation.
+Use live streaming function
+Accelerometer
+By using sensors to determine the horizontal and vertical screen status of the device, if the horizontal and vertical screen status is inconsistent with the live streaming mode, prompt the user.
+Use facial recognition real name authentication function
+Light sensor
+By using sensors to detect light, users are alerted in case of abnormal light conditions.
+Use video call function
+Distance sensor
+By using sensors to determine device status, it assists in implementing ear to ear mode in video call scenarios.
+Use the photo taking and other scene taking functions in the conversation toolbar
+Accelerometer
+By using sensors to assist in achieving autofocus function, the photography effect can be improved.
+Use the functions related to step counting in exercise
+Step counting sensor
+Use sensors to detect changes in the number of motion steps.
+Use document functionality
+Gravity sensor
+By using sensors to determine the screen orientation, the keyboard can be automatically pulled up when opening a document in portrait mode.
+1.8 Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service (such as small-scale testing, experimental functions, etc.) does not inform you of the processing rules for collecting your information in the above description, we will separately inform you of the scope, purpose, and method of information collection through page prompts, interaction processes, website announcements, etc., and obtain your consent.
+2. How do we store this information
+2.1 Location of Information Storage
+We will store personal information collected and generated within China in accordance with laws and regulations. If your personal information storage location is transferred from within China to overseas, we will strictly comply with the provisions of laws and regulations.
+2.2 Duration of Information Storage
+Generally speaking, we only retain your personal information for the time necessary to achieve our objectives. For entrusted personal information that enterprise users can independently set retention periods for (such as chat records, file images, etc. on enterprise WeChat), we will retain the relevant information according to the enterprise user's settings, and we will not view or use the chat records and file images retained by enterprise users.
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., delete your personal information or anonymize it within a reasonable period of time, immediately stop collecting personal information, and close third-party application service interfaces to prevent third-party services from collecting and continuing to use personal information.
+3. How do we protect this information
+3.1 We strive to provide security for users' information to prevent loss, improper use, unauthorized access, or disclosure of information.
+3.2 We will use various security measures within a reasonable level of security to ensure the security of information. For example, we will use encryption techniques (such as SSL/TLS), de identification or anonymization processing to protect your personal information.
+3.3 We establish specialized management systems, processes, and organizations to ensure the security of information. For example, we strictly limit the scope of personnel accessing information, require them to comply with confidentiality obligations, and conduct audits. We enhance the security capabilities of the software installed on your device through continuously improving technological means to prevent the leakage of your personal information. For example, we will encrypt some information locally on your device for secure transmission; In order to prevent illegal activities such as fraud, account theft, and impersonation of others, and to conduct security checks, we may analyze and utilize data such as unique device identifiers, login IP addresses, operation logs, location information, etc., in order to take security measures or provide security reminders to users.
+3.4 In case of personal information leakage or other security incidents, we will activate emergency plans in accordance with the law, prevent the expansion of security incidents, and fulfill corresponding reporting and notification obligations in accordance with the law.
+3.5 mesh
+Previously, enterprise WeChat has achieved ISO/IEC 20000 in terms of information security and network security ISO/IEC 27001、ISO/IEC 27018、 The requirements of international and domestic authoritative certification standards such as Network Security Level Protection (Level 3) have been met, and corresponding certifications have been obtained.
+We will do our best to protect your personal information. We also ask for your understanding that no security measure can be flawless.
+4. How do we use this information
+We strictly comply with the provisions of laws and regulations and agreements with users, and use the collected information for the following purposes in accordance with the provisions of this privacy policy.
+4.1 The personal information collected by us during your use of enterprise WeChat services or on behalf of enterprise users is for the purpose of creating and providing better services to enterprise WeChat users (including enterprise users and end users). We will use the collected information for the following purposes:
+4.1.1 Provide, maintain, and develop enterprise WeChat services: We will use the collected information to provide and optimize and improve enterprise WeChat services, such as tracking service interruptions or troubleshooting issues reported to us by enterprise WeChat users; We may show you WeChat friends based on your authorization to expand your enterprise WeChat contacts. If you do not agree, you can close them through the following path (three horizontal icons in the upper left corner of enterprise WeChat - "gear" setting icon in the lower right corner - contact permissions - get my WeChat friend relationship); Provide various data statistical analysis functions and services for you or your company based on enterprise WeChat logs, service usage information, etc., such as weekly summary function, customer service data statistics, etc.
+4.1.2 Security Protection: To ensure the security of you and all enterprise WeChat users, we will use relevant information to assist in improving the security and reliability of enterprise WeChat services, including detecting, preventing, and responding to fraudulent, abusive, illegal, security risks, and technical issues that may harm enterprise WeChat, our users, or the public.
+4.1.3 Communication with you: We will use the collected information (such as the email address you provide, the email address of the manager of the enterprise user, phone number, etc.) to communicate directly with you. For example, if we detect suspicious activity (such as attempting to log in to your enterprise WeChat from a different location than usual), we may send you notifications and inform you of upcoming changes or improvements to your enterprise WeChat. Alternatively, we will conduct a service follow-up for you.
+4.1.4 In order to comply with relevant laws, regulations, and government directives.
+At present, we will not use your personal information for personalized advertising purposes. If we use your personal information beyond the stated purpose and scope of direct or reasonable association at the time of collection, or beyond the scope entrusted by enterprise users, we will inform you separately through page prompts, interactive processes, website announcements, etc. and obtain your explicit consent before using your personal information.
+4.2 For personal information entrusted for processing, we will handle it in accordance with the decisions of enterprise users and our relevant agreements with them, or their operations in the background in accordance with the law. For example, enterprise users have the right to decide what and how to display relevant information about end users within enterprise WeChat.
+4.3 According to relevant laws and regulations, we may collect and use your personal information without seeking your authorization and consent in the following situations:
+4.3.1 is necessary for the conclusion and performance of a contract to which an individual is a party;
+4.3.2 Necessary for fulfilling statutory duties or obligations;
+4.3.3 is necessary to respond to sudden public health emergencies or to protect your life, health, and property safety in emergency situations;
+4.3.4 To carry out news reporting, public opinion supervision and other activities for the public interest, and to process your personal information within a reasonable range;
+4.3.5 Process your self disclosed or other legally disclosed personal information within a reasonable scope;
+4.3.6 Other circumstances stipulated by laws and administrative regulations.
+5. External provision, disclosure, and transfer of information
+6. How do you access and manage personal information
+7. Protection of Minors
+8. Changes to this Privacy Policy
+9. Other
+10. Contact Us
+Enterprise WeChat operating entity
+Enterprise User Administrator
+Sensitive personal information
+Anonymization processing:
+De identification processing:
+What types of information do we collect
+1.2 In order to provide services to you and enterprise users, ensure the normal operation of services, improve and optimize our services, and ensure account security, Enterprise WeChat will collect information that you voluntarily provide, authorize to provide, or generate as a result of using the services in the following ways:
+1.2.2 When you use enterprise WeChat services, in order to provide you and enterprise users with enterprise WeChat products and services, maintain the normal operation of our services, improve and optimize our service experience, and ensure the security of your account or based on the need to comply with laws and regulations, we will collect the following information from you:
+2) When you use enterprise WeChat services, we collect log information about your use of the service, including the method, type, and status of network access, network quality data, operation logs (such as the operation logs of the system permissions granted to enterprise WeChat to access microphones and cameras when you use voice or video call functions; the operation logs of the system permissions granted to enterprise WeChat to access schedules when you use schedule functions), service log information (such as the website information you view on enterprise WeChat, service failure information, etc.), etc.
+Phone number, home address
+WeChat friend relationship
+6) When you copy and paste information in Enterprise WeChat, we will apply to use your clipboard. We only recognize the clipboard information locally and will not upload your clipboard information to our servers.
+Refusing to provide this information will only prevent you from using the step counting function, but it will not affect your normal use of other functions of Enterprise WeChat.
+8) When you enter and select text in Enterprise WeChat, in order to facilitate your processing (such as translation, search) of the selected text, we may collect the names of applications on your device that provide the above text processing capabilities and display them on the text selection toolbar. We are only in this
+The processing will not be uploaded to our server.
+Enterprise users are the processors of such personal information. We accept the commission of enterprise users to process such personal information based on their instructions (including operations performed by enterprise users and enterprise user administrators through the management backend), as well as agreements between us and enterprise users, or for the purpose of providing office management and communication services.
+1.3.2 Information related to enterprise users or assigned to you by enterprise users, such as affiliated enterprise, invoice header, work signature, landline number, email address, position, job level, position, affiliated department, fax number, office seat, customer relationship, etc.
+1.3.3 Your approval records, WeChat document information, and usage of government funded phone numbers.
+The above location information is sensitive personal information. Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of Enterprise WeChat.
+Mobile phone address book information
+Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of Enterprise WeChat.
+1.3.6 When enterprise users register, they need to provide creator information. We accept the commission of enterprise users to collect the creator's personal information to help them achieve registration.
+1.3.8 When you use the document function, in order to help you better participate in document collaboration, document participants can view your profile picture, nickname, document comments, and other information. At the same time, in order for you to be aware of the dynamic information of the document you are participating in, when document participants add you as the designated permission person of the document, mention you, or remind you to view dynamic information such as document modifications, you will receive corresponding reminders.
+1.3.9 When you use the meeting function, in order to help you better participate in the meeting collaboration, participants can view your profile picture, nickname, and other information. At the same time, the information will be processed according to the meeting host or the function you actually choose to use:
+Audio and video information
+Facial feature value information
+5) You can view your historical meeting records through "Historical Meetings", which include meeting topics, start and end times, attendees, and other information. Enterprise user administrators can view and export the historical meeting records of their enterprise users in the enterprise WeChat management backend, including meeting topics, start and end times, meeting numbers, number of attendees, and other information.
+When you use the email function, in order to achieve the purpose of sending and receiving emails, your email address, nickname, signature, and other information will be collected and displayed to the recipient. The emails you write and receive will be encrypted and transmitted to the email cloud server for synchronous storage. You understand and agree that you will not use the email function to send or receive personal letters, nor will you or will you try to avoid sending or receiving emails containing your personal information.
+You need to input your information on your device
+The above information is sensitive personal information. Refusing to provide this information will only prevent you from using fingerprint or facial unlock functions, but it will not affect your normal use of other functions of enterprise WeChat.
+The above information is sensitive personal information. Refusing to provide this information will only prevent you from using the employment registration or personal profile functions, but it will not affect your normal use of other functions of enterprise WeChat.
+Daily Health Information
+We should ensure that the explicit consent of the end user has been obtained in advance in accordance with relevant laws and regulations, and that the end user has been fully informed of the purpose, scope, usage, protective measures, and entrusted with processing of the relevant data collection.
+Browse, watch, comment, bookmark, and forward
+The personalized content recommendation model does not accurately identify your true identity
+1.8 Explanation of Sensor Application Scenarios
+Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service (such as small-scale testing, experimental functions, etc.) does not inform you of the processing rules for collecting your information in the above description, we will separately inform you of the scope, purpose, and method of information collection through page prompts, interactive processes, website announcements, etc., and obtain your consent.
+How do we store this information
+Location of information storage
+Duration of Information Storage
+How can we protect this information
+3.1 We strive to provide security for users' information to prevent loss, improper use, unauthorized access, or disclosure of information.
+3.4 In case of personal information leakage or other security incidents, we will activate emergency plans in accordance with the law, prevent the expansion of security incidents, and fulfill corresponding reporting and notification obligations in accordance with the law.
+How do we use this information
+4.1 The personal information collected by us during your use of enterprise WeChat services or on behalf of enterprise users is for the purpose of creating and providing better services to enterprise WeChat users (including enterprise users and end users). We will use the collected information for the following purposes:
+4.1.2 Security Protection: To ensure the security of you and all enterprise WeChat users, we will use relevant information to assist in improving the security and reliability of enterprise WeChat services, including detecting, preventing, and responding to fraudulent, abusive, illegal, security risks, and technical issues that may harm enterprise WeChat, our users, or the public.
+4.1.3 Communication with you: We will use the collected information (such as the email address you provide, the email address of the manager of the enterprise user, phone number, etc.) to communicate directly with you. For example, if we detect suspicious activity (such as attempting to log in to your enterprise WeChat from a different location than usual), we may send you notifications and inform you of upcoming changes or improvements to your enterprise WeChat. Alternatively, we will conduct a service follow-up for you.
+4.1.4 In order to comply with relevant laws, regulations, and government directives.
+4.2 For personal information entrusted for processing, we will handle it in accordance with the decisions of enterprise users and our relevant agreements with them, or their operations in the background in accordance with the law. For example, enterprise users have the right to decide what and how to display relevant information about end users within enterprise WeChat.
+According to relevant laws and regulations, we may collect and use your personal information without seeking your authorization and consent in the following situations:
+To establish and fulfill
+Necessary for an individual as a party to a contract;
+Necessary for fulfilling statutory duties or obligations;
+To respond to sudden public health emergencies or to protect your life, health, and property safety in emergency situations;
+To carry out news reporting, public opinion supervision and other actions for the public interest, and to process your personal information within a reasonable range;
+Process your self disclosed or other legally disclosed personal information within a reasonable range;
+Other circumstances stipulated by laws and administrative regulations.
+External provision, disclosure, and transfer of information
+We will not provide your personal information to third parties, except in the following circumstances:
+5.1 Obtaining your explicit consent: With your prior separate consent, we may provide your personal information to third parties.
+5.2 In order to achieve the purpose of external processing, we may provide your personal information to affiliated companies or other third-party partners, allowing them to process the above information for us in accordance with our instructions, privacy policies, and other relevant confidentiality and security measures, and use it to provide our services to you to achieve the purposes described in the "How We Use Information" section. We will adopt strict technical measures to ensure your information security. For more details, please refer to the 'List of Third Party Information Sharing'.
+5.3 Activate the use of third-party applications. Enterprise user administrators can independently choose to open, manage, and use third-party services through the Enterprise WeChat "Workbench". We accept the commission of enterprise users to provide entrusted personal information to the third-party service provider, such as your basic information (UserID, avatar, etc.) and basic permissions (such as enterprise customer permission information, approval interface permission information, etc.). Enterprise user administrators can choose to delete the third-party application in the application management of the "Workbench". If you choose to activate third-party services (such as mini programs, etc.) through the enterprise WeChat "Workbench", we will provide your basic information (UserID, avatar, etc.) and basic permissions (such as enterprise customer permission information, approval interface permission information, etc.) to the service provider after obtaining your consent. If you do not agree to provide it, you will not be able to use the third-party service, but it will not affect your use of other functions of Enterprise WeChat. When you activate the use of third-party services, you need to read and fully understand and comply with the product features, statements, and corresponding agreements of the third-party services.
+5.4 In order to ensure the stable operation and functional implementation of the software, and enable you to use and enjoy more services and functions, we will embed authorized partner SDKs or other similar applications in the application according to service needs or as commissioned by enterprise users. We will carefully evaluate the purpose of third-party use. To learn more about the introduction, purpose, and scenarios of SDK collecting personal information, please click on the "Third Party Information Sharing List".
+5.5 We will not publicly disclose the personal information collected. If it is necessary to disclose publicly, we will inform you of the purpose of this disclosure, the type of information disclosed, and the sensitive personal information that may be involved, and comply with relevant laws and regulations for disclosure. It should be noted that the disclosure or sharing of end-user related information on the enterprise user work platform they join is determined and managed by the enterprise user. If you have any questions or opinions about this, you understand and agree to contact your enterprise or enterprise user administrator for handling.
+5.6 As our business continues to develop, we may need to transfer personal information due to mergers, acquisitions, asset transfers, etc. We will inform you of the relevant circumstances (including the name or contact information of the recipient), and continue to protect or require new personal information recipients to continue protecting your personal information in accordance with laws and regulations and standards not lower than those required by this privacy guideline.
+5.7 Handling of Infringement Complaints: When you are complained about by others for infringing intellectual property or other legal rights, we need to disclose your necessary information to the complainant for complaint handling.
+5.8 We may disclose your personal information based on legal requirements or enforcement demands from relevant departments.
+According to relevant laws, regulations, and national standards, in the following situations, we do not need to obtain your prior authorization and consent to provide or publicly disclose users' personal information:
+Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their authorization and consent;
+Personal information that the individual discloses to the public on their own;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+How do you access and manage personal information
+During your use of Enterprise WeChat, in order for you to conveniently access, copy, correct, supplement, delete your personal information and request us to explain the personal information processing rules, as well as to protect your rights to withdraw consent, exit the enterprise, dissolve the enterprise, and cancel your account, we have provided corresponding operation settings in the product design. You can refer to the following guidelines for operation.
+Please note that there may be differences in operation settings between different operating systems and versions of enterprise WeChat software
+6.1 Accessing Information
+6.1.1 Check basic information such as profile picture, name, gender, nickname, external information display, work signature, affiliated enterprise, invoice header, mobile phone number, landline number, email address, position, job level, position, affiliated department, fax number, seat, secretary, etc.:
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the avatar bar;
+3) Check personal information.
+6.1.2 Checking the Address Book
+1) After entering the enterprise WeChat, click on "Contacts";
+2) View internal and external contacts of the enterprise.
+6.2 Privacy Function Settings
+6.2.1 Do I need to verify when adding me as a contact person
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+4) Click on 'Verification required when adding me as a contact' to make changes.
+6.2.2 Setting up ways to allow others to find the current corporate identity:
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+4) Click on 'Allow others to find the current corporate identity' to make changes.
+6.2.3 Set the information displayed to my external contacts:
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the avatar bar;
+3) Click on 'External Information Display';
+4) Choose whether to display information such as name, company abbreviation, video number, phone number, email address, and job title to my external contacts. You can choose to close it.
+6.2.4 How to accept friend addition requests:
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+4) Choose whether to add me through group chat, add me through personal business card, or accept friend requests I receive on WeChat.
+6.2.5 Manage WeChat friend relationships
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+4) Choose whether to 'get my WeChat friend relationship'.
+6.3 Deleting Personal Information
+6.3.1 Delete all one-on-one chat records:
+1) After entering the enterprise WeChat, open the conversation and click on the "⋮" icon in the upper right corner;
+2) Click to clear chat history.
+6.3.2 Deleting group chat records:
+1) After entering the enterprise WeChat, open the conversation and click on the "⋮" icon in the upper right corner;
+2) Click to clear chat history.
+6.3.3 Delete some chat records:
+1) After entering the enterprise WeChat, open the conversation, long press and click on a message that needs to be deleted;
+2) Select 'Delete' to delete this message.
+6.3.4 Delete basic information such as profile picture, name, gender, nickname, work signature, affiliated company, invoice header, mobile phone number, landline number, email address, position, job level, position, affiliated department, fax number, seat, secretary, etc
+If the enterprise user administrator has not set restrictions,
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the avatar bar;
+3) Delete information.
+If the enterprise user administrator is set as a member and cannot modify it on their own, please contact the enterprise user administrator for assistance.
+6.4 Correction or supplementation of personal information
+If the enterprise user administrator has not set restrictions,
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the avatar bar;
+3) Change or supplement information.
+If the enterprise user administrator is set as a member and cannot modify or supplement on their own, please contact the corresponding enterprise user administrator for assistance.
+6.5 Accessing or Copying Personal Information
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Personal Information and Permissions';
+4) Personal information inquiry and export.
+6.6 Withdrawal of Consent
+Withdraw recommended new external contacts
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+4) Click on 'Recommend new external contacts to me' to change the settings.
+6.7 Exiting the enterprise, dissolving the enterprise, and canceling the account
+6.7.1 Exit the enterprise
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Manage Enterprise';
+4) Click to exit the company's name;
+5) Click on 'Exit Enterprise'.
+6.7.2 Dissolution of Enterprises
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Manage Enterprise';
+4) Click on the name of the dissolved enterprise;
+5) Click on 'Dissolve Enterprise'.
+6.7.3 Account Cancellation
+1) After entering the enterprise WeChat, click on the three horizontal icons in the upper left corner;
+2) Click on the avatar bar;
+3) Check personal information.
+6.1.2 Checking the Address Book
+1) After entering the enterprise WeChat, click on "Contacts";
+2) View internal and external contacts of the enterprise.
+6.2 Privacy Function Settings
+6.2.1 Do I need to verify when adding me as a contact person
+2) Click on the "Gear" settings icon in the bottom right corner;
+3) Click on 'Contact Permissions';
+6.2.2 Setting up ways to allow others to find the current corporate identity:
+6.2.3 Set the information displayed to my external contacts:
+6.2.4 How to accept friend addition requests:
+6.2.5 Manage WeChat friend relationships
+6.3 Deleting Personal Information
+6.3.1 Delete all one-on-one chat records:
+1) After entering the enterprise WeChat, open the conversation and click on the "⋮" icon in the upper right corner;
+2) Click to clear chat history.
+6.3.2 Deleting group chat records:
+6.3.3 Delete some chat records:
+1) After entering the enterprise WeChat, open the conversation, long press and click on a message that needs to be deleted;
+3) Delete information.
+6.4 Correction or supplementation of personal information
+3) Change or supplement information.
+6.5 Accessing or Copying Personal Information
+3) Click on 'Personal Information and Permissions';
+4) Personal information inquiry and export.
+6.6 Withdrawal of Consent
+3) Click on 'Contact Permissions';
+6.7 Exiting the enterprise, dissolving the enterprise, and canceling the account
+6.7.1 Exit the enterprise
+4) Click to exit the company's name;
+6.7.2 Dissolution of Enterprises
+4) Click on the name of the dissolved enterprise;
+6.7.3 Account Cancellation
+3) Click on 'Account and Security';
+4) Click on 'Account Security Center';
+5) Click on 'Cancel Account'.
+Note: When you exit the company, we will delete or anonymize your relevant personal information in the company within a reasonable period of time. You can only dissolve the enterprise you created when you are the founder of the enterprise. You can only apply to cancel your account when you have only one company or team left. After you cancel your account, we will retain your relevant information in accordance with the provisions of laws and regulations such as the Cybersecurity Law of the People's Republic of China; After exceeding the necessary retention period, we will delete or anonymize your personal information within a reasonable period of time.
+6.8 Your right to query, copy, correct, and delete your close relatives
+6.8.1 According to the Personal Information Protection Law, if a natural person dies, their close relatives may exercise the right to query, copy, correct, and delete the relevant personal information of the deceased for their own legitimate and legitimate interests. If your close relatives wish to inquire, copy, correct, or delete your personal information, including profile picture, name, real name, gender, company affiliation, WeChat, phone number, login records, they can contact us through the contact information in Section 10. After verifying your identity, for further verification of facts and circumstances, we have the right to request your close relatives to provide further proof or explanatory materials, and we will provide corresponding services to your close relatives after verification. Except as otherwise provided by laws, regulations, and this Privacy Policy.
+Because this type of information is processed by your company, your company and its administrators have the right to decide whether to provide queries, copies, corrections, or deletions of this type of information to your close relatives.
+Protection of Minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, if you are a minor under the age of 14, before using the products/services of Enterprise WeChat, in addition to carefully reading and understanding this privacy guide, you should also carefully read our specially formulated "Children's Privacy Protection Statement" and obtain written consent from your parents or legal guardians for this privacy guide and the "Children's Privacy Protection Statement". If you are the guardian of a minor and have any questions about the personal information of the minor under your guardianship, please contact us through the contact information provided in Section 10.
+Changes to this Privacy Policy
+We may revise this privacy policy in a timely manner. When there are changes to the terms of the guidelines, we will announce them through our official website（ https://work.weixin.qq.com ）Push notification format to show you the updated guidelines.
+When there are significant changes to the terms of this privacy policy, we will announce them through our official website（ https://work.weixin.qq.com ）Push notifications or more prominent pop ups to inform you.
+The significant changes referred to in this clause include but are not limited to:
+1) Our service model has undergone significant changes, such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+2) We have undergone significant changes in ownership structure, organizational structure, etc., such as changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+3) The main recipients of personal information provided, transferred or publicly disclosed to the outside world have changed;
+4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+6) When the personal information security impact assessment report indicates the presence of high risks.
+9. Other
+The Tencent Privacy Policy is a general privacy policy that we apply uniformly. The user rights and information security measures stipulated in it, including but not limited to how we use cookies and related technologies, are applicable to enterprise WeChat users. If there is any inconsistency or contradiction between the Tencent Privacy Policy and this Privacy Policy, please refer to this Privacy Policy.
+10. Contact Us
+We have established a dedicated personal information protection team and a personal information protection officer. If you have any questions, complaints, or suggestions regarding this privacy policy or personal information protection related matters, you can contact us through any of the following methods:
+1) By https://kf.qq.com/ Contact us;
+2) Send your question to Dataprivacy@tencent.com ；
+3) Sent to the following address: Data Privacy Protection Department, Tencent Binhai Building, No. 33 Haitian 2nd Road, Nanshan District, Shenzhen, Guangdong Province, China (recipient), postcode: 518054.
+We will review the issues involved as soon as possible and respond within 15 days from the date of receiving the complaint.
+Shenzhen Tencent Computer Systems Co., Ltd
+©  1998 - 2024 Tencent Inc. All Rights Reserved

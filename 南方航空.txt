@@ -1,0 +1,373 @@
+Release effective date: May 24, 2018
+Latest update date: December 29, 2023
+China Southern Airlines Co., Ltd. (hereinafter referred to as "China Southern Airlines", "China Southern Airlines", "we") respects and takes measures to protect your personal information.
+This privacy policy aims to clarify how China Southern Airlines collects, uses, shares, stores, and transfers your personal information, as well as how you should exercise your rights to protect your personal information. This privacy policy is applicable to any ticket business of China Southern Airlines and the services provided by China Southern Airlines for you, including but not limited to the authorized third party institutions and agents of China Southern Airlines to assist you in booking tickets, as well as the personal information collected and used by China Southern Airlines when you use the official website of China Southern Airlines (www.csair. com), China Southern Airlines App, China Southern Airlines WeChat official account, applet, or the formal booking channels authorized by China Southern Airlines, and when you use China Southern Airlines' online and offline services.
+The main contents of this privacy policy include:
+1、 What is the business of China Southern Airlines
+2、 The types, methods, and purposes for which China Southern Airlines collects your personal information
+3、 How does China Southern Airlines entrust the processing, sharing, transfer, and disclosure of your personal information
+4、 How does China Southern Airlines use cookies and similar technologies
+5、 Legal basis for China Southern Airlines' processing of personal information
+6、 How does China Southern Airlines protect your personal information
+7、 How does China Southern Airlines store your personal information
+8、 Personal information protection for minors under the age of 14
+9、 China Southern Airlines transfers your personal information globally
+10、 Your right to protection of personal information
+11、 Update to this Privacy Policy
+12、 How to report, complain or contact us
+If you have any questions or concerns about our use of your personal information, or wish to report or complain about any violation of this privacy policy, please contact us through the contact information provided at the bottom of this privacy policy.
+1、 What is the business of China Southern Airlines
+The headquarters of China Southern Airlines is located in Guangzhou, with a blue vertical tail fin adorned with red kapok flowers as the company logo. It has multiple subsidiaries in Xinjiang, North China, and Xiamen Airlines, as well as multiple holding aviation subsidiaries. China Southern Airlines has a general aviation office in Zhuhai, multiple domestic branches in Hangzhou, Qingdao, and other places, and multiple foreign offices in Singapore, New York, and other places.
+At present, China Southern Airlines has extended its route network to more destinations around the world through close cooperation with its partners. In recent years, China Southern Airlines has continued to open and encrypt its flight network, strengthened its transit function, and made full use of the sixth right of way to build the Canton Route international aviation hub. It has formed a route network layout with Europe and Oceania as the core, Southeast Asia, South Asia, and East Asia as the hinterland, and comprehensively radiates North America, the Middle East, and Africa. It has become the first gateway hub from Chinese Mainland to Oceania, and Southeast Asia. For more information about China Southern Airlines, please refer to the "Company Introduction" section on our website.
+2、 The types, methods, and purposes for which China Southern Airlines collects your personal information
+Based on different business scenarios, China Southern Airlines may collect the following personal information in the following ways:
+1. The information you provided to China Southern Airlines
+To fulfill our air transport and related service agreements, or to fulfill our legal obligations, or to safeguard public interests and safety, prevent and control sudden public health emergencies, protect your or others' life, health, and property safety, or to protect our legitimate and legitimate interests within the European Union or European Economic Area, we will ask you to provide the following personal information:
+● Identity information and contact information: your gender, date of birth, ID card number, passport number, nationality, country of permanent residence, your name, address, telephone number, e-mail address, fax number, and personal information (including the contact information of your peers) of other people traveling with you are used to inform you or relevant contacts of flight and order information (including flight travel, security check, boarding, reimbursement, flight delay, insurance business, and accident notification), arrange your itinerary, send your itinerary or other products, verify your identity, invite you to feedback service quality, accept your complaints and suggestions, provide you with "China Southern Account" service, China Southern Happy Flight service, login service, and online authentication service and other products of China Southern Airlines. Please note that when you book related services for others, you need to submit the passenger's personal information. Before providing us with the passenger's personal information, please ensure that you have obtained their consent and that they are aware of and accept this privacy policy.
+● Mingzhu Member Information: Your member account and flight information, recipient information for mileage redemption, trustee information, and guardian information for underage members are used to manage our Mingzhu membership, verify membership identity, and handle point accumulation, rewards, redemption, and other frequent flyer program services for you.
+The identity document information and images required for business services: ID card, passport, visa page, documents that meet the requirements of the Civil Aviation Administration of China for boarding, validity period, issuing authority, age or date of birth, gender, and corresponding document images that may be needed. According to regulatory requirements, they will be used to verify your identity during the process of booking tickets, seats, checking in, boarding, reviewing immigration procedures, aviation insurance services, providing "China Southern Airlines account" services, and other services provided to you (such as handling complaints).
+● Geographic location information: For example, when you fill out an order, we will obtain your location information with your consent to help you fill in your travel address faster and more conveniently. Please note that this may involve collecting your sensitive personal information.
+● Payment information: your bank card number, billing address, credit card validity, account personal information provided to us by online payment platforms (Alipay, WeChat) (such as Alipay, WeChat payment), "China Southern Airlines Wallet" information, "China Southern Airlines Wallet" balance, order and operation records, logs, risk control information, so that we can manage your payment information when purchasing tickets, verify your identity, provide "China Southern Airlines Wallet" service, and China Southern Airlines Happy Flight service.
+● Information that helps improve travel or other services: emergency contacts, special service needs, personal preferences (in-flight meal preferences, airplane seat preferences, in-flight service preferences), used to enhance the relevance of our products and services, improve our services, and provide you with services that better meet your requirements, as well as may be customized with your consent
+Place our marketing advertisement.
+The personal information included in the contract: the name, position, address, and contact information (one or more of which) of the contact person in the contract, in order for us to communicate with the contact person of the enterprise and send the contract or related documents.
+● Other personal information: personal information related to transactional and online transactions related to points and mileage activities of other airlines; By monitoring the usage of our products and services, such as self-service devices, flight status notifications, and personal information obtained through online check-in procedures; Personal information collected through questionnaire surveys, opinion solicitation, or other marketing research activities; Provide personal information to China Southern Airlines for investigation or problem-solving purposes, such as verifying your identity. For enterprise level customer employees, we will also collect and verify their personal information, including name, ID number, contact information, and the name of their company/organization, for the purpose of booking enterprise level customers.
+We use this personal information to facilitate your travel, provide you with other travel related goods and services, manage our 'Southern Airlines Pearl Club', conduct marketing, and provide you with information and contact details about us. The personal information and specific reasons we request from you will be clearly stated to you when we ask for your personal information.
+2. The information we automatically collect
+When you visit our website, app, applet, WeChat official account, we will automatically collect specific information related to you from your device for technical and device reasons. The information we automatically collect will include your:
+● Device information: device model, operating system version, browser version number, IMEI number, IMSI, Android ID, IDFA, Mac address, IP address, port information, DNS, mobile operator, data network standard, ROOT identifier, network access method, login channel, APP version number, login time, running process, sensor, installation list, hardware number, and other log information and technical parameter information related to user network, system, and device.
+● Information on the extensive geographical location of the device (including national or city level locations), as well as other technical information. We also collect information about how your device interacts with us, including the web pages you visit and the links you click on.
+Please understand that this information is used to analyze and judge the uniqueness of equipment and the information that must be collected by the third parties such as Guoshuang, Taobao, MTA, Evoque Push and Alipay. We use this information for operational purposes to help us better understand our visitor base and enhance the level and relevance of our website to visitors. We will start collecting this information as soon as you open the Southern Airlines app. If you refuse to collect the above information, we will not be able to provide you with basic functions or services on the online environment (App, official website, applet or WeChat official account).
+Some of this information will be collected using cookies and similar tracking technologies, as described in "IV. How China Southern Airlines uses cookies and similar technologies".
+3. Information we obtain from third parties
+When you choose third-party products or services that we cooperate with, we may also receive personal information about you from third-party sources from time to time, but this should only occur when the third party is required to fulfill the product or service agreement signed with you, or for the public interest or prevention and control of public health events (such as epidemic prevention and control), or when the third party is legally permitted or required to disclose your personal information to us, or when obtaining your consent.
+The information we collect from third parties includes information provided by affiliated companies, business partners, such as professional travel agencies and other organizations that assist in booking tickets and arranging trips, as well as information provided to us by agents or organizations through other websites for booking tickets and arranging trips for you. We use the information collected from third parties to provide services to you and to ensure the accuracy of the relevant records we have about you. In addition, please note that professional travel agencies may have their own dedicated privacy policies to explain how they collect and process your personal information. These privacy policies do not form part of China Southern Airlines' privacy policy. Please read them carefully and make a decision on whether to agree or not.
+4. List of device permissions we will obtain
+The following are the device permissions and corresponding instructions that we will obtain from you when starting up, in order to provide you with better service. At that time, a pop-up prompt will appear, and we suggest that you allow it. We will seek your consent before obtaining the corresponding permissions. You can also disable the corresponding authorization through the settings of the device operating system.
+Used to read device hardware information as one of the basis for generating unique device identifiers, and to improve the correlation between users and devices through technology and risk control rules. Convenient to use friend payment/itinerary pick-up/drop off to call the driver's phone function. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Used for image storage and upload, personal settings information caching read and write, system and log file creation, itinerary caching/screenshot sharing/saving images to albums, and other functions. You can disable this permission. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Geographic location permission
+Used for personalized information recommendation, such as site services, city services, and map navigation services. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions. You can turn off this permission in Settings - Privacy Permission Settings.
+Need to access the address book in order to access contact information. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions. You can turn off this permission in Settings - Privacy Permission Settings.
+When the 'Southern Airlines' app is first launched, network services are required. If you refuse this permission, it will result in you being unable to use the Southern Airlines App in the network environment.
+Need to access SMS in order to share via SMS. If you refuse this permission, it will only result in you being unable to use it
+Corresponding functional services, but it does not affect your normal use of other functions.
+Camera, photo album
+Convenient to use the functions of scanning codes and identifying boarding passes/portraits/documents. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions. You can turn off this permission in Settings - Privacy Permission Settings.
+Microphone/voice permission
+Need to access the microphone in order to recognize your voice content. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions. You can turn off this permission in Settings - Privacy Permission Settings.
+Need to read the phone status for use in UnionPay payments. You can disable this permission. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Turn on Bluetooth to allow 'Southern Airlines' to connect to the accessory. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Need to access the calendar to manage your flight updates and itinerary reminder functions. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+The accessibility assistance tools used include voiceover, zoom, amplifier, display and text size, dynamic effects, and touch. If you refuse this permission, it will only result in you being unable to use the corresponding assistance tool, but it will not affect your normal use of other functions.
+Personalized recommendations
+Personalized recommendations for goods, services, or information. Based on user information collected in accordance with the law, use algorithm models to predict your preference characteristics, match products, services, or information that you may be interested in, and rank the products, services, or information displayed to you. If you refuse this permission, it will only prevent you from experiencing the corresponding functional services, but it will not affect your normal use of other functions. You can turn off this feature in Settings - Privacy Settings.
+The following are the device permissions and corresponding instructions that we will obtain from you when launching the mini program, in order to provide you with better service. At that time, a pop-up prompt will appear, and we suggest that you allow it. We will seek your consent before obtaining the corresponding permissions.
+Used for positioning, providing services such as nearby airports, stations, city services, and calculating the distance to security checkpoints. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Used to retrieve user information and initiate payment or authorization subscription messages, used for homepage and marketing tools to obtain user avatar or nickname related information. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Used to send subscription messages. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Convenient to scan codes, take photos, or save/upload photos in photo albums, and recognize boarding passes/portraits/identification functions. If you refuse this permission, it will only prevent you from using the corresponding functional services, but it will not affect your normal use of other functions.
+Generally speaking, we will only use the personal information we collect from you for the purposes described in this privacy notice, or for the purposes we explain to you when collecting your personal information. However, if permitted by applicable local data protection laws, we may also use your personal information for purposes other than those we have informed you of (including for public interest purposes, scientific or historical research purposes, or statistical purposes).
+3、 How does China Southern Airlines entrust the processing, sharing, transfer, and disclosure of your personal information
+We may disclose your personal information to the following categories of entities:
+Our group companies, affiliates, and third-party service providers (including aviation meal providers, ground service providers, information system providers, shuttle service providers, and security service providers) entrusted by us to process your personal information on our behalf. In order to achieve the personal information processing purposes described in this privacy policy or the purposes we notify you of when collecting your personal information, we will process your personal information in accordance with the requirements of this privacy policy.
+● Share or exchange your personal information with third-party partners, including but not limited to: cooperating online travel ticketing agencies, ticket distributors, agents, travel agencies, hotels, airlines that have code sharing, intermodal, or joint venture cooperation with us, insurance companies that cooperate with us, financial/payment institutions that you choose to use, and third-party service providers that provide us with necessary, reasonable, and legitimate data verification, identity verification, and other services for risk prevention and control needs. Specifically, the cooperating online travel ticketing agencies, ticket distributors, and agents will arrange discounted prices, purchase tickets, and provide you with other services such as refunds, changes, points, and accumulated miles on your behalf; Cooperating travel agencies and hotels provide more convenient and efficient quality services in your travel, accommodation, and other aspects, and arrange discounted prices and point redemption in your name for your appearance; The cooperating airlines provide you with more route options and price choices in code sharing, route intermodal transportation, and route joint operations, offering services such as airport VIP lounges, assistance with transportation, or assistance in rebooking in case of interruption to your journey; The cooperating insurance company obtains your necessary information to insure you and provide corresponding services; The financial/payment institution you choose to use will assist you in conducting electronic wallet payments through us; Third party service providers obtain necessary and reasonable personal information for data verification and identity verification services based on our risk prevention and control needs, in order to assist us in improving the security of website user information. We will share your personal information with third parties only when necessary to fulfill the contract between us, with your consent or upon your request.
+According to laws and regulations, or mandatory requirements from government regulatory agencies, share or disclose your personal information to competent administrative law enforcement agencies, judicial agencies, other regulatory agencies, and other such third parties (including civil aviation regulatory agencies, customs, market supervision and administration bureaus, public security, national security, courts, procuratorates, internet and information technology departments, or industry and information technology departments): (1) To comply with legal and regulatory requirements, such as relevant countries
+When it comes to home security, national defense security, public safety, public health, major public interests, or situations related to criminal investigation, prosecution, trial, and execution of judgments; (2) Implement, establish, and safeguard our legitimate rights; (3) Protect your or others' vital interests, such as life and property safety.
+● Communicate with actual or potential counterparties (and their agents and advisors) regarding any actual or proposed transaction, merger or acquisition of any part of our business, but we will notify counterparties that they must use your personal information only for the purposes stated in this privacy notice;
+Any other person who obtains your consent. This situation includes you authorizing someone else to book and manage your itinerary on your behalf with your personal information.
+Our app uses SDKs from the following vendors. During your use of specific features of the app, we may share or disclose your personal information with the following SDK vendors to achieve the following scenarios or service purposes:
+Name: CCB Dragon Payment SDK
+Business scenario: Order payment
+Purpose: Allow users to make payments using the China Construction Bank method
+Personal Information Field: None
+Third party institution name: China Construction Bank
+SDK calling device permissions: none/network request
+Name: UnionPay Payment (Cloud QuickPass) SDK
+Business scenario: Order payment
+Purpose: Allow users to use cloud flash payment method for payment
+Personal Information Field: Device Information
+Third party institution name: China UnionPay
+https://wallet.95516.com/s/wl/WebAPP/helpAgree/page/agreement/regPrivacy.html
+SDK calling device permissions: Android: information (terminal model, language, resolution, version, operating system name, system version number), merchant APP package name, time zone, networking method, baseband version, latitude and longitude, IMEI (International Mobile Device Identity), IMSI (International Mobile User Identity), MAC (Physical Address), device communication number
+IOS: Information name, device information (terminal language, resolution, version, operating system name, system version number), time zone, networking method, ROOT for checking business environment and risk control
+Name: Alipay payment SDK
+Business scenario: Order payment
+Purpose: Allow users to make payments using the China Construction Bank method
+Personal Information Fields: Device Information, Storage Information, Network Information, Running Processes
+Name of third-party organization: Alipay
+https://opendocs.alipay.com/open/54/01g6qm
+SDK calls device permissions: IMEI, IMSI, Android ID, Mac address, hardware serial number ICCID、SSID、BSSID、 Sensor information, network type, operator information, WIFI information, system settings, device brand, device model, operating system, running process
+Name: WeChat SDK
+Business scenarios: sharing links, sharing pictures on social media, logging in through WeChat, purchasing tickets and making payments
+Usage: WeChat login, sharing, and payment
+Personal information fields: application information, device information
+Third party organization name: WeChat
+https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8
+SDK calls device permissions: device information (IP address, device manufacturer, device model, mobile operating system, Application Provider Identifier (IDFV), SIM card or International Mobile Identity Number (IMSI) information)
+Name: Borui SDK
+Business scenario: Application basic data statistics
+Purpose: Used for system risk control. Help us promptly identify issues during app usage and quickly locate and resolve them. Enhance digital operation and maintenance capabilities
+Personal information fields: device information, network information
+Third party organization name: Borui
+https://doc.bonree.com/sdk/help/privacy_policy/privacy_policy.html
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Device information (Android ID), GPS status, Bluetooth status.
+Name: Public Security Face SDK
+Business scenarios: facial authentication, secondary member verification
+Purpose: Used for facial recognition authentication and password verification
+Personal information fields: camera permission, storage permission, user name, user phone number, user ID number
+Third party organization name: Guangdong Public Security Bureau
+https://fc.rz.weijing.gov.cn/fcfe/agreement/wiiauthprivacyagreement.html
+SDK calling device permissions: Device information: mobile phone manufacturer, phone model, system version, network type, network operator, IMEI, used to ensure device and environmental security during authentication; Camera: used for input and liveness detection during authentication, read-write storage: used for preprocessing photo files taken during facial authentication
+Name: National Dual SDK
+Business scenario: Used for statistical analysis of APP related information and risk control
+Purpose: To collect user behavior data and system stability, so that we can analyze the usage of the system and business functions, and help us improve the system experience
+Personal information fields: device information, location information, application information, sensor acquisition, installation list
+Third party organization name: Beijing Guoshuang Technology Co., Ltd
+https://www.gridsum.com/policy.html
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Collecting personal information: device information (IMEI/MAC/Android ID/IDA/OpenUDID/GUIDE/SIM card IMSI/geographic location, etc.)
+Device brand, screen height, screen width, cookies, IP address, IOS vendor identifier (IDFV), timestamp, platform, ad space, application identifier, application version, latitude and longitude, device model, operating system version, browser, telecom operator, network status, browsing history (page views, page clicks), application information (APP page behavior (start and exit, page switching, front-end and back-end switching), APP crash/exception, APP startup source, APP activation status, APP user login, APP download source) and other information
+Purpose of use: To collect user behavior data and system stability, so that we can analyze the usage of the system and business functions, and help us improve the system experience
+Name: Baidu Map SDK
+Business scenarios: default city location services for city positioning, flight dynamic flight trajectories, flight queries, homepage, search, hotels, and airport transfers
+Purpose: Used for positioning and navigation services in online and offline situations
+Personal information fields: device information, location information, network information, network access, read-write storage
+Third party organization name: Beijing Baidu Netcom Technology Co., Ltd
+https://lbsyun.baidu.com/index.php?title=openprivacy
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Device information: including device identification information (Android ID, IDFA, IDFV), system information (operating system version, device brand and model, device configuration), and application information (application name)
+Location information: including latitude and longitude, GNSS information, WiFi address and signal strength information, WiFi status, WiFi parameters, WiFi list, base station ID data information, operator information, device signal strength information, IP address, Bluetooth information, and sensor information (acceleration, gyroscope, direction, pressure, rotation vector, lighting, magnetometer)
+Network type: mobile network, WiFi network
+Read write storage: Write and read location data to the expansion card during network anomalies, providing offline location functionality
+Name: Baidu Voice SDK
+Business scenarios: knowledge search, flight inquiry, online customer service
+Purpose: To provide speech recognition capability, allowing users to use voice instead of keyboard input
+Personal information fields: device information, application information, audio permissions, network access
+Third party organization name: Beijing Baidu Netcom Technology Co., Ltd
+https://ai.baidu.com/ai-doc/REFERENCE/Qkdykq1r3
+SDK calls device permissions: device information (including device model, operating system, WIFI status), microphone: turn on the microphone and collect audio
+Name: OCR SDK
+Business scenarios: adding/modifying passengers, member authentication, wallet adding bank cards, wallet account opening purposes: scanning and identifying identification documents and bank cards
+Personal Information Fields: Camera Permissions, Storage Permissions
+Third party organization name: Yitu Zhixun
+http://www.etoplive.com/
+SDK calls device permissions: Camera permissions: Open the camera to take photos of credentials or bank cards
+Storage permission: Cutting and processing photos within SDK
+Name: Weibo SDK
+Business scenario: Weibo sharing
+Purpose: To assist users in sharing content on Weibo
+Personal information fields: device information, application information, network access
+Third party organization name: Sina Weibo
+https://weibo.com/signup/v5/privacy
+SDK calls device permissions: device identification information (IMEI, IMSI), network information (MAC address)
+Name: QQ Internet SDK
+Business scenario: QQ login
+Purpose: Q login
+Personal information fields: device information, application information, network access
+Third party organization name: Tencent
+https://wiki.connect.qq.com/qq%E4%BA%92%E8%81%94sdk%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E5%A3%B0%E6%98%8E
+SDK calls device permissions: operating system information, device model information (IP address, device manufacturer, device model, mobile operating system, Application Provider Identifier (IDFV), SIM card or International Mobile User Identity (IMSI)), clipboard information, memory card permissions, application list information
+Name: Electronic Luggage Tag SDK
+Business scenario: Electronic luggage tag
+Purpose: Electronic luggage tag
+Personal Information Field: None
+Third party organization name: BAGTAG
+https://bagtag.com/
+SDK calling device permission: None
+Name: Aurora SDK
+Business scenario: message push
+Purpose: To push messages to devices for users, including service desk notifications, flight information, promotional information, customer service messages, member service messages, and China Southern Airlines wallet messages
+Personal information fields: device information, network information, application information, geographic location
+Third party organization name: Aurora
+https://www.jiguang.cn/license/privacy
+SDK call device permissions: Device information: Device identifier (IMEI, IDFA, Android ID, IMSI, MAC, OAID related information), application information (application crash information, notification switch status, software list related information), device parameters and system information (device type, device model, operating system and hardware related information), network information: IP address, WiFi information, base station information
+Name: Love Encryption SDK
+Business Scenario: Risk Control
+Purpose: Used for encrypting data, ensuring user data security, system data security, and communication security.
+Personal Information Field: None
+Third party organization name: Beijing Zhiyou Network Security Technology Co., Ltd
+https://www.ijiami.cn/
+SDK
+Calling device permissions: None
+Name: Alibaba mPaaS SDK
+Business scenario: China Southern Airlines APP
+Purpose: Used for offline packages to enhance users' browsing experience of H5 web pages within the app
+Personal information fields: device information, storage information, network information
+Third party organization name: Alibaba Cloud
+https://www.aliyun.com
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Device information: Device identifier (IMEI, IDFA, Android ID, IMSI, MAC, OAID related information), device parameters, and system information (device type, device model, operating system, and hardware related information); Read write storage: Download and store service pages locally to optimize the user experience; Network information: IP address, WiFi information, base station information
+Name: Alibaba WAF SDK (AliyunTigerTaily)
+Business Scenario: Risk Control
+Purpose: For system risk control. Monitor and block crawlers to ensure system security and stability, prevent crawlers from crawling data and damaging the system, ensure that users are in a secure request environment, and prevent hijacking and tampering.
+Personal information fields: device information, sensor reading
+Third party organization name: Alibaba Cloud
+https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud202103181143_65567.html
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Device information: Device identifier (Android ID, MAC address and IMEI, IDFA), permission to read location, collection of device brand, device model, operating system, device accelerometer (gravity sensor), network environment information (network access method, type and status, device network IP address, BSSID), DeviceID for comprehensive calculation, analysis, judgment and disposal of high-risk behaviors such as account theft that endanger account security on the device
+Name: Apple Pay
+Business scenario: Payment
+Purpose: Payment
+Personal Information Field: Device Information
+Third party organization name: Apple
+https://www.apple.com.cn/legal/privacy/data/zh-cn/apple-pay/
+SDK calling device permission: None
+Name: Huawei SDK
+Business scenarios: Huawei third-party login, Huawei electronic membership card collection
+Purpose: Login and share electronic membership card
+Personal information fields: device information, application information
+Third party organization name: Huawei
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050050911
+SDK calls device permissions: personal basic information, account information, application information, network status
+Name: Alipay Login SDK
+Business scenario: Login
+Purpose: Allow users to log in with Alipay
+Personal information fields: device information, network information
+Name of third-party organization: Alipay (China)
+https://opendocs.alipay.com/open/54/01g6qm
+SDK calls device permissions: IMEI, IMSI, Android ID, Mac address, hardware serial number ICCID、SSID、BSSID、 Sensor information, network type, operator information, WIFI information, system settings, device brand, device model, operating system
+Name: UnionPay Card Online Real Name Authentication
+Business scenario: Online real name authentication
+Purpose: Online real name authentication
+Personal Information Field: None
+Third party organization name: China Financial Certification Co., Ltd
+https://www.cfca.com.cn/upload/20211117flsm.pdf
+SDK calls device permissions: Storage card read/write: Store and read temporary files
+Name: Facial Recognition Authentication
+Business scenario: Online real name authentication
+Purpose: Online real name authentication
+Personal information fields: device information, application information, camera permissions, storage permissions
+Third party organization name: China Financial Certification Co., Ltd
+https://www.cfca.com.cn/upload/20211117flsm.pdf
+SDK calls device permissions: Camera: Take facial photos
+Name: One click login
+Business scenarios: login, cooperative account login, registration as a member of China Southern Airlines, facial recognition authentication, ticket booking, prize winning activities, award collection activities, check-in activities, lottery activities, mileage activities
+Purpose: Login, one click filling of mobile phone number, checking the consistency between the user's mobile phone number and the login member's mobile phone number
+Personal information fields: device information, application information, mobile SIM card information, storage permissions
+Name of the third party organization: China Mobile Internet Co., Ltd
+http://dev.10086.cn
+SDK calls device permissions: network type, network address, operator type, local number, mobile device type, mobile operating system, hardware manufacturer
+Name: Oppo Push SDK
+Business scenario: message push
+Purpose: To provide push services to OPPO users, send notifications, and improve delivery rates
+Personal information fields: device information, network information
+Third party organization name: Guangdong Huantai Technology Co., Ltd
+https://open.oppomobile.com/new/developmentDoc/info?id=10194
+SDK calling device permissions: device related information, application information using push services, and SDK version push
+Number, network related information, message sending results, notification bar status, lock screen status
+Name: Xiaomi Push SDK
+Business scenario: message push
+Usage: Message push for Xiaomi phones to improve delivery rate
+Personal information fields: device information, network information
+Third party organization name: Beijing Xiaomi Mobile Software Co., Ltd
+https://dev.mi.com/console/doc/detail?pId=1822
+SDK calls device permissions: device information (OAID, Android ID), network type, application information (application name, application version number), running status
+Name: VIVO Push SDK
+Business scenario: message push
+Usage: Push notifications and messaging services to VIVO users to improve delivery rates
+Personal information fields: device information, network information
+Third party organization name: Guangdong Tianchen Network Technology Co., Ltd. and its affiliated companies
+https://dev.vivo.com.cn/documentCenter/doc/366
+SDK calls device permissions: operating system version number, application information, device identifiers (such as IMEI number, SIM and IMSI, mobile country code, and mobile network number of vivo Android devices), MAC address, mobile operator, language used, system settings, and other system, device, and application data
+Name: Huawei Push SDK
+Business scenario: message push
+Purpose: To provide message push services to Huawei users and improve delivery rates
+Personal information fields: device information, network information
+Third party organization name: Huawei Software Technology Co., Ltd
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177
+SDK calls device permissions: application basic information, in app device identifiers (AndroID, IMEI, IMSI), device hardware information, system basic information, and system settings information
+Name: China Merchants Bank APP Payment SDK
+Business scenario: Payment
+Purpose: To provide payment capability for China Merchants Bank, which will redirect to the China Merchants Bank APP when it exists
+Personal information fields: device information, network information, installation list
+Third party institution name: China Merchants Bank
+https://market.cmbchina.com/MPage/online/190717190011375/privacy.htm
+SDK calls device permissions: Device information: Device model, operating system IMEI、IMSI、Android ID、 Login IP address, network type and status, geographic location information, device name BSSID、MAC、SSID、 Operator information, installation list
+Name: Utdid2 SDK (TaobaoUtdid2)
+Business scenario: Alibaba, Alipay, mPaaS SDK infrastructure
+Purpose: support Alipay payment SDK, Alipay login SDK, Alibaba mPaaS SDK
+Personal information fields: device information, read-write storage permissions
+Third party organization name: Taobao (China) Software Co., Ltd
+https://www.alibabagroup.com/cn/global/privacy
+SDK calls device permissions: The SDK retrieves the following information when the app is running in the foreground or background:
+Device identifier AndroID, IMEI, IMSI Device type Phone style, Phone manufacturer, Network equipment manufacturer, DeviceID
+Name: Glide
+Business scenario: Image loading
+Purpose: To support dynamic loading of images in the app
+Personal Information Fields: Read/Write Storage Permissions, Network Information
+Third party organization name: https://github.com/bumptech/glide
+SDK calling device permissions: Read/Write storage permissions: Download images from the network to the local device and display them
+In addition to maintaining the necessary basic functions for the operation of the China Southern Airlines APP, you will have the right to voluntarily choose whether to use the above functions when using the China Southern Airlines APP. During your use of the Southern Airlines APP, we will continue to use your authorization. After you uninstall the APP or cancel your account, we will stop using the above SDK. You can exercise your relevant personal information rights by following "10. Your Personal Information Rights".
+4、 How does China Southern Airlines use cookies and similar technologies
+We use cookies and similar tracking technologies (collectively referred to as "cookies") to collect and use your personal information. For more information about the types of cookies we use, why we use cookies, and how to control cookies, please refer to our Cookies Statement.
+5、 Legal basis for China Southern Airlines' processing of personal information
+The legal basis for our collection or use of personal information mentioned above will depend on the relevant personal information and the specific circumstances in which we collect personal information. We usually only collect and use your personal information in the following situations:
+(1) To fulfill the legal and valid contracts between us and you (such as the General Conditions of Air Transport and other special or additional service agreements, and the Membership Handbook of China Southern Airlines Pearl Club);
+(2) In order to comply with the requirements of laws and regulations (for example, to comply with the relevant provisions of CAAC, airlines need to collect the real names and ID number of passengers, and to comply with the obligations of network security level protection, log information needs to be stored).
+(3) To respond to sudden public health emergencies or safeguard public interests, and to ensure the safety of your and others' lives, health, and property (such as for epidemic prevention and control needs, we will ask you to provide your health certificate or invite you to fill in relevant information as required by the competent authorities)
+(4) Within the European Union or the European Economic Area, we may act in accordance with our own legitimate interests (or any third-party interests)
+We collect or use your personal information for the purpose of: operating our company and communicating with you when necessary to provide our services, as well as for the purpose of realizing our legitimate business interests, including responding to your questions, improving our products or services, marketing or inspection, and preventing illegal activities. In addition, we may have other legitimate interests and will explain them to you at the appropriate time.
+(5) When obtaining your consent (such as voluntarily filling in information to accept our latest marketing activities or discounts);
+If we require you to provide personal information in order to fulfill our valid contract with you, comply with our legal obligations, respond to public health emergencies, or for the purpose of safeguarding your life, health, and property safety, or for the legitimate and legitimate interests of businesses within the European Union or the European Economic Area, we will clearly state before or during the collection of information and inform you whether it is necessary to provide personal information, as well as the consequences that may arise if you refuse to provide personal information.
+If you have any doubts about the legal basis for our collection and use of personal information or need further information, please contact us using the detailed contact information under the heading "How to contact us and complaint/reporting channels". The legal basis for our collection or use of personal information as mentioned above will depend on the relevant personal information and the specific circumstances in which we collect personal information.
+6、 How does China Southern Airlines protect your personal information
+We use appropriate technological means and organizational measures to safeguard the personal information we collect from you. The measures we take aim to provide you with a level of security that matches the risks associated with processing your personal information. The specific measures we take include Secure Socket Layer (SSL) encryption technology to ensure secure transmission of your data from your browser to our network system.
+7、 How does China Southern Airlines store your personal information
+In order to provide you with the air transportation services and related services you need (booking, refunding, rebooking tickets), membership services, various products of China Southern Airlines, fulfill various agreements with you, comply with applicable laws, taxation, financial accounting requirements, and China Southern Airlines' legitimate business needs, we will encrypt or anonymize the personal information collected from you.
+If we do not store your personal information for the above reasons, we will delete your personal information or anonymize it. If, due to objective reasons, it is not possible to immediately delete or anonymize your personal information, we will securely store it and avoid further processing until such information can be deleted or anonymized.
+8、 Personal information protection for minors under the age of 14
+China Southern Airlines attaches great importance to the protection of personal information of minors. If you are a minor under the age of 14, or if you are recognized as a child under the laws of other countries, you should obtain written consent from your parents or legal guardians before using our products and/or services. China Southern Airlines protects the personal information of children and minors of other ages in accordance with relevant national laws and regulations.
+For the collection of personal information of minors with the consent of parents or legal guardians, we will only use or disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect minors.
+If a minor provides us with personal information without the consent of their parents or guardians, their parents or guardians can contact us using the detailed contact information under the heading "How to report, complain or contact us" to delete such information or withdraw marketing and promotional emails or other activities.
+For specific child privacy protection rules, please refer to the Southern Airlines Children's Privacy Protection Rules.
+9、 China Southern Airlines transfers your personal information globally
+Your personal information may be transferred to countries other than your country of habitual residence for processing. These countries may apply different laws related to personal information protection (please note that the degree of protection of your personal information may vary under the laws of different countries).
+Specifically, our website servers are located within the territory of the People's Republic of China, and the personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. Our group offices, as well as our third-party service providers and partners, are located all over the world. This means that when we collect your personal information, we will process this data within the aforementioned countries. Meanwhile, your personal information may be transferred to countries or regions outside of your habitual residence for processing. At this time, we will protect the security of your personal information in accordance with applicable laws and regulations, and transfer your personal information globally, including but not limited to:
+If your personal information is transferred from within the territory of the People's Republic of China to outside the territory of the People's Republic of China, we will take relevant measures in accordance with legal and regulatory requirements, including but not limited to conducting risk assessments in accordance with the law and signing relevant data export contract terms. When transferring personal information abroad based on your consent, we will also inform you of the relevant information in accordance with the law and obtain your separate consent.
+If your personal information is transferred from the European Union or the European Economic Area to a country where the European Commission has not made sufficient decisions, we will sign standard contract terms approved by the European Commission and take security measures to ensure the security of your personal information.
+10、 Your right to protection of personal information
+You have the following rights to personal information protection:
+If you intend to query, copy, or transfer your personal information, on the China Southern Airlines App, you can click on your profile picture through the "Me" interface to view your registered account, basic information, contact information, and other details; You can check your account balance, coupons, China Southern Airlines mileage, your orders, refund, upgrade information, and your electronic boarding pass through the "Me" interface; You can check the usage of your wallet through 'Me - China Southern Airlines Wallet'. On the WeChat mini program of China Southern Airlines, you can enter the member center by clicking on your card through the "I" interface. On the member center page, you can check your China Southern Airlines mileage information. Click on your avatar to check your registered account, basic information, contact information, and other information; You can access it through the "Me" interface
+, check your coupon, order, electronic boarding pass and other information. Regarding your real name authentication information on the Southern Airlines App, you can check your real name authentication status through "Me Settings Account Center Real Name Authentication". Regarding your real name authentication information on the China Southern Airlines WeChat mini program, you can check your real name authentication status through "Me Settings Real Name Authentication (e-Line, Mingzhu)". In addition, you can also contact us at any time through the detailed contact information provided under the heading "How to report, complain or contact us" to exercise your search, copying and transfer rights.
+You have the right to correct, supplement, or delete your personal information. On the China Southern Airlines App, you can click on your avatar through the "Me" interface to add new documents, add or modify your phone and email, select language type and country/region of residence, choose your city of residence, and voluntarily fill in your other information at any time. You can also unbind or bind your account or phone number through "Me Settings Account Center Account Binding/Unbinding", and change your password through "Me Settings Account Center Change Password". On the WeChat mini program of China Southern Airlines, you can enter the member center by clicking on your card through the "Me" interface. Click on your avatar to complete the process of adding new documents, adding or modifying mobile phones and email addresses, selecting language type and country/region of residence, choosing your city of residence, and voluntarily filling in your other information at any time. You can change your password by going to "Me Settings Change Password". In addition, you can also contact us at any time through the detailed contact information provided under the heading "How to report, complain or contact us" to exercise your correction and deletion rights. However, please note that not all of your personal information can be deleted when exercising the right to delete. We will only delete it when the deletion conditions specified by law are met, such as deleting your personal information when you cancel. Otherwise, we will not be able to maintain and manage your membership.
+You can choose to cancel your Pearl membership account with China Southern Airlines. On the China Southern Airlines App, you can click "Me Settings Account Center Cancel China Southern Airlines Membership" on the homepage and follow the instructions to complete the membership cancellation. On the China Southern Airlines WeChat mini program, you can follow the instructions to complete the membership cancellation by clicking "Me Settings Cancel Account". In addition, you can also call the customer service hotline 95539 to cancel your membership with China Southern Airlines. Starting from December 20, 2023 (inclusive), members of Mingzhu Club can only be cancelled once within one year. Specifically, after a member cancels their account, if they register again, they cannot cancel it again within 365 days from the first cancellation date (if the second year is a leap year, they cannot cancel it within the last 366 days). After canceling your account, we will stop providing corresponding products or services and delete or anonymize your personal information. Please note that after cancellation, any unused points and mileage in your personal account will be cleared and reset to zero.
+In addition, you have the right to refuse our processing of your personal information, to request us to restrict the processing of your personal information, or to request the carrying of your personal data. Regarding your right to refuse on the Southern Airlines App, you have the right to turn on or off your various permissions by clicking on "Me Settings Privacy Settings". You can also contact us through the detailed contact information provided under the "How to report, complain or contact us" heading to exercise these rights.
+You have the right to choose to agree or refuse our sending of marketing information to you at any time. You can choose to agree or refuse the marketing emails we send you by clicking on "Me Settings Privacy Settings Marketing Information Management" on the Southern Airlines App. You can choose to agree or refuse the marketing emails we send you by clicking on "Me Settings Marketing Information Management" on the Southern Airlines WeChat mini program. In addition, you can also exercise this right by clicking on the "unsubscribe" or "unsubscribe" link in our marketing emails or text messages. If you still wish to refuse to receive other marketing information, please use the detailed contact information under the "How to report, complain or contact us" heading to contact us. After you choose to refuse to receive marketing messages, we will stop sending marketing messages to you until you choose to agree to marketing again.
+You have the right to choose to turn on or off our personalized recommendations at any time to enhance your browsing and shopping experience. You can make the choice to turn on or off personalized recommendations by clicking "Me Settings Privacy Settings Personalized Recommendations" on the Southern Airlines App. After you choose to turn it off, we will no longer provide personalized recommendations based on your characteristics, but we will still show you advertisements or recommended content that is not targeted at your characteristics.
+Similarly, if we collect and process your personal information with your consent, you have the right to withdraw your consent at any time. You can change the scope of your authorization or revoke your authorization through the settings function of your mobile phone. Different mobile phone manufacturers or models and APP versions have different methods. You can contact us to handle it for you at that time. Please understand that when you withdraw or refuse, we will not be able to provide you with the corresponding services and will no longer process your personal information. At the same time, your withdrawal of consent will not affect the legality of any of our previous processing actions, nor will it affect the legality of processing your personal information based on legal reasons rather than your consent.
+You have the right to complain to data protection law enforcement agencies about our collection and use of your personal information. For more information, please contact your local personal information protection regulatory agency. The detailed contact information of data protection enforcement agencies in the European Economic Area and Switzerland can be found here. You can also report personal information infringement by apps and mini programs to the National Cyberspace Administration's Reporting Center (www.12377. cn).
+We will respond to individuals' requests for personal information protection rights in accordance with applicable laws and regulations on personal information protection. For exercising the above access, correction, deletion, logout and other functions on the App and Mini Program, we will complete the above requests within 15 working days in accordance with relevant regulations.
+11、 Update to this Privacy Policy
+We may update this privacy notice from time to time to adapt to
+The development of law, technology, or business. If applicable data protection laws require us to obtain your consent when substantially revising privacy notices, we will comply with legal provisions and inform you through one or more of the following methods: official website announcements, in app push notifications, email, mail, or phone calls. If you have any objections to the update of this privacy policy, please contact us using the contact information below.
+12、 How to report, complain or contact us
+If you have any questions or concerns about our use of your personal information, please contact us using the following detailed information:
+Contact information for the personal information protection officer of China Southern Airlines:
+Domestic:+86-4006695539
+International:+86-4008695539
+Email address: dpo@csair.com
+Registered address of the company: Room 301, 3rd Floor, Phase I Office Building, Guanhao Technology Park, No. 12 Yuyan Road, Huangpu District, Guangzhou City, Guangdong Province
+Other contact addresses of the company: Southern Airlines Customer Service Counter, Baiyun Airport, Guangzhou, Guangdong Province
+If you have any other questions beyond privacy and personal information protection, please contact the following email address: 95539@csair.com
+About China Southern Airlines
+Company Profile
+News Announcement
+China Southern Airlines Group
+customer support 
+contact us
+Website Map
+Travel Service
+Seat selection and boarding pass processing
+Ticket refund and modification
+Flight updates
+Additional luggage purchase
+Meal reservation
+Booking Notice
+Ticket booking instructions
+Privacy Policy
+Cookie Policy
+Payment method
+Follow us
+Copyrights (C) 1997- China Southern Airlines Company Limited all rights reserved ICP License Code for Management: Guangdong Province ICP-05053330PCI

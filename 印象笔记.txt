@@ -1,0 +1,644 @@
+Beijing Impression Notes Technology Co., Ltd. (hereinafter referred to as "Impression Notes" or "we"), registered address/common office address: Room 1818, 16th Floor, Building 2, No. 8 Guanghua Dongli, Chaoyang District, Beijing. For personal information protection related issues, please consult: legalnotice@yinxiang.com ）We attach great importance to and promise to protect the personal information and data security of users ("users" or "you") who use our developed or operated website (yinxiang. com), software, products (including the iOS and Android versions of the Impression Notes app), and related services (hereinafter referred to as "Impression Notes Service" or "this Service"). Please read the following text for a detailed understanding of how we collect, use, and protect your personal information and data.
+We suggest that you carefully read and confirm that you have fully understood these terms before using our services (especially the content highlighted in bold, italic, underline, etc.), and make the choices you deem appropriate. By continuing to use this service by clicking on "Agree/Continue/Next" or other means, you represent that you have read and agreed to these terms, and agree that we will collect, use, store, manage, and disclose your personal information and data in compliance with any applicable laws and these terms.
+We will revise these terms in a timely manner, and these revisions constitute a part of these terms and have the same effect as these terms. Please carefully read the revised content of these terms. If you continue to use our services after the update of these terms takes effect, it means that you have fully read, understood, and accepted the updated privacy terms and are willing to be bound by them. If you do not agree to accept these terms or any modifications we make to these terms, you should immediately stop using this service.
+Minors are advised to read these terms with the accompaniment of their guardians, especially carefully reading the content regarding the protection of minors in these terms.
+This clause includes the following contents:
+How do we collect and use personal information
+How do we store and protect personal information
+How do we share, transfer, and publicly disclose personal information
+Information collected by third-party services
+How do you manage your personal information
+Cookies and similar technologies
+Protection of Minors
+Notification and Revision
+contact us
+other
+How do we collect and use personal information
+We follow the principles of legality, legitimacy, and necessity to collect and use your personal information for the purposes, methods, and scope described in these terms. If we want to use your personal information for purposes not specified in these terms, or use information collected for specific purposes for other purposes, we will obtain your consent through page prompts, interactive processes, website announcements, or other reasonable means in accordance with the law. Once you agree, such additional purposes will be considered part of these terms, and the processing of such additional personal information will also be subject to these terms.
+Ways to collect and use personal information
+The information you voluntarily provided. For example, the information you provide to us when registering for an Impression Notes account or using Impression Notes services; The information you publicly upload and publish when using the Impression Notes service; The information stored when you use the Impression Notes service; The shared information you provide to third parties through the Impression Notes service.
+Please note that if you publicly post, share, exchange, or transmit personal or other sensitive information to any other third party in the public areas of the Impression Notes website, Impression Notes software, or product, you should ensure that the information complies with the requirements of laws, regulations, and other applicable norms, and carefully consider whether to publish the information. You are aware that any information publicly released, shared, shared, or transmitted through the aforementioned channels can be accessed by other third parties. Your act of publicly releasing, sharing, sharing, or transmitting any information represents your recognition that the information is publicly available. For any information that you do not want to be known by other third parties, please do not publicly publish, share, share, or transmit it. You shall bear full legal responsibility for the aforementioned public behavior. If any personal information you choose to publicly post, share, share, or transmit is made public or used, Impression Notes is not responsible.
+We have obtained your information. For example, when you use this service, we collect and record log information, location information, device information, etc.
+Purpose of collecting and using personal information
+Register and log in to an account
+To register and log in to your Impression Notes account, we need to collect your phone number or email address (whichever is provided). If you do not provide the above information, you will not be able to register, log in to your account, or use the basic functions of note editing, browsing, and searching in this service.
+After registration, you can log in to your Impression Notes account through your phone number/email address and choose whether to complete your nickname, avatar, name, and password. We will not force you to provide such information.
+When you register and create an Impression Notes account, we will verify your identity by sending a SMS verification code or email based on the registration method you choose. When you forget your password, the phone number or email address you added to your profile will be used as a path to verify your identity and retrieve your password. To better protect the security of your Impression Notes account, if you change your frequently used phone number, we recommend that you make the necessary changes in your personal profile in a timely manner.
+When conducting identity verification and security verification, we will send notifications in the form of verification codes or other forms to the phone numbers you provided during registration and login to complete the verification.
+You can also use third-party accounts (such as WeChat, Apple ID, Huawei account) to log in and use this service. If you choose to log in through a third-party account, in order to verify your account and enable you to log in and use this service, with your authorization and consent, we will follow these terms and the "WeChat Privacy Protection Guidelines"（ https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy ）Apple Privacy Policy（ https://www.apple.com/legal/privacy/szh/ ）Regarding Huawei's Device Management Services and Privacy
+The Declaration（ https://device.harmonyos.com/cn/docs/devicepartner/DevicePartner-Guides/device-privacy-statement-0000001188494819 ）Collect your nickname, avatar, and gender.
+Implement identity authentication
+According to relevant laws and regulations and regulatory requirements, or to meet the needs of user identity verification, system and service security and other specific service functions (including sharing notes and other functions), we may need you to provide real identity information (including real name, ID number number) to complete identity authentication. To achieve the purpose of identity authentication, you agree and authorize us to provide, query, and verify your aforementioned identity information to relevant identity authentication agencies (such as personal credit reporting agencies, government departments, etc.) on our own or by entrusting third parties. If you do not provide the above information, we will not be able to provide you with the relevant functions and services, but it will not affect your use of other functions that can be used without completing identity authentication.
+Please note that your identity information is sensitive personal information, so please provide it with caution. If you refuse to provide, you may not be able to access specific services, but it does not affect the normal use of other functions and services.
+Maintain the normal operation of basic functions
+Log data. When you use this service, we collect log data to understand your and others' access and usage of the service, as well as your operational information (including but not limited to creating or sharing notes, the number and word count of notes, the number and size of images, audio, video, tables, PDFs, and other files in the notes, the number of annotated files, and other external data). The collected data includes the use of cookies, tracking pixels, and similar analysis techniques (which will be more comprehensively explained in the following text). This information will help us understand how you use this service and provide you with better service.
+If you use this service through an Android device, we may obtain your Android ID during your use of this service or when the application is in the background.
+If you log in to this service using Google Play, we will obtain your device account data through relevant third-party SDKs (please refer to the "Information Collected by Third Parties" section below for details), and obtain permission on your device called GET-ACCOUNTS.
+If you use this service through widgets on an Android device, and to ensure that the Impression Note App can update desktop installed widgets normally when it is turned off, the Android system will have a certain frequency of waking up the Impression Note App through system broadcast. In this scenario, the Impression Note App will remain in a self starting state/use self starting capability, which is necessary for implementing functions and services. If you do not install the Impression Notes widget on the desktop of your Android device, the Impression Notes app will not automatically start.
+To ensure that the reminder functions of "Checklist" and "Schedule" in the Impression Note App are used normally after the device is turned on, the Impression Note App will maintain a self starting state/use self starting capability in this scenario, which is used to notify the application to start after the device system changes from a shutdown state to a startup state, in order to re register the reminder event for the schedule.
+Share information. When you share notes with your contacts in third-party accounts (such as WeChat, Apple ID), we will collect information about the notes you share, including but not limited to: the sharing time of the notes, the number of shares, the sharing platform, the reading volume of the shared notes, as well as publicly available external data such as the number and size of links, images, audio, video, tables, PDFs, and the number of annotated files in the notes, to help us understand how you use the sharing service and provide you with a better user experience; At the same time, we will confirm the compliance of the shared notes in accordance with relevant laws and regulations.
+Location information. We collect the approximate geographic location information determined by the IP address you use to connect to the Impression Notes service; After obtaining your authorization for location device permissions, we collect the location information of your mobile device. This helps us localize the services you provide and, based on your location settings, display relevant content accessible to your account.
+Other information. Display non personally identifiable information about your association with one of our business partners or promotional activities (if applicable), or information about the source, access sequence, browser version, etc. of each user using the Impression Notes service.
+Please note that the information used to maintain the normal operation of basic services mentioned above cannot identify the identity of specific natural persons. If we combine this type of non personal information with other information to identify the identity of a specific natural person, or use it in conjunction with personal information, during the period of combined use, this type of non personal information will be considered personal information. Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify this type of personal information. During the period of combined use, this information will be treated and protected as your personal information in accordance with this privacy policy.
+Assist you in placing an order, making payment, and delivering goods or services to you
+When you order specific goods and/or services in this service, we will generate an order for you to purchase the goods and/or services through the system. During the ordering process, you are required to provide at least the recipient's name, shipping address, postal code, contact phone number, payment status, and other information. If you refuse to provide such information, we will be unable to complete the delivery of the relevant goods or services. If you order goods or services for others through this service, you need to provide the aforementioned information of the actual purchaser. Before providing us with the aforementioned information of the actual purchaser, you need to ensure that you have obtained their authorization and consent.
+To show you the transaction information of your account and ensure transaction security, we will collect the information generated during your use of this service (such as the information of the goods or services you purchased, order number, order creation time, transaction amount, invoice information, credit card number, billing address, etc.) to show you and facilitate your order management.
+To complete the booking
+For single payment, delivery of goods or services, confirmation of transaction status, and provision of after-sales and dispute resolution services, we will collect your transaction information (such as your account, order, transaction, payment, logistics information) through the trading partner, payment institution, logistics company, etc. selected by you based on the exchange, or share your transaction information with the above service providers.
+When you use some individual services, you may need to enable specific access permissions on your device to collect and use the information involved in these permissions. These individual services include but are not limited to:
+If we access your location information, it is to provide you with a page display that better meets your needs, implement the "recommended content" function based on GPS positioning, and enable you to match and link smart hardware devices through Bluetooth on Android 10 and 11 systems;
+If we access your camera, it is to enable you to scan codes and take photos using the camera, for login, payment, uploading pictures, and using text recognition services;
+If we access your photo album, it is to enable you to access and upload photos, images, or videos from your device, making it easier for you to change your profile picture, insert images into your notes, generate notes from images, and use text recognition services;
+If we access your microphone to enable you to use voice transcription and real-time translation functions, we will collect your recorded content to identify your specific needs;
+If we access your app installation list, it is to enable you to use payment and sharing functions and have a good experience;
+If we access your clipboard, it is to enable you to use the trimming and intelligent trimming functions. Your clipboard information will only be processed locally on the device and will not be used for any other purposes;
+After you enable the address book permission, we can obtain your contact information in the address book, so that we can import the contact information you provide into the product in the form of business cards for storage;
+After you allow us to enable storage permissions, we can access your photos, media content, files, and other information for your convenience in sharing and storing your note information at any time;
+After you allow us to enable Bluetooth permission, connect the Impression Notes related smart hardware (such as Impression Smart Pen, Impression Translator Pen, Impression Recorder Pen, etc.) to the Impression Notes App through Bluetooth, so that your data can be updated and synchronized on the Impression Notes App;
+When you use the specific recognition function in the Impression Note service, we will collect and store the image, text, and voice information you upload. Our relevant recognition program will process and analyze this data and return the corresponding text results;
+If someone uses "Work Group Chat" to contact you through an email address or phone number that is not associated with your Impression Notes account, or through a social media website that is not associated with your Impression Notes account, Impression Notes will use this contact method to contact you on behalf of the sender;
+Search function: When you search in your Impression Notes account, it makes it easier for you to find the information you need.
+The "Recommended Content" function: The Impression Notes service uses multiple technologies to display relevant content to you. The displayed content may include notes from your own account, notes from accounts associated with Impression Team or Work Group Chat, and third-party content you choose to receive. Recommended content is never advertising content. We believe that these features will enhance your service experience. 'Recommended content' is enabled by default in applications that provide this feature, but you can choose to turn it off. The 'recommended content' is displayed as' related search results' in the 'Impression Notes Collection' plugin.
+Recommended note relationship graph view: You can choose to turn on or off this feature. If you choose to turn on this feature, please note and be aware that we inevitably collect and process certain note information, personal information, and privacy information stored in your Impression Note account. Please confirm that such information can be disclosed to Impression Note. We will not provide such information to any third party.
+By detecting specific actions in your Impression Notes account (such as sending content to your Impression Notes account via email) or specific attributes related to your notes (such as whether the files in your notes are PDF or image files, or which application you use to create your notes), we may recommend Impression Notes products or service features to help you gain a better experience from the Impression Notes service.
+Display the most relevant information about how you use or are able to use the Impression Notes service at a specific time or location.
+Based on the information stored in your Impression Notes account, we will provide you with relevant operational suggestions.
+When you need to disable any permissions, most mobile devices will support your needs. Please refer to or contact the service provider or manufacturer of your mobile device for specific methods. When you grant any permission, it means that you authorize us to collect and use relevant personal information to provide you with relevant services; When you close any permission, it means that you have revoked the relevant authorization. We will no longer collect and use your personal information based on that permission, nor will we provide you with the services corresponding to that permission. Please note that your decision and action to disable permissions will not affect the collection and use of personal information that has already been carried out based on your authorization.
+We collect your personal information indirectly
+If you create, bind, or log in to an Impression Note account through a third-party account (such as WeChat, Apple ID, Huawei account, or other application account), we will obtain authorized third-party account information (such as avatar, nickname, email address, etc.) from the third party, and may use this third-party account information as Impression Note account information. If you share or transmit content to third-party software or services authorized by Impression Notes through this service, we may collect and obtain your real name authentication information and mobile phone number. If you use third-party software or services authorized by Impression Notes through this service, we or relevant third parties may send you text messages or read the content of the messages you receive.
+Sending you product announcements, software updates, and special offer information
+We may send you such information via email or text message. You can log in to your Impression Notes account at any time from the Impression Notes website, go to "Settings>Personal Settings>Contact Preferences", and choose to log out
+This information is received or changes your contact preferences. Alternatively, you can click on the "unsubscribe" link located at the bottom of the email you receive (for emails) or reply to unsubscribe messages (for mobile messages) to exit our marketing communications. But even if you have cancelled your subscription, you will still receive information related to the service and account.
+Provide you with information display and push of goods or services
+Based on the information you provide to us, the information we may collect, and the information we indirectly collect from you (such as browsing and search information, device information, location information, order information, phone number), we may send advertisements to provide services that better meet your needs. We may also send you marketing messages, user surveys, or other means via email, text message, or other means to help us improve our services and provide or promote our or our business partners' products and services.
+Provide security and compliance management
+To improve the security of your use of this service, protect your or other users' personal and property safety from infringement, and better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, we may collect, use, or integrate your account information, transaction information, device information, log information, and personal information obtained by our affiliated companies and partners with your authorization or shared in accordance with the law for identity verification, detection, and prevention of security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+To protect your account and service functions, our system may analyze the emails you send and receive from your Impression Notes account, as well as the notes you share, in order to delete spam, malicious emails, and eliminate other security risks. If we are confident that the content contains information that violates the terms of service, we may use the spam filter function in our inbox to block the transmission of problematic information or prohibit its sharing.
+In order to troubleshoot, comply with regulations, and provide user support, we may need to access some of your information, such as your account's phone number, email address, third-party accounts associated with your account, and information about the Impression Notes application you are using.
+When you share the notes in your Impression Notes account with your contacts on third-party accounts (such as WeChat, Apple ID, Huawei account), you explicitly agree that we will review the content of your shared notes through automatic system review and necessary manual review to ensure our compliance management of the sharing service in accordance with relevant laws, regulations, and policies.
+You understand and agree that after collecting your personal information, we will use technical means to de identify the data. The de identified personal information will not be able to identify your identity. In this case, we have the right to use the de identified personal information to analyze user data and make legal commercial use of it.
+Exceptions to obtaining authorization and consent
+According to relevant laws, regulations, and national standards, we do not require your authorization or consent to collect and use your information for the following purposes:
+Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+The personal information collected is disclosed by you to the public on your own;
+Necessary to sign and fulfill the contract according to your requirements;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+Necessary for maintaining the safe and stable operation of the Impression Notes service, such as discovering and handling product or service failures;
+Necessary for conducting legitimate news reporting;
+When conducting statistical or academic research in the public interest and providing results of academic research or descriptions to external parties, the information contained in the results is de identified;
+Other circumstances stipulated by laws and regulations.
+Tips on Personal Sensitive Information
+Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. The information provided by you voluntarily or collected by us may include your personal sensitive information, including personal identity information (including ID card, military officer certificate, passport, driver's license, work permit, social security card, residence permit, etc.), personal property information (including transaction and consumption records, transaction records, virtual property information such as virtual currency, virtual transactions, exchange codes, etc.), contact list, friend list, group list, whereabouts trajectory, web browsing records, and precise positioning information. Please be cautious when providing sensitive personal information.
+When you use the collaboration feature in this service to collaborate with others, certain personal information you provide to Impression Notes and your Impression Note user status may be displayed to other users. This situation includes but is not limited to:
+If you share notes or notebooks, or if you join a shared note or notebook, anyone who has access to that note or notebook can see your user profile (if you have not added any profile, you will only be identified by an email address associated with your Impression Note account);
+If you initiate or reply to a "work group chat" message, the party chatting with you will be able to view your user profile;
+In a "work group chat", if you are the recipient of a message but have not replied, only other Impression Notes users who are already connected to you can see your user profile, and others in the group chat will only see the information used by the sender of the "work group chat" message to you (such as email address or phone number);
+In addition, anyone with access to the shared notebook will be able to see the note content of each note in the notebook, information about the creation location and time of the note, as well as related note history, tags, and reminders. When the note is shared through a 'work group chat', those who have access to the note will only be able to see the content of the note and information about the location and time of its creation.
+How do we store and protect personal information
+How do we share, transfer, and publicly disclose personal information
+The data (including personal information) collected and generated by this service within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. We are committed to protecting your information security and taking reasonable preventive measures for this purpose. We adopt standard practices in the Internet industry to protect your personal information from unauthorized access, disclosure, use, modification, damage or loss. We will take all reasonable and feasible measures to protect your personal information.
+technical measures 
+Our network service adopts industry standard encryption technology to protect your data during transmission, commonly known as Transport Layer Security (TLS) technology or Secure Socket Layer (SSL) technology, providing browsing services through HTTPS and other methods to ensure the security of user data during transmission. However, Internet data transmission cannot guarantee 100% security, so we cannot guarantee the absolute security of information during the transmission between you and us; Therefore, please understand that due to technical restrictions and possible malicious means, it is impossible to always ensure 100% security of information in the Internet industry. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control.
+Once we receive your data, we will ensure its security on our servers through a combination of administrative, physical, and logical security measures.
+When using personal information, we will use various data anonymization techniques including content replacement, encryption anonymization, etc. to enhance the security of personal information during use.
+Establish strict data usage and access regulations, adopt strict data access control and multiple identity authentication technologies to protect personal information, and prevent data from being used in violation of regulations.
+Adopt specialized data and technology security audits, establish multiple measures including log audits and behavior audits.
+To protect your account and service functionality, our automated system analyzes the emails you send or receive from your Impression Notes service account to monitor for spam, malware, or other potential security issues and behaviors that may affect email delivery.
+The Impression Notes software also provides you with the ability to encrypt some text in any notes. You can learn how to encrypt text by reading the knowledge base article "How to Encrypt Content in Impression Notes". However, please note that the Impression Notes software does not have the ability to decrypt encrypted text, so if you forget the encryption password you used, we will not be able to help you recover the encrypted content.
+Management measures
+We will only store your personal information for the period necessary to achieve the purposes described in these terms. However, in order to comply with applicable laws and regulations, court judgments or rulings, requirements of other competent authorities, and to safeguard public interests, we may appropriately extend the retention time of personal information.
+Establish internal systems such as data security management standards and data security development standards to manage and regulate the storage and use of personal information.
+Strengthen safety awareness education. We regularly hold security and privacy protection training to enhance employees' awareness of the importance of protecting personal information.
+Due to the fact that we may provide products or services through global resources and servers, if some of our products involve cross-border business and we need to transmit relevant user personal information collected domestically to overseas institutions, we will comply with laws, administrative regulations, and relevant regulatory authorities. We will inform you of the purpose of the exit, the types of personal information involved, the identity and data security capabilities of the recipient, and possible security risks, and obtain your consent. We will also clarify the obligations and responsibilities of all parties through signing agreements, supervision and verification, security audits, and other measures, requiring overseas institutions to keep the personal information obtained confidential and receive sufficient and equal protection within China.
+Handling of personal information security incidents
+In the event of a security incident caused by personal information, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you through one or more methods such as email, letter, phone, push notification, etc., in accordance with the requirements of laws and regulations and the actual situation; At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+By sending notifications to all users to remind them to change their passwords. We will promptly inform you of the relevant information of the incident through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to issue announcements to avoid further data leakage.
+It should be noted that although we have taken the reasonable and effective measures mentioned above and complied with the standards required by relevant laws and regulations, we still cannot guarantee the security of your personal information when communicating through insecure channels. For example, the security of information stored in the Impression Notes software installed on your device depends on your use of the security features of your device. Therefore, we recommend that you take appropriate measures to ensure the security of devices using our applications and services, such as regularly changing account passwords, not using the same password as other services, and not disclosing personal information such as your account password, especially sensitive personal information, to others.
+You understand and agree that the personal information protection measures provided by us under these terms only apply to this service. Once you leave the platform, browse or use other websites, services and content resources, we have no ability or obligation to protect any personal information you use or provide outside the network environment of this service, regardless of whether the network resources you log in to or browse originate from our links or guidance.
+How do we entrust the processing, sharing, transfer, and public disclosure of personal information
+The personal information we entrust to process
+Before entrusting processing, we will anonymize your personal information. For companies, organizations, and individuals entrusted by us to process personal information, we will sign strict confidentiality agreements with them, requiring them to process personal information in accordance with our requirements, these terms, and other relevant confidentiality and security measures.
+Our situations as the principal usually include:
+When you order specific goods and/or services in this service, the logistics service provider is entrusted by us to use your
+Mobile phone number and shipping address, used to send you goods and/or services;
+When we need to send notifications to you, the push notification service provider is entrusted by us to use your mobile phone number to send notifications to you;
+In order to provide this service, complete payment transactions, and meet your product or service requirements (including sales, delivery, and support), we may share your information with third-party service providers who process data on our behalf. These service providers will only use your personal information to the extent necessary to provide the service.
+Personal information that we may share
+When you use this service to access or post information, it means that you allow us to record, use, and take other actions (within the scope of applicable laws, regulations, and service terms) in order to provide this service. We will strictly keep this information confidential. We will not share this information with others, nor will we sell, rent, or distribute it to others in any other way (except as disclosed in this privacy policy). But in the following situations, Evernote can share your information with external parties:
+If you actively share notes from your Impression Notes account with your contacts in a third-party account (such as WeChat, Apple ID), recipients within the scope allowed by your third-party account can view and continue to share the notes that have been shared by you;
+You explicitly request to obtain information from Impression Notes business partners. In this case, the identity of the personal information collector and the applicable privacy statement will be clearly stated when collecting the information;
+You have an online or offline (non Internet) relationship with one of our affiliates or partners (and we also have a relationship with this affiliate or partner), or have visited the website of this affiliate or partner that links to or refers to the Impression Notes website, and have registered the online service of Impression Notes through the program or website of this partner or partner.
+Personal information that we may transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
+When it comes to mergers, acquisitions, or bankruptcy liquidation, if there is a transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+Personal information that we may publicly disclose
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+According to your needs, disclose the information you have specified in the disclosure method that you have explicitly agreed to;
+If we determine that you have violated laws and regulations or seriously violated this Privacy Policy or related Terms of Service, it is necessary to disclose some of your information in order to investigate and/or disclose any behavior that may violate our Terms of Service or to enforce these Terms of Service;
+We may disclose your information based on the type and disclosure method required by laws and regulations, mandatory administrative law enforcement, or judicial requirements. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the recipient to provide corresponding legal documents, such as subpoenas, investigation letters, etc. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights.
+Exceptions to obtaining prior authorization and consent when sharing or transferring personal information
+In the following situations, sharing or transferring your information does not require your prior authorization and consent:
+Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial, and judgment execution;
+For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+Information that you disclose to the public on your own;
+Collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+According to legal regulations, sharing and transferring personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the subject of the personal information, does not constitute external sharing, transfer, or public disclosure of personal information. We will not need to notify you separately and obtain your consent for the storage and processing of such data.
+Information collected by third-party services
+This service may be connected or linked to social media or other services provided by third parties (including websites, products, or other services), and in order to better provide these services to you, third parties may collect your personal information. These scenarios include:
+If you log in to this service through a third-party service, the operator of such third-party service may collect your personal information (including account information, log information, etc.) and may install cookies on your device to enable the normal operation of related functions.
+If you use the "share" function to share notes or notebook content to third-party platforms, the operators of such third-party services may collect your personal information (including your log information) and may install cookies on your device to enable the normal operation of related functions.
+We provide you with links through advertising or other means of our services, allowing you to link to third-party services or websites.
+Other situations of accessing third-party services. We may integrate SDKs or other similar applications provided by third-party service providers (such as in the form of embedded code, plugins, etc.) in order to provide you with better services and user experience. Some third-party SDKs or similar applications that we access may collect your personal information. If you use such services provided by third parties in our services, you agree that they will directly collect and process your information. We will evaluate the legality, legitimacy, and necessity of such third-party services collecting personal information, and require such third parties to provide you with
+Take protective measures for personal information and strictly comply with relevant laws, regulations, and regulatory requirements. At present, the SDKs or other similar applications provided by third-party service providers that we access mainly include:
+Used for advertising related services, including advertising display, advertising statistics, and monitoring;
+Used for message push functions, including push notifications from mobile phone manufacturers, specific event reminders, etc;
+Used for payment related services, including order payment, transaction behavior verification, income settlement, payment information summary and statistics, etc;
+Used to obtain device location permissions, collect device information and log information with your consent;
+Used for third-party authorization services, including third-party account login, sharing relevant content to third-party products, etc;
+Used to support product functional modules, including voice recognition, image recognition, translation, online customer service, and connecting smart hardware;
+Used to optimize product performance, including improving hardware distribution capabilities, reducing server costs, and performing functional hot repairs;
+Used for account security, product reinforcement related services, including network monitoring, domain name resolution, anti hijacking, anti spam and anti cheating, encryption and decryption services, etc.
+For example, if you use the course service provided by Shenzhen Xiao'e Network Technology Co., Ltd. ("Xiao'e Tong Course Service") through the "Impression Shitang" section in the Android and iOS versions of Impression Notes, Xiao'e Tong Course Service will use Tencent's Tencent browsing service to load pages. Tencent browsing service will collect your International Device Identity (IMEI), International Mobile User Identity (IMSI), Network Card Address (MAC Address), user model, screen size, operating system version number, target API, network type (ApnType), network change monitoring broadcast, and WiFi MAC address by default during its initialization process. The reason for collecting the aforementioned information is that compared to the system's built-in WebView, Tencent browsing service has more advantages in terms of security, opening speed, and compatibility. For details, please refer to the privacy policy of Tencent Browser Service: Tencent Browser Service Developer Service Agreement Privacy Related Terms. In addition, the mobile intelligent terminal supplements the device identification system and uniformly calls the SDK to obtain the OAID.
+Third party services are the responsibility and operation of the providers of such services. Your use of such third-party services and the provision of any information to such third parties are subject to their own terms of service and information protection statement (not this privacy policy). Please read the relevant terms carefully. Relevant third-party services can refer to "Impression Note Third Party Services". This clause only applies to the personal information collected by this service. If you find that such third-party services pose risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests.
+The specific third-party services involved in this service are as follows:
+Third party type
+Third party name
+Purpose of use
+Collection method
+Personal information or permissions involved
+Third Party Privacy Policy
+System push service provider
+millet
+Provide system message push service for Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address, external storage
+https://dev.mi.com/console/doc/detail?pId=1822
+Huawei
+Provide system message push service for Huawei Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address, external storage, installed app information
+https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-statement-0000001050042021
+glory
+Provide system message push service for Honor Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address
+https://developer.hihonor.com/doc/guides/100228
+OPPO
+Provide system message push service for OPPO Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address
+https://www.oppo.com/cn/service/help/640?id=640&name=%E6%9C%8D%E5%8A%A1%E6%94%BF%E7%AD%96&hdscreen=1
+Vivo
+Provide system message push service for vivo Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address
+https://www.vivo.com.cn/about-vivo/privacy-policy
+Meizu
+Provide system message push service for Meizu Android system
+Collect directly from the integrated client SDK provider
+Encrypted user ID, IMEI, WiFi MAC address
+https://www.meizu.com/legal.html
+tencent
+Provide system message push services for Android and iOS systems
+Collect directly from the integrated client SDK provider
+Manufacturer, model, device resolution, network type, device startup time, device name, country code, operator code, RAM, ROM, SD card capacity, notification bar switch status, Idfv (iOS only) (collected directly by TPNS), external storage
+https://cloud.tencent.com/document/product/548/50955
+Content sharing service provider
+Sina Weibo
+Allow users to actively share content on Weibo
+Collect directly from the integrated client SDK provider
+IMEI (Android only)
+https://
+weibo.com/signup/v5/privacy
+tencent
+Allow users to actively share content on WeChat
+Collect directly from the integrated client SDK provider
+Installed App Information
+https://open.weixin.qq.com/cgi-bin/frame?t=news/protocol_developer_tmpl
+tencent
+Allow users to actively share content on QQ
+Collect directly from the integrated client SDK provider
+Installed App Information
+https://wiki.connect.qq.com/qq Privacy Protection Statement for Internet SDK
+Browser control provider
+tencent
+Allow users to browse web pages in Xiao'e Tong, improving security, opening speed, and compatibility
+Collect directly from the integrated client SDK provider
+International Equipment Identity (IMEI), International Mobile User Identity (IMSI), Network Card Address (MAC Address), User Model, Screen Size, Operating System Version Number, Target API, Network Type (Apn Type), Network Change Monitoring Broadcast, and WiFi MAC Address
+https://x5.tencent.com/tbs/guide/develop.html
+Content service provider
+Xiao'e Tong
+Allow users to browse content related to Xiao'e Tong within the app
+Collect directly from the integrated client SDK provider
+IMEI, WiFi Mac address, external storage, camera, photo album, reading device information
+https://admin.xiaoe-tech.com/privacy_protocol_page
+E-book service provider
+iReader 
+Allow users to browse selected content from Palm Reading
+Collect directly from the integrated client SDK provider
+IMEI、 Network status, screen size, brand, model, ROM, Android version, external storage, camera, photo album, running process information, Android ID
+https://ir.zhangyue.com/fe3/zybook/other/statement/privacyagreement.html
+User authentication service provider
+China Mobile
+Allow users to log in to Impression Notes with just one click through their phone number
+Collect directly from the integrated client SDK provider
+Register mobile phone number, email, local phone number, mobile device type, mobile operating system, hardware manufacturer, international mobile device identification code, operator type, network type, number of SIM cards, international mobile user identification code, network address, screen size, screen resolution
+https://wap.cmpassport.com/resources/html/contract.html
+Payment settlement service provider
+WeChat Pay
+Provide WeChat Pay services
+Collect directly from the integrated client SDK provider
+Encrypted user ID, device unique identifier
+https://www.tenpay.com/v3/helpcenter/low/privacy.shtml
+Alipay
+Provide Alibaba Pay services
+Collect directly from the integrated client SDK provider
+Encrypt user ID, IMEI, WiFi MAC address, read device information, and obtain app installation list
+https://render.alipay.com/p/c/k2cx0tg8
+Google Mobile Service Provider
+Google
+Allow users to use Google's mobile services on their Android phones
+Collect directly from the integrated client SDK provider
+Device unique identifier, device account data, operating system, mobile network information (including carrier name and phone number), application version number, installed app information
+https://policies.google.com/privacy?hl=en -US
+Google login service provider
+Google
+Provide Google one click login service
+Collect directly from the integrated client SDK provider
+Google account, unique identifier, browser type and settings, device type and settings, device account data, operating system, mobile network information (including carrier name and phone number), and application version number, as well as installed app information
+https://developers.google.com/terms/api-services-user-data-policy
+ABTest Service Provider
+Google
+Provide ABTest services
+Collect directly from the integrated client SDK provider
+IP address
+https://firebase.google.com/support/privacy
+Mobile data statistics service provider
+Microsoft
+Provide mobile platform crash log collection service
+Collect directly from the integrated client SDK provider
+Operating system, mobile network information (including operator name and phone number), as well as application version number, language, and country/region
+https://docs.microsoft.com/zh-cn/Appcenter/sdk/data-collected
+Mobile data statistics service provider
+Countly
+Provide mobile platform data statistics services
+Collect directly from the integrated client SDK provider
+The encrypted user ID, device unique identifier, IDFA or Google advertising ID, OAID，Android ID， Device name, carrier, phone brand and model, screen resolution, processor, country code, system language, network type, Android version, operating system version
+https://count.ly/legal/privacy-policy
+Intelligent hardware partners
+Huawei
+Provide Huawei account quick login and quick device connection services
+Collect directly from the integrated client SDK provider
+Device related hardware identifiers, device hardware parameters,
+System version information
+https://device.harmonyos.com/cn/docs/devicepartner/DevicePartner-Guides/device-privacy-statement-0000001188494819
+System handwriting service
+Huawei
+Provide Huawei handwriting service
+Collect directly from the integrated client SDK provider
+Do not collect personal information
+https://developer.huawei.com/consumer/cn/devservice/term
+PDF document access editing service provider
+iText
+Provide services such as annotation and export of PDF documents within the app
+Collect directly from the integrated client SDK provider
+Do not collect personal information
+https://itextpdf.com/en/how-buy/legal/privacy-policy
+How do you manage your personal information
+We highly value your attention to personal information and make every effort to protect your rights to access, correct, delete, withdraw consent, and cancel your account. During your use of this service, in order for you to exercise these rights more conveniently, we have provided you with corresponding operation settings in the product design. You can refer to the following instructions for operation.
+Accessing and correcting your personal information
+You can log in to the Impression Notes website, visit the Impression Notes account information page, and click the "Settings" link at any time to access and correct all or part of your personal information. In the Impression Notes app, you can access and correct your name, profile, and profile photo by entering Impression Notes, going to "My" - "My Account" - "Profile".
+Delete your personal information
+You can log in to the Impression Notes website, visit the Impression Notes account information page, and click the "Settings" link at any time to delete all or part of your personal information. In the Impression Notes app, you can delete your personal profile and profile photos by entering Impression Notes, going to "My" - "My Account" - "Profile".
+You can choose to no longer use this service and/or delete the content you have posted on any notebook at any time. If you delete any notes or notebook content, you or others who have access to such content will no longer be able to access it.
+You may request the deletion of personal information from us if:
+We collect and use personal information in violation of laws and regulations or our agreement with you;
+If we violate laws and regulations or our agreement with you to share or transfer your personal information with a third party, we will immediately stop the sharing or transfer behavior and notify the third party to delete it in a timely manner;
+If we violate laws and regulations or our agreement with you by publicly disclosing your personal information, we will immediately cease such disclosure and issue a notice requiring the relevant recipient to delete the corresponding information;
+If you no longer use our products or services, or if you cancel your account, or if we terminate our services and operations.
+Change the scope of your authorization and consent
+Unless otherwise stated in these terms, you may typically change the scope of your authorization for us to continue collecting and using personal information or revoke your authorization by disabling device features, making "privacy settings" on your device, or other means.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+cancellation account 
+You can submit a cancellation request by going to "My" - "Settings" - "Manage Accounts" - "Cancel Account" in the Impression Notes app. In order to protect your legitimate rights and interests, we need to verify your identity when you submit a cancellation application. You need to provide your phone number or email address and username under this account to determine your identity and support your cancellation request, but we will not set unnecessary or unreasonable conditions or obstacles for your cancellation behavior.
+If you cancel your Impression Notes account, we will cease providing Impression Notes services to that account and delete or anonymize relevant personal information and data; Please note that due to legal and regulatory requirements, the operation and continuous data backup and archiving characteristics of electronic devices, residual copies of the content you have deleted may continue to be retained in the backup and archiving system of the Impression Notes service for up to one year.
+Obtain a copy of personal information
+According to laws, regulations, and relevant national standards, you have the right to obtain copies of your personal basic information and personal identification information. You can obtain it by going to "My" - "My Account" in the Impression Notes app or by contacting us through the methods listed in this privacy policy.
+Exception in response to your above request
+Despite the above agreement, according to relevant laws, regulations, and national standards, we may not be able to respond to your request in the following situations:
+Related to our obligations under laws and regulations;
+Related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+Involving trade secrets.
+Cookies and similar technologies
+When you use this service, we store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. We use this information to determine whether registered users have logged in, record user preferences, improve service/product quality, and optimize user experience. If you do not want personal information to be stored in cookies, you can configure your browser and choose to disable the cookie function. After disabling the cookies function, it may affect your access to this service or prevent you from accessing it
+Make full use of this service.
+Impression Notes may allow third-party business partners who advertise on some of our web pages to save their own cookies on your computer. These business partners do not have access to the cookies of Impression Notes, and their use is subject to their own privacy policies.
+We have collected specialized ad tracking identifiers from your device (ad identifiers or "IDFA" on Apple devices or "OAID" on Android devices and Google Ads ID). These identifiers are the unique identifiers of your device, but you can reset them or restrict their use through your device. These identifiers do not contain your name or email address. We combine these advertising tracking identifiers with our analysis techniques to enable us to conduct targeted advertising campaigns.
+We will occasionally collaborate with third-party online advertisers who use cookies and similar technologies to collect information about your visit to and actions on the Impression Notes website's web pages, your use of Impression Notes services, and whether you have opened the email we send you. We do this to promote our Impression Notes products and services to you in the future, such as when you visit third-party websites, and to measure the effectiveness of our messages. During this process, we will not share any of your personal information (such as your name, phone number, email address, or third-party account) or account content with third parties.
+Impression Notes will not use cookies for any purposes other than those stated in this privacy policy. You can manage or delete cookies according to your preferences. You can clear all cookies saved on your computer, and most web browsers have a function to block cookies.
+Protection of Minors
+Notification and Revision
+How do we collect and use personal information
+We follow the principles of legality, legitimacy, and necessity to collect and use your personal information for the purposes, methods, and scope described in these terms. If we want to use your personal information for purposes not specified in these terms, or use information collected for specific purposes for other purposes, we will obtain your consent through page prompts, interactive processes, website announcements, or other reasonable means in accordance with the law. Once you agree, such additional purposes will be considered part of these terms, and the processing of such additional personal information will also be subject to these terms.
+Ways to collect and use personal information
+The information you voluntarily provided. For example, the information you provide to us when registering for an Impression Notes account or using Impression Notes services; The information you publicly upload and publish when using the Impression Notes service; The information stored when you use the Impression Notes service; The shared information you provide to third parties through the Impression Notes service.
+Please note that if you publicly post, share, exchange, or transmit personal or other sensitive information to any other third party in the public areas of the Impression Notes website, Impression Notes software, or product, you should ensure that the information complies with the requirements of laws, regulations, and other applicable norms, and carefully consider whether to publish the information. You are aware that any information publicly released, shared, shared, or transmitted through the aforementioned channels can be accessed by other third parties. Your act of publicly releasing, sharing, sharing, or transmitting any information represents your recognition that the information is publicly available. For any information that you do not want to be known by other third parties, please do not publicly publish, share, share, or transmit it. You shall bear full legal responsibility for the aforementioned public behavior. If any personal information you choose to publicly post, share, share, or transmit is made public or used, Impression Notes is not responsible.
+We have obtained your information. For example, when you use this service, we collect and record log information, location information, device information, etc.
+To register and log in to your Impression Notes account, we need to collect your phone number or email address (whichever is provided). If you do not provide the above information, you will not be able to register, log in to your account, or use the basic functions of note editing, browsing, and searching in this service.
+After registration, you can log in to your Impression Notes account through your phone number/email address and choose whether to complete your nickname, avatar, name, and password. We will not force you to provide such information.
+When you register and create an Impression Notes account, we will verify your identity by sending a SMS verification code or email based on the registration method you choose. When you forget your password, the phone number or email address you added to your profile will be used as a path to verify your identity and retrieve your password. To better protect the security of your Impression Notes account, if you change your frequently used phone number, we recommend that you make the necessary changes in your personal profile in a timely manner.
+When conducting identity verification and security verification, we will send notifications in the form of verification codes or other forms to the phone numbers you provided during registration and login to complete the verification.
+You can also use third-party accounts (such as WeChat, Apple ID, Huawei account) to log in and use this service. If you choose to log in through a third-party account, in order to verify your account and enable you to log in and use this service, with your authorization and consent, we will follow these terms and the "WeChat Privacy Protection Guidelines"（ https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy ）Apple Privacy Policy（ https://www.apple.com/legal/privacy/szh/ ）Statement on Huawei Device Management Services and Privacy（ https://device.harmonyos.com/cn/docs/devicepartner/DevicePartner-Guides/device-privacy-statement-0000001188494819 ）Collect your nickname, avatar, and gender.
+Implement identity authentication
+Maintaining the integrity of basic functions
+Always running
+Log data. When you use this service, we collect log data to understand your and others' access and usage of the service, as well as your operational information (including but not limited to creating or sharing notes, the number and word count of notes, the number and size of images, audio, video, tables, PDFs, and other files in the notes, the number of annotated files, and other external data). The collected data includes the use of cookies, tracking pixels, and similar analysis techniques (which will be more comprehensively explained in the following text). This information will help us understand how you use this service and provide you with better service.
+Share information. When you share notes with your contacts in third-party accounts (such as WeChat, Apple ID), we will collect information about the notes you share, including but not limited to: the sharing time of the notes, the number of shares, the sharing platform, the reading volume of the shared notes, as well as publicly available external data such as the number and size of links, images, audio, video, tables, PDFs, and the number of annotated files in the notes, to help us understand how you use the sharing service and provide you with a better user experience; At the same time, we will confirm the compliance of the shared notes in accordance with relevant laws and regulations.
+Other information. Display non personally identifiable information about your association with one of our business partners or promotional activities (if applicable), or information about the source, access sequence, browser version, etc. of each user using the Impression Notes service.
+Please note that the information used to maintain the normal operation of basic services mentioned above cannot identify the identity of specific natural persons. If we combine this type of non personal information with other information to identify the identity of a specific natural person, or use it in conjunction with personal information, during the period of combined use, this type of non personal information will be considered personal information. Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify this type of personal information. During the period of combined use, this information will be treated and protected as your personal information in accordance with this privacy policy.
+Assist you in placing an order, making payment, and delivering goods or services to you
+When you order specific goods and/or services in this service, we will generate an order for you to purchase the goods and/or services through the system. During the ordering process, you are required to provide at least the recipient's name, shipping address, postal code, contact phone number, payment status, and other information. If you refuse to provide such information, we will be unable to complete the delivery of the relevant goods or services. If you order goods or services for others through this service, you need to provide the aforementioned information of the actual purchaser. Before providing us with the aforementioned information of the actual purchaser, you need to ensure that you have obtained their authorization and consent.
+When you use some individual services, you may need to enable specific access permissions on your device to collect and use the information involved in these permissions. These individual services include but are not limited to:
+If we access your camera, it is to enable you to scan codes and take photos using the camera, for login, payment, uploading pictures, and using text recognition services;
+If we access your photo album, it is to enable you to access and upload photos, images, or videos from your device, making it easier for you to change your profile picture, insert images into your notes, generate notes from images, and use text recognition services;
+If we access your microphone to enable you to use voice transcription and real-time translation functions, we will collect your recorded content to identify your specific needs;
+If we access your app installation list, it is to enable you to use payment and sharing functions and have a good experience;
+If we access your clipboard, it is to enable you to use the trimming and intelligent trimming functions. Your clipboard information will only be processed locally on the device and will not be used for any other purposes;
+After you enable the address book permission, we can obtain your contact information in the address book, so that we can import the contact information you provide into the product in the form of business cards for storage;
+After you allow us to enable storage permissions, we can access your photos, media content, files, and other information for your convenience in sharing and storing your note information at any time;
+After you allow us to enable Bluetooth permission, connect the Impression Notes related smart hardware (such as Impression Smart Pen, Impression Translator Pen, Impression Recorder Pen, etc.) to the Impression Notes App through Bluetooth, so that your data can be updated and synchronized on the Impression Notes App;
+When you use the specific recognition function in the Impression Note service, we will collect and store the image, text, and voice information you upload. Our relevant recognition program will process and analyze this data and return the corresponding text results;
+If someone uses "Work Group Chat" to contact you through an email address or phone number that is not associated with your Impression Notes account, or through a social media website that is not associated with your Impression Notes account, Impression Notes will use this contact method to contact you on behalf of the sender;
+When you need to disable any permissions, most mobile devices will support your needs. Please refer to or contact the service provider or manufacturer of your mobile device for specific methods. When you grant any permission, it means that you authorize us to collect and use relevant personal information to provide you with relevant services; When you close any permission, it means that you have revoked the relevant authorization. We will no longer collect and use your personal information based on that permission, nor will we provide you with the services corresponding to that permission. Please note that your decision and action to disable permissions will not affect the collection and use of personal information that has already been carried out based on your authorization.
+We collect your personal information indirectly
+If you create, bind, or log in to an Impression Note account through a third-party account (such as WeChat, Apple ID, Huawei account, or other application account), we will obtain authorized third-party account information (such as avatar, nickname, email address, etc.) from the third party, and may use this third-party account information as Impression Note account information. If you share or transmit content to third-party software or services authorized by Impression Notes through this service, we may collect and obtain your real name authentication information and mobile phone number
+The code. If you use third-party software or services authorized by Impression Notes through this service, we or relevant third parties may send you text messages or read the content of the messages you receive.
+Sending you product announcements, software updates, and special offer information
+We may send you such information via email or text message. You can log in to your Impression Notes account at any time from the Impression Notes website, go to "Settings>Personal Settings>Contact Preferences" to choose to opt out of receiving such information or change your contact preferences. Alternatively, you can click on the "unsubscribe" link located at the bottom of the email you receive (for emails) or reply to unsubscribe messages (for mobile messages) to exit our marketing communications. But even if you have cancelled your subscription, you will still receive information related to the service and account.
+Provide you with information display and push of goods or services
+Based on the information you provide to us, the information we may collect, and the information we indirectly collect from you (such as browsing and search information, device information, location information, order information, phone number), we may send advertisements to provide services that better meet your needs. We may also send you marketing messages, user surveys, or other means via email, text message, or other means to help us improve our services and provide or promote our or our business partners' products and services.
+Provide security and compliance management
+To improve the security of your use of this service, protect your or other users' personal and property safety from infringement, and better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, we may collect, use, or integrate your account information, transaction information, device information, log information, and personal information obtained by our affiliated companies and partners with your authorization or shared in accordance with the law for identity verification, detection, and prevention of security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+In order to troubleshoot, comply with regulations, and provide user support, we may need to access some of your information, such as your account's phone number, email address, third-party accounts associated with your account, and information about the Impression Notes application you are using.
+When you share the notes in your Impression Notes account with your contacts on third-party accounts (such as WeChat, Apple ID, Huawei account), you explicitly agree that we will review the content of your shared notes through automatic system review and necessary manual review to ensure our compliance management of the sharing service in accordance with relevant laws, regulations, and policies.
+You understand and agree that after collecting your personal information, we will use technical means to de identify the data. The de identified personal information will not be able to identify your identity. In this case, we have the right to use the de identified personal information to analyze user data and make legal commercial use of it.
+Exceptions to obtaining authorization and consent
+According to relevant laws, regulations, and national standards, we do not require your authorization or consent to collect and use your information for the following purposes:
+Related to our obligations under laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding your or others' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+The personal information collected is disclosed by you to the public on your own;
+Necessary to sign and fulfill the contract according to your requirements;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+Necessary for maintaining the safe and stable operation of the Impression Notes service, such as discovering and handling product or service failures;
+Necessary for conducting legitimate news reporting;
+When conducting statistical or academic research in the public interest and providing results of academic research or descriptions to external parties, the information contained in the results is de identified;
+Other circumstances stipulated by laws and regulations.
+Tips on Personal Sensitive Information
+When you use the collaboration feature in this service to collaborate with others, certain personal information you provide to Impression Notes and your Impression Note user status may be displayed to other users. This situation includes but is not limited to:
+If you share notes or notebooks, or if you join a shared note or notebook, anyone who has access to that note or notebook can see your user profile (if you have not added any profile, you will only be identified by an email address associated with your Impression Note account);
+If you initiate or reply to a "work group chat" message, the party chatting with you will be able to view your user profile;
+In a "work group chat", if you are the recipient of a message but have not replied, only other Impression Notes users who are already connected to you can see your user profile, and others in the group chat will only see the information used by the sender of the "work group chat" message to you (such as email address or phone number);
+In addition, anyone with access to the shared notebook will be able to see the note content of each note in the notebook, information about the creation location and time of the note, as well as related note history, tags, and reminders. When the note is shared through a 'work group chat', those who have access to the note will only be able to see the content of the note and information about the location and time of its creation.
+How do we store and protect personal information
+The data (including personal information) collected and generated by this service within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. We are committed to protecting your information security and taking reasonable preventive measures for this purpose. We adopt standard practices in the Internet industry to protect your personal information from unauthorized access, disclosure, use, modification, damage or loss. We will take all reasonable and feasible measures to protect your personal information.
+Our network service adopts industry standard encryption technology to protect your data during transmission, which is commonly referred to as
+Transport Layer Security (TLS) technology or Secure Socket Layer (SSL) technology provides browsing services through HTTPS and other methods to ensure the security of user data during transmission. However, Internet data transmission cannot guarantee 100% security, so we cannot guarantee the absolute security of information during the transmission between you and us; Therefore, please understand that due to technical restrictions and possible malicious means, it is impossible to always ensure 100% security of information in the Internet industry. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control.
+When using personal information, we will use various data anonymization techniques including content replacement, encryption anonymization, etc. to enhance the security of personal information during use.
+Establish strict data usage and access regulations, adopt strict data access control and multiple identity authentication technologies to protect personal information, and prevent data from being used in violation of regulations.
+Adopt specialized data and technology security audits, establish multiple measures including log audits and behavior audits.
+To protect your account and service functionality, our automated system analyzes the emails you send or receive from your Impression Notes service account to monitor for spam, malware, or other potential security issues and behaviors that may affect email delivery.
+We will only store your personal information for the period necessary to achieve the purposes described in these terms. However, in order to comply with applicable laws and regulations, court judgments or rulings, requirements of other competent authorities, and to safeguard public interests, we may appropriately extend the retention time of personal information.
+Establish internal systems such as data security management standards and data security development standards to manage and regulate the storage and use of personal information.
+Strengthen safety awareness education. We regularly hold security and privacy protection training to enhance employees' awareness of the importance of protecting personal information.
+Due to the fact that we may provide products or services through global resources and servers, if some of our products involve cross-border business and we need to transmit relevant user personal information collected domestically to overseas institutions, we will comply with laws, administrative regulations, and relevant regulatory authorities. We will inform you of the purpose of the exit, the types of personal information involved, the identity and data security capabilities of the recipient, and possible security risks, and obtain your consent. We will also clarify the obligations and responsibilities of all parties through signing agreements, supervision and verification, security audits, and other measures, requiring overseas institutions to keep the personal information obtained confidential and receive sufficient and equal protection within China.
+Handling of personal information security incidents
+In the event of a security incident caused by personal information, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you through one or more methods such as email, letter, phone, push notification, etc., in accordance with the requirements of laws and regulations and the actual situation; At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+By sending notifications to all users to remind them to change their passwords. We will promptly inform you of the relevant information of the incident through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to issue announcements to avoid further data leakage.
+It should be noted that although we have taken the reasonable and effective measures mentioned above and complied with the standards required by relevant laws and regulations, we still cannot guarantee the security of your personal information when communicating through insecure channels. For example, the security of information stored in the Impression Notes software installed on your device depends on your use of the security features of your device. Therefore, we recommend that you take appropriate measures to ensure the security of devices using our applications and services, such as regularly changing account passwords, not using the same password as other services, and not disclosing personal information such as your account password, especially sensitive personal information, to others.
+You understand and agree that the personal information protection measures provided by us under these terms only apply to this service. Once you leave the platform, browse or use other websites, services and content resources, we have no ability or obligation to protect any personal information you use or provide outside the network environment of this service, regardless of whether the network resources you log in to or browse originate from our links or guidance.
+How do we entrust the processing, sharing, transfer, and public disclosure of personal information
+The personal information we entrust to process
+Before entrusting processing, we will anonymize your personal information. For companies, organizations, and individuals entrusted by us to process personal information, we will sign strict confidentiality agreements with them, requiring them to process personal information in accordance with our requirements, these terms, and other relevant confidentiality and security measures.
+Our situations as the principal usually include:
+When you order specific goods and/or services in this service, the logistics service provider is entrusted by us to use your mobile phone number and shipping address to send you goods and/or services;
+When we need to send notifications to you, the push notification service provider is entrusted by us to use your mobile phone number to send notifications to you;
+In order to provide this service, complete payment transactions, and meet your product or service requirements (including sales, delivery, and support), we may share your information with third-party service providers who process data on our behalf. These service providers will only use your personal information to the extent necessary to provide the service.
+Personal information that we may share
+When you use this service to access or post information, it means that you allow us to record, use, and take other actions (within the scope of applicable laws, regulations, and service terms) in order to provide this service. We will strictly keep this information confidential. We will not share this information with others, nor will we sell, rent, or distribute it to others in any other way (except as disclosed in this privacy policy). But in the following situations, Evernote can share your information with external parties:
+If you transfer to a third-party account (such as WeChat, Apple I)
+D) If the contact person actively shares the notes in the Impression Notes account, the recipients within the scope allowed by your third-party account can view and continue to share the notes that have been shared by you;
+You explicitly request to obtain information from Impression Notes business partners. In this case, the identity of the personal information collector and the applicable privacy statement will be clearly stated when collecting the information;
+You have an online or offline (non Internet) relationship with one of our affiliates or partners (and we also have a relationship with this affiliate or partner), or have visited the website of this affiliate or partner that links to or refers to the Impression Notes website, and have registered the online service of Impression Notes through the program or website of this partner or partner.
+Personal information that we may transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
+When it comes to mergers, acquisitions, or bankruptcy liquidation, if there is a transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+Personal information that we may publicly disclose
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+According to your needs, disclose the information you have specified in the disclosure method that you have explicitly agreed to;
+If we determine that you have violated laws and regulations or seriously violated this Privacy Policy or related Terms of Service, it is necessary to disclose some of your information in order to investigate and/or disclose any behavior that may violate our Terms of Service or to enforce these Terms of Service;
+We may disclose your information based on the type and disclosure method required by laws and regulations, mandatory administrative law enforcement, or judicial requirements. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the recipient to provide corresponding legal documents, such as subpoenas, investigation letters, etc. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights.
+Exceptions to obtaining prior authorization and consent when sharing or transferring personal information
+In the following situations, sharing or transferring your information does not require your prior authorization and consent:
+Directly related to judicial or administrative law enforcement such as criminal investigation, prosecution, trial, and judgment execution;
+Information that you disclose to the public on your own;
+Collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+According to legal regulations, sharing and transferring personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the subject of the personal information, does not constitute external sharing, transfer, or public disclosure of personal information. We will not need to notify you separately and obtain your consent for the storage and processing of such data.
+This service may be connected or linked to social media or other services provided by third parties (including websites, products, or other services), and in order to better provide these services to you, third parties may collect your personal information. These scenarios include:
+If you log in to this service through a third-party service, the operator of such third-party service may collect your personal information (including account information, log information, etc.) and may install cookies on your device to enable the normal operation of related functions.
+If you use the "share" function to share notes or notebook content to third-party platforms, the operators of such third-party services may collect your personal information (including your log information) and may install cookies on your device to enable the normal operation of related functions.
+We provide you with links through advertising or other means of our services, allowing you to link to third-party services or websites.
+Other situations of accessing third-party services. We may integrate SDKs or other similar applications provided by third-party service providers (such as in the form of embedded code, plugins, etc.) in order to provide you with better services and user experience. Some third-party SDKs or similar applications that we access may collect your personal information. If you use such services provided by third parties in our services, you agree that they will directly collect and process your information. We will evaluate the legality, legitimacy, and necessity of collecting personal information through such third-party services, require them to take protective measures for your personal information, and strictly comply with relevant laws, regulations, and regulatory requirements. At present, the SDKs or other similar applications provided by third-party service providers that we access mainly include:
+Used for advertising related services, including advertising display, advertising statistics, and monitoring;
+Used for message push functions, including push notifications from mobile phone manufacturers, specific event reminders, etc;
+Used for payment related services, including order payment, transaction behavior verification, income settlement, payment information summary and statistics, etc;
+Used to obtain device location permissions, collect device information and log information with your consent;
+Used to support product functional modules, including voice recognition, image recognition, translation, online customer service, and connecting smart hardware;
+Used to optimize product performance, including improving hardware distribution capabilities, reducing server costs, and performing functional hot repairs;
+Used for account security, product reinforcement related services, including network monitoring, domain name resolution, anti hijacking, anti spam and anti cheating, encryption and decryption services, etc.
+For example, if you use the course service provided by Shenzhen Xiao'e Network Technology Co., Ltd. ("Xiao'e Tong Course Service") through the "Impression Shitang" section in the Android and iOS versions of Impression Notes, Xiao'e Tong Course Service will use Tencent's Tencent browsing service to load pages. Tencent browsing service will collect your International Device Identity (IMEI) and country of origin by default during its initialization process
+International Mobile Identity (IMSI), Network Card Address (MAC Address), User Model, Screen Size, Operating System Version Number, Target API, Network Type (ApnType), Network Change Monitoring Broadcast, and WiFi MAC Address. The reason for collecting the aforementioned information is that compared to the system's built-in WebView, Tencent browsing service has more advantages in terms of security, opening speed, and compatibility. For details, please refer to the privacy policy of Tencent Browser Service: Tencent Browser Service Developer Service Agreement Privacy Related Terms. In addition, the mobile intelligent terminal supplements the device identification system and uniformly calls the SDK to obtain the OAID.
+The specific third-party services involved in this service are as follows:
+How do you manage your personal information
+We highly value your attention to personal information and make every effort to protect your rights to access, correct, delete, withdraw consent, and cancel your account. During your use of this service, in order for you to exercise these rights more conveniently, we have provided you with corresponding operation settings in the product design. You can refer to the following instructions for operation.
+Accessing and correcting your personal information
+You can log in to the Impression Notes website, visit the Impression Notes account information page, and click the "Settings" link at any time to access and correct all or part of your personal information. In the Impression Notes app, you can access and correct your name, profile, and profile photo by entering Impression Notes, going to "My" - "My Account" - "Profile".
+Delete your personal information
+You can log in to the Impression Notes website, visit the Impression Notes account information page, and click the "Settings" link at any time to delete all or part of your personal information. In the Impression Notes app, you can delete your personal profile and profile photos by entering Impression Notes, going to "My" - "My Account" - "Profile".
+You can choose to no longer use this service and/or delete the content you have posted on any notebook at any time. If you delete any notes or notebook content, you or others who have access to such content will no longer be able to access it.
+You may request the deletion of personal information from us if:
+We collect and use personal information in violation of laws and regulations or our agreement with you;
+If we violate laws and regulations or our agreement with you to share or transfer your personal information with a third party, we will immediately stop the sharing or transfer behavior and notify the third party to delete it in a timely manner;
+If we violate laws and regulations or our agreement with you by publicly disclosing your personal information, we will immediately cease such disclosure and issue a notice requiring the relevant recipient to delete the corresponding information;
+If you no longer use our products or services, or if you cancel your account, or if we terminate our services and operations.
+Change the scope of your authorization and consent
+Unless otherwise stated in these terms, you may typically change the scope of your authorization for us to continue collecting and using personal information or revoke your authorization by disabling device features, making "privacy settings" on your device, or other means.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+You can submit a cancellation request by going to "My" - "Settings" - "Manage Accounts" - "Cancel Account" in the Impression Notes app. In order to protect your legitimate rights and interests, we need to verify your identity when you submit a cancellation application. You need to provide your phone number or email address and username under this account to determine your identity and support your cancellation request, but we will not set unnecessary or unreasonable conditions or obstacles for your cancellation behavior.
+Obtain a copy of personal information
+According to laws, regulations, and relevant national standards, you have the right to obtain copies of your personal basic information and personal identification information. You can obtain it by going to "My" - "My Account" in the Impression Notes app or by contacting us through the methods listed in this privacy policy.
+Exception in response to your above request
+Despite the above agreement, according to relevant laws, regulations, and national standards, we may not be able to respond to your request in the following situations:
+Related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+There is sufficient evidence to suggest that you have subjective malice or abuse of power;
+For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+Involving trade secrets.
+When you use this service, we store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. We use this information to determine whether registered users have logged in, record user preferences, improve service/product quality, and optimize user experience. If you do not want personal information to be stored in cookies, you can configure your browser and choose to disable the cookie function. Disabling cookies may affect your access to this service or prevent you from fully utilizing it.
+Impression Notes may allow third-party business partners who advertise on some of our web pages to save their own cookies on your computer. These business partners do not have access to the cookies of Impression Notes, and their use is subject to their own privacy policies.
+We have collected specialized ad tracking identifiers from your device (ad identifiers or "IDFA" on Apple devices or "OAID" on Android devices and Google Ads ID). These identifiers are the unique identifiers of your device, but you can reset them or restrict their use through your device. These identifiers do not contain your name or email address.
+We combine these advertising tracking identifiers with our analysis techniques to enable us to conduct targeted advertising campaigns.
+We will occasionally collaborate with third-party online advertisers who use cookies and similar technologies to collect information about your visit to and actions on the Impression Notes website's web pages, your use of Impression Notes services, and whether you have opened the email we send you. We do this to promote our Impression Notes products and services to you in the future, such as when you visit third-party websites, and to measure the effectiveness of our messages. During this process, we will not share any of your personal information (such as your name, phone number, email address, or third-party account) or account content with third parties.
+Impression Notes will not use cookies for any purposes other than those stated in this privacy policy. You can manage or delete cookies according to your preferences. You can clear all cookies saved on your computer, and most web browsers have a function to block cookies.
+Protection of Minors
+Impression Notes highly values the protection of personal information of minors. If you are a minor, please only use the Impression Notes service with the guidance, supervision, and consent of your parents or legal guardians. If you are the guardian of a minor, you can contact us if you have any questions about the personal information of the minor under your guardianship.
+Rules for the Protection of Personal Information of Minors and Notice to Guardians
+Notice and Revision
+You can view this privacy policy by going to "My" - "About" - "Legal Terms" - "Privacy Policy" in the Impression Note App. We encourage you to review these terms every time you use this service.
+This clause may be revised or updated from time to time, and you should regularly review it to understand our plans and procedures for protecting the personal information we collect. After any changes to these terms, we will notify you in one or more of the following ways based on the actual situation:
+Publish the revised or updated privacy policy on the official website of Impression Notes;
+Send to the email address provided to us that is associated with your account;
+We will send you change notifications when users log in to the software system, update software versions, or use this service.
+For significant changes, we will also provide more prominent notifications (including for certain services, we will send notifications via email explaining the specific changes to our personal information protection policy). The significant changes referred to in this privacy policy include but are not limited to:
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+The main objects of personal information sharing, transfer or public disclosure have changed;
+There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+When the responsible department, contact information, and complaint channels for handling personal information security change;
+When the personal information security impact assessment report indicates the presence of high risks.
+You have the right to choose to accept the updated privacy terms, stop using our software and services, or cancel your account, but please note that your actions and activities before canceling or stopping using this service are still subject to this privacy terms. If you continue to use the software or services provided by Impression Notes, it will be deemed that you have accepted the modified privacy terms.
+contact us
+If you are unable to clarify your rights related to personal information through the methods described in these terms, or if you have any questions, suggestions, or opinions regarding these privacy terms, please contact us through https://www.yinxiang.com/contact/support Contact us, or you can send your questions to legalnotice@yinxiang.com .
+To ensure the security of your personal information, we may require you to provide a written request or prove your identity in other ways. Generally, we will accept your request within fifteen working days after receiving your feedback and verifying your identity, or within the time limit specified by laws and regulations. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We reserve the right to refuse requests that are repeated without reason, require excessive technical means, pose risks to the legitimate rights and interests of others, or are very unrealistic.
+other
+External links
+This service may contain links to third-party websites, and Evernote is not responsible for the privacy policies or other practices adopted by the websites, products, or services pointed to by such links, as well as the information or content contained on such websites, products, or services. This clause only applies to the information collected by this service and does not apply to third-party websites, products, or services.
+Available services for selection
+arrow-alt-circle-down
+arrow-alt-circle-left
+arrow-alt-circle-right
+arrow-alt-circle-up
+arrow-down
+arrow-left
+arrow-right
+arrow-up
+caret-down
+caret-left
+caret-right
+caret-square-down
+caret-square-left
+caret-square-right
+caret-square-up
+caret-up
+cart-menu-1
+cart-menu-2
+cart-menu-3
+cart-menu-4
+chevron-down
+chevron-left
+chevron-right
+chevron-up
+coupon-discount
+date-modified
+date-pub
+lished
+double-arrows-down
+double-arrows-left
+double-arrows-right
+double-arrows-up
+envelope-open
+google-drive
+grid-view
+hollow-ring
+level-down-alt
+level-up-alt
+list-view
+long-arrow-alt-down
+long-arrow-alt-left
+long-arrow-alt-right
+long-arrow-alt-up
+mobile-menu
+quote-left
+quote-right
+reading-time-hourglass
+reading-time-stopwatch
+scroll-to-top
+shopping-bag
+shopping-cart
+side-panel-opening-2-left
+side-panel-opening-2-right
+side-panel-opening-left
+side-panel-opening-right
+small-arrow-down
+small-arrow-left
+small-arrow-right
+small-arrow-up
+times-circle
+Please understand that the Evernote service is different from the services provided by Evernote Corporation (www.evernote. com) (referred to as "Evernote"). This service is provided and optimized from Beijing, China for use within the country. If you choose to use both this service and the services provided by Evernote, as the two are not integrated in any way and are governed by their respective terms of service, privacy terms, other relevant terms, and relevant jurisdictional laws and regulations, this clause only applies to the information collected by this service.
+product
+Impression Notes
+Membership Benefits
+Free Download
+Cut and hide ®
+More products
+Verse
+Impression chart
+Remember lightly
+Ink pen
+Scan Treasure
+Impression time
+collector
+Impression recorder
+Explore Impressions
+Latest News
+User stories
+Usage skills
+Video tutorial
+Help support
+Impression Recognition Hall
+Intelligent hardware
+Impression TEAMS
+Feature Highlights
+Use immediately
+Impression Community
+Certified Consulting Consultant
+Impression Ambassador
+developer
+About Us
+Company Vision
+Impression Ecology
+news information
+Join Us
+contact us
+product
+Impression Notes Membership Benefits Free Download Impression Notes · Cut and Hide ®
+More products
+Verse Impression Picture Memo Light Memo Ink Pen Scan Treasure Impression Time Collector Impression Recorder Mini Program
+Explore Impressions
+Latest news User stories Usage tips Video tutorials Help support Shitang intelligent hardware
+Impression TEAMS
+Feature Highlights: Apply for Trial Use
+Impression Community
+Certified Consultant, Impression Ambassador, Developer
+About Us
+Company Vision Impression Ecology News Join Us Contact Us
+Legal Information | Privacy Policy | User Permissions | Security Information | Contact Us | Application Version: 10.8.42 Developer: Beijing Impression Note Technology Co., Ltd
+Copyright 2007-2024 Impression Notes. All rights reserved Beijing Impression Notebook Technology Co., Ltd. Impression AI Generation Algorithm, 18th Floor, Zhonghai Plaza Middle Building, No. 8 Guanghua Dongli, Chaoyang District, Beijing, China. Internet Information Number: 110105722786701240015 Impression Large Language Model Beijing YinXiang 20240226 Beijing ICP Number: 12019321 Beijing Public Security Number: 11010502036942

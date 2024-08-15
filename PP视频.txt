@@ -1,0 +1,271 @@
+E-mail: KHYJSJ@suning.com
+Phone: 4000-012-094
+This policy applies to the PC, WAP, mobile client ("APP"), and other clients of PP Video.
+We attach great importance to the privacy and personal information protection of our users. We will process your relevant personal information in accordance with the provisions of this privacy policy in order to comply with legal and regulatory requirements and/or to achieve product functionality and service needs. We hope to explain to you through the PP Video Privacy Policy ("this Privacy Policy") how we collect, use, store, share, and transfer this information when you use our products and/or services, as well as the ways we provide you with access, updates, deletion, and protection of this information. We hope that you carefully read and confirm that you have fully understood the content stated in this policy before using our products and/or services, and that you can make the appropriate choices according to the guidance of this privacy policy. We strive to use concise and clear language to describe the relevant terms mentioned in this privacy policy, and provide links for further explanation to help you better understand.
+You agree that this guideline does not mean that as soon as you start using our products and/or services, we will process all personal information involved in this policy. Only when you use specific functions and/or comply with legal and regulatory requirements, we will process your relevant personal information based on the principle of "minimum necessity" to achieve clear and reasonable purposes; In specific functional scenarios involving sensitive personal information processing and system permission granting, we will seek your separate consent. At the same time, in specific functional scenarios, you may refuse to provide us with relevant personal information, but it may prevent you from using specific functions. We will provide relevant explanations in this policy for your better understanding.
+If a function or product/service that requires the collection of your personal information is not described in this PP Video Privacy Policy, or if we exceed the purpose and scope of direct or reasonable association claimed when collecting your personal information, we will separately explain to you through updating this PP Video Privacy Policy, page prompts, pop ups, message notifications, website announcements, or other means that are convenient for you to know before collecting and using your personal information, and provide you with the option to choose your own consent. After obtaining your explicit consent, we will collect and use your personal information
+This policy will help you understand the following:
+1. How do we collect and use your personal information
+2. How do we share, transfer, and publicly disclose your personal information
+3. How do we use cookies and similar technologies
+4. How do we protect and preserve your personal information
+5. How do you manage personal information
+6. Protection of Minors' Information
+7. How can your information be transferred globally
+8. Revision and Update
+9. How to contact us
+catalogue
+1、 How do we collect and use your personal information
+2、 How do we share, transfer, and publicly disclose your personal information
+3、 How do we use cookies and similar technologies
+4、 How do we protect and manage the storage of personal information
+5、 How do you manage your personal information
+6、 Protection of Personal Information of Minors
+7、 How can your information be transferred globally
+8、 Revision and Update
+9、 How to contact us
+1、 How do we collect and use your personal information
+You agree that this guideline indicates that you have been informed and authorized of the necessary personal information for basic functions.
+We will follow the principles of legality, legitimacy, minimum necessity, openness and transparency in collecting and using personal information that you voluntarily provide or generate as a result of using our products and/or services. To help you quickly understand our main situation regarding the collection and use of your personal information, we have provided an explanation in the form of a list. You can click to view the "Personal Information Collection and Use List".
+System permissions such as cameras will not be enabled by default. We will only apply for relevant permissions from you when you trigger relevant business functions, and the permissions we apply for are limited to those necessary to implement specific functions. You can revoke the authorization of system permissions at any time. If you refuse or revoke authorization system permissions, it will prevent you from using the corresponding functions, but it will not affect your normal use of other functions of the product and/or service.
+The basic functions of PP video implementation that may enable your device access permissions are listed below:
+Business scenarios
+Scenario description
+Access and usage permissions
+Prompt method
+Video playback
+During video playback, read acceleration sensor and direction sensor information to achieve automatic screen display
+Accessing acceleration sensors and direction sensors
+During the video playback process, automatic screen turning function is achieved by utilizing acceleration sensor and direction sensor information.
+fault diagnosis
+Fault diagnosis, data statistics
+Read variable device identification code
+To achieve fault diagnosis and data statistics, we will collect some device parameters and system information that cannot identify your personal identity, including variable device identification codes (such as Android ID), device models, brands, resolutions, operating systems, and versions.
+Device Access Permissions
+Business scenarios
+Scenario description
+Access and usage permissions
+Prompt method
+scan
+Continue watching videos on the app by scanning on the PC
+Access camera permissions
+When using the scan function for the first time, a pop-up window will prompt the user that "the scan function requires you to authorize the camera permission to ensure the normal use of the function". After the user refuses, it does not affect the use of other functions. If the user uses the function again, a pop-up prompt will appear again.
+Account Settings 
+Modify the user's personal avatar
+Access photo album
+When users upload/modify their avatars, the album will be read for users to select photos.
+（1） Basic functions for collecting personal information or applying for relevant permissions:
+1. Browse/play/search/download audio and video
+Personal internet history
+Play history, search history, and download history
+Acceleration sensor, direction sensor
+2. Fault diagnosis
+Variable device identifier (such as Android ID), device model, brand, resolution, operating system, and version
+Browse history, playback history, search history, download history, visit history
+Ask quantity, playback duration, IP address, access date and time.
+（2） Personal information collected through additional functions or relevant permissions applied for:
+1. Account registration and login
+Mobile phone number and PP video account login password information. Collecting mobile phone number information is to meet the requirements of relevant laws and regulations for network real name authentication to obtain your real name identity verification information. If you refuse to provide your mobile phone number for verification, it will result in registration/login failure, but it will not affect your ability to browse, search, and play videos
+Email and PP video account login password information
+One click login: Based on our cooperation with communication operators, when you confirm the use of the "one click login" function, the operator will send us your phone number for us to provide you with quick login services. If you refuse to provide it, you will not be able to use the "one click login" method to register and log in to PP Video, but it does not affect your ability to register and log in through other means.
+Nickname, avatar
+Nickname and avatar information
+Membership status and type, membership duration and validity period, membership level, membership benefits, movie tickets, sports tickets, coupons, and cloud diamonds
+2. Scan and sweep
+Camera permissions
+3. Screen casting
+Network type, WiFi status information (IP address, SSID), and TV hardware device name
+4. Communication and interaction
+Collect, make appointments, follow and other interactive records
+Cutting board function
+Real name authentication information
+5. Order and Payment
+Transaction product or service information, receiving information (account and contact phone number), transaction amount, order time, transaction date, order merchant, order number, order status, payment method, payment account, payment status, virtual product and service consumption usage records
+Transaction amount and order payment related information
+Status and payment progress information
+6. Message push
+Self start or associated start
+Contact phone number and email address
+You can turn off the push push permission that has been enabled in my Settings Message Notification or turn off the push push permission of PP Video APP in the built-in permission settings on your phone. You can reply with "T" to unsubscribe from the SMS push service after receiving the marketing SMS pushed to you by PP Video.
+7. Personalized recommendation function
+When you use our product, we will ask if you agree to accept the personalized recommendation function, and you have the right to decide whether to accept it independently. If you agree, we may collect your clicks, favorites, browsing, download records, and search terms, and automatically analyze and evaluate them through computer programs to form a user profile, in order to provide you with services that meet your interests, such as presenting or recommending more relevant (rather than universally recommended) audio and video content. If you do not wish to receive, you can use the relevant feature settings page of our products and/or services to turn on/off personalized recommendations at any time. The personalized recommendation setting path for PP Video App is: "My - Personal Center - Settings - Privacy Settings". On this page, you can enable or disable personalized recommendations and programmatic advertising recommendations. If you choose to turn it off, we will not process your personal information for the purpose of personalized content push, and the content you see will be less relevant to your preferences.
+8. Operations and Product Safety Needs
+Variable device identification code (such as Android ID)
+Equipment model, brand, resolution, operating system and version, personal internet records, service log information, transaction information, account and real name authentication related information
+Your operation records when using our audio and video browsing, clicking, searching, playing, communicating and interacting, placing orders, making payments, participating in activities, and other products and services we provide.
+Service log information
+Search history, browsing history, playback history, traffic volume, playback duration, IP address, access date and time
+We will comprehensively assess your account and transaction risks, verify your identity, detect and prevent security incidents, monitor fraud, archive and backup purposes based on the above information, and take necessary recording, auditing, analysis and disposal measures in accordance with the law.
+The above information, after being de identified or anonymized, may be used for internal research and statistical analysis, to improve the content and layout of our platform and services, and to provide support for improving our products or services
+9. Customer service and other user response functions
+Contact information (phone number/email address you used to contact us or other contact information you voluntarily provided to us), communication information between you and us (including text/images/audio/video/call records), and other necessary information related to your needs
+Exceptional circumstances
+You are fully aware that, in accordance with laws, regulations, and national standards, we do not require your consent to collect and use personal information in the following situations:
+1. Necessary for the conclusion and performance of contracts to which an individual is a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+2. Necessary for fulfilling statutory duties or obligations;
+3. Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+5. Process personal information that individuals have voluntarily disclosed or other legally disclosed within a reasonable scope in accordance with the provisions of this law;
+6. Other circumstances stipulated by laws and administrative regulations.
+Rules for the Use of Your Personal Information
+1. We will use the collected personal information in accordance with the provisions of this privacy policy and to achieve the functionality of our products and/or services.
+2. After collecting your personal information, we will use technical means to de identify the data, and the de identified information will not be able to identify the subject. Please understand and agree that we have the right to use the de identified information in this situation; We have the right to analyze and commercially utilize the user database without disclosing your personal information.
+3. Please note that all personal information you provide when using our products and/or services will continue to be authorized to us for use during your use of our products and/or services, unless you delete or refuse our collection through system settings. When you cancel your account, we
+We will stop using and delete your personal information.
+4. We will conduct statistics on the usage of our products and/or services, and may share this statistical information with the public or third parties to showcase the overall usage trends of our products and/or services. But these statistical information do not include any of your identification information.
+5. When we display your personal information, we will use methods such as content replacement and anonymous processing to anonymize your information and protect its security.
+6. When we want to use your personal information for purposes not specified in this policy, or when information collected for a specific purpose is used for other purposes, we will seek your consent in advance by you actively checking the box.
+2、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+1. We will not share your personal information with any company, organization, or individual outside of PP Video and Suning system, except for the following situations and the second and third situations below:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+We may share your personal information with our affiliates. But we will only share necessary personal information and are bound by the purposes stated in this privacy policy. If our affiliates want to change the purpose of processing personal information, they will seek your authorization and consent again.
+We may share your order information, account information, and variable device information with our partners and third parties to ensure the smooth completion of the services we provide to you. But we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose
+We may share your personal information with third parties who support our features
+We must share your order information and necessary transaction related information with third-party merchants to fulfill your purchasing needs for goods or services and enable them to complete subsequent after-sales services.
+We may use your personal information and the indirect user profile formed by your non personal information collection to share with our partners who entrust us to promote ("principals"), but we will only provide information on the coverage and effectiveness of the promotion to these principals, and will not provide your personally identifiable information, or we will aggregate this information so that it does not identify you personally
+Including: advertising display records, variable device information, and other related information
+4. Third party SDK service providers: Our products may include third-party SDKs or other similar applications. If you use these third-party services on our platform, you agree to have them directly collect and process your information (such as in the form of embedded code, plugins, etc.). For example, in order for you to complete the transaction and achieve the transaction purpose, Alipay SDK needs to read your variable device ID and other information; If you share the content of PP videos on third-party platforms such as Weibo, their SDK may collect the information you provide. The aforementioned service providers' collection and processing of information comply with their own privacy policies and are not applicable to this policy. To ensure the maximum security of your information, we recommend that you review the privacy policy of any third-party SDK services before using them. To protect your legitimate rights and interests, if you discover any risks associated with such SDKs or similar applications, we recommend that you immediately terminate the relevant operations and promptly contact us for assistance
+5. In order to comply with laws, enforce or apply our terms of use and other agreements, or to protect the rights, property or safety of PP Video, you or other PP Video users, such as to prevent illegal activities such as fraud and reduce credit risks, we exchange information with other companies and organizations. However, this does not include the sale, rental, sharing, or other disclosure of personal information for profit in violation of the commitments made in this privacy policy.
+6. We have listed each situation in which we share your personal information with our partners and third parties. Please refer to the "List of Third Party Sharing of Personal Information".
+（2） Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+1. Obtaining your explicit consent or authorization in advance;
+2. Provide necessary information in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+3. Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+4. When it comes to mergers, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek authorization and consent from you again.
+（3） Public disclosure
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+1. According to your needs, disclose the personal information you have specified in the disclosure method that you have explicitly agreed to;
+2. In accordance with the requirements of laws, regulations, mandatory administrative law enforcement or judicial requirements, we may publicly disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights. Subject to legal regulations, all documents we disclose are protected by encryption keys.
+（4） Related companies
+PP Video's affiliated companies refer to Suning Group and Suning related companies, and PP Video may share some of your information with affiliated companies. For example, when you watch videos on our platform,
+Select relevant derivatives, products, or services, and access products and services from other platforms through the links or entrances provided by our platform, including but not limited to information from apps such as Suning.com, Suning Red Kids, Suning Pinduogou, Suning Xiaodian, Suning Xiaotuan, Suning Yuedu, Suning Push, Suning Service Home, and PP Sports. You can also log in to the products or services provided by our affiliated companies using the Suning account linked to the PP video account through the link portal we provide.
+（5） Legal responsibility
+PP Video is aware of the corresponding legal responsibilities for sharing, transferring, and publicly disclosing personal information to external parties. If PP Video illegally shares, transfers, or publicly discloses your personal information to the outside world, resulting in damage or loss to you, PP Video will be held responsible in accordance with legal provisions.
+3、 How do we use cookies and similar technologies
+1. To ensure the normal operation of the website, provide you with a more relaxed visiting experience, and recommend content that may be of interest to you, we will store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. With the help of cookies, websites can store your preferences and service data. We send you cookies to simplify the steps of repeated login, store your viewing preferences and service data to provide you with shopping preference settings, help you optimize your selection and interaction with advertisements, help determine your login status, and ensure account or data security.
+2. We will not use cookies for any purposes other than those described in this privacy policy. You can manage or delete cookies according to your preferences. For more details, please refer to AboutCookies.org. You can clear all cookies saved on your computer, and most web browsers have a feature to block cookies. But if you do so, you will need to change your user settings every time you visit our website, and the corresponding information you previously recorded will also be deleted, which may have a certain impact on the security of the services you use. To learn more about how to change browser settings, please visit the relevant settings page of the browser you are using.
+How do we protect and manage the storage of personal information
+（1） Our technology and measures to protect your personal information
+We attach great importance to personal information security and take all reasonable and feasible measures to protect your personal information:
+1. Data security technical measures
+We will adopt security measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, use, and modification of your personal information, and to prevent data damage or loss.
+The network service of PP Video adopts encryption technologies such as transport layer security protocols, and provides browsing services through HTTPS and other methods to ensure the security of user data during transmission.
+PP video adopts encryption technology to encrypt and store users' personal information, and isolates it through isolation technology.
+When using personal information, we will adopt various data anonymization technologies including content replacement and SHA256 to enhance the security of personal information during use.
+PP Video adopts strict data access control and multiple identity authentication technology to protect personal information and prevent data from being used in violation of regulations.
+PP Video adopts code security automatic inspection and data access log analysis technology for personal information security audit.
+2. Other security measures taken by PP Video to protect personal information
+PP Video manages and regulates the storage and use of personal information by establishing a data classification and grading system, as well as data security management standards.
+PP Video provides comprehensive security control over data through information contact confidentiality agreements, monitoring, and auditing mechanisms.
+PP Video establishes a data security management organization to promote and safeguard personal information security.
+PP Video establishes a data security management organization to promote and safeguard personal information security.
+PP Video's underlying cloud technology for storing your personal data has obtained the "Trusted Cloud" certification issued by the Data Center Alliance.
+Strengthen safety awareness. We will also hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+3. We only allow employees and partners of PP videos and PP video affiliates who need to know this information to access personal information, and have established strict access control and monitoring mechanisms for this purpose. We also require all personnel who may have access to your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or the partnership with PP Video may be suspended.
+4. We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
+5. The Internet is not an absolutely secure environment, and the way of communication with other users such as email, instant messaging, social software, etc. cannot be determined whether it is fully encrypted. We recommend that you use complex passwords when using such tools, and pay attention to protecting your personal information security.
+6. The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+7. Security incident handling
+In response to potential risks such as personal information leakage, damage, and loss, PP Video has established multiple systems to clarify the classification and grading standards for security incidents and vulnerabilities, as well as corresponding processing procedures. PP Video has also established a dedicated emergency response team for security incidents. In accordance with the requirements of security incident handling standards, security plans are activated for different security incidents to carry out stop loss, analysis, positioning, formulate remedial measures, and jointly trace and crack down on relevant departments.
+After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, as well as the measures we have taken or will take in accordance with the requirements of laws and regulations
+Measures taken, suggestions for you to independently prevent and reduce risks, remedial measures for you, etc. We will also promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+If you discover that your personal information has been leaked, especially your account and password, please contact us immediately through the contact information provided in the "How to Contact Us" section at the bottom of this policy, so that we can take appropriate measures.
+（2） Storage of your personal information
+The minimum period of data storage required for the purpose of providing our products and services, except for mandatory retention requirements by law
+After the data storage period expires, we will delete or anonymize your personal information.
+2. Please note that after you successfully apply to cancel your PP video account, we will complete the account cancellation review after you submit the application. After the review is approved, we will delete or anonymize your personal information
+3. If we terminate the service or operation, we will notify you at least thirty days in advance and delete or anonymize your personal information after the termination of the service or operation.
+5、 How do you manage your personal information
+PP Video attaches great importance to your attention to personal information and strives to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security. Your rights include:
+1. Accessing and correcting your personal information and copies of personal information
+Except as provided by laws and regulations, you have the right to access and correct your personal information at any time:
+(1) Your personal information: You can view and edit your personal information at any time on PP Video. On the APP, you can enter the "Personal Center" by clicking "My", and click on the avatar area to enter the "Personal Homepage" to view your personal information, including username, nickname, avatar, email, phone number, and film and television member information. You can edit and modify your nickname and avatar here; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, click on the "Account Settings" menu to enter the "Personal Profile" to view personal information, including nickname, email, and phone number. You can edit and modify nickname, email, and phone number here; On the mobile M station, you can enter the "Personal Center" by clicking on the avatar area, and then click on the avatar area again to enter the "Personal Information" to view personal information, including nickname and phone number.
+(2) Your playback history: We will record your playback history on the PP video, including video information and interruption time. On the APP, you can enter the "Personal Center" by clicking "My" and check the "playback history"; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, and then click on "Play History" to check; On the mobile M station, you can enter the "Personal Center" by clicking on the avatar area to directly view the playback history.
+(3) Your search history: We will record your search history in PP videos, and you can find your search history in the "History Search" section of the search page. Click on the trash icon next to "Historical Search" to clear search records.
+(4) Your downloads: We will record the applications and videos you downloaded on PP Video, and also read the videos stored locally. On the APP side, you can click "My" to enter the "Personal Center" and click "My Downloads" to search.
+(5) Your collection: We will record the videos and information you have collected in PP videos. On the APP side, you can enter the "Personal Center" by clicking "My", and click "My Favorites" to search; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, and then click on "My Favorites" to search; On the mobile M station, you can enter the "Personal Center" by clicking on the avatar area to directly view my favorites
+(6) Your Follow: You can follow your favorite UP hosts on PP videos and unfollow them at any time. On the APP side, you can enter the "Personal Center" by clicking "My", and click "My Followers" to search; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, and then click on "My Followers" to search.
+(7) Your assets: You can obtain coupons, movie watching coupons, movie membership cards, game watching coupons, cloud diamonds, and movie giveaways through participating in activities and purchasing gifts on PP videos. Please refer to the specific coupon activity details for the usage rules of the coupons. The movie voucher is used to watch "movie and television coupons", the movie and television membership card is used to redeem movie and television members, the game voucher is used to watch "event coupon" videos, the cloud diamond is used for cash out, full redemption, cash in, participation in interactive activities, and participation in games, and the number of free movies is used to share some of the movies with WeChat friends. On the app, you can enter the "Personal Center" by clicking "My" and then click "My Assets" to view asset information; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, and then click on "My Assets" to search.
+(8) Your order: PP video will also record your recharge and consumption information, including order number, product information, order time, payment method, and payment amount. On the app, you can enter the "Personal Center" by clicking on "My", then click on "My Film and Television Members", and finally click on "View Orders"; On the PC side, you can enter the "Personal Center" by clicking on the avatar area, and then click on "My Orders" to search
+2. Delete your personal information
+The information that you can directly clear or delete on our product and/or service pages, including personal information, playback/search/download/favorite/follow records, order information, etc;
+In the following situations, you can request us to delete your personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your consent;
+(3) If our handling of personal information violates our agreement with you;
+(4) If we terminate our services and operations.
+If we decide to respond to your deletion request, we will also notify the entity that obtained your personal information from us to delete it in a timely manner
+Unless otherwise provided by laws and regulations, or unless these entities have obtained your independent authorization. When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+3. Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, disabling device functions, or setting "privacy settings" in the PP video software. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+4. Cancel account
+You can directly apply to cancel your account in our product:
+Click on "My" - click on "Settings" - click on "Account Cancellation". After you cancel your account, we will cease to provide you with products and/or services, and at your request, unless otherwise provided by laws and regulations, we will delete your personal information. The interval between two cancellations of the same phone number must exceed 60 days. Please retry the cancellation process 60 days after the previous cancellation of the account.
+5. If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+(1) You can unsubscribe from promotional information in the subscription menu by categorizing messages on the PC account page.
+(2) You can reply with "TD" or "T" (subject to SMS notification) at any time to cancel the mobile promotion SMS we sent you.
+(3) You can cancel accepting push notifications through the mobile app "My Settings Message Notifications".
+(4) We will collaborate with third-party platforms or media ("Platforms") to recommend personalized products or services to you based on your personal information. These personal information include information such as browsing history on this website, visits to affiliated company websites on this website, and the information you have filled in your account settings. The platform only provides us with a window to display products or services, and the links to the window content are personalized display information of products or services within PP Video Station, managed by PP Video. Therefore, we will not provide any personal information of you to advertisers. If you are unwilling to accept the recommendation service of PP videos on a single platform, please contact the platform to close it. You are aware and understand that the platform is an independently operated entity, and PP Video cannot manage it.
+(5) In order to protect your privacy, we will not push any promotions or product and service information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+6. Responding to your request
+If you are unable to access, correct or delete your personal information through the above methods, or if you need to access, correct or delete other personal information generated when using our products and/or services, or if you believe that PP Video violates any laws and regulations or agreements with you regarding the collection or use of personal information, you can contact us through the methods below this agreement. To ensure safety, we may require you to provide a written request or other proof of your identity. We will respond to your request within 15 days after receiving your feedback and verifying your identity. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repeated, require excessive technical means, pose risks to the legitimate rights and interests of others, or are very unrealistic.
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+(2) Related to national security and defense security;
+(3) Related to public safety, public health, and major public interests;
+(4) Related to criminal investigation, prosecution, and trial;
+(5) Responding to the request of the personal information subject will result in serious damage to the legitimate rights and interests of the personal information subject or other individuals or organizations;
+(6) Other circumstances stipulated by laws and administrative regulations.
+If we decide not to respond to your request, we will inform you of the reasons for that decision and provide you with a channel for complaint.
+6、 Protection of Children's Personal Information
+1. Although laws and customs in different regions define children differently, we consider anyone under the age of 14 as a child.
+2. PP Video attaches great importance to the protection of children's personal information. If you are a child, you should carefully read and agree to this agreement under the supervision and guidance of your guardian and with their consent before creating an account to use PP video software and related services. Otherwise, you should not create an account. At the same time, when filling out personal information, please strengthen your awareness of personal protection and handle it with caution. You should also obtain the consent of your guardian and use PP video software and related services correctly under their guidance.
+3. For cases where personal information of children is collected with the consent of parents or legal guardians, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect the child.
+4. If we find that you have collected your personal information without obtaining verifiable consent from your parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible. If you have not obtained the consent of your parents or legal guardians, they may notify PP Video Company to handle the relevant account by contacting the official customer service contact information published by PP Video Company. PP Video Company has the right to restrict the functions and use of the relevant account, including but not limited to
+Restricted to functions such as browsing, posting information, and interactive communication.
+5. We further take the following measures to safeguard the personal information of children under the age of 14 who may be involved:
+(1) For the personal information collected from children, in addition to complying with the provisions of this privacy policy regarding the protection of user personal information, we will also strictly follow the requirements of the "Regulations on the Protection of Children's Personal Information Network", and adhere to the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use.
+(2) We strictly comply with the requirements of laws and regulations such as the Cybersecurity Law, the Law of the People's Republic of China on the Protection of Minors, and the Regulations on the Network Protection of Children's Personal Information to store, use, and disclose the collected personal information of children, and will not exceed the period necessary to achieve the purpose of collection and use. After the expiration, we will delete or anonymize the personal information of children.
+(3) Our personal information protection email KHYJSJ@suning.com We will have a dedicated person responsible for coordinating any matters related to the protection of children's personal information. We will also establish an internal specialized system for the protection of children's personal information.
+(4) When you, as a guardian, choose PP video related services for a child under your guardianship, we may need to collect personal information of the child under your guardianship for the purpose of providing you with necessary services. If we need to collect children's personal information from you in specific services, we will obtain your authorization and consent in advance, and inform you of the purpose and purpose of the collection. If you do not provide the aforementioned information, you will not be able to enjoy the relevant services we provide. In addition, when using functions such as sharing and leaving messages, you may actively provide us with personal information of children. Please be aware of this and choose carefully. As a guardian, you should fulfill your guardianship responsibilities correctly and protect the personal information security of children. If the child needs to register or use our products or services, you should guide and supervise them correctly.
+(5) Children or guardians have the right to access, correct, and delete children's personal information. If you have any opinions, suggestions, or demands regarding children's personal information, please contact us. We will provide you with services at any time.
+(6) We have set up a youth mode for the PP video app. After opening the app for the first time every day (including when not logged in), you will receive a youth mode prompt pop-up window. Clicking on the youth mode will take you to the settings page, where you can enter the youth mode by setting a password. At the same time, your parents or legal guardians can choose to use the youth mode for minors. After entering the youth mode, we will showcase high-quality content such as positive energy, classic movies and TV dramas, and education. In teenage mode, you can use the product for a total of 40 minutes per day. If you do not enter your password after 40 minutes, you will not be able to continue using the product features. The product features will not be available from 22:00 to 6:00 the next day in teenage mode.
+7、 How can your information be transferred globally
+The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within China, except in the following circumstances:
+1. The applicable laws have clear provisions;
+2. Obtain your explicit authorization;
+3. You conduct cross-border transactions, visits and other personal initiatives through the Internet.
+In response to the above situation, we will ensure that your personal information is adequately protected in accordance with this privacy policy.
+Specific description of data transmission outbound business scenarios:
+Product Name
+Data transmission outbound business scenario
+Types of personal information for outbound travelers
+Outbound personal information field
+Is data transmission encrypted for outbound use
+Encryption method
+PP Video APP
+IOS message push
+Personal commonly used device information
+Unique device identification code
+yes
+SHA256
+8、 Revision and Update
+1. To provide you with better service and with the development of PP video business, this privacy policy will also be updated accordingly. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. We will send updated versions on the PP Video website and PP Video mobile app, and notify you of the updates through website announcements or other appropriate means before they take effect. Please also visit PP Video to stay up-to-date with the latest privacy policies
+2. For significant changes, we will also provide more prominent notifications (we will explain the specific changes to the privacy policy through methods such as email, SMS, or special prompts on browsing pages).
+The major changes referred to in this policy include:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+3. We will also archive old versions of this strategy for your reference.
+9、 How to contact us
+1. If you have any questions, comments or suggestions regarding this privacy policy or your personal information, please call 4000-012-094 or send an email to KHYJSJ@suning.com Contact us through various means.
+2. Normally, we will reply within fifteen days. If you are not satisfied with our reply, especially our personal information processing behavior has damaged your legitimate rights and interests, you can also complain or report to the regulatory authorities such as NetEase, Telecom, public security and industry and commerce. The Central Office of NetEase (the State Internet Information Office) complaints: http://www.12377.cn/ You can file a complaint through this website or phone number, or file a civil lawsuit with the people's court where the defendant is located.
+3. Basic information of product operator:

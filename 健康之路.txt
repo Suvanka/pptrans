@@ -1,0 +1,507 @@
+This Privacy Policy
+[Special note]
+Please carefully read and understand this privacy policy, especially the bolded content, before using Health Road products/services.
+※ According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, HealthRoad belongs to the application of consultation and registration. Its basic function is "online consultation and consultation, appointment and registration". The necessary personal information includes: registered user's mobile phone number; When registering, the patient's name, ID type and number, and the hospital and department where the appointment was made must be provided; A description of the patient's condition should be provided during the consultation.
+You agree that this privacy policy only represents that you have understood the functions provided by the application and the necessary personal information required for the operation of the functions. It does not mean that you have agreed that we can collect non essential personal information. Non essential personal information will be subject to your consent separately based on the authorization situation during your use.
+※ The corresponding device permissions will not be enabled by default. When it comes to important or sensitive device permissions, we will pop up a separate window to obtain your consent before enabling them again when you use the corresponding business functions; After enabling permissions, you can also disable them at any time through device settings; Your refusal to grant permission will not affect the normal use of other unrelated business functions. For sensitive personal information, we will process it separately with your consent.
+If you refuse this privacy policy, you can still use basic functions such as product browsing without registration/login. You can also authorize separately during the subsequent use of the service.
+If you have any questions about this privacy policy, you can contact us through the methods provided in the "How to Contact Us" section of this privacy policy.
+Please carefully read and understand this privacy policy, especially the bolded content, before using Health Road products/services.
+※ According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, HealthRoad belongs to the application of consultation and registration. Its basic function is "online consultation and consultation, appointment and registration". The necessary personal information includes: registered user's mobile phone number; When registering, the patient's name, ID type and number, and the hospital and department where the appointment was made must be provided; A description of the patient's condition should be provided during the consultation.
+You agree that this privacy policy only represents that you have understood the functions provided by the application and the necessary personal information required for the operation of the functions. It does not mean that you have agreed that we can collect non essential personal information. Non essential personal information will be subject to your consent separately based on the authorization situation during your use.
+※ The corresponding device permissions will not be enabled by default. When it comes to important or sensitive device permissions, we will pop up a separate window to obtain your consent before enabling them again when you use the corresponding business functions; After enabling permissions, you can also disable them at any time through device settings; Your refusal to grant permission will not affect the normal use of other unrelated business functions. For sensitive personal information, we will process it separately with your consent.
+If you refuse this privacy policy, you can still use basic functions such as product browsing without registration/login. You can also authorize separately during the subsequent use of the service.
+If you have any questions about this privacy policy, you can contact us through the methods provided in the "How to Contact Us" section of this privacy policy.
+We would like to remind you that:
+If there are separate personal information processing rules for specific services in the Health Road, these separate rules shall prevail. For content not covered by these rules, this Privacy Policy shall prevail. However, this policy does not apply to information collected by third parties accessing the Health Path; If you use services provided by third parties, you are bound by their privacy policy (not this policy)
+This privacy policy will help you understand the following:
+1、 How do we collect your personal information
+2、 How we use your personal information
+3、 How do we store your personal information
+4、 How do we entrust the processing, external provision, transfer, and public disclosure of your personal information
+5、 How do we protect your personal information
+6、 How do you manage personal information
+7、 How do we handle the information of minors
+8、 How to update this privacy policy
+9、 How to contact us
+This privacy policy will help you understand the following:
+1、 How do we collect your personal information
+2、 How we use your personal information
+3、 How do we store your personal information
+4、 How do we entrust the processing, external provision, transfer, and public disclosure of your personal information
+5、 How do we protect your personal information
+6、 How do you manage personal information
+7、 How do we handle the information of minors
+8、 How to update this privacy policy
+9、 How to contact us
+1、 How do we collect your personal information
+（1） Scenarios for collecting personal information
+During your use of Health Path, we will collect your personal information in the following ways:
+A. Account registration/login function
+1. Account registration
+(1) Scope of necessary and non necessary information
+When you use the account registration function, you need to provide us with at least your phone number for account registration. We will verify your identity by sending a SMS verification code to that phone number; This type of information is necessary for this feature, and if you do not provide it, you will not be able to complete account registration.
+If you register with a third-party account, we will collect your third-party account (including your WeChat account's UserID, nickname, avatar, or your Apple account's name and email), which is necessary information for this feature. If you do not provide it, you can complete the account registration by providing your phone number and SMS verification code as mentioned above.
+In addition, you can also independently set your account password according to your own needs and improve your account information, such as avatar, gender, name, nickname, birthday, and region. We collect the above information from you in order to provide security and personalized settings for your account. This type of information is not necessary for this function. Refusing to provide this type of information will reduce the security protection and personalized settings of your account, but it will not affect the use of the account registration function.
+(2) System permissions invoked
+After you register an account, we will show you a default avatar. If you need to set up your own avatar, you can actively upload the settings, and we will apply for your camera permission in a timely manner based on your operation
+Or album permission (iOS version)/storage permission (Android version), to help you upload the pictures you have taken or clicked to select. If you refuse, it will not affect your normal use of account registration services.
+Third party SDK used
+When you use the account registration function, in order to facilitate your quick registration and login, we will use the Flash Test SDK (operator: Shanghai Jingmeng Information Technology Co., Ltd., contact information: clsdk@253.com ）Collect your following information: Android: network type, network standard, Mac address IMEI、ICCID、IMSI、OAID、 Device model, manufacturer, device system version, operator type, subId, IP, application package name, application package signature, network connection status; IOS: Device name, machine model, system version, IP address, network format, current timestamp, idfv, screen width and height, network type, carrier type, bundle ID, to provide you with one click registration and login services. This type of information is necessary for implementing the functionality of the SDK. Depending on the type of operator, the QuickPass SDK will integrate and launch the Mobile SDK, Unicom SDK, and Telecom SDK.
+When you register with a WeChat account, these functions are implemented by the WeChat SDK (operator: Shenzhen Tencent Computer System Co., Ltd., contact information: Dataprivacy@tencent.com ）We need to collect your device type, device model, operating system, and obtain a list of installed applications. We will obtain your WeChat account UserID, nickname, and avatar information from WeChat. This type of information is necessary for registering third-party accounts.
+2. Account login
+(1) Scope of necessary and non necessary information
+When you use the account login function, you need to provide us with at least the mobile phone number you registered with. We will verify your identity by sending a SMS verification code to that phone number to achieve SMS verification login, or you need to provide us with your self set password to achieve password login. Such information is necessary for this function. If you do not provide it, you will not be able to complete the account login.
+In addition, we also provide you with fingerprint and facial login functions, so that you can quickly log in to your account through fingerprint or facial recognition. Based on different mobile phone brands and models, you can choose different quick login methods. We only provide these functions, and both fingerprint verification and facial recognition verification are implemented locally on your device. Under this function, we will not collect your fingerprint recognition information or facial recognition information. If you do not select this feature, you can complete account login by providing your phone number and password/SMS verification code as mentioned above.
+(2) System permissions invoked
+When you use the facial login feature, we will apply for your Face ID permission (iOS version) in a timely manner based on your actions to help you achieve facial login. If you refuse, it will not affect your normal use of the account login service.
+When you use the fingerprint login function, we will timely apply to obtain your USE∝NGERPRINT/USE_BIOMETRIC fingerprint recognition permission (Android version)/Touch based on your operation
+ID permission (iOS version) to help you achieve facial login. If you refuse, it will not affect your normal use of the account login service.
+Third party SDK used
+When using the account login function, for the convenience of your operation, we provide you with a one click login function, which is provided by the Flash Verification SDK. Under this feature, the Flash Test SDK (operator: Shanghai Jingmeng Information Technology Co., Ltd., contact information: clsdk@253.com ）We will collect your following information: Android: network type, network standard, Mac address IMEI、ICCID、IMSI、OAID、 Device model, manufacturer, device system version, operator type, subId, IP, application package name, application package signature, network connection status; IOS: device name, machine model, system version, IP address, network format, current timestamp, idfv, screen width and height, network type, carrier type, bundle ID information. This type of information is necessary for implementing the functionality of the SDK. Depending on the type of operator, the Flash Test SDK will integrate the Mobile SDK, Unicom SDK, and Telecom SDK.
+When you log in with your WeChat account, these functions are provided by WeChat SDK (operator: Shenzhen Tencent Computer System Co., Ltd., contact information: Dataprivacy@tencent.com ）Implementation: The WeChat SDK needs to collect your device type, device model, operating system device information, and installed application list information. We will obtain your WeChat account UserID, nickname, and avatar information from WeChat. This type of information is necessary for third-party account login.
+B. Online consultation and appointment registration function (basic function)
+1. Service Information Display
+(1) Scope of necessary and non necessary information
+Due to differences in the entry of medical institutions, doctors, and other services on platforms in different regions, in order to show you the information of hospitals, doctors, and other services near you or in the area you need, we will obtain your current location through the location information you actively choose or the device location permissions you authorize. This type of information is necessary for the service information display function. If you do not provide it, you will not be able to view service information such as hospitals and doctors in specific areas. We will provide you with service information at the default address.
+(2) System permissions invoked
+To show you information about medical institutions, doctors, etc. in your vicinity or the area you need, we will apply for your location permission to automatically locate you. We also provide you with the function of manually selecting a location. If you refuse or revoke authorization, you can manually select a location.
+Online consultation and psychological counseling
+(1) Scope of necessary and non necessary information
+In order to provide you with online consultation services, we will collect the information of the person you voluntarily provide for consultation (including name, date of birth, mobile phone number), the department you visited, the doctor you visited, a description of your condition, as well as your consultation records (including text and image conversations, audio and video materials, etc.), and order payment information
+Psychological counseling records. This type of information is necessary for online consultation and psychological counseling functions. If you do not provide it, we will not be able to provide you with online consultation services. In order for the doctor to better understand your situation, you can further provide your gender, medication needs, medical records, and photos of the affected area. This type of information is non essential information for the online consultation function. If you do not provide it, it will not affect your continued use of the online consultation service.
+(2) System permissions invoked
+To provide you with photo and video upload and shooting functions, we will apply for your camera permission or album permission (iOS version)/storage permission (Android version) in a timely manner based on your operation, to help you upload the pictures and videos you have taken or clicked to select, as well as conduct real-time video consultations. If you refuse, it will not affect your normal use of the service.
+To facilitate your voice consultation and communication with doctors, we will apply for your microphone permission. If you refuse or revoke authorization, we will not be able to provide you with voice consultation or communication functions, but it will not affect your use of other services.
+(3) Third party SDK used
+To provide you with video consultation services, we have integrated the Tencent Cloud Video Service SDK (operator: Tencent Cloud Computing (Beijing) Co., Ltd., contact information: Dataprivacy@tencent.com ）. The Tencent Cloud Video Service SDK will collect your Wi Fi status, system attributes, device model, operating system, and IP address
+Address, camera, recording, sensor information. This type of information is necessary for implementing the functionality of the SDK.
+In order to provide you with the payment function, we have accessed the third-party SDKs for payment (including WeChat payment SDKs, Alipay payment SDKs, UnionPay cloud flash payment SDKs). You can choose the payment method independently, and we will launch the corresponding third-party SDKs according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+3. Appointment registration
+(1) Scope of necessary and non necessary information
+In order to provide you with appointment registration services, we will collect the appointment information (visiting institution, department, doctor, visit date, time period), patient name, gender, ID type, ID number, mobile phone number, registered disease, medical card number (required by some partner hospitals), home address (required by some partner hospitals), date of birth (required by some partner hospitals), facial information (required by some partner hospitals), order payment information, and registration records that you voluntarily provide according to the requirements of partner medical institutions. This type of information is necessary for the appointment registration function. If you do not provide it, you will not be able to use the appointment registration function.
+(2) System permissions invoked
+To provide you with photo upload, shooting, and facial recognition functions, we will timely apply for your camera permission or album permission (iOS version)/storage permission (Android version) based on your operation, to help you upload the pictures you have taken, click on the selected ones, or perform facial recognition. If you refuse, it may affect your normal use of the service.
+(3) Third party SDK used
+In order to provide you with the payment function, we have accessed the third-party SDKs for payment (including WeChat payment SDKs, Alipay payment SDKs, UnionPay cloud flash payment SDKs). You can choose the payment method independently, and we will launch the corresponding third-party SDKs according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+To provide you with facial recognition functionality, we have integrated the Baidu Facial Recognition SDK (operator: Beijing Baidu Netcom Technology Co., Ltd., contact information: http://help.baidu.com/personalinformation ）. The Baidu facial recognition SDK will collect the following information from you
+(Android: including IMEI, carrier information, WiFi status, WiFi parameters, WiFi list, system settings, system properties, device model, operating system, device application installation list, and running program list; IOS: including IDFA, IDFV, carrier information, WiFi status, WiFi parameters, system settings, system properties, device model, operating system, location information (rough location information obtained through IP address resolution), log information (including device information and IP address). This type of information is necessary for implementing the functionality of the SDK.
+4. Patient Management
+(1) Scope of necessary and non necessary information
+In order to provide you with appointment registration, online medical treatment and other services, we will collect the patient information you voluntarily provide, including name, ID type, ID number, date of birth, mobile phone number, and membership relationship. This type of information is necessary for the patient management function. If you do not provide it, you will not be able to use the patient management function. You can further provide your gender, medical insurance card number, permanent address, health data (height, weight, blood sugar, blood pressure, blood oxygen, heart rate, blood lipids), and health status (disease history, allergy history, smoking history, lifestyle habits) to improve your health record. This type of information is non essential information for the patient management function. If you do not provide it, it will not affect your continued use of the patient management service.
+Please be aware that if you add personal information or even sensitive personal information of others in the patient management, you need to obtain the consent of the corresponding person before adding it. If you add personal information of a minor under the age of fourteen in the patient management, you need to obtain the consent of the corresponding minor's parents or guardians before adding it.
+(2) System permissions invoked
+To provide you with intelligent ID card filling function, we will apply for your camera permission or album permission (iOS version)/storage permission (Android version) in a timely manner according to your operation, to help you upload the pictures you have taken or clicked on. If you refuse, it will not affect your normal use of the patient management service.
+(3) Third party SDK used
+In order to provide you with the intelligent filling function of ID card, we have accessed the Baidu AI Cloud OCR SDK (operator: Beijing Baidu Netcom Technology Co., Ltd., contact: http://help.baidu.com/
+personalinformation）。 Baidu AI Cloud character recognition OCR
+The SDK will collect your IP address and image information. This type of information is necessary for implementing the functionality of the SDK.
+5. Follow up consultation and medication prescription
+(1) Scope of necessary and non necessary information
+In order to provide you with follow-up medication services, we will collect the name, ID type, ID number, date of birth, mobile phone number, department visited, description of the condition, hospital diagnosis, medication records, drug allergies, prescription photos, medical record photos, drug packaging box photos, and order payment information provided by you proactively. This type of information is necessary for the follow-up medication dispensing function. If you do not provide it, you will not be able to use the follow-up medication dispensing function.
+In addition, you can also provide the name of the medication you need and the time you need to take it according to your own needs. We collect the above information from you to facilitate doctors in prescribing medication that is more suitable for your condition. This type of information is non essential information for this function. If you refuse to provide this type of information, it will not affect the use of the follow-up medication function.
+(2) System permissions invoked
+For your convenience in uploading images, we will apply for your camera permission or album permission (iOS version)/storage permission (Android version) in a timely manner based on your operation, to help you upload the images you have taken or clicked on. If you refuse, it may affect your normal use of the follow-up medication dispensing function.
+Third party SDK used
+In order to provide you with the payment function, we have accessed the third-party SDKs for payment (including WeChat payment SDKs, Alipay payment SDKs, UnionPay cloud flash payment SDKs). You can choose the payment method independently, and we will launch the corresponding third-party SDKs according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+C. Extended functionality
+1. Account equity management function
+(1) Scope of necessary and non necessary information
+In order to provide you with account rights management services such as recharge, withdrawal, and coupon redemption, we will collect your account balance, recharge information (recharge method, recharge amount), withdrawal information (bank card number, account opening bank, withdrawal amount, withdrawal records), balance details, and coupon information. This type of information is necessary for implementing account rights management functions. If you refuse our collection, we will not be able to provide you with my account related services, but it does not affect your use of other services.
+Third party SDK used
+In order to provide you with the account equity management function, we have accessed the payment third-party SDK (including: WeChat payment SDK, Alipay payment SDK, UnionPay cloud flash payment SDK). You can choose the payment method independently, and we will launch the corresponding third-party SDK according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+Hospital errand boy
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with hospital errand services, which you can choose according to your needs.
+If you need to activate the hospital errand service, we will collect your patient's name, mobile phone number, ID type, ID number, city of treatment, hospital of treatment, service content, ID card or household registration photo, report receipt photo, medication receipt photo, medical record and prescription photo, recipient information (recipient's name, address, mobile phone number), examination item description, and order payment information based on your selection. The specific information may vary depending on the type of errand service you have chosen. This information is necessary for implementing hospital errand services. If you refuse to collect it, we will not be able to provide you with services, but it does not affect your use of other services.
+(2) Sensitive permissions for calling
+When you upload pictures, we will apply for your camera permission or album permission (iOS)/storage permission (Android) based on your selection to help you upload the pictures you have taken or clicked on. If you refuse, it may affect your normal use of the hospital's errand forwarding function.
+Third party SDK used
+When you use the hospital errand service, in order to provide you with the payment function, we have accessed the payment third-party SDK (including WeChat payment SDK, Alipay payment SDK, UnionPay cloud flash payment SDK). You can choose your own payment method, and we will launch the corresponding third-party SDK according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+3. Medical consultation accompaniment
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with medical accompaniment services, which you can choose according to your needs.
+If you need to activate medical consultation services, we will collect your name, contact number, city of visit, hospital, service content, consultation time, and order payment information based on your selection. This type of information is necessary for enabling medical accompaniment services. If you refuse our collection, we will not be able to provide you with services, but it does not affect your use of other services.
+Third party SDK used
+In order to provide you with the payment function when you use the medical escort service, we have accessed the payment third-party SDK (including WeChat payment SDK, Alipay payment SDK, UnionPay cloud flash payment SDK). You can choose the payment method independently, and we will start the corresponding third-party SDK according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+4. Medical examination service
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with a physical examination service function, which you can choose according to your needs.
+If you need to activate medical examination services, we will collect your mobile phone number, medical examination order information, asset information (coupons, physical cards, encouragement funds), other information (physical card activation codes, health record information), browsing content, browsing date and time based on your choices. This type of information is necessary for opening medical examination services. If you refuse to collect it, we will not be able to provide you with services, but it does not affect your use of other services.
+Third party SDK used
+When you use the medical examination service, we have integrated a third-party payment SDK (package) to provide you with payment functionality
+Including: WeChat payment SDK, Alipay payment SDK, UnionPay cloud flash payment SDK), you can choose your own payment method, and we will launch the corresponding third-party SDK according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+Information Delivery
+(1) Scope of necessary and non necessary information
+In order to provide you with more comprehensive services, we have provided you with the function of information publishing. You can choose to comment, like, share and other content independently. We will collect the information you post, including group chats, likes, searches, comments, and shares added by users. This information is necessary for the information release function and meets the information retention obligations stipulated by law. If you refuse our collection, we will not be able to provide you with information publishing services, but it does not affect your use of other services.
+Please be informed that the comments (including graphic and textual content) you voluntarily provide and publicly post will be accessed and viewed by other users. If the information you publicly release may involve your or others' personal information or even sensitive personal information, such as when you choose to upload images containing personal information when evaluating, please consider more carefully whether to publicly share relevant information when using our services. If the information you publicly release involves personal information of minors under the age of fourteen, you need to obtain the consent of the corresponding parents or guardians of the minors before publishing.
+(2) Sensitive permissions for calling
+When you use the information publishing function, you can choose to upload pictures independently. At this time, we will apply for your camera permission or album permission (iOS)/storage permission (Android) based on your selection. If you do not actively click or refuse authorization after clicking, you can still use the information publishing function. We will only collect the image information you click to upload after you actively click and authorize it. We will not actively apply for such permission, nor will we obtain your relevant information in a package after you authorize such permission.
+(3) Third party SDK used
+When you use the information publishing service, in order to meet the legal obligation of content review, we have connected to Baidu Content Review Service (operator: Beijing Baidu Netcom Technology Co., Ltd.; contact information: http://help.baidu.com/personalinformation ）This service will collect your published content for verification of illegal content.
+6. Health Information Record
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with health information management service functions, which you can choose according to your needs.
+If you need to activate health information management services, we will collect your changes in condition, appetite, mental state, medication time, medication name, dosage, and medication precautions based on your choices. This type of information is necessary for enabling health information management. If you refuse our collection, we will not be able to provide you with services, but it does not affect your use of other services.
+In addition, you can also provide medical diary information according to your own needs. We collect the above information from you for the convenience of recording your medical condition. This type of information is non essential information for this function. If you refuse to provide this type of information, it will not affect the use of the health information management service function.
+(2) Sensitive permissions for calling
+When you use the medical diary function to fill in changes in your condition, you can choose to upload pictures independently. At this time, we will apply for your camera permission or album permission (iOS)/storage permission (Android) based on your selection. If you do not actively click or refuse authorization after clicking, you can still use the information publishing function. We will only collect the image information you click to upload after you actively click and authorize it. We will not actively apply for such permission, nor will we obtain your relevant information in a package after you authorize such permission.
+Health Butler Membership Service
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with the Health Butler membership service function, which you can choose according to your needs.
+If you need to activate the Health Butler membership service, we will collect your prenatal examination hospital, due date, service type, Health Butler membership service purchase record, and Health Butler membership service usage record based on your selection. This type of information is necessary for opening the Health Butler membership service. If you refuse to collect it, we will not be able to provide you with the service, but it does not affect your use of other services.
+(2) Third party SDK used
+When you use the health butler member service, in order to provide you with the payment function, we have accessed the payment third-party SDK (including WeChat payment SDK and Alipay payment SDK). You can choose the payment method independently, and we will launch the corresponding third-party SDK according to your payment method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+Health Information Science Popularization
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with health information popularization functions, which you can choose according to your needs.
+If you need to subscribe to health information science popularization services, we will collect your search records, favorite information, follow information, like records, and share records based on your choices. This type of information is necessary for opening health information popularization services. If you refuse to collect it, we will not be able to provide you with this service, but it does not affect your use of other services.
+Third party SDK used
+When you use health information science popularization services, in order to provide you with sharing functions, we have integrated WeChat SDK. You can choose your own sharing method, and we will launch the corresponding third-party SDK according to your sharing method. For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+Instant messaging function
+(1) Scope of necessary and non necessary information
+In order to provide you with instant messaging services such as patient group chat and friend chat, we need to collect your friend list (including friend profile picture, region, gender, notes, and desensitized phone number) and communication records. This type of information is necessary for the functionality. If you do not provide it, we will not be able to provide you with instant messaging services, but it will not affect your use of other services.
+(2) Call
+Sensitive permissions
+To provide you with photo and video upload and shooting functions, we will timely apply for your camera permission or album permission (iOS version)/storage permission (Android version) based on your operation, to help you upload the pictures and videos you have taken or clicked to select. If you refuse, it will not affect your normal use of the service.
+To facilitate voice communication between you and your friends, we will apply to obtain your microphone permission. If you refuse or revoke authorization, we will not be able to provide you with voice communication functionality, but it will not affect your use of other services.
+Third party SDK used
+The Health Road App is an instant messaging software. In order to provide you with real-time information services, such as receiving new messages from friends in real time, we will launch the Tencent Instant Messaging IM SDK. When your device status changes (network status, power on, application updates, etc.), we will try to automatically launch the message push services of major manufacturers.
+For detailed information about this SDK, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+Message push function
+(1) Scope of necessary and non necessary information
+In order to push system messages (including order status, operational activities, etc.) to your mobile desktop, we need to collect your [network environment, device brand, device model, operating system]. This type of information is necessary for the functionality. If you do not provide it, you will not be able to use the message push function.
+(2) Sensitive permissions for calling
+If you use an iOS device, when you first launch the client, we will apply for authorization to enable notification permissions to send you order status reminders and activity notification reminders.
+Third party SDK used
+To provide you with message push, we will launch Tencent, Xiaomi Push SDK, Huawei Push SDK, OPPO Push SDK, and VIVO Push SDK.
+For details on SDK related information, please refer to Chapter 4 (5) on the processing of personal information by third-party SDKs.
+11. Customer service and after-sales service
+(1) Scope of necessary and non necessary information
+In order to create a more comprehensive service system, we provide you with customer service and after-sales service, which you can choose according to your needs.
+Necessary information,
+Non essential information,
+Camera permission or album permission (iOS version)/storage permission (Android version)
+When you use the account registration function, in order to facilitate your quick registration and login, we will use the Flash Test SDK (operator: Shanghai Jingmeng Information Technology Co., Ltd., contact information: clsdk@253.com ）Collect your following information: Android: network type, network standard, Mac address IMEI、ICCID、IMSI、OAID、 Device model, manufacturer, device system version, operator type, subId, IP, application package name, application package signature, network connection status; IOS: Device name, machine model, system version, IP address, network format, current timestamp, idfv, screen width and height, network type, carrier type, bundle ID, to provide you with one click registration and login services. This type of information is necessary for implementing the functionality of the SDK. Depending on the type of operator, the QuickPass SDK will integrate and launch the Mobile SDK, Unicom SDK, and Telecom SDK.
+When you register with a WeChat account, these functions are implemented by the WeChat SDK (operator: Shenzhen Tencent Computer System Co., Ltd., contact information: Dataprivacy@tencent.com ）We need to collect your device type, device model, operating system, and obtain a list of installed applications. We will obtain your WeChat account UserID, nickname, and avatar information from WeChat. This type of information is necessary for registering third-party accounts.
+In addition, we also provide you with fingerprint and facial login functions, so that you can quickly log in to your account through fingerprint or facial recognition. Based on different mobile phone brands and models, you can choose different quick login methods. We only provide these functions, and both fingerprint verification and facial recognition verification are implemented locally on your device. Under this function, we will not collect your fingerprint recognition information or facial recognition information. If you do not select this feature, you can complete account login by providing your phone number and password/SMS verification code as mentioned above.
+When using the account login function, for the convenience of your operation, we provide you with a one click login function, which is provided by the Flash Verification SDK. Under this feature, the Flash Test SDK (operator: Shanghai Jingmeng Information Technology Co., Ltd., contact information: clsdk@253.com ）We will collect your following information: Android: network type, network standard, Mac address IMEI、ICCID、IMSI、OAID、 Device model, manufacturer, device system version, operator type, subId, IP, application package name, application package signature, network connection status; IOS: device name, machine model, system version, IP address, network format, current timestamp, idfv, screen width and height, network type, carrier type, bundle ID information. This type of information is necessary for implementing the functionality of the SDK. Depending on the type of operator, the Flash Test SDK will integrate the Mobile SDK, Unicom SDK, and Telecom SDK.
+When you log in with your WeChat account, these functions are provided by WeChat SDK (operator: Shenzhen Tencent Computer System Co., Ltd., contact information: Dataprivacy@tencent.com ）Implementation: The WeChat SDK needs to collect your device type, device model, operating system device information, and installed application list information. We will obtain your WeChat account UserID, nickname, and avatar information from WeChat. This type of information is necessary for third-party account login.
+Description of the illness and your consultation records (including graphic and textual conversations, audio and video materials, etc.), order payment information, and psychological counseling records
+Medication requirements, medical records, and photos of the affected area
+Microphone permission
+Tencent Cloud Video Service SDK
+Payment third-party SDKs (including WeChat payment SDKs, Alipay payment SDKs, UnionPay cloud flash payment SDKs)
+ID type, ID number, mobile phone number, registered illness, medical card number (required by some partner hospitals), home address (required by some partner hospitals)
+Facial information (required by some partner hospitals), order payment information, registration records
+Baidu Facial Recognition SDK
+Type and number of identification document
+Medical insurance card number, permanent address, health data (height, weight, blood sugar, blood pressure, blood oxygen, heart rate, blood lipids), health status (disease history, allergy history, smoking history, lifestyle habits)
+Please be aware that if you add personal information or even sensitive personal information of others in the patient management, you need to obtain the consent of the corresponding person before adding it. If you add personal information of a minor under the age of fourteen in the patient management, you need to obtain the consent of the corresponding minor's parents or guardians before adding it.
+Baidu AI Cloud Character Recognition OCR SDK
+Medical department, description of the condition, hospital diagnosis, medication records, drug allergies, prescription photos, medical record photos
+Order payment information
+Account balance, recharge information (recharge method, recharge amount), withdrawal information (bank card number, account opening bank, withdrawal amount, withdrawal records), balance details, and coupon information
+In order to create a more comprehensive service system, we provide you with hospital errand services, which you can choose according to your needs.
+Patient Name
+Photo of ID card or household registration book, photo of report receipt, photo of medication receipt, photo of medical record and medication list
+(2) Sensitive permissions for calling
+Camera or Album Permissions (iOS)/Storage Permissions (Android)
+In order to create a more comprehensive service system, we provide you with medical accompaniment services, which you can choose according to your needs.
+City of visit, hospital of visit, service content, accompanying time, order payment information
+In order to create a more comprehensive service system, we provide you with a physical examination service function, which you can choose according to your needs.
+Medical examination order information, asset information (coupons, physical cards, incentive funds)
+The information you posted
+Please be informed that the comments (including graphic and textual content) you voluntarily provide and publicly post will be accessed and viewed by other users. If the information you publicly release may involve your or others' personal information or even sensitive personal information, such as when you choose to upload images containing personal information when evaluating, please consider more carefully whether to publicly share relevant information when using our services. If the information you publicly release involves personal information of minors under the age of fourteen, you need to obtain the consent of the corresponding parents or guardians of the minors before publishing.
+When you use the information publishing service, in order to meet the legal obligation of content review, we have connected to Baidu Content Review Service (operator: Beijing Baidu Netcom Technology Co., Ltd.; contact information: http://help.baidu.com/personalinformation ）This service will collect your published content for verification of illegal content.
+In order to create a more comprehensive service system, we provide you with health information management service functions, which you can choose according to your needs.
+In order to create a more comprehensive service system, we provide you with the Health Butler membership service function, which you can choose according to your needs.
+Purchase records and usage records of Health Butler membership services
+Payment third-party SDKs (including WeChat payment SDKs and Alipay payment SDKs)
+In order to create a more comprehensive service system, we provide you with health information popularization functions, which you can choose according to your needs.
+Collect information, follow information, like records, share records
+In order to provide you with instant messaging services such as patient group chat and friend chat, we need to collect your friend list (including friend profile picture, region, gender, notes, and desensitized phone number) and communication records. This type of information is necessary for the functionality. If you do not provide it, we will not be able to provide you with instant messaging services, but it will not affect your use of other services.
+The Health Road App is an instant messaging software. In order to provide you with real-time information services, such as receiving new messages from friends in real time, we will launch the Tencent Instant Messaging IM SDK. When your device status changes (network status, power on, application updates, etc.), we will try to automatically launch the message push services of major manufacturers.
+In order to push system messages (including order status, operational activities, etc.) to your mobile desktop, we need to collect your [network environment, device brand, device model, operating system]. This type of information is necessary for the functionality. If you do not provide it, you will not be able to use the message push function.
+To provide you with message push, we will launch Tencent, Xiaomi Push SDK, Huawei Push SDK, OPPO Push SDK, and VIVO Push SDK.
+In order to create a more comprehensive service system, we provide you with customer service and after-sales service, which you can choose according to your needs.
+Ensure network and service security
+(1) Scope of necessary and non necessary information
+To improve the security of your use of Health Road products/services, protect your or other users' or the public's personal and property safety from infringement, better prevent phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusions and other security risks, and more accurately identify violations of laws and regulations or Health Road related protocol rules, we may use or integrate your Android device
+ID, SIM card information, IP address, IMSI, SD card data, IMEI, device serial number, sensors, MAC address, browsing history, search history, IP address, access date and time, as well as information obtained by our affiliates and partners authorized by you or provided by law, are used to comprehensively assess your account and transaction risks, verify your identity, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+Third party SDK used
+We use Tencent Bugly SDK to identify and analyze application crash information.
+For detailed information on SDK related information, please refer to Chapter 4, Section (5) on the processing of personal information by third-party SDKs
+.
+Equipment permission calling situation
+In the process of providing you with products and/or services, we may need to invoke your device system permissions. You can refer to the "Device System Permission Call Instructions" to learn about the details of the device permission names, permission function descriptions, usage scenarios, or purposes that we call.
+[iOS version]
+1. Camera permissions
+Permission Name: NSCameraUsageDescription
+Permission Function Description: Scan Code, Shoot
+Usage scenario or purpose: Open the system camera to capture facial images, medical records, and affected areas; Provide feedback to customer service; Change avatar and other functions
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to recognize user facial recognition information through uploading images, or identify health and medication issues that require consultation.
+2. Album permissions
+Permission Name: NSPhotoLibraryUsageDescription
+Permission Function Description: Open the photo album for easy saving and uploading of images
+Usage scenario or purpose: Upload images to identify health issues faced by patients; Provide feedback to customer service; Change avatar and other functions
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to transfer or store images for online consultation and medication dispensing functions.
+3. Microphone permission
+Permission Name: NSMicrophoneUsageDescription
+Permission Function Description: Turn on the microphone to facilitate sending voice messages to doctors
+Usage scenario or purpose: Transmitting video and voice through microphone, sending voice information
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to provide voice consultation and interaction with doctors.
+4. Location permissions
+Permission Name: NSLocator AlwaysUsage Description NSLocationUsageDescription、NSLocationWhenInUseUsageDescription
+Permission Function Description: Enabling location for easy recommendation of nearby hospitals and doctors
+Usage scenario or purpose: Provide medical institution services and other information in the region based on the user's geographical location information
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to prioritize displaying medical institutions near you in services such as appointment registration and physical examination appointments.
+5. Face ID and Touch ID permissions
+Permission Name: NSFaceIDUsageDescription
+Permission Function Description: Use Face ID and Touch ID for identity authentication
+Usage scenario or purpose: Face or fingerprint login
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to log in through Face ID or Touch ID
+[Android version]
+1. Camera permissions
+Permission Name: android. permission CAMERA
+Permission Function Description: Scan Code, Shoot
+Usage scenario or purpose: Open the system camera to capture facial images, medical records, and affected areas; Provide feedback to customer service; Change avatar and other functions
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+Result of disabling permissions: unable to complete scanning and shooting
+2. Storage permissions
+Permission Name: android. permission WRITE_EXTERNAL_STORAGE、android.permission.READ_EXTERNAL_STORAGE
+Permission Function Description: Read uploaded content, store files
+Usage scenario or purpose: To maintain the normal operation of the health road and account security
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to write and read user information, storage logs, downloads, and cache information
+3. Microphone permission
+Permission Name: android. permission RECORD_AUDIO
+Permission Function Description: Read uploaded content, store files
+Usage scenario or purpose: Transmitting video and voice through microphone, sending voice information
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to provide voice consultation and interaction with doctors
+4. Location permissions
+Permission Name: android. permission ACCESS_FINE_LOCATION、android.permission.ACCESS_COARSE_LOCATION
+Permission Function Description: Retrieve the user's current geographic location
+Usage scenario or purpose: Provide users with medical institution service information in their region based on geographical location information, as well as personalized information display and targeted push
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to prioritize displaying medical institutions near you in services such as appointment registration and physical examination appointments
+5. Suspension window permission
+Permission Name: android. permission SYSTEM_ALERT_WINDOW
+Permission Function Description: Window Sharing and Screen Minimization
+Usage scenario or purpose: Allow Health Road to access floating window permissions for audio and video calls and screen minimization functions
+Do you want to inquire: Users will receive a pop-up message asking before using the corresponding service
+Can it be closed: Yes
+The result of disabling permissions: unable to recognize user facial recognition information through uploading images, or identify health and medication issues that require consultation.
+Permission Name: NSPhotoLibraryUsageDescription
+Permission Function Description: Open the photo album for easy saving and uploading of images
+Usage scenario or purpose: Upload images to identify health issues faced by patients; Provide feedback to customer service; Change avatar and other functions
+Result of disabling permissions: unable to transfer
+Or store images for online consultation and medication dispensing functions.
+Permission Name: NSMicrophoneUsageDescription
+Permission Function Description: Turn on the microphone to facilitate sending voice messages to doctors
+Usage scenario or purpose: Transmitting video and voice through microphone, sending voice information
+The result of disabling permissions: unable to provide voice consultation and interaction with doctors.
+Permission Name: NSLocator AlwaysUsage Description NSLocationUsageDescription、NSLocationWhenInUseUsageDescription
+Permission Function Description: Enabling location for easy recommendation of nearby hospitals and doctors
+Usage scenario or purpose: Provide medical institution services and other information in the region based on the user's geographical location information
+The result of disabling permissions: unable to prioritize displaying medical institutions near you in services such as appointment registration and physical examination appointments.
+Permission Name: NSFaceIDUsageDescription
+Permission Function Description: Use Face ID and Touch ID for identity authentication
+Usage scenario or purpose: Face or fingerprint login
+The result of disabling permissions: unable to log in through Face ID or Touch ID
+Permission Name: android. permission CAMERA
+Result of disabling permissions: unable to complete scanning and shooting
+Permission Name: android. permission WRITE_EXTERNAL_STORAGE、android.permission.READ_EXTERNAL_STORAGE
+Permission Function Description: Read uploaded content, store files
+Usage scenario or purpose: To maintain the normal operation of the health road and account security
+The result of disabling permissions: unable to write and read user information, storage logs, downloads, and cache information
+Permission Name: android. permission RECORD_AUDIO
+The result of disabling permissions: unable to provide voice consultation and interaction with doctors
+Permission Name: android. permission ACCESS_FINE_LOCATION、android.permission.ACCESS_COARSE_LOCATION
+Permission Function Description: Retrieve the user's current geographic location
+Usage scenario or purpose: Provide users with medical institution service information in their region based on geographical location information, as well as personalized information display and targeted push
+The result of disabling permissions: unable to prioritize displaying medical institutions near you in services such as appointment registration and physical examination appointments
+Permission Name: android. permission SYSTEM_ALERT_WINDOW
+Permission Function Description: Window Sharing and Screen Minimization
+Usage scenario or purpose: Allow Health Road to access floating window permissions for audio and video calls and screen minimization functions
+The result of disabling permissions: inability to share and minimize screen size
+6. Obtain task information permissions
+Permission Name: android. permission GET_TASKS
+Permission Function Description: Allow programs to retrieve current or recently running applications
+Usage scenario or purpose: In lower versions of systems, it is used to determine whether the currently visible page is the specified page, and thus decide whether to perform the corresponding subsequent operation
+Ask: No
+Can it be closed: No
+7. Obtain fingerprint recognition/biometric recognition permissions
+Permission Name: android. permission USE_FINGERPRINT ，android.permission.USE_BIOMETRIC
+Permission Function Description: Allow applications to use biometric recognition methods supported by the device, currently using fingerprint recognition.
+Usage scenario or purpose: Fingerprint login
+Ask: No
+Can it be closed: No
+8. Obtain Bluetooth permission
+Permission Name: android. permission BLUETOOTH
+Permission Function Description: Allow programs to connect to paired Bluetooth devices, and request/receive connections/transmit data that require permission modification. This is mainly used for operations after pairing;
+Usage scenario or purpose: Tencent Audio and Video, audio acquisition of Bluetooth earphone status.
+Ask: No
+Can it be closed: No
+Permission Name: android. permission USE_FINGERPRINT ，android.permission.USE_BIOMETRIC
+Permission Function Description: Allow applications to use biometric recognition methods supported by the device, currently using fingerprint recognition.
+Usage scenario or purpose: Fingerprint login
+Permission Name: android. permission BLUETOOTH
+Permission Function Description: Allow programs to connect to paired Bluetooth devices, and request/receive connections/transmit data that require permission modification. This is mainly used for operations after pairing;
+Usage scenario or purpose: Tencent Audio and Video, audio acquisition of Bluetooth earphone status.
+If you want to disable all or part of your device permissions after enabling them, you can choose to disable them in the device's settings function, or you can operate them through "My Settings - Privacy/Reminder Settings" in the Health Road App. Once you disable any device permission, we will no longer be able to collect and use your relevant personal information based on the corresponding permission, and may therefore be unable to provide you with the services corresponding to that permission. Please be informed that your decision to close permissions will not affect the information collection and use previously based on your consent.
+（3） How do we use cookies and similar technologies
+1. Use of Cookies
+By using cookies, we provide users with a secure and personalized service experience. We and the third
+Our partners will store cookies and Flash on your mobile device
+Cookies， Or other local storage provided by browsers (or associated applications) that typically includes identifiers, site names, and some numbers and characters (collectively referred to as "cookies"). We and our third-party partners may collect your information through cookies and use it for the following purposes:
+(1) Security cookies: Cookies can help us ensure the safe and efficient operation of our products and/or services.
+(2) Recommended Cookies: Cookies can help us recommend, display, and push content that may be of interest to you.
+2. Third party partners who collect and use your information through cookies are not bound by this privacy policy, but by their own information protection statements. We are not responsible for third-party cookies or similar technologies.
+（4） Explanation of relying on other legitimate reasons without consent
+According to relevant laws and regulations, we process your personal information without your consent in the following situations:
+1. Necessary for the conclusion and performance of a contract to which you are a party;
+2. Necessary for fulfilling statutory duties or obligations;
+3. Necessary for responding to sudden public health emergencies or protecting the life, health, and property safety of natural persons in emergency situations;
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+5. Process your self disclosed or other legally disclosed personal information within a reasonable scope in accordance with legal provisions;
+6. Other circumstances stipulated by laws and administrative regulations.
+According to relevant laws and regulations, we process your personal information without your consent in the following situations:
+1. Necessary for the conclusion and performance of a contract to which you are a party;
+2. Necessary for fulfilling statutory duties or obligations;
+3. Necessary for responding to sudden public health emergencies or protecting the life, health, and property safety of natural persons in emergency situations;
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+5. Process your self disclosed or other legally disclosed personal information within a reasonable scope in accordance with legal provisions;
+6. Other circumstances stipulated by laws and administrative regulations.
+2、 How we use your personal information
+We will only collect and use your personal information for the purposes and scope specified in this privacy policy. As our services upgrade and iterate, we may adjust the business functions described in this privacy policy and the types of personal information collected and used. When new features or services are related to the ones we currently provide, the personal information collected and used will be directly or reasonably related to the original processing purpose.
+2. When we use your personal information for purposes that are not directly or reasonably related to the original processing purpose, for other purposes not specified in this privacy policy, or when information collected for specific purposes is used for other purposes, we will update this privacy policy, relevant product pages, and other privacy documents, and inform you through pop ups, internal messages, push notifications, and other means, and seek your consent in advance or have other legal reasons.
+3. The sensitive personal information we collect has been prominently displayed in this privacy policy. If your sensitive personal information is leaked, tampered with, or illegally used, it will cause damage to your personal or property security. To prevent the leakage or illegal use of your sensitive personal information, we have taken appropriate technical and organizational protection measures to ensure the security of your information.
+4. If the information you provide contains personal information of others, you must ensure that you have obtained valid consent from the relevant parties before providing this personal information to us. If it involves personal information of children, you need to obtain valid consent from the corresponding child guardian before providing it. In the above situation, the guardian has the right to contact us through the channels specified in this privacy policy to request correction or deletion of content involving children's personal information. If the information you provide violates the privacy rights, personal information, trade secrets or any other legitimate rights and interests of others, causing damage to the national, social and public interests or others, you shall bear full responsibility on your own, and we shall not assume any responsibility for this.
+5. Please note that the personal information you provide when using our services will continue to authorize us to use it during your use of our services, unless you delete it or refuse our collection through system settings.
+2. When we use your personal information for purposes that are not directly or reasonably related to the original processing purpose, for other purposes not specified in this privacy policy, or when information collected for specific purposes is used for other purposes, we will update this privacy policy, relevant product pages, and other privacy documents, and inform you through pop ups, internal messages, push notifications, and other means, and seek your consent in advance or have other legal reasons.
+3. The sensitive personal information we collect has been prominently displayed in this privacy policy. If your sensitive personal information is leaked, tampered with, or illegally used, it will cause damage to your personal or property security. To prevent the leakage or illegal use of your sensitive personal information, we have taken appropriate technical and organizational protection measures to ensure the security of your information.
+4. If the information you provide contains personal information of others, you must ensure that you have obtained valid consent from the relevant parties before providing this personal information to us. If it involves personal information of children, you need to obtain valid consent from the corresponding child guardian before providing it. In the above situation, the guardian has the right to contact us through the channels specified in this privacy policy to request correction or deletion of content involving children's personal information. If the information you provide violates the privacy rights, personal information, trade secrets or any other legitimate rights and interests of others, causing damage to the national, social and public interests or others, you shall bear full responsibility on your own, and we shall not assume any responsibility for this.
+5. Please note that the personal information you provide when using the services we provide, unless you delete or
+Refuse our collection through system settings, otherwise you will continue to authorize us to use our services during your use.
+6. We will conduct statistics on the usage of the services we provide and may provide this statistical information to the public or third parties for the purpose of product development, service optimization, and security assurance. But these statistical information do not include any of your identification information. When we display your personal information, we will use de identification techniques such as masking and blocking based on actual business functions to anonymize your information and protect its security.
+3、 How do we store your personal information
+（1） Storage period
+We will keep your personal information for the shortest retention period required by law and for the purposes stated in this privacy policy. After the aforementioned period expires, we will delete or anonymize your personal information.
+（2） Storage area
+The personal information collected and generated during our operations within China is stored within China. If you need to transfer your personal information overseas, we will comply with the legal requirements regarding the export of personal information before the transfer.
+4、 How do we entrust, provide, transfer, and publicly disclose your personal information to external parties
+（1） Entrusted processing
+In order to improve data processing efficiency, reduce data processing costs, and enhance data processing accuracy, we will entrust proxy service providers, SMS service providers, facial recognition service providers, data analysis service providers, logistics companies, and others to process your personal information on our behalf. The above-mentioned entrusted processing behavior is subject to the purposes stated in this privacy policy, and we will prohibit the trustee from using the data for unauthorized purposes through written agreements, on-site audits, and other means.
+（2） External provision
+If we need to provide your personal information to other third parties in the future, we will inform you of the relevant details on the corresponding page or through other appropriate means, and obtain your separate consent or other legal reasons.
+（3） Transfer
+With the development of our business, we may engage in mergers and acquisitions, which may result in the transfer of your personal information. We will require the recipient to continue protecting your personal information in accordance with the law and this privacy policy. If the recipient changes the original processing purpose or method, we will require the recipient to obtain your consent again.
+（4） Public disclosure
+In principle, we will not publicly disclose your personal information. If it is necessary to publicly disclose your personal information, we will obtain your separate consent or meet other legal requirements.
+（5） Third party SDK
+To ensure the stable operation and implementation of related service functions of the Health Road, software tool development kits (SDKs) or other similar applications from business partners will be embedded in the Health Road. We will conduct strict security monitoring on the SDKs used by our business partners to obtain information, and require them to process personal information in accordance with this privacy policy and any other relevant confidentiality and security measures to ensure data security. We will promptly inform you of the latest situation regarding third-party SDKs that involve collecting and using user information. For more details, please refer to the "Personal Information Sharing List".
+5、 How do we protect your personal information
+We attach great importance to personal information security and take all reasonable and feasible measures to protect your personal information:
+1. We have adopted industry standard data protection technologies and management measures, such as renting reliable cloud services and IDC data centers, data network isolation, classification and grading, backup, encryption, identity authentication, access control, log auditing, and other data security measures. When handling sensitive personal information and important data, we have stricter security measures, such as encryption requirements and higher approval levels, to ensure that the network is protected from interference, damage, or unauthorized access, disclosure, tampering, loss, or destruction.
+2. Please be aware that although we will try our best to ensure or guarantee the security of any information you send us, the Internet environment is not 100% secure, and we will not be responsible for any risks and losses arising from or related to it.
+3. In the event of an unfortunate personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through application push notifications, emails, text messages, phone calls, etc. When it is difficult to inform individual information subjects one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+6、 How do you manage your personal information
+During your use of Health Road, you may query, copy, transfer, correct, supplement, delete your personal information, as well as exercise the rights to change the scope of authorization and consent, cancel your account, etc.
+（1） Search, copy, and transfer your personal information
+If you wish to query or copy your personal information, you can do so through the access path of "My Settings/My Services" or "Search Page" on Health Road.
+2. Please be aware that the query path for different online platforms may vary. You can follow the prompts on the corresponding page of Health Road to operate, or you can contact us for assistance through the methods stated in this privacy policy.
+3. To protect your right to copy personal information, we provide you with a service to obtain a copy of your personal information. You can contact us through the contact information specified in this privacy policy to apply for a copy of your personal information, and we will provide it to you through appropriate means within a reasonable period of time.
+If you need to transfer your personal information to other platforms, enterprises, or organizations, you can contact us through the contact information provided in this policy. We will review your request and provide you with a way to transfer the corresponding personal information, provided that it meets the conditions set by the cyberspace administration and is technically feasible.
+（2） Correct and supplement your personal information
+When you discover that the personal information we process about you is incorrect or incomplete, you have the right to request us to make corrections or supplements. You can refer to the path we explained in the "(1) Querying, Copying, and Transferring Your Personal Information" section to correct or supplement your personal information, or through
+Contact us through the contact information provided in this privacy policy.
+（3） Delete your personal information
+In the following situations, you can request us to delete your personal information:
+1. The processing purpose stated in this policy has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+2. Based on your consent to the processing of your personal information, if you withdraw your consent;
+3. The storage period of personal information has expired;
+4. We collect, use, store, provide or disclose your personal information in violation of laws, administrative regulations or agreements with you;
+5. You no longer use our services;
+6. We cease to provide products or services;
+7. Other circumstances stipulated by laws and regulations.
+1. The processing purpose stated in this policy has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose;
+2. Based on your consent to the processing of your personal information, if you withdraw your consent;
+3. The storage period of personal information has expired;
+4. We collect, use, store, provide or disclose your personal information in violation of laws, administrative regulations or agreements with you;
+5. You no longer use our services;
+6. We cease to provide products or services;
+7. Other circumstances stipulated by laws and regulations.
+（4） Change the scope of your authorized consent
+1. You can change the scope of your consent or revoke your authorization by adding, deleting information, changing privacy settings, or enabling or disabling the corresponding functions and permissions of your device, as well as contacting us through the methods specified in this policy.
+2. You can apply for unsubscribe by contacting us or following the unsubscribe instructions in the marketing information to refuse to receive the marketing messages we send you.
+3. Please understand that various products or services often require partial permissions to be enabled and necessary personal information to be collected in order to be implemented. When you withdraw your consent, we will no longer be able to provide you with the products or services corresponding to the withdrawal of consent, but it will not affect the personal information processing services previously carried out based on your authorization.
+（5） Cancel account
+If you wish to cancel your account, you can cancel it yourself through the Health Road App under "Me - Settings - Cancel Account". You can also contact us through the contact information provided in this privacy policy, and we will respond to your request promptly.
+Your cancellation of the above account is irreversible. We will stop providing services to you, no longer collect your personal information, and delete or anonymize the personal information related to your account according to your request.
+（6） Constrained automated decision-making
+Our services may include automated decision-making mechanisms. If the decisions we make through such mechanisms significantly affect your legitimate rights and interests, you have the right to request us to explain and refuse us to make decisions solely through such mechanisms.
+（7） Right to explain and clarify
+If you have any questions about our personal information processing rules, you can contact us through the contact information provided in this privacy policy, and we will explain and clarify the relevant personal information processing rules to you.
+（8） Other personal information rights
+Subject to compliance with relevant laws and regulations, your close relatives may exercise the aforementioned rights to access, copy, correct, and delete personal information after you, but you may contact us to make alternative arrangements.
+（9） In response to your above request
+To ensure safety, you may need to provide a written request or prove your identity in other ways. We may first require you to verify your identity before processing your request. We will provide a response within fifteen days or the legal deadline.
+We generally do not charge any fees for your reasonable requests. For requests that are unreasonably repeated or exceed reasonable limits, we will charge a certain cost fee at our discretion.
+We will not be able to respond to your request in the following situations:
+1. Relevant to our fulfillment of legal obligations;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. We have sufficient evidence to indicate that users have subjective malice or abuse of power;
+6. For the purpose of safeguarding the significant legitimate rights and interests of users or other individuals, such as life and property, but it is difficult to obtain their consent;
+7. Responding to user requests will cause serious harm to the legitimate rights and interests of users or other individuals or organizations;
+8. Involving trade secrets.
+1. Relevant to our fulfillment of legal obligations;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. We have sufficient evidence to indicate that users have subjective malice or abuse of power;
+6. For the purpose of safeguarding the significant legitimate rights and interests of users or other individuals, such as life and property, but it is difficult to obtain their consent;
+7. Responding to user requests will cause serious harm to the legitimate rights and interests of users or other individuals or organizations;
+8. Involving trade secrets.
+7、 How do we handle the personal information of minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, the collection and use of personal information of minors under the age of 14 requires authorization and consent from their guardians; The collection and use of personal information of minors who are over 14 years old but under 18 years old can be authorized and agreed upon by their guardians or authorized and agreed upon by themselves.
+2. If you are a minor (especially a minor under the age of 14), we require you to ask your parents or other guardians to carefully read this privacy policy or the "Health Road Children's Personal Information Protection Rules", and use our services or provide information to us with the authorization and consent of your guardian.
+3. If you are the guardian of a minor, please pay attention to whether the minor under your guardianship is using our products or services with your authorized consent. If you have any questions about the personal information of minors under your guardianship, please contact us through the methods specified in this privacy policy or the "Health Road Children's Personal Information Protection Rules".
+2. If you are a minor (especially a minor under the age of 14), we require you to ask your parents or other guardians to carefully read it
+Read our privacy policy or the 'Health Road Children's Personal Information Protection Rules', and use our services or provide information to us with the authorization and consent of your guardian.
+3. If you are the guardian of a minor, please pay attention to whether the minor under your guardianship is using our products or services with your authorized consent. If you have any questions about the personal information of minors under your guardianship, please contact us through the methods specified in this privacy policy or the "Health Road Children's Personal Information Protection Rules".
+8、 How to update this privacy policy
+Our privacy policy may change from time to time. We will post changes to this privacy policy on the relevant product pages. For significant changes, we will also provide more prominent notifications (such as through pop ups, internal messages, etc.) to explain the specific changes to the privacy policy and obtain your consent.
+Without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy.
+The significant changes referred to in this privacy policy include but are not limited to: significant changes in our service model; Changes in the provision, transfer, or public disclosure of personal information to external parties; There has been a significant change in your right to participate in personal information processing and the way you exercise it; Our contact information and complaint channels have changed; When the personal information security impact assessment report indicates the presence of high risks.
+We will also archive older versions of this privacy policy for your reference.
+9、 How to contact us
+If you have any questions about this privacy policy or personal information protection, you can contact us through the following methods:
+Contact information of the person in charge of personal information protection: Email: jkzljt@jkzl.com ； Phone: 400-1919-400.
+Mailing address: 22nd floor, Building 3, F District, Fuzhou Software Park, No. 89 Software Avenue, Gulou District, Fuzhou City;
+Health Road App: "My - Online Customer Service/Complaint Feedback" function.
+You can also file complaints or reports with regulatory authorities such as the Cyberspace Administration, the Ministry of Industry and Information Technology, the Public Security Bureau, and the Municipal Supervision Bureau, or seek resolution by filing a lawsuit with the court with jurisdiction over the defendant's domicile
+Historical versions
+Health Road App Privacy Policy V2.2.6 March 9, 2023
+Health Road App Privacy Policy V2.2.3 January 11, 2023
+Health Road App Privacy Policy V2.2.2 2022-03-03
+Health Road App Privacy Policy V2.2.1 2022-01-10
+Health Road App Privacy Policy V2.2.0 2022-01-01
+Health Road App Privacy Policy V2.1.0 August 23, 2019

@@ -1,0 +1,560 @@
+Phoenix Network Product Personal Information Protection Policy
+Update and effective date: August 6, 2024
+Fenghuang.com products refer to various platforms and products operated by Beijing Tianying Jiuzhou Network Technology Co., Ltd. (registered address: Room 201, 2nd Floor, Building 2, No. 4 Qiyang Road, Chaoyang District, Beijing; contact information: 010-60676000) and its affiliated companies, including but not limited to Fenghuang.com, mobile Fenghuang.com, Fenghuang.com various client products (including but not limited to FenghuangNews, FenghuangNews Speed Edition, FenghuangNews Hongmeng Edition, FenghuangNews Overseas Edition, FenghuangVideo), and other products operated on third-party platforms, hereinafter referred to as "Fenghuang.com products". Given the characteristics of the internet, this platform will inevitably have direct or indirect interactions with you. We have formulated this "Phoenix Network Product Personal Information Protection Policy" (hereinafter referred to as the "Policy") and remind you that before using the "Phoenix Network Product" software and related services, please carefully read and fully understand this "Phoenix Network Product Personal Information Protection Policy". Only after confirming full understanding and agreement can you use related products and services. We suggest that you carefully read and understand all the contents of this policy, and make the choices you deem appropriate. We strive to express in plain and concise language, and use bold font to highlight the clauses and sensitive personal information in this policy that have a significant impact on your rights and interests. Once you start using the "Phoenix Products" software and related services, it will be deemed that you have accepted and recognized the content of this policy. The "Phoenix Network Product Personal Information Protection Policy" applies to all services we provide to you, whether you obtain "Phoenix Network Product" related services through computer devices, mobile devices, or other devices.
+The software and related services of "Phoenix Network Products" attach great importance to the protection of users' personal information, and will treat this personal information with high diligence and prudence. When you download, install, enable, browse, register, log in, and use (hereinafter collectively referred to as "use") services related to "Phoenix Network products", we will collect, store, use, share, disclose, and protect your information in accordance with this Phoenix Network product personal information protection policy. If you do not agree with the content of this "Phoenix Network Product Personal Information Protection Policy", it will result in the software and services not functioning properly, and we will be unable to provide you with relevant services. If we make any changes to this' Phoenix Net Product Personal Information Protection Policy ', we will promptly publish the latest version of the' Phoenix Net Product Personal Information Protection Policy 'on the' Phoenix Net Product 'platform and prompt you to read the changes. By agreeing and continuing to use the "Phoenix Products" software and related services, you agree to the contents of this "Phoenix Products Personal Information Protection Policy" (including updated versions), and agree that we collect, store, use, share, disclose, and protect your relevant information in accordance with this "Phoenix Products Personal Information Protection Policy". If you have any questions, opinions or suggestions regarding the personal information protection policy of this Phoenix website product, you can contact us through the "Me" - "Feedback and Suggestions" column in the bottom right corner of the client's homepage. We guarantee to accept and process your questions, opinions or suggestions within 15 working days.
+Scope and methods of personal information collection
+When you use "Phoenix Network products", according to relevant laws and regulations of the People's Republic of China, you should provide your real identity information through your account. We will assist you in selecting an appropriate method to complete real name verification based on your identity attributes. If you only need to use browsing and search services, you do not need to register for a "Phoenix Products" account or provide relevant information.
+1. Register, log in, correct, and delete "Phoenix Network products" and accounts:
+To register an account, you may need to provide the following information: (1) Your network identification information, which may include account name, account nickname, account avatar, email address, as well as passwords and password protection questions and answers related to the above; (2) Your phone information (for real name authentication purposes). You can choose not to provide one or some information, but this may result in you being unable to use some services of the "Phoenix Products" software. If you have any questions about the above registration process, you can contact us through the "Me" - "Feedback and Suggestions" column in the bottom right corner of the client homepage. We will ensure that your questions, opinions or suggestions will be accepted and processed within 15 working days.
+If you need to cancel your account, you can go to the "Settings" page in the bottom right corner of the homepage of various Phoenix products, and pull to the bottom cancellation function interface to perform the cancellation operation; If you need to change or delete account information, you can go to the "Settings" page in the bottom right corner of the homepage of each Phoenix product, pull to the top personal information position, and click to update and delete personal information. We guarantee that we will process and handle your account cancellation process within 15 working days.
+When you log in to "Phoenix Network Products" through other means, we will request your personal information from a third party. We will ask the third party to explain the source of the information and ensure the legality of the information they provide. We will still require you to provide personal information that we need but cannot be provided by third parties. If you refuse to provide, it may result in you being unable to use some services of the "Phoenix Products" software.
+2. Use the basic service functions of "Phoenix Network Products":
+Log information: When you use the "Phoenix Products" service, we will automatically collect your usage of our service as relevant network logs for storage. This includes your search query content, transaction information, IP address, browser type, language used, date and time of service access, personal internet browsing history (including browsing history and click history), as well as information obtained through cookies, web beacons, and proxy technologies.
+Device information, for channel and activity security, to identify the true purpose of user participation, "Phoenix Network Products" may record personal commonly used device information provided by the mobile device, browser, or other programs you use to access "Phoenix Network Products" services, including hardware model, network device hardware address (MAC), operating system type, operating system version number, memory status, memory information, phone status, phone service, and system settings. Unique device identification code for software,
+Information describing the basic information of personal commonly used terminal devices, including IMEI/ANDROIDID/IDFA/OPENUDID/GUID/device serial number (SN)/ICCID/OAID/UnionID, IMSI card information, and HarmonyOS identification codes (HarmonyOS OAID, HarmonyOS AAID, HarmonyOS ODID, HarmonyOS UUID); In order to obtain the unique identification code mentioned above, a phone service will be requested. To adjust the volume and brightness, the system settings will be requested. In order to promptly stop the audio and video that the client may be playing during a call, the call status will be monitored; In order to achieve the ability to "shake" the activity page and automatically rotate the landscape during video playback, acceleration sensors (gyroscope sensors, gravity sensors) will be accessed to obtain device acceleration sensors (gyroscope sensors, gravity sensors)/monitoring acceleration sensors (gyroscope sensors, gravity sensors). In order to set an appropriate cache space, system memory status information and memory information will be read. In order to enable the ability to click and dial phone numbers on the article page, a call will be made to make a phone call.
+Cutting board information, the client will read/clear the content of the cutting board at startup, which is used to implement password sharing, redemption code, and activity functions, and jump to the corresponding page through the information identified by the clipboard. We will evaluate the information on the clipboard and only process the information marked as belonging to our client, without affecting your other information, and will not upload your clipboard information. When you actively copy/paste article content, comments, and share addresses, the clipboard will also be used. Special note: Some phones may prompt that an application or app is reading the clipboard, but the system cannot distinguish whether clipboard information is being collected, and there is a possibility of false positives. Therefore, if you find similar prompts, please contact us so that we can locate the issue.
+Terminal application information, in order to enhance user experience, we will collect your relevant terminal application information when you enable the service function of a specific "Phoenix Network product" software. We will only collect your information within the necessary permissions to achieve the purpose of our services, and use and store your information within the framework of this Phoenix Network Product Personal Information Protection Policy. You can choose to disable some or all permissions in the device's settings function. The opening and closing methods of the above permissions may vary among different devices. Please refer to the instructions or guidelines provided by the device and system developers for specific details. If you refuse authorization or provide information, we will not be able to provide you with this service, but you can still use other functions of the "Phoenix Products" software normally.
+Keyword information: When you use the search service of Phoenix products, in order to provide efficient search services, we may collect your keyword information, and some of this information will be temporarily stored on your local storage device. Here, you should note that your keyword information cannot individually identify your personal identity and does not belong to your personal information. Therefore, we have the right to use it for other purposes; Only when your search keyword information is linked to your other information and can identify your personal identity, during the combined use period, we will treat your search keyword information as your personal information and process and protect it together with your search history in accordance with this Phoenix website product personal information protection policy.
+3. Use other specific service functions
+(1) When you use Phoenix's products, upload and/or post information, and engage in related activities (posting comments, replying to comments, liking articles, sharing, bookmarking), we will collect the information you upload, post, or form, and have the right to display your nickname, avatar, and post content. To enhance your service experience, you can also authorize us to access your location information (for recommending content based on the region), storage card, photo and album (for uploading and downloading pictures), recording (voice input in posting comments, chat room voice input) to collect and use the information involved in these functions. We will provide you with personalized recommendations based on location information, or provide you with personalized login, comment, interaction, information sharing, or publishing functions based on such authorized permissions. When you need to turn off this feature, most mobile devices will support your request. Please refer to or contact the service provider or manufacturer of your mobile device for specific methods. Special note: The client, fast application products, and FA APP published in the in car system (HarmonyOS) do not contain personalized content.
+(2) When you use Phoenix products, in order to better provide you with personalized information and services that interest you, we will combine one or more of the information you provide to us, the information you agree to us collecting, and the information we indirectly collect (such as your browsing and search history, device information, location information, order information) to model recommendation algorithms, program advertising recommendation algorithms, analyze user behavior, and user profiles, in order to extract your browsing, search preferences, behavior habits, and location information related features.
+(3) In some Phoenix products e-commerce service projects, in order to facilitate the delivery of goods or services to you, you need to provide us with at least the recipient's personal identification information, name, shipping address, postal code, recipient, contact phone number, and payment status information. If you refuse to provide such information, we will not be able to complete the relevant delivery services. If you order goods or services for others through Phoenix's e-commerce platform, you need to provide the aforementioned information of the actual purchaser. Before providing us with the aforementioned information of the actual purchaser, you need to ensure that you have obtained their authorization and consent.
+(4) If you generate payment settlement in the process of our services, you can choose the payment services provided by our related parties or third-party payment institutions cooperating with us (including Alipay, WeChat payment, Apple Pay and UnionPay, NetPay payment channels, hereinafter referred to as "payment institutions"). During the payment service process, we may need to share your e-commerce product order number and transaction amount information with these payment institutions to achieve
+It confirms your payment instructions and completes the payment.
+(5) To display the order information of your account and protect your after-sales rights, we will collect the order information, transaction and consumption records, and virtual property information (virtual currency) generated during your use of Phoenix e-commerce products for display to you and to facilitate your order management. In case of transaction refund, we may ask you to provide your bank account information, including bank card information, Alipay, and WeChat payment third-party account information to process your refund request.
+(6) When you contact us, we may save your communication/call records and content, or the contact information and related information you left behind, in order to contact you or help you solve problems, or record the solutions and results of related issues. To confirm the transaction status and provide you with after-sales and dispute resolution services, we will collect your transaction, payment, and logistics information related to the transaction progress through the trading partner, payment institution, and logistics company selected by you based on the exchange, and share your above transaction, payment, and logistics information with the relevant service providers.
+(7) When you participate in marketing activities related to "Phoenix Network products", we may collect your name, mailing address, contact information, and bank account according to the needs of the activity. These pieces of information are the basis for you to receive the transfer or gift. If you refuse to provide this information, we will not be able to transfer or distribute the gift to you.
+(8) There are local channels in the client that gather high-quality content from various places. After you agree to the personal information protection policy of Phoenix Network platform, the client will request your location on the homepage in order to recommend high-quality content for the corresponding region and set up local channels. The request will only be made once. If you have set up local channels, they will be retained after upgrading or reinstalling the client.
+(9) Please refer to the list of collected personal information for details
+4. We obtain your information from third parties
+We may obtain your authorized shared account information (account name, account nickname, account avatar, email address, as well as passwords and password protection questions and answers related to the above) from third parties, and after you agree to this "Phoenix Network Product Personal Information Protection Policy", bind your third-party account with your Phoenix Network product account, so that you can directly log in and use the "Phoenix Network Product" software and related services through the third-party account. We will confirm the legality of the source of your personal information based on agreements with third parties, and use your aforementioned personal information in compliance with relevant laws and regulations.
+If it is necessary to obtain your personal information from a third party in order to provide services to you, we will require the third party to explain the source of the information and demand that the third party ensure the legality of the information provided. If the personal information processing activities required for our business exceed the scope of your authorization to provide personal information to third parties, we will obtain your explicit consent.
+The Apple Store (hereinafter referred to as Apple) stipulates that if any form of third-party login is required, the Apple ID access method must be connected at the same time to better serve Apple users. This form requires your device to have camera hardware and the corresponding minimum operating system version number. This access method will obtain your fingerprint or facial recognition as your Face ID. The Phoenix platform cannot obtain or use this personal information. Please refer to the official instructions of Apple Face ID for details https://support.apple.com/en-us/HT208108 .
+Storage of personal information
+1. Storage location: We store your personal information collected within the territory of the People's Republic of China in accordance with laws and regulations. At present, we will not use, store, share, or disclose your personal information in cross-border business, or transfer your personal information overseas. If future business changes require the transfer of your personal information overseas, we will inform you of the type, purpose, recipient, security measures, and security risks of your personal information in accordance with relevant laws and regulations, and obtain your explicit authorization and consent.
+2. Storage period: We will only retain your personal information for the period necessary for the purposes stated in this "Phoenix Network Product Personal Information Protection Policy" and within the time limit required by laws, regulations, and regulatory requirements. We will keep your personal information for the period specified by relevant laws and regulations. After exceeding the statutory retention period, we will delete or anonymize your personal information.
+3. If you terminate the use of the "Phoenix Products" software and services, we will cease to collect and use your information, except as otherwise provided by laws and regulations. If we cease operations, we will cease to collect and use your personal information.
+The use of cookies and similar technologies
+When you use "Phoenix Products" products or services, in order to provide you with a more convenient access experience, we may use various technologies to collect and store information, and may send one or more cookies or anonymous identifiers to your device during this process. This is done to understand your usage habits, so that you can avoid the steps of repeatedly entering registration information, or to help determine the security of your account.
+1. This is done to understand your usage habits, so that you can avoid the steps of repeatedly entering registration information, or to help determine the security of your account.
+When you use Phoenix products or services, we may use cookies or similar technologies to collect your information in order to understand your preferences. Cookie is a small plain text file transmitted from the server to the client page, used to record the user's login identity, whether they have already registered their real name, and access history for consultation or data analysis, to improve product services and user experience, enhance advertising effectiveness, timely detect and prevent security risks, and provide better services for users and partners.
+3. We will not use cookies for purposes other than those described in this Phoenix Product Personal Information Protection Policy. You may retain or delete cookies according to your preferences. You can clear all cookies saved in software or web pages.
+Usage and purposes of personal information
+1. To showcase or promote products or services to you: We
+We may use your information (your browsing and search history, device information, location information, order information) to extract your browsing, search preferences, behavioral habits, and location related features to display, provide, or promote our or third-party products and services as follows.
+2. Push messages to you: We may use your information (your browsing and search history, device information, location information, order information) to extract your browsing, search preferences, behavior habits, and location related features, and based on feature tags, indirectly profile people and send marketing messages to you through email, SMS, or other means to provide or promote Phoenix products and services or third-party goods and services.
+3. Notice to you: We may issue service related notices to you when necessary (when we suspend, change, or terminate the provision of a particular service due to system maintenance).
+If you do not wish to continue receiving our push messages, you can request us to stop sending notifications and follow the SMS unsubscribe guidelines to stop sending notification messages; Except for situations where we send messages in accordance with legal regulations or service agreements for individual services.
+4. To provide you with security protection: To improve the security of your use of our services and those of our affiliated companies and partners, protect your personal and property safety or that of other users or the public from infringement, better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, and network intrusions, and more accurately identify violations of laws and regulations. We may use or integrate the information we collect from you, as well as information that our partners have authorized or legally shared with you, to comprehensively assess your account and transaction risks, conduct identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law.
+5. Improving our services: You understand and agree that after collecting your information, if we use technical means to de identify the data, the de identified information will not be able to identify your identity. In this case, we have the right to use the de identified information to analyze the user database and commercially utilize it.
+6. Information Sharing: We will conduct statistical analysis on the usage of the "Phoenix Network Products" software and related services, and may share this statistical information with the public or third parties to showcase the overall usage trends of our software and related services. But these statistical information do not include any of your identification information. For specific details, please refer to the third-party information sharing list (Android), third-party information sharing list (iOS), and third-party information sharing list (HarmonyOS)
+7. Please note that all personal information provided by you when using the "Phoenix Products" software and related services will continue to be authorized for us to use within the scope stated in this "Policy" during your use of the "Phoenix Products" software and related services, unless you delete or refuse our collection through system settings. After you cancel your account, we will stop providing you with the "Phoenix Network Products" service, delete your personal information according to your request, or anonymize it, except as otherwise provided by laws and regulations.
+8. Clean personalized recommendation records: You can clean personalized recommendation records in the client by going to Settings ->Privacy Settings (iOS client path is Settings ->About Us ->Privacy Settings), or click Clean Personalized Recommendation Records to complete the operation.
+9. Disable personalized recommendations: When you use personalized recommendations, we will recommend content to you based on your personal profile information such as browsing, search preferences, and behavioral preferences. The path to turn off personalized recommendations in the client is Settings ->Privacy Settings ->Turn off personalized recommendations (iOS client path is Settings ->About Us ->Privacy Settings ->Turn off personalized recommendations). When you turn off personalized recommendations, we will no longer be able to provide you with interest content or product information based on your personal profile, but you can still receive content recommended by hotspots, local and editorial sources, boutique products selected by operations in various categories, and content and product information provided by product manufacturers or agency channels.
+10. For instructions and usage scenarios of client permissions, please refer to the Android client permission usage instructions, iOS client permission usage instructions, and HarmonyOS client permission usage instructions
+Ways of sharing personal information
+We will not share or transfer identifiable personal information to third parties unless authorized in advance by you. We may share or transfer personal information that has been de identified and processed, and ensure that the sharing third party cannot re identify the natural person subject of such information. Under specific circumstances, we may share your personal information with third parties, but we will only share necessary personal information, and third parties are bound by the purposes stated in this Phoenix website product personal information protection policy. We will require third parties to take protective measures for your personal information and strictly comply with relevant laws, regulations, and regulatory requirements. If a third party wants to change the purpose of processing personal information, they will seek your authorization and consent again. This includes mandatory sharing and business sharing.
+(1) Mandatory sharing: We may share your personal information with third parties in accordance with legal regulations, legal procedures, mandatory government requirements, or judicial rulings.
+(2) Business sharing: To achieve specific functions, we may share your information with business partners. For the purpose of implementing the personal information protection policy stated in this Phoenix website product, some of our services will be provided by authorized partners. We may share some of your personal information with our partners to provide better customer service and user experience. We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose; We will investigate the data security environment of companies, organizations, and individuals with whom we share personal information, sign strict confidentiality agreements, and require them to comply with our instructions, this Phoenix website product personal information protection policy, and any other relevant confidentiality and security measures
+To handle personal information. The third-party services accessed are operated by the relevant third parties and are subject to their own service terms and information protection statements (rather than this Personal Information Protection Policy).
+Unless otherwise specified, the partial information obtained by the third-party SDK is described as follows:
+1) WIFI information: may include MAC address, WIFI list
+2) Location information, rough positioning, precise positioning: including BSSID, SSID, IP address
+At present, the SDKs provided by third-party service providers for Android client access mainly include the following types (attached on the official website or privacy policy link of the third-party SDK):
+1) WeChat Open Platform SDK
+Purpose of use: To achieve login and sharing
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, volume adjustment, recording
+Official website link: https://open.weixin.qq.com/
+2) Enterprise WeChat SDK
+Purpose of use: To achieve sharing
+Type of information obtained: None
+Official website link: https://work.weixin.qq.com/nl/index/security/
+3) Tencent QQ Open Platform SDK (com. Tencent. open)
+Purpose of use: To achieve login and sharing
+Type of information obtained: Network status
+Official website link: https://open.tencent.com/
+4) Sina Weibo SDK
+Purpose of use: To achieve login and sharing
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, volume adjustment, recording
+Type of information obtained: network status, WIFI status, write to memory card
+Official website link: https://open.weibo.com/wiki/SDK
+5) Aurora SDK
+Purpose of use: To achieve one click login and number authentication
+Obtain information types: device information, location information, network information, SDK authentication related request results, mobile phone number
+Official website link: https://www.jiguang.cn/license/privacy
+Device information: Device identifier (IMEI, IDFA, Android ID, MAC, OAID related information), application information (application crash information, notification switch status, application list/installation list related information), device parameters and system information (device type, device model, operating system and hardware related information)
+Network information: IP address, WiFi information, base station information related information
+The Aurora SDK has a one click login function and integrates the following other SDKs:
+a) Telecom SDK: package name cn.com.cnatelecom.account
+b) Telecom SDK: Package Name: com. ct. auth
+c) Mobile SDK: Package Name: com. cmic. so. sdk
+Explanation: Due to performance analysis and business logic requirements, device identifiers, network information, and WIFI information will be obtained
+d) Unicom SDK: Package Name: com. unicom. xiaowo
+Explanation: All versions of the SDK only collect private network IP addresses and have not been modified. Reason for collection: The client SDK needs to perform identity verification on the client when pre fetching numbers. At this time, it will read the private network IP of the client's data network card and compare it with the private network IP obtained by the ggsn node to ensure that the two are the same before executing subsequent operations. The main purpose of this is to prevent users from having their accounts stolen when sharing data networks through hotspots; iOS、Android、 Confidentiality authentication is consistent, and H5 does not collect any user information; No changes have been made to the collection of user data information
+e) Aurora Push SDK
+f) Aurora Statistics SDK
+6) Xiaomi PUSH SDK
+Purpose of use: To achieve push notifications of information
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), WIFI information, network status, running tasks, writing to memory card, vibration
+Official website link: https://dev.mi.com/console/appservice/push.html
+7) Huawei PUSH SDK
+Purpose of use: To achieve push notifications of information
+Type of information obtained: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), WIFI information, network status, running in the background after turning off the screen, desktop shortcut
+Official website link: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177
+8) Meizu PUSH SDK
+Purpose of use: To achieve push notifications of information
+Obtain information type: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID)
+Official website link: https://open.flyme.cn/open-web/views/push.html
+9) OPPO PUSH SDK
+Purpose of use: To achieve push notifications of information
+Type of information obtained: None
+Official website link: https://open.oppomobile.com/new/developmentDoc/info?id=10288
+10) VIVO PUSH SDK
+Purpose of use: To achieve push notifications of information
+Type of information obtained: None
+Official website link: https://dev.vivo.com.c
+n/documentCenter/doc/366
+11) Honor PUSH SDK
+Purpose of use: To achieve push notifications of information
+Type of information obtained: Device identifier (AAID, PushToken)
+Official website link: https://developer.hihonor.com/cn/kitdoc?category=%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1&kitId=11002&navigation=guides&docId=sdk -data-security.md
+12) Baidu Positioning SDK
+Purpose of use: To achieve positioning
+Developer Name: Beijing Baidu Netcom Technology Co., Ltd
+Type of information obtained: network status, WIFI information, rough positioning, precise positioning, writing to memory card, location information (which may include GNSS information, WIFI address and signal strength information, base station ID data information, sensor information, mobile signal strength information), device information (including Android ID, operating system version, device brand and model, device configuration, application information (application name))
+Includes SDK: Baidu Ride Pedestrian Navigation SDK, Baidu Map API Authentication, Baidu Map SDK
+Authorization method: Determined by the device system developer and the developer application, it will be activated when the end user agrees to grant this permission to the developer application
+Official website link: https://lbs.baidu.com
+Privacy Policy: https://lbsyun.baidu.com/index.php?title=openprivacy
+13) Digital Alliance SDK
+Purpose of use: Data statistics and security
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, sensors (light sensor, magnetic field sensor, gravity sensor, pressure sensor, direction sensor, rotation vector sensor, gyroscope sensor, acceleration sensor), location information
+Official website link: https://www.shuzilm.cn/main/privacy.html
+14) Shumei SDK
+Purpose of use: Data statistics and security
+Retrieve information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, read-write memory card, rough positioning, precise positioning, modify system settings (read-write system settings), retrieve device sensors/monitoring sensors, running processes
+Official website link: https://www.ishumei.com/legal/cn/privacy.html
+15) Listening to Cloud SDK
+Purpose of use: Data statistics and security
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, log reading, rough positioning
+Official website link: https://www.tingyun.com/
+16) Yiguan SDK
+Purpose of use: Data statistics and security
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, precise positioning, rough positioning, obtain recently run tasks, write storage card, start auto start, Bluetooth information, modify system settings (read/write system settings), data statistics service
+Official website link: http://bpdown.analysys.cn/privacy.html
+17) BUGLY SDK
+Purpose of use: Data statistics, security
+Retrieve information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, write to storage card, read logs
+Official website link: https://bugly.qq.com/v2/
+18) Pangolin SDK
+Purpose of use: Video client, high-speed version display advertisement
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough positioning, precise positioning
+Includes SDK: Byte Mobile Security SDK, Today's Headlines Incentive Advertisement
+Official website link: http://partner.toutiao.com/privacy
+19) Youlianghui (Guangdian) SDK
+Purpose of use: Video client, high-speed version display advertisement
+Obtaining information types: rough location information, device information (such as device manufacturer, device model, operating system version, etc.), device identifiers (such as IMEI, AndroidID, OAID, IDFA, etc.), reading AndroidID and other device identifiers mentioned above for advertising placement, advertising attribution, advertising monitoring, anti cheating purposes, application information (host application package name, version number), advertising data (such as exposure, click data, etc.), running processes
+Official website link: https://qzs.gdtimg.com/union/res/union_cdn/page/dev_rules/ylh_sdk_privacy_statement.html
+20) Baiqingteng SDK
+Purpose of use: Video client, high-speed version display advertisement
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough positioning, precise positioning
+Includes SDK: Baidu Network Alliance Advertising
+Official website link: https://uni
+on.baidu.com/bqt-/policies
+21) Huawei Statistics
+Purpose of use: Data statistics
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information
+Official website link: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050745149#ZH -CN_TOPIC_0000001055704424__section328482412368
+22) Huawei Advertising
+Purpose of use: Video client, high-speed version display advertisement
+Type of information obtained: None
+Includes SDK: Huawei HMS Core Features
+Official website link: https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/publisher-service-introduction-0000001070671805  - ZH-CN_TOPIC_0000001070671805__section195492716210
+23) LeBo screen casting SDK
+Purpose of use: Video screen projection
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, wireless multicast, Bluetooth information, voice recognition
+Official website link: https://www.lebo.cn/privacy.jsp
+24) Kwai Alliance SDK
+Purpose of use: Video client, high-speed version display advertisement
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough positioning, precise positioning, network status, WIFI information, installation of applications
+Official website link: https://yingwww.kuaishou.com/about/policy?tab=privacy
+25) Jingzhuntong Advertising SDK
+Purpose of use: Video client, high-speed version display advertisement
+Type of information obtained: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough location, precise location, network status, read-write storage card
+Official website link: https://about.jd.com/privacy/
+26) Unified OAID of Mobile Security Alliance
+Purpose of use: Obtain OAID
+Type of information obtained: None
+Official website link: https://www.msa-alliance.cn/
+The Mobile Security Alliance Unified OAID SDK also includes the following SDKs:
+a) com.androd.creator
+b) com.asus.msa
+c) com.bun.lib
+d) com.bun.miitmdid
+e) com.bunsupplier
+f) com.coolpad.deviceidsupport
+g) com.heytap.openid
+h) com.huawei.hms.ads.identifier
+i) com.meizu.flyme.openidsdk
+j) com.samsung.android.deviceidservice
+k) com.vivo.identifier
+27) Jiahe Technology Services (Non Client Built in SDK)
+Purpose of use: Advertising placement
+Type of information retrieval: Server docking, not executing code on the client side
+Official website link: https://www.addnewer.com/#/pc/privacypolicy/
+28) Tencent Tinker Hot Fix SDK (WeChat Hot Patch)
+Usage purpose: Hot update
+Retrieve information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, write to storage card, read logs
+Official website link: https://github.com/Tencent/tinker
+29) Tencent Cloud Instant Messaging (IM) SDK
+Purpose of use: Text chat, message processing
+Type of information obtained: network status, WIFI information, read-write memory card, camera, recording, volume adjustment, Bluetooth information
+Official website link: https://cloud.tencent.com/document/product/269/58094
+30) Tencent Cloud Object Storage (COS)
+Purpose of use: Content upload and storage
+Type of information obtained: network status, WIFI information, read-write memory card
+Official website link: https://cloud.tencent.com/document/product/436
+The Tencent Cloud Object Storage (COS) SDK also comes with the following built-in SDKs:
+a) com.tencent.connect
+31) Tencent Lighthouse
+Purpose of use: Data analysis
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information
+Official website link: https://privacy.qq.com/document/preview/a19a8cf
+4f2354306b137a7db39d32024
+32) Huawei updates SDK
+Purpose of use: Huawei basic components
+Type of information obtained: None
+Official website link: https://developer.huawei.com/consumer/cn/doc/overview/HMS
+33) Tencent Cloud X-P2P
+Purpose of use: Audio and Video CDN
+Type of information obtained: None
+Official website link: https://cloud.tencent.com/document/product/618/71172
+34) com.qad
+Purpose of use: To provide a collection of tools for network connection, caching, image processing, etc
+Type of information obtained: None
+Note: The company's self-developed tool components are not third-party SDKs. As the package names are independent, this is to clarify
+35) Tiktok open platform
+Purpose of use: Sharing
+Type of information obtained: None
+Official website link: http://sdkdoc.beizi.biz/#/zh -cn/guide/UsePrivacy
+36) Monetization hosting SDK
+Purpose of use: Display ads on the Speed Edition
+Type of information obtained: device identification information (device identifier, including Android ID, hardware serial number build_derial, etc.) GAID、IMEI、MEID、 Device MAC address, OAID, IMSI, specific fields may vary depending on software and hardware versions), network status, WIFI information, rough location information, read logs
+Official website link: https://www.csjplatform.com/terms/28275
+37) Subcontracting SDK (HumeSDK)
+Purpose of use: Generate channel packages
+Type of information obtained: None
+Official website link: https://bytedance.larkoffice.com/docs/doccnWHO1ZOWn3YrZVblvoEw4th
+38) Machine Learning Service SDK
+Third name: Huawei Software Technology Co., Ltd
+Purpose of use: To provide voice/audio machine learning services and improve services by analyzing call situations
+Type of information obtained: data you actively upload, device information (device model, operating system version number), network information (network type), application information, interface information
+Official website link: https://developer.huawei.com/consumer/cn/doc/development/hiai-Guides/android-sdk-ys-0000001222765290
+At present, the SDKs provided by third-party service providers for iOS client access mainly include the following types (attached on the official website or privacy policy link of the third-party SDK):
+1) WeChat SDK
+Purpose of use: To facilitate your use of third-party accounts for login and sharing on third-party platforms
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://open.weixin.qq.com/
+2) Enterprise WeChat SDK
+Purpose of use: To achieve sharing
+Purpose of use: To facilitate your use of third-party accounts for login and sharing on third-party platforms
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://work.weixin.qq.com/nl/index/security/
+3) Weibo SDK
+Purpose of use: To facilitate your use of third-party accounts for login and sharing on third-party platforms
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://open.weibo.com/development/mobile
+4) QQ SDK
+Purpose of use: To facilitate your use of third-party accounts for login and sharing on third-party platforms
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://open.tencent.com/
+5) Digital Alliance SDK
+Purpose of use: Data statistical analysis
+Type of information obtained: device identifier (such as IDFA), sensor (light sensor, magnetic field sensor, gravity sensor, pressure sensor, direction sensor, rotation vector sensor, gyroscope sensor, acceleration sensor), position information
+Official website link: https://www.shuzilm.cn/main/privacy.html
+6) Listening to Cloud SDK
+Purpose of use: Engineering statistical analysis
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://www.tingyun.com/legal_declaration.html
+7) Shumei SDK
+Purpose of use: Data statistical analysis
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://www.ishumei.com/legal/cn/privacy.html
+8) Aurora SDK
+Purpose of use: One click login with mobile phone number
+Type of information obtained: device identifier (such as IDFA), phone number
+Official website link: https://www.jiguang.cn/license/privacy
+9) LeBo SDK
+Purpose of use: Video screen projection
+Type of information obtained: Device identifier (such as IDFA)
+Official website link: https://www.lebo.cn/privacy.jsp
+10) Tencent Cloud Intelligent Scan Code SDK
+Purpose of use: Scan QR codes and barcodes
+Type of information obtained: camera, device identifier (such as IDFA)
+Official website link: https://cloud.tencent.com/document/product/301/11470?fr
+om=14588
+11) Tencent Cloud Instant Messaging SDK
+Purpose of use: Text chat, message processing
+Type of information obtained: device identifier (such as IDFA), microphone
+Official website link: https://cloud.tencent.com/document/product/269/58094
+12) Tencent Cloud Object Storage (COS)
+Purpose of use: Content upload and storage
+Type of information obtained: network status, WIFI information
+Official website link: https://cloud.tencent.com/document/product/436
+13) Tencent Lighthouse
+Purpose of use: Data analysis
+Obtain information types: device identifier (such as IDFA), network status, WIFI information, location information
+Official website link: https://privacy.qq.com/document/preview/a19a8cf4f2354306b137a7db39d32024
+14) Tencent Cloud X-P2P
+Purpose of use: Audio and Video CDN
+Type of information obtained: None
+Official website link: https://cloud.tencent.com/document/product/618/71172
+15) Tiktok open platform
+Purpose of use: Sharing
+Type of information obtained: None
+3) Tencent QQ Open Platform SDK (com. Tencent. open)
+Type of information obtained: Network status
+4) Sina Weibo SDK
+Type of information obtained: network status, WIFI status, write to memory card
+5) Aurora SDK
+Purpose of use: To achieve one click login and number authentication
+Obtain information types: device information, location information, network information, SDK authentication related request results, mobile phone number
+Device information: Device identifier (IMEI, IDFA, Android ID, MAC, OAID related information), application information (application crash information, notification switch status, application list/installation list related information), device parameters and system information (device type, device model, operating system and hardware related information)
+Network information: IP address, WiFi information, base station information related information
+Explanation: Due to performance analysis and business logic requirements, device identifiers, network information, and WIFI information will be obtained
+Explanation: All versions of the SDK only collect private network IP addresses and have not been modified. Reason for collection: The client SDK needs to perform identity verification on the client when pre fetching numbers. At this time, it will read the private network IP of the client's data network card and compare it with the private network IP obtained by the ggsn node to ensure that the two are the same before executing subsequent operations. The main purpose of this is to prevent users from having their accounts stolen when sharing data networks through hotspots; iOS、Android、 Confidentiality authentication is consistent, and H5 does not collect any user information; No changes have been made to the collection of user data information
+6) Xiaomi PUSH SDK
+Purpose of use: To achieve push notifications of information
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), WIFI information, network status, running tasks, writing to memory card, vibration
+7) Huawei PUSH SDK
+Type of information obtained: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), WIFI information, network status, running in the background after turning off the screen, desktop shortcut
+8) Meizu PUSH SDK
+Obtain information type: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID)
+11) Honor PUSH SDK
+Type of information obtained: Device identifier (AAID, PushToken)
+12) Baidu Positioning SDK
+Purpose of use: To achieve positioning
+Developer Name: Beijing Baidu Netcom Technology Co., Ltd
+Type of information obtained: network status, WIFI information, rough positioning, precise positioning, writing to memory card, location information (which may include GNSS information, WIFI address and signal strength information, base station ID data information, sensor information, mobile signal strength information), device information (including Android ID, operating system version, device brand and model, device configuration, application information (application name))
+Authorization method: Determined by the device system developer and the developer application, it will be activated when the end user agrees to grant this permission to the developer application
+13) Digital Alliance SDK
+Purpose of use: Data statistics and security
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, sensors (light sensor, magnetic field sensor, gravity sensor, pressure sensor, direction sensor, rotation vector sensor, gyroscope sensor, acceleration sensor), location information
+14) Shumei SDK
+Retrieve information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, read-write memory card, rough positioning, precise positioning, modify system settings (read-write system settings), retrieve device sensors/monitoring sensors, running processes
+15) Listening to Cloud SDK
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, log reading, rough positioning
+16) Yiguan SDK
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network
+Status, WIFI information, precise positioning, rough positioning, obtaining recently run tasks, writing storage card, starting self startup, Bluetooth information, modifying system settings (read/write system settings), data statistics service
+Purpose of use: Data statistics, security
+Retrieve information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, write to storage card, read logs
+18) Pangolin SDK
+Purpose of use: Video client, high-speed version display advertisement
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough positioning, precise positioning
+19) Youlianghui (Guangdian) SDK
+Obtaining information types: rough location information, device information (such as device manufacturer, device model, operating system version, etc.), device identifiers (such as IMEI, AndroidID, OAID, IDFA, etc.), reading AndroidID and other device identifiers mentioned above for advertising placement, advertising attribution, advertising monitoring, anti cheating purposes, application information (host application package name, version number), advertising data (such as exposure, click data, etc.), running processes
+20) Baiqingteng SDK
+21) Huawei Statistics
+Purpose of use: Data statistics
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information
+22) Huawei Advertising
+23) LeBo screen casting SDK
+Purpose of use: Video screen projection
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), network status, WIFI information, wireless multicast, Bluetooth information, voice recognition
+24) Kwai Alliance SDK
+Obtain information types: device identifiers (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough positioning, precise positioning, network status, WIFI information, installation of applications
+25) Jingzhuntong Advertising SDK
+Type of information obtained: device identifier (such as IMEI, IMSI, Android ID, serial number (SN), ICCID, OAID), rough location, precise location, network status, read-write storage card
+26) Unified OAID of Mobile Security Alliance
+Purpose of use: Obtain OAID
+The Mobile Security Alliance Unified OAID SDK also includes the following SDKs:
+27) Jiahe Technology Services (Non Client Built in SDK)
+Purpose of use: Advertising placement
+Type of information retrieval: Server docking, not executing code on the client side
+28) Tencent Tinker Hot Fix SDK (WeChat Hot Patch)
+Usage purpose: Hot update
+29) Tencent Cloud Instant Messaging (IM) SDK
+Purpose of use: Text chat, message processing
+Type of information obtained: network status, WIFI information, read-write memory card, camera, recording, volume adjustment, Bluetooth information
+30) Tencent Cloud Object Storage (COS)
+Purpose of use: Content upload and storage
+Type of information obtained: network status, WIFI information, read-write memory card
+The Tencent Cloud Object Storage (COS) SDK also comes with the following built-in SDKs:
+31) Tencent Lighthouse
+Purpose of use: Data analysis
+32) Huawei updates SDK
+Purpose of use: Huawei basic components
+33) Tencent Cloud X-P2P
+Purpose of use: Audio and Video CDN
+Purpose of use: To provide a collection of tools for network connection, caching, image processing, etc
+Note: The company's self-developed tool components are not third-party SDKs. As the package names are independent, this is to clarify
+35) Tiktok open platform
+Purpose of use: Sharing
+36) Monetization hosting SDK
+Purpose of use: Display ads on the Speed Edition
+Type of information obtained: device identification information (device identifier, including Android ID, hardware serial number build_derial, etc.) GAID、IMEI、MEID、 Device MAC address, OAID, IMSI, specific fields may vary depending on software and hardware versions), network status, WIFI information, rough location information, read logs
+37) Subcontracting SDK (HumeSDK)
+Purpose of use: Generate channel packages
+38) Machine Learning Service SDK
+Purpose of use: To provide voice/audio machine learning services and improve services by analyzing call situations
+Type of information obtained: data you actively upload, device information (device model, operating system version number), network information (network type), application information, interface information
+1) WeChat SDK
+Purpose of use: To facilitate your use of third-party accounts for login and sharing on third-party platforms
+Type of information obtained: Device identifier (such as IDFA)
+2) Enterprise WeChat SDK
+3) Weibo SDK
+5) Digital Alliance SDK
+Purpose of use: Data statistical analysis
+Type of information obtained: device identifier (such as IDFA), sensor (light sensor, magnetic field sensor, gravity sensor, pressure sensor, direction sensor, rotation vector sensor, gyroscope sensor, acceleration sensor), position information
+6) Listening to Cloud SDK
+Purpose of use: Engineering statistical analysis
+7) Shumei SDK
+8) Aurora SDK
+Purpose of use: One click login with mobile phone number
+Type of information obtained: device identifier (such as IDFA), phone number
+9) LeBo SDK
+10) Tencent Cloud Intelligent Scan Code SDK
+Purpose of use: Scan QR codes and barcodes
+Type of information obtained: camera, device identifier (such as IDFA)
+11) Tencent Cloud Instant Messaging SDK
+Type of information obtained: device identifier (such as IDFA), microphone
+12) Tencent Cloud Object Storage (COS)
+Type of information obtained: network status, WIFI information
+13) Tencent Lighthouse
+Obtain information types: device identifier (such as IDFA), network status, WIFI information, location information
+14) Tencent Cloud X-P2P
+15) Tiktok open platform
+Official website link: http://sdkdoc.beizi.biz/#/zh -cn/guide/UsePrivacy
+Currently, third-party service providers' SDKs that HarmonyOS clients are not connected to.
+The client also integrates some official and third-party open-source libraries and components. Please refer to the Android client open-source library and component description, iOS client open-source library and component description, and HarmonyOS client open-source library and component description
+(3) As our business continues to develop, we and our affiliated companies may engage in mergers, acquisitions, asset transfers, or similar transactions, and your personal information may be transferred as part of such transactions. We will notify you before the transfer, and we will continue to protect or require new controllers to continue protecting your personal information in accordance with laws, regulations, and standards not lower than those required by this Phoenix Network product personal information protection policy.
+(4) When it comes to mergers, divisions, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, the company will require the new company or organization holding your personal information to continue to be bound by the personal information protection policy of this Phoenix website product. Otherwise, the company has the right to request the company or organization to obtain your authorization and consent again.
+(5) Other circumstances stipulated by laws and regulations.
+Personal Information Security Protection
+1. We strive to take various reasonable physical, electronic, and management security measures to protect your personal information and prevent its improper use or unauthorized access, use, or leakage.
+2. We will use encryption technology, anonymization processing and other means to protect your personal information; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked.
+3. We establish a dedicated security department, security management system, and data security process to ensure the security of your personal information. We adopt strict data usage and access regulations and conduct security audits on data and technology. We will develop emergency response plans and immediately activate them to prevent the escalation of security incidents such as personal information leaks. Contact number of the person in charge of personal information protection: 010-60675835, contact email: zhaosy@ifeng.com
+4. Although the above reasonable and effective measures have been taken and the standards required by relevant laws and regulations have been complied with, please understand that in the Internet industry, even if we try our best to strengthen security measures, we cannot always guarantee 100% security of information due to technical restrictions and possible malicious means. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control. Therefore, you should take proactive measures to protect the security of your personal information, such as using complex passwords, regularly changing passwords, and not disclosing your personal information such as account passwords to others.
+Once a user information security incident (leakage, loss, etc.) occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event in the form of push notifications, emails, letters, text messages, etc. When it is difficult to inform the user information subject one by one, we will adopt a reasonable and effective way to publish announcements.
+6. At the same time, we will also report the handling of user information security incidents in accordance with regulatory requirements.
+Management of Personal Information
+We attach great importance to your management of personal information and make every effort to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security.
+After completing the account registration, login, and reasonable and necessary identity verification for "Phoenix Network Products", you can view, modify, and delete the personal information you have submitted to "Phoenix Network Products". In general, you can browse, modify, correct, or delete the information you submit at any time.
+2. You have the right to independently update or correct your personal information, but for security reasons, we will verify your identity before making any information updates or corrections. During the verification process, you will be required to provide relevant identity and account information.
+3. The account supports cancellation function, which allows you to choose to cancel only the current APP account or cancel the Phoenix Pass account. When logging out, the account will be permanently cleared. Please note that canceling the current APP account only affects the current client. Cancelling the Phoenix Pass account will result in other related Phoenix accounts being unable to log in. Please proceed with caution.
+When your information falls under any of the following circumstances, we may not be able to respond to your request in accordance with legal and regulatory requirements: related to national security and defense security; Related to public safety, public health, major public interests, etc; Related to criminal investigation, prosecution, trial, and execution of judgments; There is sufficient evidence to suggest that you have subjective malice or abuse of power; Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests; Involving trade secrets; Other situations stipulated by laws and regulations.
+5. Revocation of Authorization: If you wish to no longer accept Phoenix Net's personal information protection policy, you can withdraw your consent to Phoenix Net's personal information protection policy by going to Settings ->Privacy Settings (iOS client path is Settings ->About Us ->Privacy Settings). After withdrawal, restart the client and the withdrawal operation will take effect. After withdrawing your consent, you can still use the basic functions of the client, including news browsing and searching.
+Scope of application
+This "Phoenix Network Product Personal Information Protection Policy" only applies to the information we collect, store, use, share, and disclose, and does not apply to any services provided by third parties or
+We are not responsible for any third-party use of the information provided by you.
+Terms of Use for Minors
+If you are a minor under the age of 18, before using the "Phoenix Products" software and related services, you should jointly read and agree to this "Phoenix Products Personal Information Protection Policy" under the supervision and guidance of your parents or other guardians. The company protects the personal information of minors in accordance with relevant national laws and regulations.
+Change of terms
+In order to provide you with better service, our business will change from time to time. We will revise this "Phoenix Network Product Personal Information Protection Policy" in a timely manner, and such revisions constitute a part of this "Phoenix Network Product Personal Information Protection Policy". But without your explicit consent, we will not reduce the rights you are entitled to under the current effective Phoenix website product personal information protection policy.
+After the update of the personal information protection policy for Phoenix products, we will release the updated version on the "Phoenix Products" platform and remind you of the relevant content updates through website announcements or other appropriate means such as pop-up notifications before it takes effect, so that you can timely understand the latest Phoenix product personal information protection policy.
+For significant changes, we will also provide more prominent notifications (including but not limited to emails, text messages, private messages, or special prompts on browsing pages) to explain the specific changes to Phoenix's product personal information protection policy.
+The significant changes referred to in this policy include but are not limited to:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the type of personal information processed, and the way in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. All changes caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When there are changes in the responsible department, contact information, and feedback channels for handling personal information security;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+Dispute Resolution
+When you have any disputes with the company providing the "Phoenix Network Products" software or related services due to the implementation of this policy, both parties should first negotiate and resolve them in a friendly manner; If the dispute cannot be resolved through negotiation, you agree to submit it to the jurisdiction of Chaoyang District People's Court in Beijing.
+Phoenix Network Platform Network Service Usage Agreement
+October 12, 2022
+Apply to use Beijing Tianying Jiuzhou Network Technology Co., Ltd. and its
+The services provided by (hereinafter referred to as "Phoenix Network"). stay
+Become a Phoenix Network
+Using Phoenix Network's various platforms
+(including P developed and operated by Phoenix Network)
+End product/client product/official account or applet)
+Items that require registration to be used
+I have accepted the following terms and conditions and agree to be bound by this agreement. If
+If you do not agree to accept all the terms and conditions, then
+Cannot be used
+Registration is required
+The corresponding services provided.
+1、 Confirmation of Service Agreement
+Carefully read and choose to accept or reject this agreement. Unless
+Accept all terms of this agreement, otherwise
+No authority to register, log in, or use this agreement
+Registration is required to use
+Corresponding services.
+Phoenix Network (Beijing Tianying Jiuzhou Network Technology Co., Ltd.)
+Or its affiliated companies
+A directly binding legal document between them.
+And other third-party accounts developed and operated by Phoenix
+When using various individual services on Phoenix Network,
+Agree to accept the service terms and various announcements (hereinafter referred to as "individual terms") issued by Phoenix Network in the form of individual service requirements, in which case the individual terms shall be interpreted and applied together with these service terms. If there is a conflict between a single clause and this service clause of the same kind, the single clause shall prevail within the scope of the single clause.
+2、 Improvement and modification of service agreement
+Fenghuang.com will continue to improve the service quality and modify this service agreement according to the development of the Internet and the changes in relevant laws and regulations of the People's Republic of China. The expression of users' rights and obligations shall be subject to the latest service agreement. Due to the large number of users on Phoenix Network, if there are any changes to this agreement, we will notify them through push notifications, send emails, or visit Phoenix's official website
+And corresponding interfaces for other products
+The method of issuing announcements to notify
+The revised agreement will be notified or posted on the website
+And other products
+The prescribed effective date shall apply. if
+Continuing to use Phoenix's services after the revision of this policy means
+I have fully read, understood, and accepted the revised agreement and am willing to be bound by it.
+3、 Rights and obligations after registration
+We can use the services provided by Phoenix Network normally, but we need to comply with relevant regulatory requirements
+Real name system management. Phoenix Network
+It may be necessary
+Submit personal data such as real name, ID card number, permanent address, contact information, etc,
+Ensure that the submitted information is true and valid, and pay attention to timely updating and modifying the registered personal information. Otherwise, Phoenix Network has the right to reject their application or revoke it
+Qualification, stop providing relevant services to them.
+Fenghuang has the right to require it to provide personal information such as name, ID card number, permanent address and contact information before using the services provided by Fenghuang, such as
+If the service is refused within a reasonable period of time, Phoenix Network has the right to refuse to provide the relevant service or revoke it
+Qualifications are limited to the username used during registration and cannot be transferred to other usernames or borrowed from other users. Otherwise, the consequences arising from this will be borne by the registered user.
+Waiting for laws, regulations, and national policies, etc
+Compliance with relevant requirements
+According to relevant regulations, it is not allowed to use software, hire commercial organizations and personnel to disseminate information, interfere with the normal order of commenting, mislead public opinion, publish or disseminate content that infringes on the personal or intellectual property rights of third parties, such as reputation rights, portrait rights, name rights, trademark rights, copyright, patent rights, and other national laws and regulations, public order and good customs that prohibit or restrict the dissemination of the following content
+（1） Opposing the fundamental principles established by the Constitution; （2） Endangering national security
+Disclosing state secrets, subverting state power, and undermining national unity; （3） Damaging national honor and interests; （4） Those who incite ethnic hatred, ethnic discrimination, and undermine ethnic unity; （5） Disrupting national religious policies, promoting cults and feudal superstitions; （6） Spreading rumors while walking, disrupting social order, and disrupting social stability; （7） Spreading feudal superstitions, obscenity, pornography, gambling, violence, murder, terror, or inciting crime; （8） Fraudulent, false, inaccurate, or misleading; （9） Insulting, intimidating, defaming others, or leaking personal information of others, infringing upon their legitimate rights and interests; （10） Infringing on the intellectual property rights of others or involving third-party trade secrets; （11） Distorting, vilifying, desecrating, and denying the deeds and spirit of heroes and martyrs; （12） Insulting, slandering, or otherwise infringing upon the names, portraits, reputations, and honors of heroes and martyrs; （13） Containing other content prohibited by laws and administrative regulations.
+In case of violation of the above terms, Phoenix Network shall have the right to: (1) immediately stop transmitting the information, refuse to publish or directly delete the relevant content; (2) Raise a warning; (3) Restricting the use of features and pausing updates; （4
+）Banned or closed
+account number; (5) Save relevant records and report to the competent department in a timely manner; (6) For users listed on the blacklist, Phoenix Network has the right to prohibit them from re registering. As a result
+Any infringement dispute or administrative penalty arising from violation of the above terms,
+Should be responsible for handling and assuming full legal responsibility, such as causing losses to Phoenix Network Operation Company and its affiliated enterprises,
+4、 Account and password management for registered users
+4.1 Registered users must properly keep their usernames and passwords. Any responsibility and losses caused by password theft or leakage will be borne by the registered user themselves.
+4.2 When a registered user forgets their password or their password is stolen, they must provide completely correct registration information to Phoenix Net. Otherwise, Phoenix Net has the right to refuse to disclose it in accordance with the principle of confidentiality for registered users.
+4.3 The username and password of registered users can only be used by the registered user themselves and cannot be transferred or authorized to others in any form. If it is found that the same account and password are logged in and used by multiple people at the same time, Phoenix Network has the right to cancel the registered user qualification of this account.
+4.4 The registered user's username, avatar, profile, and other account information shall not contain any text or images that infringe on third-party reputation rights, portrait rights, name rights, trademark rights, copyright, patent rights, or other personal or intellectual property rights, as well as other national laws and regulations, public order and good customs that prohibit or restrict dissemination.
+5、 Disclaimer Clause 5.1: Registered users shall be solely responsible for any personal information leakage, loss, or adverse consequences resulting from personal reasons such as disclosing their personal password to others or sharing their registered account with others when using the services provided by Phoenix Net.
+Should bear full compensation responsibility.
+The username and password must be properly kept, and any responsibility or loss caused by password theft or leakage will be borne by
+I bear the responsibility.
+When searching for a password on Phoenix website due to forgotten or stolen passwords, it is necessary to provide completely correct registration information. Otherwise, Phoenix website has the right to comply with the regulations
+The principle of confidentiality shall not be disclosed.
+The username and password can only be used for
+I am not allowed to transfer or authorize others to use it in any form. If I find that the same account and password have been logged in and used by multiple people at the same time, Phoenix Network has the right to cancel this account
+User names, avatars, introductions, and other account information must not contain any text or images that infringe on third-party reputation rights, portrait rights, name rights, trademark rights, copyright, patent rights, or other personal or intellectual property rights, as well as other national laws and regulations, public order and good customs that prohibit or restrict dissemination.
+When using the services provided by Phoenix Network, due to
+Personal information leakage, loss, and adverse consequences resulting from disclosing personal passwords to others or sharing registered accounts with others due to personal reasons will be the responsibility of
+Personal responsibility.
+I am responsible for my own behavior and actions when using the services provided by Phoenix Network. As a result
+Any infringement disputes or administrative penalties arising from such behavior,
+Should be responsible for handling and assuming all legal liabilities, such as causing losses to Beijing Tianying Jiuzhou Network Technology Co., Ltd. and its affiliated enterprises, the operator of Phoenix Network,
+Understand and agree that when using the services provided by Phoenix Network, one must bear the responsibility for force majeure factors such as administrative/judicial orders, natural disasters, strikes, riots, wars, government actions, etc; Due to third-party factors such as power supply or communication network failures in public services; Service interruptions caused by unforeseeable and uncontrollable factors such as emergency equipment and system maintenance, network information and data security, etc
+Loss of personal data and information.
+Disclosure with consent
+The right, but the guarantee will not be affected
+Due to unforeseen and uncontrollable factors, Phoenix Network is unable to continue providing services. Phoenix Network will
+Strive to be timely through various means
+Phoenix Network has the right to cancel any violation of this service agreement
+Qualification and termination of continuing to provide services to them.
+7、 Intellectual Property
+It is not allowed to copy, adapt, or create derivative products related to these contents without authorization.
+7.2 The intellectual property rights of any content (including but not limited to text, images, messages, comments, and notes) uploaded by registered users to publicly accessible areas on Phoenix's various platforms through Phoenix's services belong to the registered users or original rights holders. Registered users agree to use, copy, modify, adapt, publish, translate the above content (in whole or in part) on Phoenix Network and create derivative works based on it, incorporating the above content into any other form of work or product currently known or developed in the future. The registered user agrees to seek legal protection from Phoenix Network in the name of Phoenix Network for the infringement of the above-mentioned content (including but not limited to unauthorized copying, use, editing, plagiarism, re publishing of the registered user's content on the Phoenix Network platform on third-party platforms, etc.), including but not limited to necessary measures such as complaints and lawsuits.
+8、 Application of Law and Dispute Resolution
+8.1 The establishment, effectiveness, performance, interpretation, and dispute resolution of this agreement shall be governed by the laws of mainland China.
+8.2 In case of any dispute arising from the interpretation or execution of this Agreement, both the registered user and the registered user of Phoenix Network agree that if no agreement can be reached through negotiation, either party may submit the dispute to the North
+The Beijing Arbitration Commission shall resolve the dispute through arbitration in accordance with its then effective arbitration rules. The place of arbitration shall be Beijing, and the language of arbitration shall be Chinese. The arbitration award is final and legally binding on all parties. If there is a conflict between a single clause and this service clause in terms of jurisdiction agreement, the single clause shall prevail within the scope of the single clause.
+9、 Other
+And its affiliated companies
+9.2 If any provision of this Agreement is deemed invalid or unenforceable, such provision may be severed and the remaining parts shall remain legally binding.
+9.3 The headings in this clause are for convenience only and shall not serve as a basis for interpreting this clause.
+9.4 Please read the above terms carefully and agree after reading. Please press the "I accept" button or a button with the same meaning.

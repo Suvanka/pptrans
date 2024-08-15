@@ -1,0 +1,184 @@
+Thank you for choosing to use the WPS Office software and online services (hereinafter referred to as "this service") developed and operated by Zhuhai Jinshan Office Software Co., Ltd. and/or its affiliated companies (hereinafter referred to as "us").
+Special Reminder:
+Important terms in this policy that may be closely related to your rights and interests have been highlighted in bold font. Please review them carefully.
+contact us
+To effectively protect your personal information, we have established a dedicated personal information protection team and responsible person. If you have any questions, opinions or suggestions about this policy or personal information protection, you can contact us through the following methods, and we will accept and process them within fifteen working days:
+Address: Personal Information Protection Office, Building 5, Jinshan Software Park, No. 321 Qiandao Ring Road, Tangjiawan Town, High tech Zone, Zhuhai City, Guangdong Province (Address)
+Postal Code: 519080
+Email: wps@wps.cn
+Phone: 400-677-5005
+Our general principles for handling personal information
+Please understand that we will process the personal information you voluntarily provide or generate as a result of using the services listed in this privacy policy. In handling your personal information, we are committed to maintaining your trust in us and adhering to the principles of consistency of rights and responsibilities, clear purpose, selective consent, minimum sufficiency, security assurance, subject participation, and transparency to protect your personal information.
+Definition and Scope of Application of this Policy
+Personal information: refers to various information related to identified or identifiable natural persons recorded in electronic or other ways, excluding anonymized information.
+Personal sensitive information: refers to personal information that, if leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. We will remind you in bold to read specific personal sensitive information in this policy.
+Personal information deletion: refers to the act of removing personal information from systems involved in daily business functions, so that it remains unretrievable and inaccessible.
+Personal information anonymization: The process of using technology to process personal information so that it cannot be identified and the processed information cannot be recovered.
+Scope of application of this policy:
+WPS Office Personal Client (including clients running on Windows, Mac, Android, iOS, Linux operating systems);
+Integrate Kingsoft Forms, Kingsoft Calendar, and Kingsoft To Do in the form of plugins (including but not limited to software development kit SDKs, API interfaces, etc.) into the WPS Office Personal Edition client and Kingsoft Document client (clients running on Windows, Mac, Android, iOS operating systems);
+WPS Office WeChat/QQ/Alipay applet, WPS member WeChat/QQ/Alipay applet, rice husk WeChat/QQ/Alipay applet, Kingsoft form WeChat/QQ applet, Kingsoft calendar WeChat applet, Kingsoft to do WeChat applet, document assistant and other applets that require authorization to log in to Kingsoft Office online service account;
+Log in and use online services such as Rice Husk and WPS membership through the Kingsoft Office online service account.
+How do we collect and use your personal information
+According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, in principle, WPS Office belongs to the utility type, and its basic functions are "document processing and other tool services". The basic function services can be used without personal information; At the same time, WPS Office can also serve as an Internet office cloud service platform. When you need more functional services, we will explain to you through this privacy policy, and will only process your personal information with your consent. Please be informed that if you refuse this privacy policy, we will not be able to provide you with complete WPS Office services, but you can still use basic functional services.
+For the detailed list of personal information we collect, you can refer to the "Personal Information Collection List" (specific viewing path: WPS Office mobile client [Me Settings Personal Information Collection List]).
+Please rest assured that based on the necessary application permissions required to provide services to you, the application permissions will not be enabled by default. We will only obtain your consent again through a pop-up window when you use the corresponding business functions. Even if you authorize the opening of the corresponding application permissions, you can still turn them off at any time through device settings without affecting your normal use of other non related business functions. For the application permission details we have collected, you can view the "Application Permission List" (specific viewing path: WPS Office mobile client [Me Settings Application Permission List]).
+Help you become our user and manage your account
+Register and Login
+In order to provide you with the service of registering as our user, that is, creating a Kingsoft Office online service account and using it to log in and use this service, we offer multiple registration and login channels for you to choose from:
+When you choose to register using your mobile phone number or email address, you need to provide us with your mobile phone number and email address. We use this information to send verification code information for you to submit to verify if your identity is valid.
+Based on our cooperation with communication operators, when you use the one click login function, with your consent, the operator will send us your phone number so that we can provide you with quick login services.
+When you choose to use third-party accounts (including but not limited to WeChat, QQ, DingTalk, Weibo, depending on your actual choice) to log in to this service more conveniently, we will indirectly access and collect your authorized personal information (including but not limited to nickname, avatar, gender, region) and bind your third-party account with your Kingsoft Office online service account. If you refuse to provide information under a third-party account, you will not be able to choose to log in to this service using the third-party account.
+Please be aware and understand that we collect mobile phone numbers
+It is to meet the requirements of relevant laws and regulations for online real name registration. If you do not provide such information, you may not be able to use the services that require real name registration before use.
+Help you retrieve your account
+Real name, ID number, mobile phone number and photo of holding ID card
+Provide you with online services
+Proactive upload (including cloud synchronization of documents manually uploaded and/or initiated by you, the same below)
+Documents, document information (including document type, size, page count, modification time, document permissions, storage location)
+online service
+When you use our current online preview, editing, multi person online collaborative editing, document sharing, document saving to the cloud, and other functions that need to be implemented in the cloud, as well as when launching cloud based services in the future, you need to actively upload relevant document materials to the cloud after logging in to your account while connected to the internet. We will collect the documents and document information (including document type, size, page number, modification time, document permissions, and storage location) that you upload to the cloud based on the necessity of providing you with the aforementioned cloud services. Please rest assured that the document content data you actively upload to the cloud during the use of online services will only be processed for the purpose of providing relevant services to you and will not be used for any scenarios or purposes unrelated to the service.
+When you use functions such as online preview, selecting local files to import documents, and exporting online documents as local files, in order to help you achieve this function, we will, with your explicit consent, access your storage permissions and collect multimedia files that you actively upload, including but not limited to images, files, and audio and video. This permission is a sensitive permission, and if you refuse to provide it, it will only affect your inability to use the above functions, but will not affect your normal use of other functions that do not require storage permissions.
+When you use functions such as "scan" and "photo scan", in order to help you achieve this function, we will access your camera permission after obtaining your explicit consent. This permission is a sensitive permission. If you refuse to provide it, it will only affect your inability to use the aforementioned functions, but will not affect your normal use of other functions that do not require camera permission.
+When you use online document collaboration, in order to make all parties involved in the collaborative editing aware of the edited and modified information, we will display your avatar, nickname, and modification traces, and allow all parties to view the historical versions of the document. In addition, you can set document permissions according to your needs (including but not limited to reading, editing, and time limit permissions).
+Jinshan Conference Services
+Camera and microphone permissions
+This permission belongs to sensitive permissions
+Camera, microphone
+Jinshan Calendar Service
+When you use the Kingsoft Calendar feature, you can independently add schedules, event notifications, accept or send meeting invitations, subscribe to third-party provided schedule information, and set permissions for your own calendar schedule.
+Kingsoft Forms Service
+Fill out the form
+Personal information (including but not limited to: name, ID card number, mobile phone number, address, WeChat, QQ number, bank account, Alipay account, geographical location, which shall be subject to your actual filling)
+Statistical Form
+We will assist you in compiling the forms that have been published by you, filled out and submitted by the form respondents. As the initiator of the form, you are the collector and controller of the data filled in. Please be aware that the data collected by you may contain personal information of the form respondent and other subjects. Please be sure to fulfill your corresponding security obligations for the personal information that may be involved in the form.
+You have the right to use and control the collected form data. We only provide technical services for the collection, storage, and statistics of form data for you to access, analyze, and use. Without your consent and that of the personal information subject related to the form data, we will not process your form data beyond the provisions of laws and regulations and the authorized scope of this policy.
+Copy and Share
+Cutting board permission
+Official account articles are transferred to cloud documents
+When you use the official account article transfer cloud document service, we will collect your account information and WeChat official account article links to identify your user identity, and save the successfully transferred cloud document to your account.
+Order and Payment
+Ordering and Order Management
+Transaction product/service information, order number, order time, order amount, your remarks information, relevant invoice information of the invoice (invoice type, invoice header, tax number, registered address, registered phone number, bank account, invoice content, invoice amount, invoice remarks, invoice receiving phone number or email address).
+Please be aware and understand that we collect this information to assist you in smoothly completing the purchase of goods/services, receiving and querying order information, and providing customer service (including but not limited to after-sales service). At the same time, in order to facilitate your understanding, querying, and management of order information, we will use the collected order information generated during your use of our services to display to you.
+payment
+Transaction amount, order time, order merchant, order number, payment method, payment account, payment status information
+Device information (including carrier information (MCC, MNC), device identifiers (Android ID, OAID), device model, device type, system version, screen resolution, screen size)
+Improve our products or services
+To ensure your normal use of products/services within the scope of this privacy policy, and to understand your usage and adaptation of the aforementioned products/services, as well as to provide data support for the development of new products/services and the improvement of existing functions/services, we will use your software information (including version number, language type, channel number, channel type), device information (including operator information (MCC, MNC), device identifiers (Android ID, OAID) Perform data analysis on device model, device type, system version, screen resolution, screen size, device connection information (including browser type, operator type, network type), account information, network location information (obtained through IP address, operator information, base station information, nearby WIFI, and connected WIFI, and only collected to the country/province/city), operational behavior data (including running app process information, document upload frequency, and usage duration), and with your authorization and consent, analyze the data
+Please provide your personal information and link it with the personal information collected from other products/services developed and operated by us, in order to facilitate unified services (such as a unified account login service) in different scenarios where you use our products.
+To provide you with security protection
+To improve the security of your use of our services, protect the personal and property safety of you, other users or the public from infringement, better prevent security risks such as phishing websites, fraud, network vulnerabilities, computer viruses, network attacks, network intrusions, etc., and more accurately identify violations of laws and regulations or our relevant agreement rules, we will separately use or integrate your account information, device information (including operator information (MCC, MNC), device identifiers (Android ID, OAID) We will comprehensively assess the risks of your account, verify your identity, detect and prevent security incidents based on device model, device type, system version, screen resolution, screen size, network logs, as well as your frequency of use of this service, crash data, and channel distribution information. We will take necessary recording, auditing, analysis, and disposal measures in accordance with the law. At the same time, we will comprehensively analyze user account activity anomalies, multi terminal login, traffic anomalies, etc. to protect your account security.
+Customer service and after-sales service
+Network location information (approximate geographic location information obtained through IP address, operator information, base station information, nearby WIFI, connected WIFI, and only collected to country/province/city)
+We will use or integrate your account information, device information (including carrier information (MCC, MNC), device identifiers (Android ID, OAID), device model, device type, system version, screen resolution, screen size), network logs, as well as your frequency of use of this service, crash data, and channel distribution information, to comprehensively assess your account risks, conduct identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law,
+Other uses
+Message push
+When you use this service, we will use your device information (Android ID), account information, and behavior data of using this service to push different types of messages related to the service to you through methods including but not limited to pop ups, notifications, internal messages, push messages, etc., to help you stay informed of the messages and make corresponding decisions.
+Service recommendation
+For the purpose of providing you with recommendation services (including general and personalized recommendations), we will use your software information (including application package name, version number, channel number), account information, device information (Android ID, device manufacturer, device name, device model number, operating system version, screen information, sensor information), and behavior data of using this service to display or push relevant services to you. Among them, general recommendations are universal and indiscriminate service recommendations aimed at users, and will not use your personal characteristic information; You can choose whether to turn on or off personalized recommendation services (including intelligent recommendations and content personalized recommendations that show or recommend higher relevance to you rather than universal recommendations).
+Please be informed that the entrance to our personalized recommendation service will be closed by default. You can open it yourself through the WPS Office mobile client [Me Settings Service Recommendation Settings]. After opening it, you can also close it through the WPS Office mobile client [Me Settings Service Recommendation Settings]. After closing it, we will no longer provide you with service recommendations and will not affect your normal use of our other services.
+Purchase this service through third-party channels
+When you purchase this service from our distributors or agents, we will obtain your order information from such third-party channels, including your name/nickname and specific content information of the service purchased using your account information.
+Participate in activities
+When you participate in our irregularly launched activities, including but not limited to lucky draws, giveaways, welfare claims, competitions, promotions, and the use of points to redeem goods, when we need to distribute relevant prizes, gifts, or goods to you, we will use the shipping information provided by you or your designated recipient (recipient name, shipping phone number (including mobile phone number), shipping address).
+We will anonymize the personal information we collect from you through technological means.
+Exceptions to obtaining authorization and consent
+You are fully aware that in the following situations, we do not require your authorization or consent to process your personal information:
+Related to fulfilling obligations stipulated by laws and regulations;
+Directly related to national security and defense security;
+Directly related to public safety, public health, and major public interests;
+Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain your consent;
+The personal information involved is disclosed by you to the public on your own;
+Necessary to sign and fulfill the contract according to your requirements;
+Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+Necessary for maintaining the safe and stable operation of the provided products or services, such as discovering and handling product or service failures;
+Other circumstances stipulated by laws and administrative regulations.
+How do we use cookies and similar technologies
+Cookie
+To ensure the normal operation of this service, we will use relevant technologies to store small data files called cookies on your device. Cookies typically contain identifiers, site names, as well as some numbers and characters. We may set authentication and security cookies to confirm whether you have safely logged into the service or encountered theft, fraud, and other illegal activities. These technologies will also help us improve service efficiency, enhance login and response speed. Using cookies can also help you save the steps and processes of repeatedly filling in personal information and entering search content. We will not use cookies for any purposes other than those stated in this policy.
+Do Not Track
+You can manage or delete cookies according to your preferences. You can clear all cookies saved on your device
+Multiple web browsers are equipped with a Do Not Track function, which can issue Do Not Track requests to websites. At present, the major Internet standards organizations have not established relevant policies to specify how websites should respond to such requests. But if your browser has enabled Do Not Track, then all of our websites will respect your choice.
+How do we share, transfer, and publicly disclose your personal information
+share
+We share your personal information while adhering to the principles of legality, minimum necessity, and clear purpose. At the same time, we will conduct a personal information protection impact assessment on the sharing activities of personal information in advance, and take effective technical protection measures for output forms, circulation, and use. At the level of cooperation agreement, it is strictly required that partners fulfill their obligations and responsibilities to protect your personal information, and sign a data security protection agreement before cooperating with business partners.
+For your convenience in reading, we have developed a "Third Party Information Sharing List" to provide you with a clear and concise introduction to our main software development kits (SDKs) related to sharing and accessing your personal information.
+transfer the possession of
+In principle, we will not transfer your personal information, except in the following circumstances:
+Based on your transfer request and in compliance with relevant laws, regulations, and regulatory requirements;
+When we need to transfer your personal information due to company merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name and contact information in advance and obtain your explicit consent. We will require new recipients who hold your personal information to continue to be bound by this policy. If the recipient changes the original processing purpose and method, we will require the recipient to seek your consent again.
+Public disclosure
+We will not publicly disclose any personal information that you have not voluntarily disclosed or that has not been lawfully disclosed, unless such disclosure is made in compliance with legal regulations or with your separate consent, and we will fully evaluate and adopt security protection measures that comply with industry standards before publicly disclosing your personal information.
+How do we protect and preserve your personal information
+Technical protection
+We will strictly comply with relevant laws and regulations within China (excluding Hong Kong, Macao, and Taiwan) regarding the processing of personal information, take strict security measures to protect your personal information, and prevent unauthorized access, public disclosure, use, modification, damage, or loss of your personal information.
+The security measures we have taken are as follows:
+When you send or receive information to our servers, we ensure that it is encrypted using Transport Layer Security protocols (TLS, WSS) and other appropriate encryption algorithms.
+Your personal information is stored on secure servers and protected in controlled facilities. We classify your information based on importance and sensitivity, and ensure that your personal information has the corresponding security level. Similarly, we have dedicated access control measures for cloud based data storage, and we regularly review information collection, storage, and processing practices, including physical security measures, to prevent any unauthorized access and use.
+We will conduct due diligence on third-party partners to ensure that they have the ability to protect your personal information. We will also implement appropriate contract restrictions and conduct audits and evaluations as necessary to check whether third parties have adopted appropriate security standards. In addition, employees and third-party partners who access your personal information comply with strict contractual confidentiality obligations.
+We will conduct training and exams on information security and privacy protection to enhance employees' awareness of the importance of protecting personal information.
+We will revise and improve the above measures and management methods from time to time to enhance overall security.
+Security system assurance
+We have established a data security management system around the data lifecycle, which enhances the security of our service from multiple dimensions such as organizational construction, system design, personnel management, product technology, and personal information security impact assessment. At present, we have passed the Level 3 certification for information security protection, ISO/IEC 27001:2013 certification for information security management system, and ISO/IEC 27701:2019 certification for privacy information management system.
+Information security incident handling
+When we become aware of a security incident involving personal information leakage, illegal provision, or abuse, we will promptly inform you in accordance with legal and regulatory requirements of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, suggestions for you to independently prevent and reduce risks, and remedial measures for you. We will inform you of the relevant situation of the event through push notifications. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements. At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements.
+How do we store your personal information
+Storage location
+Store your personal information collected and generated during the operation in China within the territory of China
+Storage period
+We will take reasonable and feasible measures to avoid collecting irrelevant personal information. We will only retain your personal information for the shortest period necessary to achieve the purposes stated in this policy, unless you agree to extend the retention period or are permitted by law. After exceeding the retention period, we will delete your personal information or take technical measures to anonymize it, except as otherwise provided by laws and regulations.
+Your rights
+We attach great importance to your management of personal information and make every effort to ensure the exercise of your rights to access, copy, correct, supplement, delete, and withdraw consent to personal information.
+Change or revoke the scope of authorization
+You can change or withdraw the scope of your authorization for us to process your personal information through the following methods:
+Withdrawal of consent
+You may withdraw your consent to this privacy policy through the following methods:
+WPS Office mobile client [I - Settings - Privacy Policy and Legal Terms - Withdraw Consent to Privacy Policy].
+When you withdraw your consent to this privacy policy, we will cease to collect your personal information and delete the personal information we have collected as a result of your use of this service in accordance with relevant laws and regulations (except for other laws and regulations that provide for the retention period of personal information)
+Please understand that revoking your consent may result in you being unable to use this service, and your decision to revoke your consent will not affect our previous personal information processing activities based on your consent.
+System permission settings
+You can disable relevant permissions, change the scope of consent, or withdraw your consent in the operating system settings of the device itself. After withdrawing consent, we will no longer collect information related to that permission.
+You can manage the system permission authorization for our product in the WPS Office mobile client under "Me Settings System Permission Settings".
+Service recommendation management
+You can choose your own recommendation services, including:
+In the WPS Office mobile client, select "Me Settings Service Recommendation Settings Enable Intelligent Recommendation" and choose to enable or disable it independently;
+In the WPS Office mobile client, select "Me Settings Service Recommendation Settings Rice Husk Content Personalized Recommendation" and choose to turn it on or off independently.
+Your personal information rights
+Query and correct your personal information
+You can query and correct your personal information through the following channels:
+Web version (URL:) https://account.wps.cn ）Personal Information Inquiry and Export;
+WPS Office mobile client [Me - Account and Security - Personal Information Query and Export];
+WPS Office PC client [Personal Center - Account Security - Personal Information Query and Export].
+Obtaining a copy of personal information
+You can obtain a copy of your personal information through the following methods, except as otherwise provided by laws and regulations and as stipulated in this policy:
+Obtain online. For example, on the web page（ https://account.wps.cn ）Obtained from [Personal Information Query and Export], WPS Office mobile client [Me Account and Security Personal Information Query and Export], and WPS Office computer client [Personal Center Account Security Personal Information Query and Export];
+Contact us through the methods provided in this policy, and after verifying your identity, we will provide you with a copy of the personal information stored in this service.
+Query and correct your other information
+You can access the web page (URL:) https://kdocs.cn ）View, modify, delete, and share your documents using WPS Office mobile client [Document/Cloud Document] or WPS Office computer client [Document];
+You can access the web page (URL:) https://vip.wps.cn ）Or use the WPS Office mobile client [Me Wallet Order Center] or WPS Office computer client [Personal Center Wallet Order/Invoice] to view your orders or order management;
+You can access the web page (URL:) https://vip.wps.cn ）You can view your membership status, membership benefits, membership expiration dates, or purchase membership through the WPS Office mobile client [Me Members] or WPS Office computer client [Personal Center Members].
+Cancel your account
+You can cancel your account through the following methods and follow the relevant prompts (if any):
+Web version (URL:) https://account.wps.cn ）[Permanently delete account];
+WPS Office mobile client [Me - Account and Security - Permanently Delete Account];
+WPS Office PC client [Personal Center - Account Security - Permanently Delete Account].
+Before your account is cancelled, we will verify your personal identity, security status, device information, and other information. After confirming that there are no public or private documents under your account, that your self created team (if any) has been deleted, and that you are no longer a super administrator of your company (if any), we will assist you in completing the cancellation. You acknowledge and understand that the act of cancelling an account is irreversible. After your account is cancelled, we will delete relevant information about you or anonymize it, except for personal information that is otherwise required by laws and regulations or processed according to your request.
+Complaints, Reports, and Responses
+If you have any opinions or believe that your personal information rights may be infringed, or if you discover clues of infringement of your personal information rights, you can contact us through the contact information published in this policy. We will accept and process it within fifteen working days.
+-Privacy Agreement
+Access Privacy Policy
+You can access it on the web page (URL:) https://privacy.wps.cn/policies/privacy/wps-office ）Or view the entire content of this policy on the WPS Office mobile client under "Me Settings Privacy Policy and Legal Terms Privacy Agreement".
+Please be aware that the relevant functions of this service described in this policy may vary depending on factors such as the device model, system version, software application version, etc. you are using.
+Knowing in advance that the product and/or service will cease operation
+We will continue to provide you with high-quality services. If some or all of our products and/or services are forced to cease operation due to special reasons, we will notify you in a prominent position or send you push messages or in other ways, and will stop collecting your personal information. At the same time, within the necessary and shortest period of time in accordance with laws and regulations, we will delete or anonymize the personal information we hold about you.
+other
+If, according to the relevant legal and effective regulations on the processing of personal information at that time, your close relatives have the right to access, copy, correct, or delete your relevant personal information for their own legal and legitimate interests after your death, we encourage you to make alternative arrangements for your personal information in your will or other inheritance plans.
+Protection of Personal Information of Minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, if you are a minor under the age of 18, please be sure to obtain information from your parents or parents before using this service
+Written consent from the legal guardian. If you are the guardian of a minor and have any questions regarding the collection and processing of personal information of the minor under your guardianship in accordance with this policy, please contact us using the contact information provided in this policy.
+Special reminder: If you are a child under the age of 14, we have specially formulated the "Kingsoft Office Children's Information Protection Statement" for you. Before completing the registration and binding of this service, you should also carefully read the "Kingsoft Office Children's Information Protection Statement" with your guardian. Only after obtaining your guardian's consent to the "Kingsoft Office Children's Information Protection Statement" can you use this service.
+How to update this policy
+In order to provide you with better service and as our business develops, the provisions of this policy may be revised from time to time. However, without your explicit consent, we will not reduce the rights you are entitled to under this policy.
+After the update of this policy, we will display the updated policy to you in the form of push notifications and pop ups when you log in and update the version, so that you can timely understand the latest version of this policy.

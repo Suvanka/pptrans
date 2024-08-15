@@ -1,0 +1,693 @@
+Version update date:
+Version effective date:
+introduction
+This privacy policy only applies to Gome Zhenhappy E-commerce Co., Ltd. and its affiliated companies (hereinafter referred to as
+）The products and services provided, as well as their extended functionalities, including the computer version of the website
+Client, Mini Program, Mobile Client（
+）And other clients. We attach great importance to your privacy and personal information protection. You are using
+When providing platform services, we may collect and use your relevant information. We hope to achieve this through《
+Platform Privacy Policy "(hereinafter referred to as
+This Privacy Policy
+）Let me explain to you that we are using
+How to collect, use, store, share, and transfer this information when providing platform services, as well as the ways we provide you with access, update, delete, and protect this information.
+If you have any questions, opinions, or suggestions, please contact us through the following contact information:
+E-mail:
+Phone: 4008113333
+This privacy policy will help you understand the following:
+How do we collect and use your information
+How do we use it
+3. How do we share, transfer, and publicly disclose your personal information
+4. How do we protect and preserve the security of your personal information
+5. Your rights
+6. How do we handle the personal information of minors
+7. How can your personal information be transferred globally
+8. How to update this privacy policy
+9. How to contact us
+This privacy policy is closely related to the Gome platform services you use and the various business functions included in the services (hereinafter referred to as "Gome platform services"). We hope that you carefully read and confirm that you have fully understood the content of this privacy policy before using Gome platform services, and ensure that you can make the appropriate choices according to the guidance of this privacy policy. We will try to express the relevant terms in this privacy policy in a concise and clear manner, and provide links for further explanation to help you better understand. By using or continuing to use Gome platform services after we update this privacy policy (which we will promptly notify you of), you agree to the content of this privacy policy (including updated versions) and consent to us collecting, using, storing, and sharing your relevant information in accordance with this privacy policy.
+1、 How do we collect and use your information
+Personal information refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. The personal information covered in this privacy policy includes: basic information (including personal name, date of birth, gender, address, personal phone number, email); Personal identification information (including ID card, military officer certificate, passport, driver's license, etc.); Facial features; Network identity identification information (including system account, IP address, email address, and related passwords, passwords, and password protected answers); Personal property information (transaction and consumption records, balance in US dollars, coupons); mail list; Personal internet browsing history (including website browsing history, software usage history, click history); Personal commonly used device information (including hardware model, device MAC address, application process list, commonly used software list, operating system type, software list unique device identification code (such as IMEI/Android ID/IDA/OPENUDID/UUID, SIM card IMSI information, etc.) that describes the basic information of personal commonly used devices; Personal location information (including itinerary information, accurate positioning information, accommodation information, latitude and longitude, etc.);
+Personal sensitive information refers to personal information that, if leaked, illegally provided, or abused, may endanger personal and property safety, and is highly likely to cause damage to personal reputation, physical and mental health, or discriminatory treatment. The personal sensitive information referred to in this privacy policy includes: your property information (transaction and consumption records, US dollar balances, coupons, and other virtual property information); Facial recognition features; Personal identification information (including ID card, military officer certificate, passport, driver's license, household registration book); Network identity recognition information (including account name, account nickname, email address, and related passwords and password protection questions and answers); marital status; Other information (including contact list, personal phone number, mobile phone number, itinerary information, web browsing history, accommodation information, precise location information, and identifiable audio/video information).
+The above personal information and personal sensitive information contain content from GB/T35273-2020 "Personal Information Security Specification", which is consistent with the content in Appendix A (informative appendix) - Personal Information Examples - Table A.1 Personal Information Examples and Appendix B (informative appendix) - Personal Sensitive Information Determination - Table B.1 Personal Sensitive Information Examples, respectively.
+We will collect and use your personal information for the following purposes as described in this privacy policy:
+（1） You need to authorize us to collect and use your personal information
+1. The necessary functions to achieve consumption
+(1) Help you become our member
+To become our member and provide you with membership services, you need to provide your phone number, email address, and create a membership name and password. Mobile phone numbers are sensitive information, and collecting such information is to meet the requirements of relevant laws and regulations for network real name registration. If you do not provide this type of information, you may not be able to use our services properly. If you only need to use basic services such as browsing and searching, you do not need to register as our member and provide the above information.
+In the process of registering as a member, if you provide the following additional information to complete your personal information, it will help us provide you with more personalized membership services such as member birthday privileges: your real name, gender, date of birth, place of residence, your real avatar, nickname. But if you do not provide this information, it will affect your use of personalized membership services, but it will not affect the basic browsing, searching, and purchasing functions of using Gome platform services.
+When you voluntarily cancel your account, we will promptly anonymize or delete your personal information in accordance with applicable laws and regulations.
+(2) To display, search, and push products or services to you
+To improve the service of Gome platform and provide you with personalized information search and trading services, we will use your browsing and search records, device information, etc（
+Including device name, device model, device identification code, operating system and application version, language settings, resolution, service provider network ID (PLMN), browser type, location information, order information, extract your browsing, search preferences, behavior habits, location information and other features, based on feature tags for indirect crowd profiling and display, push information.
+You can accurately find the products or services you need through search. We will retain your search content for your convenience in repeatedly entering or displaying products or services associated with your search content. Please note that your search keyword information cannot individually identify your identity and does not belong to your personal information. We have the right to use it for any purpose; Only when your search keyword information is combined with your other information and can identify your identity, during the combined use period, we will treat your search keyword information as your personal information and process and protect it together with your search history in accordance with this privacy policy. If you want to manage the personalized content we recommend to you, you can set it up in "My Settings Privacy Settings Recommendation Management".
+If you do not want to accept the commercial advertisements we send you, you can cancel them at any time through the corresponding product unsubscribe function.
+(3) Provide you with goods/services
+a、 place an order
+When you are ready to settle the goods or services purchased in your shopping cart or offline, the Gome platform will generate an order for you to purchase the goods or services. You need to provide the recipient's name, shipping address, postal code, and contact phone number. If we entrust a third party to deliver to you, you agree that the affiliates of Gome platform or third parties cooperating with Gome platform will use your order information to ensure the safe delivery of the goods you ordered. If you refuse to provide such information, we will not be able to complete the relevant delivery services.
+When you use the Meixin service, the information you upload in your Moments, such as photos, comments, likes, etc., the address book information you read, and the geographic location information you obtain during use will be stored on our servers because storage is necessary to achieve this function. We will store this information in an encrypted manner, and you can delete it at any time. When you use official account, applet and other functions, without your permission, we will not disclose your personal information to official account operators and applet developers. When you use functions such as' people near Meixin 'and' shake ', we will record your geographic location information with your consent in order to provide you with this service. When you use the address book function, we will irreversibly encrypt your address book information and only collect the encrypted information. The above information is sensitive information. Refusing to provide this information will only prevent you from using the above functions, but it will not affect your normal use of other functions of Meixin. In addition, you can turn off the relevant functions at any time and clear your geographical location information within the function.
+You can order goods/services for others through the Gome platform, and you need to provide the aforementioned personal information of the actual purchaser. Before providing the aforementioned personal information of the actual purchaser to the Gome platform, you need to ensure that you have obtained their authorized consent.
+b、 The information we collect during your use of the service
+To provide you with page displays and search results that better meet your needs, understand product compatibility, and identify abnormal account status, we will collect information about the services you use and how you use them, and associate this information, including:
+Device information: We will receive and record device related information (such as device model, operating system version, device settings, unique device identifier, and other software and hardware feature information) and device location related information (such as IP address, GPS location, and sensor information such as Wi Fi access points, Bluetooth, and base stations that can provide relevant information) based on the specific permissions granted by you during software installation and use. Please be aware that the Gome app may collect your device information while running or in silent mode.
+Log information: When you use the Gome platform services provided by our website or client, we will automatically collect detailed usage information of our services as relevant network logs for storage. For example, your search query content, IP address, browser type, telecom operator, language used, visit date and time, and records of the web pages you visited.
+Please note that individual device information, log information, etc. are information that cannot identify the identity of a specific natural person. If we combine this type of non personal information with other information to identify the identity of a specific natural person, or use it in conjunction with personal information, during the period of combined use, this type of non personal information will be considered personal information. Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify this type of personal information.
+To display the order information of your account, we will collect the order information generated during your use of our services to show you and facilitate your order management.
+When you contact us, we may save your communication/call records and content, or the contact information you left behind, in order to contact you or help you solve problems, or record the solutions and results of related issues.
+c、 We collect your personal information through indirect means
+To confirm the transaction status and provide you with customer service, after-sales, payment and other services, we will collect your transaction, payment, logistics information related to the transaction progress through the trading partner, payment institution, logistics company, etc. selected by you based on the exchange, or share your transaction information with the above service providers. For example, in order to complete the transaction, you can choose the payment services provided by Gome's related parties or third-party payment institutions cooperating with Gome (including WeChat payment, Alipay, UnionPay, NetPay and other payment channels, hereinafter referred to as "payment institutions"). The payment function itself does not collect your personal information, but we need to share your transaction information with these payment institutions to enable them to confirm your payment instructions and complete the payment.
+When you enjoy the above services through the Gome platform, you authorize us to receive, summarize, and analyze from our affiliated companies based on actual business and cooperation needs. We confirm that their sources are legal, or you authorize and agree to the personal information or transactions they provide to us
+Easy information. If you refuse to provide the above information or refuse authorization, you may not be able to use the corresponding Gome platform services of our affiliated companies, or display relevant information, but it does not affect the use of core services such as browsing and searching on the Gome platform.
+(4) Deliver product or service functionality
+After you place an order and choose cash on delivery or complete payment online, the affiliated parties of Gome platform or third-party delivery companies (hereinafter referred to as "delivery companies") that cooperate with Gome platform will complete the delivery of your order. You acknowledge and agree that the affiliates of Gome platform or third-party delivery companies cooperating with Gome platform will use your order information during the above process to ensure the safe delivery of your ordered goods.
+Our delivery personnel will assist you in completing real name authentication based on certain business legal requirements, such as when you purchase a mobile phone number card, while providing you with delivery services. At this stage, we will use your ID card to verify your identity through proprietary equipment of a nationally authorized certification agency. We have not collected any information from your ID card, and our delivery personnel must comply with the company's confidentiality regulations.
+(5) Customer service and after-sales functions
+Our telephone customer service and after-sales functions will use your account information and order information.
+To ensure the security of your account, our call center customer service and online customer service will use your account information to verify your identity. When you need us to provide pre-sales consultation or customer service and after-sales service related to your order information, we will check your visit records or order information. You may provide additional information beyond the above when communicating with our customer service personnel, such as when you request us to change the shipping address, contact person, or phone number.
+3. The necessary functions for optimizing Gome platform services
+We may collect your order information, browsing information, and your interests and hobbies (which you can select in your account settings) for data analysis to form a membership profile, which will be used to display information about products/services that interest you; Or show you the products/services you may want to find when you search. We may also obtain other information from you for the reasonable purpose of providing services and improving service quality, including the relevant information you provide when contacting customer service, the questionnaire response information you send us when participating in surveys, and the relevant information we obtain when interacting with our affiliates and partners. We may associate the information collected from your various devices so that we can provide you with consistent services on these devices. We may combine information from one service with information from other services in order to provide you with services, personalized content, and recommendations.
+4. The necessary functions for live streaming interaction
+When you choose our relevant application for live recording, we need to enable the camera and microphone usage permission of your device to complete the complete live recording and the accompanying functions during the recording process. We will also ask for your consent in the form of a pop-up notification when you first enable the permission; If you refuse to enable camera and microphone permissions, you will not be able to complete live recording. During the live recording process, we will record and save all the dynamic and static images you display and show them to other users. At the same time, in accordance with relevant national laws and regulations, we will monitor your live broadcast in real time to ensure that your live content complies with laws, regulations, and public order and good customs.
+5. The necessary functions for implementing video shopping guide recording
+When you choose to use our video shopping service, we need to collect and store audio information of the conversations between the video shopping service personnel and you, and we need to enable the microphone usage permission on your device, so that we can supervise the service ability of the video shopping service personnel, optimize and improve the service process, witness your shopping process, and may use it as a basis for dispute resolution, thereby ensuring your legitimate rights and interests. We will notify you of the permissions that need to be enabled in the form of a pop-up window every time you use this function and obtain your consent. In order to better enjoy the service, you can also enable the camera permission yourself (automatically disabled by default) to allow us to record video information of the salesperson's video conversation with you.
+If you refuse to enable the relevant permissions, you will not be able to use the video guide recording function, but it will not affect your use of other functions. Please be informed that in order to avoid disputes between both parties over video guidance services, we will record and save the audio/video information generated when you use this feature.
+6. The necessary functions to ensure transaction security
+To improve the security of your system when using Gome platform services, more accurately prevent phishing website fraud, and protect account security, we may determine your account risks by understanding your browsing information, order information, commonly used software information, reading application lists, device information, and other means, and may record some links ("URLs") that we consider to be risky; We will also collect your device information to analyze system issues on the Gome platform, track traffic, and identify potential risks. We will also investigate any abnormal messages you choose to send to us.
+7. To achieve the above business functions, the following information needs to be collected from you:
+Note: Device information includes device name, device model, MAC address and IMEI, device identification code, IMSI, Android ID, OAID, wifi list, base station information, mobile application list and other software and hardware feature information, operating system and application version, language settings, resolution, service provider network ID (PLMN).
+7. We may collect this information during the front-end and back-end runtime of the application to provide consistent services.
+8. Self start or associated start instructions
+After you use our app and exit, in order to avoid not receiving timely important messages such as order notifications, price reduction reminders for subscriptions, logistics messages, etc., after you agree to this privacy agreement, the app may perform self launch or associated launch to promptly deliver important messages to you. If you are using the Android system, you can choose to disable the self boot permission, while the iOS system does not involve the issue of self boot permission.
+（2） You can choose whether to authorize us to collect and use your personal information:
+1. To enable you to consume and obtain information
+More convenient or enjoyable to enhance your online consumption and audio-visual entertainment experience on the Gome platform, our additional features may collect and use your personal information. If you do not provide this personal information, you can still engage in online consumption, access information, and audio-visual entertainment, but you may not be able to use these additional features that can bring you consumption pleasure or need to fill in some information repeatedly when purchasing certain goods/services. These additional features include:
+(1) Personalized recommendation function based on location information: We will collect your location information (we only collect your geographical location at that time, but will not combine your location information from different time periods to determine your whereabouts) to determine your location and automatically recommend products or services that can be purchased in your area. This includes recommending the nearest optional hotels to you, recommending popular, high-quality audio-visual content and live broadcasts that we believe are suitable for you to watch in your area.
+(2) Additional features based on the camera: You can use this additional feature to complete video shooting, photography, QR code scanning, facial recognition, and video shopping calls.
+(3) Additional function based on image upload: You can upload your photos on the Gome platform to achieve the functions of posting and evaluating. We will use the photos you upload to identify the products you need to purchase or use evaluations that include the images you upload.
+(4) Additional features based on voice technology: You can directly use the microphone to consult and interact with our customer service robot. In these functions, we will collect your recorded content to identify your shopping needs and customer service and after-sales needs.
+(5) Additional features based on address book information: We will collect your address book information to facilitate your shopping without manually entering the contact information in your address book (you can directly recharge the phone numbers in your address book); In order to increase your social enjoyment when shopping, watching movies and live broadcasts, with your consent, we can also determine whether your friends are also users of the Gome platform and establish contacts for your communication on the Gome platform.
+(6) Additional features based on calendar permissions: When you use Gome related services, you can set live broadcast reminders by enabling calendar permissions. After enabling this permission, we will provide you with related services by reading and writing into your calendar. If you do not enable this permission, you will not be able to use calendar management related functions, but it will not affect your use of other services.
+(7) Additional functions based on reading/writing external storage: After you grant us the permission to read/write to your device's storage, we will read or write necessary information such as images, files, and log information from your device's storage space to provide you with functions such as information publishing or recording crash log information locally, ensuring the stable operation of the client.
+(8) Extended function based on reading phone status: When you run the Gome APP, we will apply to you for this permission to recognize your local identification code normally, in order to complete security risk control, statistics, and service push.
+(9) Additional features based on clipboard: When you copy activity passwords to share or receive shared information, your clipboard function may be called. The clipboard information will only be processed on your device, and we will not store your clipboard information for any other purposes.
+(10) Additional features based on other device information: In order to provide better products and/or services and improve user experience, we collect device attribute information (including your hardware model, operating system version, device configuration, unique device identifier, international mobile device identity IMEI, network device hardware address MAC, advertising identifier IDFA), device connection information (browser type, telecom operator, language used), and device status information (including device sensor data, device application installation list). We may associate the information collected from your various devices so that we can provide you with consistent services on these devices. We may associate your device information or phone number with your Gome platform account.
+2. The above additional features may require you to enable us to access your geographic location (location information), camera (camcorder), photo album (image library), calendar, phone status, external storage, microphone, contacts, and other device permissions on your device to collect and use the information involved in these features. You can disable the above functions or authorize them by contacting the customer service personnel of Gome platform. Please note that by granting these permissions, you authorize us to collect and use your personal information to achieve the aforementioned functions. By granting these permissions, you cancel them, and we will no longer continue to collect and use your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. Your decision to close permissions will not affect the processing of personal information based on your authorization. In addition, we may require you to enable other access permissions for the device in related business functions. The detailed permissions and usage purposes are as follows:
+Access network permissions
+（android.permission.INTERNET）
+Obtain WiFi status permission (android. permission. ACCESS_SWIFI_STATE)
+Obtain network status permission (android. permission. ACCESS-NETWORKVNet)
+Use vibration permission
+（android.permission.VIBRATE）
+Wake up lock permissions
+（android.permission.WAKE_LOCK）
+Modify sound settings permissions (android. permission. MODIFY1 AUDIO_STTINGS)
+Audio recording permission
+（android.permission.RECORD_AUDIO）
+Obtain location permission (android. permission. ACCESS-FINE_Localization)
+Floating window permission (android.permissio)
+n.SYSTEM_ALERT_WINDOW）
+Obtain task information permission
+（android.permission.GET_TASKS）
+Change WiFi status permissions (android. permission. HANGE_ WIFI State)
+Allow applications to change WiFi status
+Camera permissions
+（android.permission.CAMERA）
+Read phone contact permissions (android. permission. READ_CTACTS)
+Write storage card permissions (android. permission. WRITE. EXERNAL_Storage)
+Location permission (android. permission. ACESS-COARSE_Location)
+Read storage card permission (android. permission. READ.exe TERNAL_STAGE)
+Read calendar permissions (android. permission. READ_CLENDAR)
+Write calendar permission (android. permission. READ_CLENDAR)
+Obtain location permission (android. permission. Localization. HARDWARE)
+Request installation package permission (android. permission. EQUEST-INSTALL-PACKAGES)
+Read phone status (android. permission. READ_SHONE-STATE)
+Write schedule reminder (android. permission. WRITE. CALENDAR)
+Send SMS (android. permission. SEND_SMS)
+Make a phone call (android. permission. PALL_HONE)
+Acceleration sensor (android. permission. BODYSENSORS)
+3. We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. In the use of personal sensitive information, we require third parties to adopt data anonymization and encryption techniques to better protect personal sensitive information. Please refer to this for the SDK directory of our partners and other third parties that we access.
+For your understanding, we will list the relevant business functions that may enable your device access permissions one by one:
+Use camera device permissions to access external storage permissions and write external storage permissions
+Call the phone camera to scan the barcode/QR code or select an image from the album when scanning the code
+Use camera device permissions to access external storage permissions and write external storage permissions
+Use camera device permissions to access external storage permissions and write external storage permissions
+When users share pictures on their Moments within Gome, they need to select pictures from the album or save them locally
+Access external storage permissions and write external storage permissions
+Use camera device permissions to access external storage permissions and write external storage permissions
+Use camera device permissions to access external storage permissions and write external storage permissions
+Record voice information permissions, access external storage permissions, write external storage permissions
+Use camera device permissions to access external storage permissions and write external storage permissions
+Record voice information permissions, access external storage permissions, write external storage permissions
+Access external storage permissions using camera device permissions, write external storage permissions, record voice information permissions
+Access external storage permissions using camera device permissions, write external storage permissions, record voice information permissions
+Meixin
+chat
+Accessing rough status information and precise status information
+Use camera device permissions to access external storage permissions and write external storage permissions
+Generate device tokens when pushing SDKs to Huawei, Xiaomi, Meizu, OPPO, and ViVO
+Use camera device permissions to access external storage permissions and write external storage permissions
+（3） You are fully aware that we do not require your authorization or consent to collect and use personal information in the following situations:
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+(5) The collected personal information is disclosed by the personal information subject to the public on their own;
+(6) Collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+(7) Necessary to sign the contract according to your requirements;
+(8) Necessary for maintaining the safe and stable operation of the provided Gome platform services, such as discovering and handling faults in Gome platform services;
+(9) Necessary for legitimate news reporting;
+(10) Academic research institutions conduct statistical or academic research necessary for the public interest, and when providing results of academic research or descriptions to external parties, they de identify the personal information contained in the results;
+(11) Other circumstances stipulated by laws and regulations.
+（4） The situation where we obtain your personal information from third parties
+We may obtain your authorized shared account information (avatar, nickname) from third parties, and bind your third-party account with your Gome platform account after you agree to this privacy policy, so that you can directly log in and use Gome platform services through your third-party account. We will use your personal information based on agreements with third parties and after confirming the legality of the source of your personal information, in compliance with relevant laws and regulations.
+（5） Rules for the Use of Your Personal Information
+1. We will collect personal information in accordance with the provisions of this privacy policy and in order to achieve the service functions of the Gome platform
+use.
+2. After collecting your personal information, we will use technical means to de identify the data, and the de identified information will not be able to identify the subject. Please understand and agree that we have the right to use the de identified information in this situation; We have the right to analyze and commercially utilize the membership database without disclosing your personal information.
+3. Please note that all personal information you provide when using Gome platform services will continue to be authorized for us to use during your use of Gome platform services, unless you delete or refuse our collection through system settings. When you cancel your account, we will cease to collect, use, and delete your personal information.
+4. We will conduct statistics on the usage of Gome platform services and may share this statistical information with the public or third parties to showcase the overall usage trend of Gome platform services. But these statistical information do not include any of your identification information.
+5. When we display your personal information, we will use methods such as content replacement and anonymous processing to anonymize your information and protect its security.
+6. When we use your personal information for other purposes not specified in this privacy policy, or when we use information collected for specific purposes for other purposes, we will seek your consent in advance.
+Compared to similar technologies
+How do we share, transfer, and publicly disclose your personal information
+How do we protect and preserve the security of your personal information
+Your rights
+How do we handle the personal information of minors
+How can your personal information be transferred globally
+How to update this privacy policy
+How to contact us
+This privacy policy relates to your use of
+Platform services and various business functions included in the service (hereinafter collectively referred to as
+）Closely related, we hope you are using it
+Before providing platform services, carefully read and confirm that you have fully understood the content stated in this privacy policy, and ensure that you can make the appropriate choices according to the guidance of this privacy policy. We will try to express the relevant terms in this privacy policy in a concise and clear manner, and provide links for further explanation to help you better understand. You may continue to use it after we update this privacy policy (we will promptly notify you of the update)
+Platform service means that you agree to this privacy policy
+Including updated versions
+Content, and agree that we collect, use, store, and share your relevant information in accordance with this privacy policy.
+Personal information refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. The personal information covered in this privacy policy includes:
+Basic information (including personal name, date of birth, gender, address, personal phone number, email); Personal identification information (including ID card, military officer certificate, passport, driver's license, etc.); Facial features; Network identity identification information (including system account
+Address, email address, and related passwords, passwords, and password protected answers; Personal property information (transaction and consumption records
+Coin balance, coupons)
+； mail list; Personal internet history（
+Including website browsing history, software usage history, and click history
+）； Personal commonly used device information (including hardware model, device)
+Address, application process list, commonly used software list, operating system type, software list unique device identification code (such as
+Information describing the basic situation of personal commonly used devices, including information; Personal location information (including itinerary information, accurate positioning information, accommodation information, latitude and longitude, etc.);
+Personal sensitive information refers to personal information that, if leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. The personal sensitive information referred to in this privacy policy includes: your property information (transaction and consumption records
+The above personal information and sensitive personal information contain content from
+Personal Information Security Standards, along with its appendices
+(Informative Appendix)
+Example of Personal Information
+Content and Appendix of Personal Information Examples
+Personal sensitive information determination
+Examples of personal sensitive information are consistent.
+To achieve the necessary functions for consumption
+）Help you become our member
+In the process of registering as a member, if you provide the following additional information to complete your personal information, it will help us provide you with more personalized membership services such as member birthday privileges: your real name, gender, date of birth, place of residence, your real avatar, nickname. But if you do not provide this information, it will affect your use of personalized membership services, but it will not affect your use
+The basic browsing, searching, and purchasing functions of platform services.
+）To display, search, and push products or services to you
+We provide platform services and personalized information search and transaction services to you. Based on your browsing and search history, device information (including device name, device model, device identification code, operating system and application version, language settings, resolution, and service provider network), we will
+））Extract your browsing, search preferences, behavior habits, location information, and other features based on browser type, location information, and order information. Use feature tags to create indirect crowd portraits and display/push information.
+You can accurately find the products or services you need through search. We will retain your search content for your convenience in repeatedly entering or displaying products or services associated with your search content.
+）Provide you with products
+When you are ready to settle for the goods or services purchased in your shopping cart or offline,
+The platform will generate an order for you to purchase the product or service, and you need to provide it
+Recipient's name, shipping address, postal code, recipient's contact phone number
+. If we entrust a third party to deliver to you, you agree
+Related parties of the platform or
+The third party cooperating with the platform will use your order information to ensure the safe delivery of the goods you ordered. If you refuse to provide such information, we will not be able to complete the relevant delivery services.
+（1） The use of cookies
+1. To meet your personalized needs for online experience and provide you with an easier access experience. We will be with you
+Sending one or more small data files called cookies on a computer or mobile device, the cookies assigned to you are unique and can only be read by web servers in your domain that have published the cookies. We send cookies to you to simplify the process of repeated login, store your shopping preferences or the products/services in your shopping cart, and provide you with shopping preference settings, help you optimize your selection and interaction with advertisements, help determine your login status, and ensure account or data security.
+2. We will not use cookies for any purposes other than those stated in this privacy policy. You can manage or delete cookies according to your preferences. For more information, please refer to AboutCookies.org. You can clear all cookies saved on your computer. Most web browsers automatically accept cookies, but you can usually modify your browser settings to refuse cookies according to your needs; Additionally, you can also clear all cookies saved within the software. But if you do so, you may need to personally change your membership settings every time you visit the Gome platform, and the corresponding information you previously recorded will also be deleted, which may have a certain impact on the security of the services you use.
+（2） The use of network beacons and similar technologies
+In addition to cookies, we will also use other similar technologies such as network beacons on the Gome platform. Our platform often includes electronic images (referred to as "single pixel" GIF files or "network beacons"). We use network beacons in the following ways:
+1. By using network beacons on the Gome platform, the number of member visits is calculated, and registered Gome members are identified by accessing cookies.
+2. By obtaining cookie information, we provide personalized services to you.
+3、 How do we share, transfer, and publicly disclose your personal information
+（1） Entrusted processing
+In order to provide you with better services and optimize your user experience, certain service modules or functions of the Gome platform are provided by external suppliers. For example, we may hire service providers to assist us in providing customer support.
+We will sign strict confidentiality agreements with companies, organizations, and individuals entrusted by us to process personal information, requiring them to handle personal information in accordance with our requirements, this privacy policy, and any other relevant confidentiality and security measures.
+（2） Sharing
+1. We will not share your personal information with any company, organization, or individual outside of the Gome platform, except for the following situations:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+(3) Within the scope permitted by laws and regulations, it is necessary to provide necessary services to safeguard the interests, property, or safety of the Gome platform, its affiliates or partners, you or other Gome platform members, or the general public from harm;
+(4) Only by sharing your information can we achieve the core functions of Gome platform services or provide the services you need;
+(5) To handle disputes or controversies between you and others as per your request;
+(6) Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+(7) Used for academic research purposes;
+(8) Used based on social public interests that comply with laws and regulations;
+(9) Other circumstances stipulated by laws and regulations.
+2. We may share your personal information with our affiliates. But we will only share necessary personal information and are bound by the purposes stated in this privacy policy. If our affiliates want to change the purpose of processing personal information, they will seek your authorization and consent again.
+3. We may share your order information, account information, device information, and location information with third parties such as partners to ensure the smooth completion of the services we provide to you. But we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose. Our partners include but are not limited to the following types:
+(1) Suppliers/service providers of goods/services. We may share your personal information with third parties who support our functionality. These supports include providing our supply or infrastructure technology services, logistics and distribution services, payment services, data processing, etc. The purpose of sharing this information is to enable the core shopping functions of Gome platform services, such as the need to share your order information with logistics service providers in order to arrange delivery; Alternatively, we may need to share your order number and amount with a third-party payment institution to confirm your payment instructions and complete the payment.
+(2) Third party merchants. We must share your order information and necessary transaction related information with third-party merchants to fulfill your purchasing needs for goods/services and enable them to complete subsequent after-sales services.
+(3) The partner who entrusted us with promotion. Sometimes we provide promotional services on behalf of other companies to members who use Gome platform services. We may use your personal information and the indirect membership profile formed by your non personal information collection to share with our partners who entrust us to promote ("principals"), but we will only provide information on the coverage and effectiveness of the promotion to these principals, and will not provide your personal identity information, or we will aggregate this information so that it does not identify you personally. For example, we can inform the client how many people have viewed their promotional information or purchased the client's products after seeing this information, or provide them with non personally identifiable statistical information to help them understand their audience or customers.
+4. In order to comply with the law, enforce or apply our terms of use and other agreements, or to protect the rights, property or safety of the Gome platform, you or other Gome customers, such as to prevent illegal activities such as fraud and reduce trust
+Exchange information with other companies and organizations while taking risks. However, this does not include selling, renting, sharing, or otherwise disclosing your personal information for profit in violation of the commitments made in this privacy policy.
+（3） Transfer
+We will not transfer your personal information to any company, organization, or individual other than the Gome platform, except in the following circumstances:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide necessary information in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+(3) Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+(4) When it comes to mergers, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek authorization and consent from you again
+（4） Public disclosure
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+(1) According to your needs, disclose the personal information you have specified in the disclosure method with your explicit consent
+(2) In accordance with the requirements of laws, regulations, mandatory administrative law enforcement or judicial requirements, we may publicly disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights. Subject to legal regulations, all documents we disclose are protected by encryption keys.
+4、 How do we protect and preserve your personal information
+（1） Protection of your personal information
+1. We have taken security measures that comply with industry standards and are reasonable and feasible to protect the security of the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information; We will use encryption technology to enhance the security of personal information; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information; And we will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+2. We have an industry-leading data security management system centered around data lifecycle, which enhances the security of the entire system from multiple dimensions such as organizational construction, system design, personnel management, and product technology.
+3. We will take reasonable and feasible measures to avoid collecting irrelevant personal information as much as possible. We will only retain your personal information for the period necessary to achieve the purposes stated in this privacy policy, unless an extension of the retention period is required or permitted by law.
+4. The Internet is not an absolutely safe environment. We strongly recommend that you do not use the communication methods recommended by non Gome platforms to send personal information. You can establish connections and share with each other through our services. When you create communication, transactions, or sharing through our services, you can independently choose the object of communication, transactions, or sharing as a third party who can see your transaction content, contact information, communication information, or sharing content and other related information.
+When using Gome platform services for online transactions, you inevitably have to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others when necessary. If you find that your personal information, especially your account or password, has been leaked, please contact Gome platform customer service immediately so that we can take corresponding measures according to your application.
+Please note that the information you voluntarily share or even publicly share when using our services may involve your or others' personal information or even sensitive personal information, such as uploading images containing personal information when evaluating. Please consider more carefully whether to share or even publicly share relevant information when using our services.
+Please use a complex password to help us ensure the security of your account. We will do our best to ensure the security of any information you send to us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+5. We will periodically update and disclose security risks, personal information security impact assessment reports, and other related content. You can obtain them through the announcement on the Gome platform
+6. After an unfortunate personal information security incident occurs, we will inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with legal requirements. We will inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement.
+You fully understand and accept that even if the Gome platform adopts various security technologies and programs to store and protect member information, preventing unauthorized access, use, copying, and leakage, member information may still be hacked, stolen, or leaked due to force majeure or other non Gome platform reasons. In this regard, as long as the Gome platform takes necessary measures to prevent the occurrence of the above situation, promptly notifies members of the information leakage after the occurrence of the above situation, and takes necessary measures to prevent further expansion of their losses, the Gome platform is not required to compensate for any losses caused to you as a result.
+At the same time, we will also report the handling of personal information security incidents in accordance with regulatory requirements
+（2） Storage of your personal information
+1. Your personal information will be stored in
+Within the territory of the People's Republic of China. If you use cross-border transaction services and need to transfer your personal information overseas to complete the transaction, we will separately obtain your authorization and consent, and require the recipient to process this personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+2. During your use of our products and/or services, your personal information will be stored for the period specified in this policy, and will be determined in accordance with the mandatory retention requirements of the law. For example, the Electronic Commerce Law of the People's Republic of China requires that product and service information, as well as transaction information, be stored for no less than three years from the date of completion of the transaction. We mainly refer to the following standards to determine the storage period of personal information, and the longer one shall prevail:
+(1) To complete the transaction purposes related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+(2) Ensure the safety and quality of the services we provide to you;
+(3) Do you agree to a longer retention period;
+(4) Are there any other special agreements regarding retention periods.
+After exceeding the retention period, we will delete your personal information or anonymize it in accordance with applicable laws.
+3. Please note that after you successfully cancel your Gome account, we will delete or anonymize your personal information. When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to immediately delete the corresponding information from the backup system. We will securely store your personal information and restrict any further processing of it until the backup can be deleted or anonymized.
+4. If we terminate the service or operation, we will notify you at least thirty days in advance and delete or anonymize your personal information after the termination of the service or operation.
+5、 Your rights
+According to relevant laws, regulations, standards in China, as well as common practices in other countries and regions, we guarantee that you exercise the following rights over your personal information:
+（1） Accessing your personal information
+You have the right to access your personal information, except for exceptions provided by laws and regulations. You can access your personal information on your own through the following methods:
+Account Information - If you wish to access or edit your personal profile and payment information in your account, change your password, add security information, or close your account, you can log in to your account and perform such operations through "Settings".
+Search information - You can log in to your account to access or clear your search history.
+Transaction Information - You can view or clear your order and transaction records on the Gome platform
+If you are unable to access such personal information through the above path, you can contact us at any time through Gome platform customer service, and we will reply to your access request within 15 days.
+For other personal information generated during your use of Gome platform services, we will provide it to you in accordance with the relevant arrangements in "(8) Responding to your above requests" of this clause.
+（2） Correct or supplement your personal information
+When you discover errors in the personal information we process about you, you have the right to request us to make corrections or supplements. You can submit a correction or supplementary application through the methods listed in "(1) Accessing Your Personal Information"
+We may collect your WeChat account, QQ account, Alipay account, email, mobile phone number and push permission. You can contact our customer service personnel to disable the push push permission that has been enabled, or disable the push push permission of Gome APP in the built-in permission settings on your phone; You can unbind the bound WeChat account, QQ account and Alipay account in Gome member account; You can reply to the SMS prompt message and unsubscribe from the SMS push service after receiving the marketing SMS pushed by Gome platform; You can unsubscribe through the unsubscribe link below after receiving marketing emails pushed to you by Gome platform.
+（3） Delete your personal information
+In the following situations, you can request us to delete your personal information:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect and use your personal information without your explicit consent;
+3. If our handling of personal information seriously violates our agreement with you;
+4. If you no longer use Gome platform services, or if you voluntarily cancel your account;
+5. If we permanently stop providing Gome platform services to you.
+You can do it through
+The platform orders products for others
+Service, you need to provide the aforementioned personal information of the actual subscriber.
+Before the platform provides the aforementioned personal information of the actual purchaser, you need to ensure that you have obtained their authorization and consent.
+The information we collect during your use of the service
+Device information: We will receive and record device related information (such as device model, operating system version, device settings, unique device identifier, and other software and hardware feature information) and device location related information (such as
+Location and the ability to provide relevant information
+Sensor information such as access points, Bluetooth, and base stations. Please be informed that,
+We will collect your device information
+Log information: When you use our website or client provided
+When providing platform services, we will automatically collect detailed usage information about our services from you and save it as relevant network logs. For example, your search query content
+Address, browser type, telecom operator, language used, visit date and time, and records of the web pages you visited.
+Please note that individual device information, log information, etc. are information that cannot identify the identity of a specific natural person.
+If we combine this type of non personal information with other information to identify the identity of a specific natural person, or use it in conjunction with personal information, during the period of combined use, this type of non personal information will be considered personal information. Unless authorized by you or otherwise provided by laws and regulations, we will anonymize and de identify this type of personal information.
+When you contact us, we may save your communication
+Call records and information such as the content or contact information you left, in order to contact you or help you solve problems, or record the solutions and results of related issues.
+We indirectly obtain
+How to collect your personal information
+To confirm the transaction status and provide you with customer service, after-sales, payment and other services, we will collect your transaction, payment, logistics information related to the transaction progress through the trading partner, payment institution, logistics company, etc. selected by you based on the exchange, or share your transaction information with the above service providers. For example, to complete the transaction, you can choose
+Related parties or
+Cooperative third-party payment institutions (including WeChat payment, Alipay, UnionPay, Netlink and other payment channels, hereinafter referred to as
+）The payment services provided. The payment function itself does not collect your personal information, but we need to share your transaction information with these payment institutions to enable them to confirm your payment instructions and complete the payment.
+When the platform enjoys the above services, you authorize us to receive, summarize, and analyze your personal information or transaction information from our affiliated companies based on actual business and cooperation needs. We confirm that their sources are legal or that you authorize and agree to their provision to us. If you refuse to provide the above information or refuse authorization, you may not be able to use the corresponding information from our affiliated companies
+Platform services, or inability to display relevant information without affecting usage
+Core services such as platform browsing and search.
+）Deliver product or service functionality
+After placing an order and selecting cash on delivery or completing payment online,
+Third party delivery companies cooperating with the platform (hereinafter referred to as
+）We will complete the delivery of your order. You acknowledge and agree that
+The third-party delivery company cooperating with the platform will use your order information during the above process to ensure the safe delivery of your ordered goods.
+）Customer service and after-sales functions
+To ensure the security of your account, our call center customer service and online customer service will use your account information to verify your identity. When you need us to provide pre-sales consultation or customer service and after-sales service related to your order information, we will
+Check your visit history or
+. You may provide additional information beyond the above when communicating with our customer service personnel, such as when you request us to make changes
+Delivery address, contact person or phone number
+The necessary functions for platform services
+We may collect your order information, browsing information, and your interests and hobbies (which you can choose in your account settings) for data analysis to form a membership profile, which will be used to identify the products that interest you
+Display service information to you; Or show you the products you may want to find when you search
+We may also obtain other information from you for the reasonable purpose of providing services and improving service quality, including the relevant information you provide when contacting customer service, the questionnaire response information you send us when participating in surveys, and the relevant information we obtain when interacting with our affiliates and partners. We may associate the information collected from your various devices so that we can provide you with consistent services on these devices. We may combine information from one service with information from other services in order to provide you with services, personalized content, and recommendations.
+The necessary functions for live streaming interaction
+When you choose our relevant application for live recording, we need to enable the camera and microphone usage permission of your device to complete the complete live recording and the accompanying functions during the recording process. We will also ask for your consent in the form of a pop-up notification when you first enable the permission; If you refuse to enable camera and microphone permissions, you will not be able to complete live recording. During the live recording process, we will record and save all the dynamic and static images you display and show them to other users.
+At the same time, in accordance with relevant national laws and regulations, we will monitor your live broadcast in real time to ensure that your live content complies with laws, regulations, and public order and good customs.
+Implement the necessary functions for video shopping guide recording
+】Use permissions to facilitate our supervision of the service capabilities of video guides, optimize and improve service processes, witness your shopping process, and possibly use it as a basis for dispute resolution, thereby ensuring your legitimate rights and interests. We will notify you of the required permissions in the form of a pop-up window and obtain your consent every time you use this feature. In order to better enjoy the service, you can also enable the camera permission yourself (automatically disabled by default) to allow us to record video information of the salesperson's video conversation with you.
+If you refuse to enable the relevant permissions, you will not be able to use the video guide recording function, but it will not affect your use of other functions. Please be informed that in order to avoid disputes between the two parties over the video shopping guide service, we will record and save the audio generated when you use this feature
+Video information.
+To improve your usage
+When providing platform services, we ensure the security of the system, more accurately prevent phishing website fraud, and protect account security. We may assess your account risks by understanding your browsing information, order information, commonly used software information, reading application lists, device information, and other means, and may record links that we consider risky（
+）； We will also collect your device information for
+Analyze platform system issues, track traffic and identify potential risks, and investigate when you choose to send us abnormal information.
+To achieve the above business functions, the following information needs to be collected from you:
+User information usage scenarios
+Specific Information Fields
+Personal Basic Information
+Name, personal phone number, address
+Personal internet records and logistics information
+Shopping records, logistics information
+Add address to shopping cart
+Personal mobile phone number and address
+Personal internet history
+Shopping history, browsing history, following history
+Personal internet browsing history, personal commonly used device information
+Browse history, shopping history, device information, follow history
+Collect device information, browsing history, shopping history, and following history
+Member Center provides personalized services for users
+Gender, date of birth, personal mobile phone number, address, interests, marital status, monthly family income, education, occupation, number of family members, category of interest
+Name, phone number, employer name
+Browse history, shopping history, follow history
+Personal internet browsing records, payment records, and personal location information
+Browse history, shopping history, payment history, location information, follow history, sex
+Don't, age, device information
+Voice call record
+Audio call record
+Note: Equipment information includes equipment name, equipment model
+Equipment identification code
+List, base station information, mobile application list and other software and hardware feature information, operating system and application version, language settings, resolution, service provider network
+To make your consumption and access to information more convenient or enjoyable, thereby enhancing your
+Our platform's online consumption and audio-visual entertainment experience may collect and use your personal information in the following additional features. If you do not provide this personal information, you can still engage in online consumption, access information, and audio-visual entertainment, but you may not be able to use these additional features that can bring you consumption pleasure or purchase certain products
+Some information needs to be filled in repeatedly during service. These additional features include:
+）Personalized recommendation function based on location information: We will collect your location information (we only collect your geographical location at that time, but will not combine your location information from different time periods to determine your whereabouts) to determine your location and automatically recommend products or services that can be purchased in your area. This includes recommending the nearest optional hotels to you, recommending popular, high-quality audio-visual content and live broadcasts that we believe are suitable for you to watch in your area.
+）Additional features based on the camera: You can use this additional feature to complete video shooting, photography, QR code scanning, facial recognition, and video shopping calls.
+）Additional features based on image upload: You can access them at
+The platform uploads your photos to achieve the functions of posting and evaluating. We will use the photos you upload to identify the products you need to purchase or use evaluations that include the pictures you upload.
+）Additional features based on voice technology: You can directly use the microphone to consult and interact with our customer service robot. In these functions, we will collect your recorded content to identify your shopping needs and customer service and after-sales needs.
+）Additional features based on address book information: We will collect your address book information to facilitate your shopping without manually entering the contact information in your address book (you can directly recharge the phone numbers in your address book); In order to increase your social enjoyment when shopping, watching movies, and live streaming, with your consent, we can also determine whether your friends are also the same
+Platform users, and in
+The platform establishes connections for your communication.
+）Additional features based on calendar permissions: when you use
+When providing related services, you can enable calendar permissions
+Set live broadcast start reminder
+After granting this permission, we will provide you with relevant services by reading and writing to your calendar. If you do not enable this permission, you will not be able to use calendar management related functions, but it will not affect your use of other services.
+）Based on reading
+Additional function for writing to external storage: When you enable it, we can read it
+After writing the permission to store on your device, we will retrieve it from the storage space of your device
+Read or write necessary information such as images, files, log information, etc. into it
+, used to provide you with functions such as information publishing or recording crash log information locally, ensuring the stable operation of the client.
+）Extended function based on reading phone status: when you run
+）Additional features based on clipboard: When you copy activity passwords to share or receive shared information, your clipboard function may be called. The clipboard information will only be processed on your device, and we will not store your clipboard information for any other purposes.
+）Additional features based on information from other devices: in order to provide better products and
+To provide services and improve user experience, we will collect device attribute information (including your hardware model, operating system version, device configuration, unique device identifier, international mobile device identity code)
+Network device hardware address
+Advertising identifier
+）Device connection information (browser type, telecom operator, language used) and device status information (including device sensor data, device application installation list). We may associate the information collected from your various devices so that we can provide you with consistent services on these devices. We may match your device information or phone number with your
+Platform accounts are associated.
+The above additional features may require you to enable your device to us
+Geographic location (location information), camera, photo album, calendar, phone status, external storage, microphone, contacts, and other device access permissions
+To collect and use the information involved in implementing these functions. You can contact us through
+The platform customer service personnel can disable the above functions or authorize them.
+Please note that by granting these permissions, you authorize us to collect and use your personal information to achieve the aforementioned functions. By granting these permissions, you cancel them, and we will no longer continue to collect and use your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. Your decision to close permissions will not affect the processing of personal information based on your authorization. In addition, we may require you to enable other access permissions for the device in related business functions. The detailed permissions and usage purposes are as follows:
+Implement application networking
+Monitor network changes and alert users to the current network environment
+Allow phone vibration
+Allow programs to run background processes even after the phone screen is turned off, keeping the screen awake
+Modify global audio settings, such as adjusting volume and speakers for output
+Use of speech recognition module
+Obtain user and store location address information
+Watch live streams and short videos floating in the window for playback
+Allow applications to retrieve current or recently running applications
+Used for video shooting, photography, scanning QR codes, and facial recognition
+Local file storage
+Obtain rough location information
+Live streaming reservation reminder
+Safety risk control, statistics, and service push
+Preheat the live broadcast room and set a reminder to start the live broadcast; Reminders for purchasing and appointment settings
+Invite contacts through SMS
+Interactive games, providing gameplay such as shaking and shaking; Security guarantee
+We will sign agreements with companies, organizations, and individuals with whom we share personal information
+Strict confidentiality agreements require them to process personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. In the use of personal sensitive information, we require third parties to adopt data anonymization and encryption techniques to better protect personal sensitive information. Regarding our access to partners and other third parties
+For your understanding, we will list the relevant business functions that may enable your device access permissions one by one:
+Access and usage permissions
+When editing logistics information, select a contact person from the user's address book as the recipient
+Access to Address Book Permissions
+When editing personal profile picture information, choose selfie or select from album
+To take photos and purchase scenes, it is necessary to call the phone camera to take pictures or select pictures from the album
+When users post, modify, add reviews or reviews from couriers and installers, add album photos or take photos for image upload;
+Shoot short videos when users post, modify, add reviews, or when courier and installer reviews
+When users post, modify, add reviews or express delivery and installation personnel reviews, post voice reviews
+When users use voice search method
+Record voice information permissions
+Obtaining device information has generated a unique identifier for statistical data
+Access phone status, including device phone number and current network information
+Customer service, shopping guide
+Take photos and upload them during communication with Xiaomei Intelligent Customer Service
+Xiaomei intelligent customer service inputs voice and uploads it during communication
+When communicating with store guides, take photos, upload them, input voice messages, and upload them
+Video chat during video sales communication
+Need to push information based on user location
+During the chat, take photos or send short videos
+During the chat, receive and save customer service pictures
+Write external storage permissions
+Accessing phone status, including device phone number, current network information, and call information
+In the live broadcast reminder scenario, users are reminded by reading and writing into their calendar
+Read and write user calendar permissions
+When applying for returns, exchanges or repairs, you can take photos and upload them, or choose to upload pictures or videos from my album to provide evidence.
+If we decide to respond to your request for deletion, we will also notify the subjects who have obtained your personal information from us as much as possible, requesting them to delete it in a timely manner, unless otherwise stipulated by laws and regulations, or these subjects have obtained your independent authorization.
+When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but we will delete this information when the backup is updated.
+（4） Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke all or part of your authorization by deleting information, disabling device functions, or contacting our customer service personnel on the Gome platform. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+（5） Personal Information Subject Account Cancellation
+You can cancel your account or contact our customer service and follow our prompts to cancel your account. Regarding the method of account cancellation and the conditions you should meet, please refer to the "Gome Account Cancellation Notice" for details.
+After you voluntarily cancel your account, we will cease to provide you with products or services, delete your personal information as required by applicable laws, or anonymize it.
+（6） No longer receive promotional messages from us
+If you do not want to receive the promotional messages we send you, you can cancel them at any time by contacting our customer service staff
+In addition, we will collaborate with third-party platforms or media ("third-party platforms") to recommend personalized products or services to you based on your personal information. These personal information include shopping activities on the Gome platform, visits to Gome platform affiliated company websites, and the interests and hobbies you have filled in your account settings. The third-party platform only provides us with a window to display goods or services. The link to the window content is the personalized display information of goods or services within the Gome platform, which is managed by the Gome platform. Therefore, we will not provide any personal information of you to advertisers. And we have set up a blocking function in the recommendation window, where you can choose to block ads that you don't like. If you are unwilling to accept the recommendation service of Gome platform on third-party platforms, please contact the third-party platform to close it. You are aware and understand that third-party platforms are self operated entities and cannot be managed by Gome platform.
+In order to protect your privacy, we will not push any promotions or product and service information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+（7） Constrained information system automatic decision-making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us, and we will also provide appropriate remedies.
+（8） In response to your above request
+To ensure safety, you may need to provide a written request or prove your identity in other ways. We may first require you to verify your identity before processing your request.
+We will provide a response within 15 days. If you are not satisfied, you can also file a complaint through the customer service of Gome platform.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very unrealistic.
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+）Related to national security and defense security;
+）Regarding public safety, public health, and major public issues
+Related to interests;
+）Related to criminal investigation, prosecution, trial, and execution of judgments;
+）For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+）The collected personal information is disclosed by the personal information subject to the public on their own;
+）Collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+）Necessary to sign the contract according to your requirements;
+）Used for maintaining the provided
+Necessary for the secure and stable operation of platform services, such as discovery and disposal
+Malfunctions in platform services;
+）Necessary for legitimate news reporting;
+）Academic research institutions conduct statistical or academic research necessary for the public interest, and when providing results of academic research or descriptions to external parties, they de identify the personal information contained in the results;
+）Other circumstances stipulated by laws and regulations.
+We may obtain your authorized shared account information (avatar, nickname) from third parties, and after you agree to this privacy policy, we will link your third-party account with your
+Platform account binding allows you to log in and use it directly through a third-party account
+Platform services. We will use your personal information based on agreements with third parties and after confirming the legality of the source of your personal information, in compliance with relevant laws and regulations.
+We will comply with the provisions of this privacy policy and strive to achieve
+The platform service function uses the collected personal information.
+After collecting your personal information, we will use technical means to de identify the data, and the de identified information will not be able to identify the subject.
+Please understand and agree that we have the right to use the de identified information in this situation; We have the right to analyze and commercially utilize the membership database without disclosing your personal information.
+Please note that you are using
+All personal information provided during platform services will be used by you unless you delete it or refuse our collection through system settings
+Continuously authorize us to use during the platform service period. When you cancel your account, we will cease to collect, use, and delete your personal information.
+We will
+Statistics on the usage of platform services may be collected and shared with the public or third parties to showcase
+The overall usage trend of platform services. But these statistical information do not include any of your identification information.
+When we display your personal information, we will use methods such as content replacement and anonymous processing to anonymize your information and protect its security.
+When we use your personal information for other purposes not specified in this privacy policy, or when we use information collected for specific purposes for other purposes, we will seek your consent in advance.
+Compared to similar technologies
+To meet your personalized needs for online experience and provide you with an easier access experience. We will send one or more messages on your computer or mobile device called
+The small data file designated for you
+Publish to your domain
+Server reading. We are sending you
+It is to simplify the steps of repeated login, store your shopping preferences or the items in your shopping cart
+Service and other data are used to provide you with shopping preference settings, help you optimize your selection and interaction with advertisements, assist in determining your login status, and ensure account or data security.
+We will not
+For any purpose other than those stated in this privacy policy. You can manage or delete according to your preferences
+For details, please refer to
+. You can clear all saved files on your computer
+Most web browsers will automatically accept it
+However, you can usually modify the browser settings to refuse according to your own needs
+； Additionally, you can also clear all saved files within the software
+. But if you do this, you may need to visit every time
+When changing membership settings on the platform, the corresponding information you previously recorded will also be deleted, which may have a certain impact on the security of the services you use.
+The use of similar technologies
+Besides, we will also be
+Using the internet on the platform
+Waiting for other similar technologies. Our platform often includes electronic images (referred to as
+）. We use the internet
+The ways are:
+Calculate the number of member visits and access them through
+Identify the registered
+Through the obtained
+Information, providing personalized services for you.
+In order to provide you with better services and optimize your user experience,
+Some service modules or functions of the platform are provided by external suppliers, for example, we may hire service providers to assist us in providing customer support.
+We will not work with
+Any company, organization, or individual outside the platform shares your personal information, except for the following situations:
+）Obtaining your explicit consent or authorization in advance;
+）Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+）Within the scope permitted by laws and regulations, in order to maintain
+Platform affiliates or partners, you or others
+It is necessary for platform members or the public interest, property, or safety to be protected from harm;
+）Only by sharing your information can it be achieved
+The core functions of platform services or providing the services you need;
+）To handle disputes or controversies between you and others as per your request;
+）Provided in accordance with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+）Used for academic research purposes;
+）Used based on social public interests that comply with laws and regulations;
+）Other circumstances stipulated by laws and regulations.
+We may share your personal information with our affiliates. But we will only share necessary personal information and are bound by the purposes stated in this privacy policy. If our affiliates want to change the purpose of processing personal information, they will seek your authorization and consent again.
+We may share your order information, account information, device information, and location information with third parties such as partners to ensure the smooth completion of the services we provide to you. But we will only collaborate for legitimate, just, necessary, specific, and clear purposes
+Enjoy your personal information and only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose.
+Our partners include but are not limited to the following types:
+Service providers
+We may share your personal information with third parties who support our features
+. These supports include providing our supply or infrastructure technology services, logistics and distribution services, payment services, data processing, etc. The purpose of sharing this information is to achieve
+The core shopping function of platform services, such as sharing your order information with logistics service providers in order to arrange delivery; Alternatively, we may need to share your order number and amount with a third-party payment institution to confirm your payment instructions and complete the payment.
+We must share your order information and necessary transaction related information with third-party merchants to enable you to purchase goods from them
+The demand for service and the ability to complete subsequent after-sales service.
+）The partner who entrusted us with promotion. Sometimes we represent other companies to use
+Members of the platform service provide promotional and advertising services.
+We may use your personal information and indirect membership profiles formed from your non personal information collection to collaborate with partners who entrust us with promotion（
+）Shared, but we will only provide information on the coverage and effectiveness of the promotion to these commissioning parties, and will not provide your personally identifiable information, or we will aggregate this information so that it does not identify you personally.
+For example, we can inform the client how many people have viewed their promotional information or purchased the client's products after seeing this information, or provide them with non personally identifiable statistical information to help them understand their audience or customers.
+To comply with laws, enforce or apply our terms of use and other agreements, or to protect
+The rights and property or safety of customers, such as exchanging information with other companies and organizations to prevent illegal activities such as fraud and reduce credit risks. however
+This does not include selling, renting, sharing, or disclosing your personal information for profit in violation of the commitments made in this privacy policy.
+We will not transfer your personal information to anyone else
+Any company, organization, or individual outside the platform, except for the following situations:
+）Provide necessary information in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+）When it comes to mergers, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise
+We will request the company or organization to seek your authorization and consent again
+）According to your needs, disclose the personal information you have specified in the disclosure method with your explicit consent
+）In accordance with the requirements of laws, regulations, mandatory administrative law enforcement or judicial requirements, we may publicly disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights. Subject to legal regulations, all documents we disclose are protected by encryption keys.
+We have taken security measures that comply with industry standards and are reasonable and feasible to protect the security of the personal information you provide, preventing unauthorized access, public disclosure, use, modification, damage or loss of personal information; We will use encryption technology to enhance the security of personal information; We will use trusted protection mechanisms to prevent personal information from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information; And we will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+We have an industry-leading data security management system centered around data lifecycle, which enhances the security of the entire system from multiple dimensions such as organizational construction, system design, personnel management, and product technology.
+We will take reasonable and feasible measures to avoid collecting irrelevant personal information as much as possible. We will only retain your personal information for the period necessary to achieve the purposes stated in this privacy policy, unless an extension of the retention period is required or permitted by law.
+The Internet is not an absolutely safe environment. We strongly recommend that you do not use non
+The communication method recommended by the platform is to send personal information. You can establish connections and share with each other through our services. When you create communication, transactions, or sharing through our services, you can independently choose the object of communication, transactions, or sharing as a third party who can see your transaction content, contact information, communication information, or sharing content and other related information.
+When conducting online transactions through platform services, it is inevitable for you to disclose your personal information, such as contact information or address, to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others when necessary. If you find that your personal information, especially your account or password, has been leaked, please contact us immediately
+Platform customer service, so that we can take appropriate measures based on your application.
+We will periodically update and disclose security risks, personal information security impact assessment reports, and other related content. You can access them through
+Platform announcement method for obtaining
+After the unfortunate occurrence of a personal information security incident, we will inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement.
+You fully understand and accept: even if
+The platform adopts various security technologies and programs to store and protect member information, preventing it from being accessed, used, copied, and leaked without authorization. However, member information may still be attacked or stolen by hackers due to force majeure or other reasons
+The situation where the platform is leaked due to its own reasons. Regarding this, as long as it is
+The platform has taken necessary measures to prevent the occurrence of the above situation, and promptly notified members of the information leakage after the occurrence of the above situation, and taken necessary measures to prevent their losses from further expanding,
+The platform is not required to compensate for any losses caused to you as a result.
+Your personal information will be stored within the territory of the People's Republic of China. If you use cross-border transaction services and need to transfer your personal information overseas to complete the transaction, we will separately obtain your authorization and consent, and require the recipient to process this personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+When you use our product and
+During the service period, your personal information will be stored for the purpose of achieving the purposes stated in this policy, and will be determined in accordance with the mandatory retention requirements of the law, such as the Electronic Commerce Law of the People's Republic of China requiring that the retention period of product and service information and transaction information shall not be less than three years from the date of completion of the transaction. We mainly refer to the following standards to determine the storage period of personal information, and the longer one shall prevail:
+）To complete the transaction purposes related to you, maintain corresponding transaction and business records, and respond to your possible inquiries or complaints;
+）Ensure the safety and quality of the services we provide to you;
+）Do you agree to a longer retention period;
+）Are there any other special agreements regarding retention periods.
+Please note that when you successfully log out
+After the account is opened, we will delete or anonymize your personal information. When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to immediately delete the corresponding information from the backup system. We will securely store your personal information and restrict any further processing of it until the backup can be deleted or anonymized.
+If we terminate the service or operation, we will notify you at least thirty days in advance and delete or anonymize your personal information after the termination of the service or operation.
+If you wish to access or edit your personal profile information and payment information in your account, change your password, add security information, or close your account, you can log in to your account through
+Perform such operations.
+You can log in to your account to access or clear your search history.
+View or clear your order and transaction records on the platform
+If you are unable to access such personal information through the above path, you can always do so through
+Platform customer service contacted us and we will
+Reply to your access request within the day.
+For your use
+Other personal information generated during the platform service process will be handled in accordance with this clause
+We will provide you with the relevant arrangements in.
+When you discover errors in the personal information we process about you, you have the right to request us to make corrections or supplements. You can do it through
+Submit a correction or supplementary application in the manner specified in the document
+We may collect your mobile WeChat account
+Account, Alipay account, email, mobile phone number
+Push permission. You can contact our customer service personnel to close the opened ones
+Push permission or disable it in the built-in permission settings of the phone
+Push permission; You can
+Unbind the already bound WeChat account from the member account
+Account number, Alipay account number; You can receive it upon receipt
+After receiving marketing messages from the platform, reply with a message prompt to unsubscribe from the SMS push service; You can receive it upon receipt
+After receiving marketing emails from the platform, you can unsubscribe through the unsubscribe link below.
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your explicit consent;
+If our handling of personal information seriously violates our agreement with you;
+If you no longer use it
+Platform services, or if you voluntarily cancel your account;
+If we permanently cease to provide you with
+Platform services.
+Delete some of your personal information in the manner specified.
+You can delete information, disable device functions, and
+Change the scope of your authorization for us to continue collecting personal information or revoke all or part of your authorization by contacting our customer service personnel on the platform. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+You can cancel your account or contact our customer service and follow our prompts to cancel your account. Regarding the method of canceling your account and the conditions you should meet, please refer to《
+Account Cancellation Notice ".
+Additionally, we will collaborate with third-party platforms or media outlets（
+）Collaboration is based on your personal information to recommend personalized products or services to you. These personal information include information such as
+Shopping situation and visits on the platform
+The situation of platform affiliated company websites and the interests and hobbies you have filled in your account settings. The third-party platform only provides us with a window to display goods or services, and the link to the window content is
+The display information of personalized products or services within the platform is provided by
+The platform is managed, so we will not provide any of your personal information to advertisers. And we have set up a blocking function in the recommendation window, where you can choose to block ads that you don't like. If you are unwilling to accept
+The platform's recommendation service on third-party platforms, please contact the third-party platform to close it. You are aware and understand that third-party platforms are self operated entities,
+The platform is unable to manage it.
+Provide a response within the day. If you are not satisfied, you can also
+Platform customer service initiates a complaint.
+）Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+）Related to national security and defense security;
+）Related to public safety, public health, and major public interests;
+）Related to criminal investigation, prosecution, trial, and execution of judgments;
+）The personal information controller has sufficient evidence to indicate that the personal information subject has subjective malice or abuse of rights;
+）In order to protect personal information
+The significant legitimate rights and interests of individuals, such as life and property, but it is difficult to obtain their consent;
+）Responding to the request of the personal information subject will result in serious damage to the legitimate rights and interests of the personal information subject or other individuals or organizations;
+）Involving trade secrets.
+If there are other provisions in relevant laws, regulations and regulatory departments, follow their provisions.
+6、 How do we handle the personal information of minors
+Minors (under the age of fourteen) are not allowed to create their own membership accounts without the consent of their parents or guardians. If you are a minor, please have your parents or guardians carefully read this privacy policy and use it with their consent
+Platform services or providing information to us.
+For use with the consent of parents or guardians
+When collecting personal information of minors through platform services, we will only use, share, transfer, or disclose this information as permitted by laws and regulations, with the explicit consent of parents or guardians, or as necessary to protect minors.
+We further take the following measures to safeguard the personal information of minors that may be involved:
+）For the personal information collected from minors, in addition to complying with the provisions of this privacy policy regarding the protection of user personal information, we will also follow the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use in accordance with the requirements of the "Regulations on the Protection of Children's Personal Information Network".
+）We strictly comply with the requirements of laws and regulations such as the Cybersecurity Law, the Law of the People's Republic of China on the Protection of Minors, and the Regulations on the Protection of Children's Personal Information on the Internet to store, use, and disclose the personal information of minors we collect, and will not exceed the period necessary to achieve the purpose of collection and use. After the expiration, we will delete or anonymize the personal information of minors.
+）The person in charge of personal information protection that we have established will be responsible for coordinating any matters related to the protection of personal information of minors. We will also establish an internal specialized system for the protection of personal information of minors.
+）When you, as a guardian, choose to act for a minor under your guardianship
+When providing platform related services, we may need to collect personal information of minors under guardianship from you for the purpose of providing you with necessary services. If we need to collect personal information of minors from you in specific services, we will obtain your authorization and consent in advance, and inform you of the purpose and purpose of the collection. If you do not provide the aforementioned information, you will not be able to enjoy the relevant services we provide. In addition, when using functions such as posting and evaluating, you may proactively provide us with personal information of minors. Please be aware of this and choose carefully. As a guardian, you should fulfill your guardianship responsibilities correctly and protect the personal information security of minors. If a minor needs to register or use our products or services, you should guide and supervise them correctly.
+）Minors or guardians have the right to access, correct, and delete personal information of minors. If you have any opinions, suggestions, or demands regarding the personal information of minors, please contact us and we will provide you with services at any time.
+7、 How can your personal information be transferred globally
+In principle, the personal information collected and generated during our operations within the territory of the People's Republic of China shall be stored within the territory of China, except in the following circumstances:
+The applicable laws have clear provisions;
+Obtain your explicit authorization;
+. You conduct cross-border transactions and other personal initiatives through the Internet.
+In response to the above situation, we will ensure that your personal information is adequately protected in accordance with this privacy policy.
+If you use cross-border transaction services and need to transfer your personal information overseas to complete the transaction, we will separately obtain your authorization and consent, and require the recipient to process these personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures, while complying with the requirements of national data cross-border regulations and standards.
+8、 How to update this privacy policy
+With the development of platform business, this privacy policy will also be updated accordingly. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. We will
+Platform website
+The updated version will be released on the mobile platform and notified to you through website announcements or other appropriate means before it takes effect. Please also visit
+The platform is designed to keep up-to-date with the latest privacy policies.
+（2） For significant changes, we will also provide more prominent notifications (including but not limited to emails, text messages, or announcements on the page, explaining the specific changes to the privacy policy).
+The significant changes referred to in this privacy policy include but are not limited to:
+Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+We have undergone significant changes in ownership structure, organizational structure, and other aspects. Owner changes caused by business adjustments, bankruptcy mergers and acquisitions, etc
+The main objects of personal information sharing, transfer or public disclosure have changed;
+There have been significant changes in your right to participate in personal information processing and the way you exercise it;
+When the responsible department, contact information, and complaint channels for handling personal information security change;
+When the personal information security impact assessment report indicates the existence of high risks.
+（3） We will also archive the old version of this policy for your reference.
+9、 How to contact us
+（1） If you have any questions, opinions, or suggestions regarding this privacy policy or your personal information, please contact us through various methods such as accessing our online customer service system or calling any of our customer service phone numbers.
+Reply within the day. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also file a complaint or report to regulatory authorities such as cyberspace, telecommunications, public security, and industry and commerce.
+If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also seek a solution by filing a lawsuit with the court with jurisdiction over the defendant's domicile.
+（3） Our contact information
+Contact person: Gome Zhenhappy E-commerce Co., Ltd;
+Common office address: Baoqian Road, Jiading Industrial Zone, Shanghai
+Company Registered Address
+Baoqian Road, Jiading Industrial Zone, Shanghai
+Personal Information Protection Responsible Person and Contact Information:
+Contact phone number:
+】It officially takes effect on [date]
+】Date range, if you think it's updated《
+Note: Click to view old versions《
