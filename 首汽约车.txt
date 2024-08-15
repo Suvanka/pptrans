@@ -1,0 +1,236 @@
+The Shouqi ride hailing driver platform (hereinafter referred to as "us") focuses on protecting users' personal information and privacy. This privacy policy contains relevant provisions regarding our collection, processing, storage, use, sharing, transfer, public disclosure, and protection of users' ("you") personal information (hereinafter referred to as "information").
+This privacy policy will help you understand the following:
+1. Scope of application of this privacy policy
+2. Definition and Scope of Personal Information
+3. How do we collect and use your personal information
+4. How do you/we share, transfer, and publicly disclose your personal information
+5. How do we store and protect your personal information
+6. How do you manage your personal information
+7. How do we use cookies and network beacons
+8. How to update this privacy policy
+9. How do you contact us
+【 Special Reminder 】 Please carefully read and fully understand this privacy policy before using the services we provide. If you do not agree with any content of this privacy policy, you should immediately stop using our services. When you use any of the services we provide, you agree that we will collect, process, store, use, share, and protect your personal information in accordance with this privacy policy.
+If you have any questions about this privacy policy, you can contact us through the contact information published on the Shouqi ride hailing driver client.
+This privacy policy was last updated on February 29, 2024
+1. Scope of application of this privacy policy
+1.1 This privacy policy applies to all services provided by the Shouqi ride hailing driver platform to drivers (hereinafter referred to as "services" or "our services"). Your access to the Shouqi ride hailing driver platform and/or login to related clients to use the services provided by the Shouqi ride hailing driver platform is subject to this privacy policy.
+1.2 This privacy policy does not apply to information collected by other third-party products/services accessed through our services ("Other Third Parties" including but not limited to your counterparty, any third-party websites, and third-party service providers). We do not assume any responsibility for the aforementioned third-party use of your personal information and its consequences. Please note that other third parties may have their own privacy protection policies; When you view web pages created by other third parties or use applications developed by other third parties, you may discover cookies or pixel tags placed on that web page or application. These cookies or tags are not under our control, and their use is not subject to this privacy policy.
+2. Definition and Scope of Personal Information
+2.1 Personal information refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. This privacy policy includes: name, mobile phone number, user password, ID card number, ID card or other identity certificate, driver's license, photo, gender, age, occupation information, credit information, common address, mailing address, emergency contact, location information, travel information, call records, audio and video recordings, order information and transaction status, payment information, cash withdrawal records, bank card number, evaluation information, log information, equipment information, SD card information (mainly used for the relevant storage of driver's audio files), IP address, etc.
+2.2 Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, and is highly likely to cause damage to personal reputation, physical and mental health, or discriminatory treatment. This privacy policy includes: mobile phone number, user password, ID card or other identification, occupation information, driver's license, location information, travel information, call records, audio and video recordings, payment information, withdrawal records, bank card number.
+2.3 Anonymous processed information refers to information that, through technical processing of personal information, makes the subject of personal information unidentifiable and cannot be restored after processing. The anonymized information does not belong to personal information.
+2.4 Other information that cannot identify the identity of a specific natural person or reflect the activities of a specific natural person is not considered personal information.
+3. How do we collect and use your personal information
+We will only collect and use your personal information for the following purposes as stated in this privacy policy: to comply with legal requirements, provide you with better and more personalized services, and strive to improve your user experience.
+By providing us with the following information or using our services, you agree to our collection of information in accordance with this privacy policy.
+3.1 Collection of Personal Information
+3.1.1 Information you provide to us
+In order to comply with the requirements of laws and regulations and provide you with more personalized and convenient services, we need to identify your identity. When you register our account and use our related services, you need to fill in, submit and/or provide your personal information in any other way, including but not limited to your name, gender, date of birth, ID card number, passport surname, passport name, passport number, telephone number, Shouqi taxi driver end platform password, account information of bank account or other payment tools, billing information (such as your bank card number, card holder name and bank card validity, etc.), individual Vehicle and driving information, such as your photo, biometric information, company information, vehicle license information, driver's license information, vehicle insurance information, ride hailing driver's license information, vehicle transportation certificate information, etc.
+Identity information: Name, ID card, facial image (including facial recognition feature information), avatar photo (choose to upload photo, image, or take a photo); We will verify whether the driver who received the order and the driver information registered in the system are the same person through your ID card information and facial image, to avoid the problem of mismatch between person and vehicle.
+Vehicle information: vehicle photo, vehicle brand, model, color, license plate number, registration date, vehicle identification code; The vehicle information you provided during registration will be verified during vehicle review and offline inspection to ensure that your vehicle matches the one registered in the system, in order to avoid discrepancies between people and vehicles.
+The above information you provide will continue to authorize us to use it during your use of this service. When you cancel your account, please comply with legal and regulatory requirements
+In the event of a short retention period requirement, we will cease to use and delete or anonymize the aforementioned information.
+The above information will be stored within the territory of the People's Republic of China. If cross-border transmission is required, we will obtain your consent in accordance with the law.
+You can choose not to provide one or some information, but this may prevent you from using all or part of our services. Please understand that we use the information you provide to respond to your requests, provide convenience for you to enjoy the various services we offer, improve our client, and communicate with you.
+3.1.2 Information we obtain during your use of the service
+In order to improve service quality and user experience, we will retain information about your use of the service and related usage methods, including:
+3.1.2.1 Your location and itinerary information. When you enable the device location function, download or use our developed application (such as the Shouqi ride hailing driver's end), we may read your location and obtain it every 5 seconds, otherwise we cannot accurately deliver your order (most mobile devices will allow you to turn off location services, we recommend that you contact the service provider or manufacturer of your mobile device for specific methods). You understand clearly that you inevitably need to provide your location information in order to accept our Shouqi ride hailing driver platform services. When you use the Shouqi ride hailing driver platform to receive orders and provide services, we will also collect your travel information, including but not limited to departure, arrival, route, passing locations, and mileage information. If you refuse us to access your location or travel information, you will not be able to use the Shouqi ride hailing driver platform services.
+3.1.2.2 Your device information. We may read information about the terminal devices you use to access or use our services, including but not limited to device model, device identification code, operating system, resolution, telecommunications operator, etc. We will provide you with technical services for different devices based on your device information. For example, we will provide you with the corresponding version of the Shouqi ride hailing driver client based on your device's iOS or Android system.
+3.1.2.3 Your device permissions. We may invoke some of your device permissions. To detect if you have installed Piaopian software, we need to obtain your software installation list permissions to prevent users from engaging in illegal activities such as Piaopian; In order to provide passengers with a unified understanding of the Shouqi ride hailing driver's end, we need to obtain your address book permission. After your consent, when calling passengers, we will display the caller name as Shouqi ride hailing and the caller ID as 95721;
+The following is detailed information about the business functions corresponding to the calling permissions. You can choose to disable some or all permissions in the device's settings function. The display and closing methods of permissions may vary among different devices using different systems. Please contact the device and system developers for details. If you choose to disable some or all permissions, you will not be able to use the services corresponding to the permissions. After some core permissions are disabled, you will not be able to use the Shouqi ride hailing driver service. Please refer to the table below for the specific functions corresponding to the permission calls.
+IOS system permission invocation
+Serial number
+Device permissions
+Corresponding business functions
+Purpose of calling permissions
+Do you want to inquire
+Can users disable permissions
+one
+position
+Core business functions
+Accurately assign orders to drivers
+yes
+sure
+two
+album
+Identity authentication and reporting
+Registration, appeal, and reporting require uploading images
+yes
+sure
+three
+camera
+Identity authentication and reporting
+Registration, appeal, and reporting require uploading prompts
+yes
+sure
+four
+Wireless data
+All business functions
+Connect to the network
+yes
+sure
+five
+Bluetooth
+communication
+Bluetooth communication and connection with Bluetooth devices
+yes
+sure
+six
+dial
+communication
+Call the passenger
+yes
+sure
+seven
+system state 
+Buried point access
+Determine the event of front-end and back-end switching
+yes
+sure
+eight
+mail list
+communication
+Contact and share with other users
+yes
+sure
+3.1.2.4 Your behavior, style, and preference information. In order to meet your service requirements and provide you with more personalized services, we may record the search and other operational information you conduct when visiting or using our services; If you refuse us to record your searches and other actions, you will not be able to use the personalized services we provide based on your behavior, style, and preferences.
+3.1.2.5 Call information. The call content, duration, phone number information of the calling and called parties, as well as the text message content you send through the Shouqi ride hailing driver platform. To better protect user safety, the Shouqi ride hailing driver platform does not directly provide users with contact information such as other users' (including passengers') phone numbers. Therefore, users can only make calls or communicate information through the Shouqi ride hailing driver platform. We will retain call information for users to verify facts and handle complaints in case of disputes or security incidents. When you contact the customer service team of Shouqi ride hailing drivers, we will record your call information, your opinions or suggestions, the name and contact information you provide through call recording and manual input, so that we can handle disputes, solve problems or provide feedback to you. If you refuse to allow us to collect such information, it may result in you being unable to use the call and information functions of the Shouqi ride hailing driver platform, and it may also prevent you from calling our customer service phone number or the customer service team from providing feedback on the processing results to you.
+3.1.2.6 Audio and video recording information. This includes the audio and video information provided by passengers or you to us for handling accidents or disputes, as well as the audio and video information collected for real-time dynamic monitoring in accordance with policy requirements. We will promptly assist you in handling accidents or disputes based on the audio and video information you provide to us, as well as promptly respond to any other inquiries you may have during the service process.
+3.1.2.7 Payment Information. When you conduct transactions on the Shouqi ride hailing driver platform, if you use third-party payment functions, the Shouqi ride hailing driver platform will not obtain any other personal information except for your payment tool and order payment status. You can check your submission based on this information
+Easy to record and understand the status of your order.
+The information obtained above will continue to authorize us to use it during your use of this service and backend operation. The above information will be stored within the territory of the People's Republic of China. If cross-border transmission is required, we will separately obtain your authorization and consent.
+In addition to the above information, we may also obtain other information from you for the reasonable needs of providing services and improving service quality, including but not limited to the relevant information you provide when contacting our customer service team, the questionnaire response information you send us when participating in surveys, and the relevant information we obtain when interacting with our affiliates and partners. At the same time, in order to improve the security of your use of our services and more accurately prevent phishing website fraud and Trojan viruses, we may assess the risk of your account by understanding some of your network usage habits, commonly used software information, and other means, and may record some links ("URLs") that we consider risky.
+3.1.3 Information from Third Parties
+During the process of registering our account and using our services, you authorize us to obtain legally obtained personal information about you from affiliated parties, partners, and other independent third-party sources. Such personal information includes but is not limited to your identity information, geographical location information, behavior information, transaction information, device information, etc. We will summarize such information to help us provide you with better and more personalized services or better prevent Internet fraud.
+According to policy and regulatory requirements or security needs, we will inquire and verify your relevant information from legally established credit reporting agencies or other institutions, including but not limited to personal identity information, vehicle information, any credit scores, credit reports, etc. We will also inquire with the public security organs and other departments about your criminal record information, vehicle violation information, etc.
+3.2 Use of Personal Information
+To provide you with services, improve our service quality, and optimize your service experience, we will use your personal information in compliance with legal regulations or with your authorization, and mainly for the following purposes:
+3.2.1 Provide you with the various services you use, and maintain and improve these services; Including but not limited to the purpose of optimizing user experience, various service providers on the Shouqi ride hailing driver platform share your various information under this account.
+3.2.2 Recommend content that may be of interest to you, including but not limited to sending you product and service information, displaying personalized third-party promotional information to you through the system, or sharing information with our partners with your consent so that they can send you information about their products and services. If you do not wish to receive the above information, you can unsubscribe through the corresponding unsubscribe function.
+3.2.3 We may use your personal information to verify identity, prevent, detect, and investigate potential fraudulent, security compromising, illegal, or rule breaking activities with us or our affiliates, in order to protect the legitimate rights and interests of you, other users, us, or our affiliates.
+3.2.4 We may combine personal information and transaction information from a certain service with information obtained from other services for comprehensive statistics, analysis, or processing, in order to recommend or display product/service information that you may be interested in, or to display personalized third-party promotional information to you through the system. If you do not wish to receive the commercial advertisements we send you, you can unsubscribe through the corresponding unsubscribe function.
+To ensure the implementation of relevant functions and stable operation of the Shouqi ride hailing driver app, we may integrate software development kits (SDKs) provided by third parties to achieve related purposes. Regarding how third parties collect and use your personal information, we suggest that you refer to the relevant service agreements and personal privacy protection policies of third-party SDKs, such as
+(1) Facial recognition
+SDK Name: FACE++
+Purpose of use: To identify whether the individual is using the service
+Third party name: Beijing Kuangshi Technology Co., Ltd
+Type of personal information collected: facial recognition features, name, ID number
+Third party privacy policy link: https://cloud.tencent.com/document/product/301/1147
+(2) Push service
+SDK Name: Xiaomi Push
+Purpose of use: To provide push technology services
+Third party name: Beijing Xiaomi Technology Co., Ltd
+Types of personal information collected: device related information (IMEI number, phone serial number, Android ID, Google Ads unique identifier, phone region settings, device model, phone battery level, phone operating system), network related information (IP or domain connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user click behavior), lock screen status (such as whether to lock the screen, whether to allow lock screen notifications)
+Third party privacy policy link: https://dev.mi.com/console/doc/detail?pId=1822
+(3) Push service
+SDK Name: Huawei Push Service
+Purpose of use: To provide push technology services
+Third party name: Huawei Technologies Co., Ltd
+Types of personal information collected: device related information (IMEI number, phone serial number, Android ID, phone area settings, device model, phone battery level, phone operating system), network related information (IP or domain connection results, current network type), message sending results, notification bar status (such as notification bar permissions, user click behavior), lock screen status (such as whether to lock the screen, whether to allow lock screen notifications)
+Third party privacy policy link: https://consumer.huawei.com/cn/privacy/privacy-policy/
+(4) Push service
+SDK Name: Baidu Maps Open Platform
+Purpose of use: To plan driver and passenger routes during navigation and provide efficient travel services
+Third party name: Beijing Baidu Netcom Technology Co., Ltd
+Types of personal information collected: device related information (IMEI number, phone serial number, Android)
+idID、 Google Ads unique identifier, sensor, GPS address, SSID, BSSID, phone area settings, device model, phone battery level, phone operating system), network related information (IP or domain connection results, current network type)
+Third party privacy protocol connection: https://lbs.baidu.com/index.php?title=open/guide
+(5) Push service
+SDK Name: Meishu
+Types of personal information collected: Our product integrates the Meishu SDK to collect device information (IDFAI MEI、OAID、ANRROIDid、MAC、IMSI、 Device manufacturer, device model, operating system version, screen resolution, screen orientation, screen DPI, accelerometer), user status information (exposure, clicks, video playback, downloads, DeepLink suspension status, landing page arrival, etc.), used for precise advertising placement and advertising effect optimization
+Third party privacy protocol connection:
+https://wwww.atdplus.cn/html/sdk-privacy-agreement/%E7%BE%8E%E6%95%B0SDK%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96.html
+(6) Push service
+SDK Name: Gaode Open Platform
+Purpose of use: To plan driver and passenger routes during navigation and provide efficient travel services
+Third party name: Gaode Software Co., Ltd
+Types of personal information collected: device related information (IMEI number, phone serial number, Android ID, Google Ads unique identifier, phone region settings, device model, phone battery level, phone operating system), network related information (IP or domain connection results, current network type)
+Third party privacy protocol connection: https://lbs.amap.com/pages/terms/
+(7) Voice service
+SDK Name: Baidu Speech Synthesizer
+Purpose of use: Voice broadcasting for drivers after opening the driver's unified privacy agreement, login, departure, navigation, and other processes
+Third party name: Beijing Baidu Netcom Technology Co., Ltd
+Types of personal information collected: device related information (IMEI number, IMSI, device MAC address, phone serial number, Android ID, Google Ads unique identifier, phone area settings, device model, phone battery level, phone operating system), network related information (IP or domain connection results, current network type)
+Third party privacy protocol connection: https://ai.baidu.com/ai-doc/REFERENCE/kk3dwjg7d
+(8) Tencent Bugly Service
+SDK Name: Tencent Bugly SDK
+Purpose of use: To troubleshoot crash issues, help improve the stability of the app, identify whether crashes and other problems are related to the phone model
+Types of personal information collected: device related information (phone model, phone brand, Android system version, Android system API level, CPU architecture type, CPU properties, idfv, whether jailbroken)
+Third party privacy agreement link: https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+3.2.5 We will conduct statistics on the usage of our services and may share this statistical information with the public or third parties to showcase the overall usage trends of our products or services. But these statistical information do not include any of your identification information.
+3.2.6 Allow you to participate in surveys related to our products and services.
+3.2.7 Other purposes with your consent or authorization.
+4. How do you/we share, transfer, and publicly disclose your personal information
+4.1 How do you share and publicly disclose your personal information
+You can establish connections and share with each other through our services. When you create communication, transactions, or shares through our services, you may allow the Shouqi ride hailing driver to access your computer, mobile phone, or other third-party social media platform's contact list for sharing Shouqi ride hailing driver's service invitations and discount information. This information may include your username, avatar, and other content confirmed to be shared on the Shouqi ride hailing driver's platform.
+When using the Shouqi ride hailing driver platform service, you inevitably have to disclose your personal information to passenger users, such as contact information, geographic location, and license plate number. Please protect your personal information properly and only provide it to others when necessary. If you discover that your personal information has been leaked, especially your account or password, please contact us immediately so that we can take appropriate measures.
+Public information refers to any information that you voluntarily share publicly. Anyone can view or access this information while using or not using the Shouqi ride hailing driver service.
+To use the Shouqi ride hailing driver service, there may be information that you must publicly share. For example, in order to build a trustworthy trading environment, your credit rating information needs to be publicly shared. If you are a product or service provider/seller, you should publicly share business information in accordance with applicable laws and regulations and the rules of the Shouqi ride hailing driver platform.
+Please note that the information you voluntarily share while using our services may involve personal information or even sensitive personal information of yourself or others, such as your transaction information, as well as various forms of information including text, images, or videos that you choose to upload when evaluating. Please consider more carefully whether to share or even publicly share relevant information when using our services.
+4.2 How we share, transfer, and publicly disclose your personal information
+We will not share, transfer, or publicly disclose your personal information
+Disclose to any third party outside of Shouyue Technology and its affiliates, except in the following circumstances:
+4.2.1 Obtain your consent or authorization.
+4.2.2 According to the provisions of laws and regulations or the requirements or authorizations of competent authorities such as administrative and judicial institutions.
+4.2.3 In order to achieve the purposes described in the "Use of Personal Information" section, or to fulfill our obligations and exercise our rights in the User Agreement or this Privacy Policy, we may share your personal information with our affiliates, partners, or third parties who perform certain functions on our behalf (such as communication service providers who issue push notifications on our behalf, payment institutions that process bank cards, third-party verification institutions, etc.).
+4.2.4 In some cases, only by sharing your information can we provide the services you need or handle disputes or controversies between you and others.
+4.2.5 When conducting joint marketing activities with third parties, we may share personal information generated during the activity process that is necessary to complete the activity, such as the number of users participating in the activity, the list of winners, the contact information of the winners, etc., so that the third party can promptly distribute prizes to you.
+4.2.6 Sharing with authorized partners. For the purposes stated in this privacy policy, certain of our services may be provided by authorized partners. We may share some of your personal information with our partners to provide better customer service and user experience. For example, when you use our platform's "no car join" service, we must share your personal information with the car rental service provider in order to arrange for a vehicle to be provided. We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose.
+4.2.7 In accordance with legal provisions and reasonable business practices, when we plan to merge with or be acquired by other companies or engage in other capital market activities, as well as when we need to undergo due diligence from other parties, we will provide your information to necessary parties, but we will require them to take reasonable confidentiality measures for your personal information through signing confidentiality agreements with these parties.
+4.2.8 When you violate applicable laws, regulations, or relevant agreements (including electronic agreements signed online) or rules that you need to disclose to third parties.
+4.2.9 To safeguard the legitimate rights and interests of us, our affiliates, or other users.
+4.2.10 As our business develops, we and our affiliates may engage in mergers, acquisitions, asset transfers, or similar transactions, and your personal information may be transferred as part of such transactions. We will notify you before the transfer.
+5. How do we store and protect your personal information
+5.1 Storage of Personal Information
+5.1.1 During your use of the Shouqi ride hailing driver platform services, we will continue to store your personal information.
+5.1.2 When you voluntarily delete personal information or cancel your account, we will retain your existing personal information for the shortest period of time as stipulated by laws and regulations. When your personal information exceeds the above-mentioned retention period, we will anonymize it. The exceptions are as follows:
+5.1.2.1 In order to cooperate with the People's Procuratorate, public security organs, and national security organs in investigating criminal acts committed by users during the use of Shouqi ride hailing driver services, and to better protect the safety of other users' lives and property, and to cooperate with the People's Court in investigating the case, your personal information and account will be saved.
+5.1.2.2 If you seriously violate laws, regulations, platform agreements, platform rules, etc. while using the Shouqi ride hailing driver platform services, your illegal and breach records and corresponding platform credit records will be permanently saved.
+5.1.3 If the Shouqi ride hailing driver platform ceases operation, we will issue a notice at least 30 days in advance and promptly stop collecting personal information. After ceasing operations, we will cease the commercial use of personal information and anonymize the collected personal information after meeting the minimum retention period required by laws and regulations.
+5.1.4 The information and data we collect about you will be stored on our and/or our affiliated company's servers. According to the Interim Measures for the Management of Online Reservation Taxi Operation Services, personal information used to identify your personal identity and reflect related activities will be stored and used in mainland China for a period of not less than 2 years.
+5.1.5 When the Shouqi ride hailing driver platform has the following situations, your application to delete personal information will not be subject to the minimum retention period required by laws and regulations:
+5.1.5.1 The Shouqi ride hailing driver platform collects and uses your personal information in violation of laws and administrative regulations.
+5.1.5.2 The Shouqi ride hailing driver platform violates our agreement by collecting and using your personal information.
+5.2 Protection of Personal Information
+5.2.1 Data Security Measures
+To ensure your information security, we strive to adopt various physical, electronic, and management security measures that comply with industry standards to protect your personal information. We have established a data classification and grading system, data security management standards, and data security development standards to manage and regulate the storage and use of personal information.
+We provide comprehensive security control over data through information contact confidentiality agreements, deep protection systems, and various security mechanisms such as identity authentication, monitoring, and auditing. Prevent unauthorized access, public disclosure, use, modification, damage or loss of your personal information. We will take all reasonable and feasible measures to protect your personal information. For example, using SSL encryption protection technology when exchanging data (such as credit card information) between your browser and the "service"; At the same time, provide HTTPS secure browsing for the website itself; Using encryption technology to ensure the confidentiality of data; Use trusted protection mechanisms to prevent data from being maliciously attacked; Deploy access control mechanisms to ensure that only authorized personnel can access personal information; And hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+Please note that individual device information, search keyword information, etc. cannot be associated with any specific individual
+The data that establishes direct contact does not belong to personal information. If we combine this type of non personal information with other information to identify a natural person's personal identity, or use it in conjunction with personal information, then during the period of combined use, such device information will be considered personal information.
+We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. We will only retain your personal information for the period necessary to achieve the purposes stated in this privacy policy, unless an extension of the retention period is required or permitted by law.
+The Internet is not an absolutely secure environment. We strongly recommend that you use complex passwords in a secure way to help us ensure the security of your account. If you discover that your personal information has been leaked, especially your account or password, please contact us immediately using the contact information provided in this privacy policy so that we can take appropriate measures.
+5.2.2 Security Incidents
+After the unfortunate occurrence of a personal information security incident, we will promptly inform you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you. We will promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt reasonable and effective methods to publish announcements.
+At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+6. How do you manage your personal information
+You have the following rights to your personal information:
+6.1 Accessing your personal information, except for exceptions provided by laws and regulations. If you want to exercise your data access rights, you can access them yourself through the following methods:
+Account Information - If you wish to access or edit personal and payment information in your account, change your password, add security information, or close your account, you can perform such operations by accessing the Shouqi ride hailing driver client.
+If you are unable to access these personal information through the above link, you can contact our customer service. We will reply to your access request within 30 days.
+6.2 Correction of Your Personal Information
+6.3 Delete your personal information. If you wish to delete personal information, you can contact the customer service of Shouqi ride hailing drivers to submit a deletion request. We will delete or anonymize your personal information while meeting the minimum retention period required by laws and regulations. But this may result in us being unable to provide you with the corresponding services.
+6.4 Withdrawal of Consent.
+In the commercial advertisement message sent by the driver end of Shouqi ride hailing, the specific cancellation method will be explained to you, and you can withdraw your consent according to the cancellation method stated in the message.
+You can disable the corresponding device permissions (including location, contacts, photos, camera, wireless data, Bluetooth, dial-up, etc.) through the device's settings function, and revoke the authorization for the Shouqi ride hailing driver to obtain your personal information.
+You can also revoke partial authorization by unbinding the bank card, deleting information, and other methods.
+When you withdraw your consent or authorization, it may result in us being unable to continue providing the services corresponding to the withdrawal of consent or authorization.
+But your withdrawal of consent or authorization does not affect the personal information processing based on your consent before the withdrawal.
+Cancel account: You can cancel your account with Shouqi Ride hailing by going to the Shouqi Ride hailing driver app, avatar, settings, security settings, and then canceling your account. Unless otherwise stipulated by laws and regulations, after canceling the account, we will cease to provide services to you and keep your personal information for the period specified in this agreement. After the retention period expires, we will delete your personal information.
+You can access and update the above information through the Shouqi ride hailing driver client or by calling Shouqi ride hailing driver customer service.
+If you believe that the Shouqi ride hailing driver platform has violated legal regulations by collecting and using your personal information, you can contact us through Shouqi ride hailing driver customer service. To ensure security, we may require you to provide a written request or other proof of your identity and the legitimacy of the request. We will respond to your request within 15 working days after receiving your feedback and verifying your identity. For your reasonable requests, we generally do not charge any fees, but for repeated requests that exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+7. How do we use cookies and network beacons
+7.1 Use of Cookies
+Cookies are text files stored by web servers on your access device. The cookie assigned to you is unique and can only be read by web servers within your domain that publish the cookie.
+We use cookies to help you personalize your online experience, making it easier for you to access us and our affiliates. For example, cookies will help you access your information when you visit our website in the future, simplifying the process of recording your personal information (such as one click login, etc.); Provide you with preference settings for safe shopping; Assist you in optimizing the selection and interaction of advertisements; Protect your data security, etc.
+You have the right to accept or refuse cookies. Most browsers automatically accept cookies, but you can usually modify your browser settings to refuse cookies according to your own needs. At present, the major Internet standards organizations have not established relevant policies to specify how websites should respond to such requests. If your browser has enabled Do Not Track, then all of our websites will respect your choice. But you may not be able to fully experience all the features of our website or certain services you visit.
+7.2 Use of Network Beacon and Similar Technologies
+Our website often contains electronic images (known as "single pixel" GIF files or "web beans")
+Other similar technologies such as' on 'can help websites calculate the number of users browsing web pages or accessing certain cookies.
+We use network beacons by using them on our website, calculating the number of user visits, and identifying registered users through access cookies.
+We can provide personalized services on our website through the cookie information we obtain.
+8. How to update this privacy policy
+To provide you with better service, our business will change from time to time, and this privacy policy will also be adjusted accordingly. We will send you updated versions or remind you of relevant content updates through the Shouqi ride hailing driver client in other ways. Please also visit us for timely updates on our privacy policy. In the aforementioned circumstances, if you continue to use our services, you agree to accept and be bound by the revised Privacy Policy.
+9. How do you contact us
+If you have any questions about this privacy policy, you can contact us through the online customer service system provided by our Shouqi ride hailing driver client and provide a full description. We will respond to your request and do our best to resolve it.
+If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also resolve the issue by filing a lawsuit with the court with jurisdiction over the defendant's domicile.
+Developer: Shouyue Technology (Beijing) Co., Ltd

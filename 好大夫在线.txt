@@ -1,0 +1,356 @@
+Privacy Protection Policy
+Update Date: June 20, 2022
+Effective Date: June 20, 2022
+Your personal information security is crucial to us. Good Doctor Online has always been committed to providing each user with a more secure Internet environment. We will collect and use your personal information in accordance with laws, regulations, and technical specifications such as the Civil Code, Cybersecurity Law, Personal Information Protection Law, and Information Security Technology Personal Information Security Specification (GB/T 35273-2020) to help us provide you with better quality products and/or services. This privacy policy applies to Good Doctor Doctor Edition. Please read this privacy policy carefully, confirm that you fully understand and agree before using Good Doctor Doctor Edition. We promise to strictly keep your personal information confidential and process it in accordance with laws, regulations, and this privacy policy.
+The following are the key points of this privacy policy:
+To assist you in registering and using the Good Doctor Doctor Edition, we may collect personal information related to providing services, and you have the right to refuse or withdraw authorization;
+2. You have the right to process your personal information and cancel your account, except as otherwise provided by laws and regulations or agreed upon by both parties.
+3. We have taken standard technical measures and data security measures in the Internet industry to protect your personal information security.
+4. Unless we obtain your consent again, we will not use your personal information for purposes not specified in this privacy policy.
+5. If you have any questions about this privacy policy, you can contact us further for consultation.
+catalogue
+1. Introduction;
+2. The legal basis for our processing of personal information;
+3. How do we handle your personal information;
+4. How do we share and transfer your personal information;
+5. How do we protect your personal information;
+6. Your right to manage personal information;
+7. The notifications we send out;
+8. Storage of personal information;
+9. How we use cookies and other tracking technologies;
+10. How do we handle the personal information of minors;
+11. How to update this privacy policy;
+12. How to contact us;
+13. Dispute resolution;
+14. Noun explanation.
+1. Introduction
+This privacy policy applies to the Haodafu Doctor Edition App software, developed by Beijing New Medical Power Technology Co., Ltd. (Haodafu Online), hereinafter referred to as "we", with a contact address at B05 Building, DREAM2049 International Cultural and Creative Industry Park, No. 4 South Lane, Sanjianfang, Chaoyang District, Beijing. For more information about Good Doctor Online, please visit the "About Us" section on our official website at www.haodf.com/info/aboutus.chp.
+[Special Reminder]
+Please carefully read and fully understand this privacy policy before using our products and/or services. We have highlighted the key content in bold and hope you will pay special attention to it. Once you use or continue to use Good Doctor Online products/services, it means that you agree to our processing of your relevant information in accordance with this privacy policy. If you have any questions about this privacy policy, you can visit the official website of Good Doctor Online（ https://www.haodf.com/ ）/Contact us through the contact information provided on the app and in the "How to Contact Us" section of this privacy policy.
+In order to facilitate your understanding of the relevant concepts in this privacy policy, we have underlined proprietary terms and provided detailed explanations in Section 14 "Definition of Terms" of this privacy policy.
+Based on changes in laws, regulations, policies, and company operations, we may revise this privacy policy from time to time. When this privacy policy changes, we will display the updated content to you in the form of push notifications, pop ups, etc. after the version update.
+Please note that we will only process your personal information in accordance with the updated privacy policy after you confirm your agreement to the changes; You can choose not to agree, which will result in you being unable to use the services and functions of Good Doctor Online.
+2. Legal basis for Good Doctor's online processing of personal information
+If you are a user in mainland China, we will process your personal information in accordance with laws and regulations such as the Civil Code, Cybersecurity Law, and Personal Information Security Specification for Information Security Technology (GB/T 35273-2020) to provide you with services.
+3. How do we collect and use your personal information
+We will follow the principles of legality, legitimacy, and necessity to collect and use personal information that you voluntarily provide or generate due to the use of Good Doctor Doctor Edition during the use of the service for the following purposes.
+If we want to use your personal information for other purposes not specified in this privacy policy, or use the collected information for other purposes based on specific purposes, we will inform you in a reasonable manner and obtain your consent again before use.
+3.1 Help you become our online user
+Register Account:
+Due to the seriousness, professionalism, and importance of the medical industry and the medical profession, in order to ensure medical safety and provide higher quality medical services, we need to collect your personal information for professional identity verification when you register and log in to the Doctor Edition account.
+If you are a doctor, you need to provide us with the following information: mobile phone number, ID card number (for real name authentication), name, professional title, hospital, department, department phone number, expert introduction, bank card (for payment and withdrawal), photo of hand-held ID card, face recognition information (for identity authenticity authentication), picture of doctor's practice certificate and professional title certificate.
+If you are another type of user (doctor, nurse, pharmacist, rehabilitation teacher), you need to provide us with the following information: mobile phone number, ID card number (for real name authentication), name, professional title, hospital, department, department phone number, good at introduction, bank card (for payment and cash withdrawal), photos of hand-held ID card, face recognition information (for identity authenticity authentication), qualification card, license, work certificate (including: work card, work contract, certificate issued by the work unit) pictures.
+After providing the above information and agreeing to the Good Doctor Online Service Agreement and this Privacy Policy, you can use the relevant functions of Good Doctor Doctor Edition. If you choose not to provide services for implementing the core business functions of Good Doctor Online
+Essential information or necessary information for using a certain type of feature will prevent us from providing that feature to you.
+3.2 Additional business features to assist in providing you with Good Doctor's online products and/or services
+In order to provide you with better quality products and/or services, we may need to collect the following information. If you refuse to provide the following information, it will not affect your normal use of the core business functions described in section 3.2 A of Good Doctor Online, but we are unable to provide you with certain specific functions and services.
+1. Positioning function. When you enable the device positioning function and use the location based recommended referral hospital provided by Good Doctor Doctor Edition, we will collect information about your location.
+2. Payment function. You can provide corresponding medical services online at Good Doctor. In the process of providing this service, you may need to make financial settlement. We may collect your third-party payment account (including Alipay account and WeChat payment account) and bank card information for transfer and withdrawal.
+3. Security guarantee. In order to ensure the security of your account, transactions, and system operation, and to meet the relevant requirements of laws, regulations, and our agreement rules, during your use of our products/services, with your authorization, we will obtain your device information, including device attributes, connection, and status information, such as device model, device identifier (such as IMEI/androidID/IDFA/OPENUDID/UUID, SIM card IMSI, etc.), device MAC address, telecom operator and other software and hardware feature information.
+4. Log information. When you use the products/services we provide, we collect your browsing, searching, clicking, bookmarking, payment, after-sales, following, sharing, publishing and other information and save it as relevant network logs, including your IP address, browser type, language used, operating system version, access date and time, telecom operator, network requests, etc.
+3.3 Sensitive Information
+Before providing any sensitive personal information to Haodafu Online, please carefully consider whether such provision is appropriate and agree that your personal sensitive information may be processed for the purposes and in the manner described in this privacy policy.
+We will collect and use your sensitive information with your consent to achieve functions related to the Good Doctor Doctor Edition business, and allow you to make choices about the collection and use of this sensitive information, but refusing to use this information will affect your use of related functions.
+3.4 Exceptions to obtaining authorization and consent
+According to relevant laws and regulations, we may collect and use necessary personal information without your authorization and consent in the following situations:
+a. Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+b. Directly related to national security and defense security;
+c. Directly related to public safety, public health, and major public interests;
+d. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+e. For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their authorization and consent;
+f. The personal information involved is disclosed by the personal information subject to the public on their own;
+g. Necessary for signing and fulfilling contracts according to the requirements of the personal information subject;
+h. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+i. Necessary for maintaining the safe and stable operation of the provided products or services, such as discovering and handling product or service failures;
+j. Other situations where your personal information should be processed as stipulated by laws, regulations or agreements.
+If you have any questions or need further information regarding the legal basis for our processing of your personal information, please contact us through the contact information provided in the "How to Contact Us" section.
+4. How do we share and transfer your personal information
+4.1 Sharing Your Personal Information
+A. We will not share your personal information with any company, organization, or individual, except in the following circumstances:
+1. Obtain your explicit authorization or consent in advance: After obtaining your explicit consent, we will share your personal information with other parties;
+2. Sharing under legal circumstances: Your personal information needs to be shared in accordance with applicable laws, regulations, legal procedures, government orders, or judicial rulings;
+3. Within the scope required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the interests, property, or safety of Doctor Online, its users, or the general public from harm;
+4. Sharing with our affiliated companies: Your personal information may be shared between our affiliated companies. We will only share necessary personal information, and this sharing is subject to the purposes stated in this privacy policy. If the affiliated company wants to change the purpose of processing personal information, it will seek your authorization and consent again;
+5. Sharing with authorized partners: In order to provide you with more comprehensive and high-quality products and services, some of our services will be provided by authorized partners. We may share some of your personal information with our partners to provide better customer service and user experience. At the same time, we will sign strict confidentiality agreements with our partners, requiring them to process your personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. Our partners have no right to use the shared personal information for any other purpose. If you refuse our partners to collect personal information necessary for providing services, it may result in you being unable to use the third-party service on Good Doctor Online.
+At present, our authorized partners include the following types:
+Authorized partners for analysis services. For partners who analyze data, in order to better analyze the usage of Good Doctor Online users, we may provide them with data on the number, regional distribution, and activity of Good Doctor Online users. However, we will only provide these partners with statistical information that cannot identify individuals (such as "25-year-old male patient located in Beijing");
+Suppliers, service providers, and other partners. We will send information to a global audience
+Suppliers, service providers, and other partners who support our business within the scope (including communication service providers who send text messages on our behalf, and map service providers who provide assistance to us and you to share location data) are subject to the following restrictions on the use of this information:
+Assist us in providing services to you;
+Assist us in fulfilling the purpose stated in the section "Providing Products and/or Services to You" above;
+Fulfill our responsibilities and exercise our rights under this privacy policy, and assist in understanding and improving the services provided by Haodafu Online;
+Provide technical infrastructure services, analyze our services, measure the effectiveness of our services, make payments, or conduct academic research and surveys.
+6. List each situation in which we share your personal information with our partners and third parties:
+Function type: Map class
+Third party SDK name: Baidu Maps
+Usage scenario: Recommend referral hospitals based on the user's location information
+Personal information fields: device related information (IMEI, MAC address), location information
+Third party organization name: Beijing Baidu Online Network Technology Co., Ltd
+Official website link: https://map.baidu.com/
+Privacy Policy Link: https://lbsyun.baidu.com/index.php?title=open/privacy
+Function type: Voice to text conversion
+Third party SDK name: iFlytek
+Usage scenarios: speech to text, text to speech
+Personal information fields: voice information, device related information (IMSI), location information
+Third party organization name: iFlytek Co., Ltd
+Official website link: https://www.iflytek.com/
+Privacy Policy Link: https://www.xfyun.cn/doc/policy/privacy.html
+Function type: Information sharing
+Third party SDK name: Weibo Share
+Usage scenario: Social media accounts that need to share public information in order to complete one click sharing services
+Personal information field: Device related information (IMEI android ID、IDFA）
+Third party organization name: Beijing Weimeng Chuangke Network Technology Co., Ltd
+Official website link: https://weibo.com/
+Privacy Policy Link: https://www.weibo.com/signup/v5/privacy
+Function type: Information sharing
+Third party SDK name: WeChat Share
+Usage scenario: Provide content sharing to third-party platforms based on user selection
+Personal information fields: device related information (IMEI, IMSI, MAC address, Android ID), network information, WeChat account information
+Third party organization name: Shenzhen Tencent Computer System Co., Ltd
+Official website link: https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417751808&token=&lang=zh_CN
+Privacy Policy Link: https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy
+Function type: Information sharing
+Third party SDK name: QQ Share
+Usage scenario: Provide content sharing to third-party platforms based on user selection
+Personal information fields: network information, QQ account information
+Third party organization name: Shenzhen Tencent Computer System Co., Ltd
+Official website link: https://connect.qq.com/index.html
+Privacy Policy Link: https://docs.qq.com/doc/DQVFLeGd4Ym1oTm5P?pub=1&dver=2.1.27013722
+Function type: Information sharing
+Third party SDK name: Youmeng Social Sharing
+Usage scenario: Social media accounts that need to share public information in order to complete one click sharing services
+Personal information fields: device related information (IMEI/Mac/Android ID/IDA/OPENUDID/GUIDE/SIM card IMSI), location information
+Third party organization name: Beijing Ruixun Lingtong Technology Co., Ltd
+Official website link: https://www.umeng.com/
+Privacy Policy Link: https://www.umeng.com/policy
+Function type: Video category
+Third party SDK name: Tencent Cloud Video Service
+Usage scenarios: Uploading and watching live doctor videos, recording and playing short videos, video calls
+Personal information fields: video information (audio, video, image, sound, portrait), device related information (IMEI, IMSI)
+Third party organization name: Tencent Cloud Computing (Beijing) Co., Ltd
+Official website link: https://cloud.tencent.com/
+Privacy Policy Link: https://cloud.tencent.com/document/product/301/11470
+Function type: Video category
+Third party SDK name: Soundnet
+Usage scenario: Online outpatient video conference
+Personal information fields: device related information (device model, operating system information), video information (audio, video, image, sound, portrait)
+Third party organization name: Shanghai Zhaoyan Network Technology Co., Ltd
+Official website link: http://www.agora.io/
+Privacy Policy Link: https://www.agora.io/cn/privacy-policy
+Function type: Third party payment category
+Third party SDK name: Payment
+Bao Pay
+Usage scenario: Transfer and withdrawal
+Personal information field: device related information (IMEI, MAC address, IMSI)
+Name of third party organization: Alipay (Hangzhou) Information Technology Co., Ltd
+Official website link: https://www.alipay.com/
+Privacy Policy Link: https://render.alipay.com/p/c/k2cx0tg8
+Function type: Third party payment category
+Third party SDK name: UnionPay Payment
+Usage scenario: Transfer and withdrawal
+Personal information fields: device related information (IMEI, MAC address, IMSI), location information, phone number
+Third party institution name: China UnionPay Co., Ltd
+Official website link: http://cn.unionpay.com/
+Privacy Policy Link: http://yunshanfu.unionpay.com/privacy/2
+Function type: Third party payment category
+Third party SDK name: WeChat Pay
+Usage scenario: Transfer and withdrawal
+Personal information field: device related information (IMEI, MAC address, IMSI)
+Third party organization name: Shenzhen Tencent Computer System Co., Ltd
+Official website link: https://pay.weixin.qq.com/static/applyment_guide/applyment_index.shtml
+Privacy Policy Link: https://www.tenpay.com/v3/helpcenter/low/privacy.shtml
+Function type: Facial recognition
+Third party SDK name: Megvii Recognition
+Usage scenario: Doctor authentication
+Personal information field: device related information (IMEI, MAC address, IMSI)
+Third party organization name: Beijing Kuangshi Technology Co., Ltd
+Official website link: https://www.megvii.com/
+Privacy Policy Link: https://www.megvii.com/privacy_policy
+Function type: Statistical category
+Third party SDK name: Perspective Treasure
+Usage scenario: Improve customer service system support
+Personal information field: device related information (device model, IMEI, Android ID, IDFA, MAC address)
+Third party organization name: Cloud Wisdom (Beijing) Technology Co., Ltd
+Official website link: https://www.toushibao.com/
+Privacy Policy Link: https://www.toushibao.com/privacy.html
+Function type: Statistical category
+Third party SDK name: Youmeng Mobile Statistics
+Usage scenario: Improve customer service system support
+Personal information fields: device related information (IMEI/Mac/Android ID/IDA/OPENUDID/GUIDE/SIM card IMSI), location information
+Third party organization name: Beijing Ruixun Lingtong Technology Co., Ltd
+Official website link: https://www.umeng.com/
+Privacy Policy Link: https://www.umeng.com/policy
+Function type: Push notification message
+Third party SDK name: Huawei
+Usage scenario: Provide notification information push function for users based on their device model
+Personal Information Fields: Device Information (OAID, AndroidID), Network Type, Device Model, Application Information (Application Name, Application Version Number)
+Third party organization name: Huawei Technologies Co., Ltd
+Official website link: https://developer.huawei.com/consumer/cn/service/hms/pushservice.html
+Privacy Policy Link: https://consumer.huawei.com/cn/privacy/privacy-policy/
+Function type: Push notification message
+Third party SDK name: Xiaomi
+Usage scenario: Provide notification information push function for users based on their device model
+Personal Information Fields: Device Information (OAID, AndroidID), Network Type, Device Model, Application Information (Application Name, Application Version Number)
+Third party organization name: Xiaomi Technology Co., Ltd
+Official website link: https://dev.mi.com/console/appservice/push.html
+Privacy Policy Link: https://dev.mi.com/console/doc/detail?pId=1822
+Function type: Push notification message
+Third party SDK name: VIVO
+Usage scenario: Provide notification information push function for users based on their device model
+Personal Information Fields: Device Information (OAID, Hardware Serial Number), Network Type, Device Model
+Third party organization name: Weiwo Mobile Communication Co., Ltd
+Official website link: https://dev.vivo.com.cn/documentCenter/doc/366#w1 -08185430
+Privacy Policy Link: https://www.vivo.com.cn/about-vivo/privacy-policy
+Function type: Push notification message
+Third party SDK name: OPPO
+Usage scenario: Provide notification information push function for users based on their device model
+Personal Information Fields: Device Information (OAID), Device Model
+Third party organization name: Guangdong OPPO Mobile Communication Co., Ltd
+Official website link: https://open.oppomobile.com/wiki/doc#id=10704
+Privacy Policy Link: https://privacy.oppo.com/cn/polic
+y/
+B. For the purposes mentioned above, the location of any third party mentioned in this "Sharing Your Personal Information" section or the location where your personal information is used may be outside your jurisdiction, including areas where there may be no personal information protection regulations that are substantially similar to or achieve the legal purposes of your jurisdiction;
+C. Tips for sharing information:
+Due to the particularity of healthcare, for the purpose of patient education and assisting other patients, your communication information with patients will be displayed to third parties by default after anonymization and/or de identification processing. In some cases, such information may still be independently cached, copied, or stored by other users or third parties who are not associated with us and are not under our control, or stored in the public domain through other users or such third parties. For example, when you forward your questions on Good Doctor Online to other Internet platforms, the platform may independently display, cache or save your forwarded content, and other Internet users may also forward and save your answers, while the corresponding pages will not be controlled by Good Doctor Online.
+In addition, we will also provide other related functions of Good Doctor Online, allowing you to share and share information in the public domain. For example, the public can access certain social media features in Good Doctor Doctor Edition by accessing blogs or WeChat. You should note that any shared information you share can be read, collected, and used by any third party. Please carefully consider the content of the messages you post and transmit through the Good Doctor Doctor section.
+4.2.  transfer the possession of
+We will not transfer your personal information to any company, organization, or individual unless we obtain your explicit consent.
+If a merger, acquisition, or bankruptcy liquidation occurs, it may involve the transfer of personal information, in which case we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. If there are any changes to the collection and processing of personal information as stipulated in this privacy policy, the company or organization will seek your authorization and consent again.
+4.3.  Exceptions to Authorization Consent for Sharing and Transferring Personal Information
+According to relevant laws and regulations, we may share or transfer your personal information without your authorization and consent in the following situations:
+A. Related to national security and defense security;
+B. Related to public safety, public health, and major public interests;
+C. Related to criminal investigation, prosecution, trial, and execution of judgments;
+D. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+E. Personal information that you disclose to the public on your own;
+F. Personal information collected from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+G. Other circumstances stipulated by laws and regulations or agreed upon by both parties.
+According to legal provisions, sharing and transferring personal information that has undergone de identification processing, and ensuring that the data recipient cannot recover and re identify the subject of the personal information, does not constitute external sharing or transfer of personal information. The storage and processing of such data will not require separate notification to you and your consent.
+5. How do we protect your personal information
+Your personal information security is crucial to us. We will strictly comply with relevant laws and regulations, take reasonable and feasible measures recognized by the industry, and protect your personal information. Prevent unauthorized access, disclosure, use, and modification of information, and avoid information damage or loss.
+5.1 Technical Measures and Data Security Measures
+We strive to adopt various physical, electronic, and management security measures that comply with industry standards to protect the security of your personal information. We actively establish a data classification and grading system, data security management standards, and data security development standards to manage and regulate the storage and use of personal information, ensuring that personal information unrelated to the services we provide is not collected.
+We implement comprehensive security control over data by signing confidentiality agreements, monitoring and auditing mechanisms with information contacts. Prevent unauthorized access, public disclosure, use, modification, damage or loss of your personal information.
+We have implemented security measures that comply with industry standards to protect the personal information you provide, preventing unauthorized access, public disclosure, use, modification, and preventing data damage or loss. We will take all reasonable and feasible measures to protect your personal information. For example, when exchanging data between your browser and Good Doctor Online, it is protected by SSL encryption; We also provide HTTPS secure browsing for the websites mentioned in the "Introduction" of this privacy policy; We will use encryption technology to ensure the confidentiality of data; We will use trusted protection mechanisms to prevent data from being maliciously attacked; We will deploy access control mechanisms to ensure that only authorized personnel can access personal information; And we will hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+5.2 Security Certification
+We have established a good coordination and communication mechanism with regulatory agencies and third-party evaluation institutions to timely resist and deal with various information security threats, providing comprehensive protection for your information security.
+5.3 Security incident handling
+We will try our best to ensure the security of any information you send us, but please understand that due to technical restrictions and various malicious means that may exist in the Internet industry, it is impossible to always ensure the security of information 100%. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control. To prevent safety accidents, we have established a proper warning mechanism and emergency plan. If a personal information security incident unfortunately occurs, we will promptly inform you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you, and immediately activate emergency plans to minimize losses. We will promptly inform you of the relevant situation of the event through phone calls, push notifications, and other means. When it is difficult to inform users one by one, we will adopt a reasonable and effective way to publish announcements.
+At the same time, we will also proactively report in accordance with regulatory requirements
+The handling of personal information security incidents is closely coordinated with the work of government agencies.
+6. Your right to manage personal information
+We attach great importance to your attention to personal information and make every effort to protect your right to process your own personal information, so that you have sufficient ability to safeguard your privacy and security. Your rights include:
+6.1 Accessing and Correcting Your Personal Information
+A. Except as provided by laws and regulations, you have the right to access and correct your personal information at any time, including:
+1. You can log in to "My Center" through www.haodf.com on your computer to access or modify the phone number and email information bound to your username;
+2. You can update your profile picture, date of birth, professional title, teaching title, and update your professional ID information by clicking on "Me → Avatar → Maintain Profile" on the APP;
+B. If you need to access other personal information generated during your use of Good Doctor Online, we will provide it to you upon reasonable request. If you are unable to access or correct your personal information through the above methods, you can also contact us by visiting the "Opinions and Suggestions" section on www.haodf.com or "Contact Xiaoniu Medical Assistance" on the app. We will reply to your visit request on the 15th.
+6.2 Delete Your Personal Information
+A. We provide the following methods on the Good Doctor Doctor App to help you delete some of your relevant information on the Good Doctor Doctor App.
+1. You can delete hospital activities by clicking the delete button in the upper right corner through 【 Me → Promotion and Activities 】;
+2. You can delete your search history on Haodafu Online by clicking 'Clear History Search' under the search bar;
+3. You can delete your browsing history on Good Doctor Online by going to 【 Me → Settings → Clear Cache 】;
+B. If you need to delete any other personal information generated during the use of Good Doctor Online, we will provide it to you upon reasonable request. You can contact us by visiting the "Opinions and Suggestions" section on www.haodf.com or by contacting "Xiaoniu Medical Assistance" on the app. We will reply to your deletion request on the 15th.
+C. In the following situations, you can request us to delete your personal information:
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your consent;
+3. If our handling of personal information violates our agreement with you;
+4. If you have cancelled your Good Doctor online account;
+5. If we terminate our services and operations.
+When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but we will delete this information when the backup is updated.
+If you encounter any problems during the deletion process, please contact us through the "Opinions and Suggestions" section on www.haodf.com or the "Contact Xiaoniu Medical Assistance" section on the app. We will reply to your visit request on the 15th.
+6.3 Change the scope of your authorized consent
+Each business function requires some basic personal information to be completed (see Section 3 of this Privacy Policy). For the collection and use of your personal information, you can give or revoke your authorization and consent at any time through the following methods.
+You can protect your privacy by going to 【 Settings → Set Privacy Password 】;
+You can turn on or off 'Notification Push' by going to 'Settings>Push Notification Settings'.
+After you withdraw your consent, we will no longer process the corresponding personal information. However, please understand that when you withdraw your consent or authorization, we cannot continue to provide you with the specific functions and/or services corresponding to the withdrawal of consent or authorization. But your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization.
+6.4 Device Permission Call
+In order to provide more convenient and high-quality services and strive to enhance your experience, we require you to grant the following device permissions in the services we offer you.
+Based on phone (device information) services: We will enable phone permissions for you to use the app normally. We use device identification codes for statistics and account security risk control.
+Based on storage permission services: We will enable storage permission for you to use the app normally. You can upload medical records, photos of your condition, and imaging materials for better consultation services, or contact customer service to upload medical record information.
+Additional services based on location information: We will access and obtain your location information after you have enabled location permissions, and provide you with recommended hospitals for referral based on your location information.
+Additional services based on camera/camcorder: You can use this feature to video with patients after enabling camera/camcorder permissions.
+Additional services related to microphone based voice technology: You can use the microphone to make video calls with patients and leave messages after enabling microphone permissions.
+Calendar based additional services: You can use the schedule function after enabling calendar permissions to remind you of your work schedule.
+Additional services based on dialing and making phone calls: You can contact customer service by dialing after enabling the dialing permission.
+Additional function based on floating window: You can continue to maintain video consultation calls on other program pages through the floating window function.
+Bluetooth based service: You can use Bluetooth earphones for voice playback and video calls.
+You understand and agree that the above services may require you to enable access to your phone (device information), storage (images), location information (geographic location), camera (camera), microphone (voice), calendar, Bluetooth, and making phone calls on your device to collect and use the information involved in these permissions. You can view the status of the above permissions in your device settings and decide whether to turn them on or off at any time. Please note that by granting any permission, you authorize us to collect and use relevant personal information to provide you with corresponding services. Once you close any permission, it means that you have cancelled the authorization. We will no longer continue to collect and use relevant personal information based on the corresponding permission, nor will we be able to provide you with the services corresponding to that permission. However, your decision to close permissions will not affect the previous decisions based on your
+Authorize the collection and use of information.
+6.5 Cancel your account
+If you need to cancel your Good Doctor online account, you can directly cancel your account in the product by going to: Me>Settings>Select "Cancel Account". After you cancel your account, we will stop providing you with products or services and delete your personal information according to your request, except as otherwise provided by laws and regulations or agreed upon by both parties.
+After your successful cancellation, we will delete your personal information or anonymize it as soon as possible in accordance with legal requirements.
+6.6 Obtaining a copy of personal information
+You have the right to obtain a copy of your personal information. You can contact us by visiting "Opinions and Suggestions" on www.haodf.com or "Contact Xiaoniu Medical Assistance" on the app. We will process your request within 15 days.
+6.7 Constrained Information System Automatic Decision Making
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. For example, recommending topics or disease knowledge that you may wish to learn about.
+If these features significantly affect your legitimate rights and interests, you can contact us by visiting "Opinions and Suggestions" on www.haodf.com or "Contact Xiaoniu Medical Assistance" on the APP. We will process your request within 15 days without infringing on the trade secrets or other user rights and public interests of Haodafu Online.
+6.8 Responding to your above request
+To ensure security, we may first require you to verify your identity before processing your request. You may need to provide a written request or prove your identity in other ways. We will respond to your request within 15 days in principle.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are highly impractical (such as involving information stored on backup tapes).
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+1. Directly related to national security and defense security
+2. Directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. There is sufficient evidence to indicate that you have subjective malice or abuse of power;
+5. Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests.
+6. Involving trade secrets.
+7. Notice We Issued
+7.1.  Notification and other types of communication
+When you use the Good Doctor Doctor Edition service, we can use your personal information to send push notifications to your device.
+You can choose whether to accept our push notifications through 【 Settings → Push Notification Settings 】.
+7.2.  Announcement related to services
+We may issue some service related announcements to you from time to time when we deem it necessary (such as when we suspend the Good Doctor Edition service for repairs). You are not allowed to cancel these service related announcements that are not promotional in nature.
+8. Storage of your personal information
+We will store the information obtained from within the territory of the People's Republic of China. If there is a cross-border transmission of data, we will inform you separately through pop ups or emails of the purpose and recipient of the data export, and obtain your authorization and consent. We will ensure that the data recipient has sufficient data protection capabilities to protect your personal information.
+We promise that the storage time of your personal information will always be within a reasonable and necessary period. The personal information collected under the browsing only function, such as browsing history and IP information, will not be stored for more than one month. For personal information that exceeds the deadline, we will immediately delete or anonymize it.
+If we cease operations due to poor management or other reasons, we will immediately stop collecting your personal information and delete the collected personal information. We will announce this situation on the website or communicate it to each user through internal messages, emails, and other reasonable means.
+9. How do we use cookies and other tracking technologies
+When you use our services, we store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. We use this information to determine whether registered users have logged in, improve service/product quality, and optimize user experience. If you do not want personal information to be stored in cookies, you can configure your browser and choose to disable the cookie function. After disabling the cookie function, it may affect your access to Good Doctor Online or prevent you from fully accessing the services provided by Good Doctor Online.
+We will not use cookies for any purposes other than those described in this privacy policy. You can manage or delete cookies according to your preferences. You can clear all cookies saved on your computer, and most web browsers have a feature to block cookies.
+10. How do we handle the personal information of minors
+10.1 Good Doctor's online services are mainly aimed at adults. Our products, website, and services are primarily aimed at adults. If you are a minor under the age of 18, you should read this privacy policy with your guardian before using our products and/or services, and ensure that you have obtained the consent of your guardian before using our services and providing us with your information. We will focus on protecting the personal information of minors in accordance with relevant national laws and regulations.
+10.2 If your guardian does not agree to your use of our services or provision of information to us in accordance with this privacy policy, please immediately terminate your use of our services and notify us promptly.
+10.3 In the case of collecting personal information of minors with the consent of their parents or legal guardians, we will only
+The use or public disclosure of this information is permitted by law, with the explicit consent of parents or guardians, or is necessary to protect minors.
+10.4 If you are the guardian of a minor, please contact us promptly if you have any questions about the use of our services or the user information provided to us by the minor under your guardianship. We will protect the confidentiality and security of information of underage users in accordance with relevant national laws and regulations and the provisions of this privacy policy. If we find that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will try our best to delete the relevant data as soon as possible.
+11. How to update and modify this privacy policy
+11.1 This privacy policy is an important component of the Good Doctor Online Service Agreement. Haodafu Online reserves the right to update or modify this privacy policy from time to time.
+11.2 Without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. We will notify you through reasonable means such as app client push notifications, pop ups, etc., so that you can be informed of any changes made to this privacy policy in a timely manner.
+11.3 For significant changes, depending on the specific circumstances, we may provide more prominent notices explaining the specific changes to this privacy policy. Major changes include but are not limited to:
+A. Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+B. We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+C. The main objects of personal information sharing, transfer or public disclosure have changed;
+D. There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+E. Our responsible department, contact information, and complaint channels for handling personal information security have changed;
+F. When the personal information security impact assessment report indicates the presence of high risks.
+11.4 If you do not agree to the revised privacy protection policy, you have the right and should immediately stop using the services of Haodafu Online. If you continue to use the services of Good Doctor Online, it will be deemed that you have accepted the modifications made by Good Doctor Online to the relevant terms of this privacy policy.
+12. How to contact us
+When you have any questions about this privacy policy, you can contact us through security-alert@haodf.com Or contact us through the 'Contact Customer Service' feature on the app. We have established a dedicated department for personal information protection to promptly address your concerns. Normally, we will reply within fifteen days.
+13. Dispute Resolution
+13.1.  Any disputes arising from this privacy policy and our handling of your personal information may be brought to the Chaoyang District People's Court in Beijing.
+13.2 If you believe that our personal information processing has harmed your legitimate rights and interests, you may also report to the relevant government departments.
+14. Noun Explanation
+The terms used in this privacy protection policy are generally defined as follows:
+1. Personal information: Personal information refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the personal identity of a natural person, including but not limited to the person's name, date of birth, ID number, personal biometric information, address, phone number, etc.
+2. Personal sensitive information: Personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, easily lead to damage to personal reputation, physical and mental health, or discriminatory treatment. For example, personal sensitive information includes ID number, personal biometric information, bank account number, communication content, health and physiological information, etc.
+3. Equipment: Equipment refers to devices that can be used to access Good Doctor's online products and/or services, such as desktop computers, laptops, tablets, or smartphones.
+4. Unique Device Identifier: A unique device identifier (unique ID or UUID) refers to a string of characters encoded into a device by the device manufacturer, which can be used to uniquely identify the corresponding device (such as the IMEI number of a mobile phone). The unique device identifier has multiple uses, among which it can be used to provide advertisements when cookies cannot be used (such as in mobile applications).
+5. IP address: Each Internet connected device will be assigned a number called Internet Protocol (IP) address. These numbers are usually assigned based on geographic regions. IP addresses are often used to identify where a device is connected to the Internet.
+6. SSL: SSL (Secure Socket Layer), also known as Secure Socket Layer, is a secure protocol implemented over the Transmission Protocol/IP (TCP/IP). SSL supports various types of networks and provides three basic security services, all of which achieve information confidentiality through the use of public key and symmetric key technologies.
+7. Information collection technology: The "automatic collection" mentioned in this privacy policy includes the following methods:
+A. Cookie is a small text file that the website server places on the client (your computer, mobile phone, or other smart terminal) when you browse a webpage. When you visit the corresponding website again, the website can recognize your browser through the cookie. Cookies may store user preferences and other information. You can configure your browser to reject all cookies or display a prompt when a website sends cookies. However, without cookies, certain website features or services may not function properly. Please refer to the 'Good Doctor Online Cookie Policy' for details.
+B. Web beacon is an electronic image file or other technology embedded in a website or email, which can be used to calculate the number of visitors, record whether and when you view emails or websites, or to use certain cookies.
+C. Log files are automatically stored and collected
+Several sets of data. Such data includes Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), reference/exit page, operating system, date/time stamp, click stream data, etc.
+D. ET Tag (Entity Tag) ET Tag is the HTTP protocol header transmitted behind the Internet browser and Internet server, which can replace cookies to track individual users, so that we can better understand and improve our services.
+E. JavaScript is a programming language used to create more interactive and dynamic web pages. JavaScript can set cookies, read cookies, and delete cookies.
+8. Affiliated company: refers to any company or institution that one party currently or in the future controls, is controlled by, or is under common control with. 'Control' refers to the ability to directly or indirectly influence the management of the mentioned company, whether through ownership, voting shares, contracts, or other legally recognized means.
+9. Algorithm: The process or series of rules that a computer follows when performing problem-solving operations.
+10. Application data caching: Application data caching refers to a data storage mechanism on a device. There are many advantages to using it, for example, network applications can run without connecting to the Internet, and the performance of related applications can be improved by increasing the speed of content loading.
+11. Using a browser for network storage: The mechanism of "using a browser for network storage" allows websites to store data in the browser on the device. If this mechanism is used in 'local storage' mode, data can be stored in each session. In this way, even after closing and reopening the browser, users can still access the corresponding data. One of the technologies that helps to implement network storage is HTML 5.
+12. Account: As long as you register an account and provide us with some personal information (as described in section 3.1 of this privacy policy), you can use our services. When you access Good Doctor Online, the system will use this account information to verify your identity and prevent unauthorized personnel from accessing your account.
+13. Non personally identifiable information: Information related to the user that is recorded but cannot directly or indirectly identify your identity, including personal information provided through de identification, anonymization, or pseudonymization.
+14. De identification: refers to the process of using technical processing of personal information to make it impossible to identify the subject of personal information without the need for additional information.
+15. Anonymization: refers to the process of using technology to process personal information so that the subject of personal information cannot be identified and the processed information cannot be restored.
+16. Server logs: Like most websites, our server automatically records the web page requests you make when accessing the website. These "server logs" usually include your network request, Internet protocol address, browser type, browser language, date and time of the request, and one or more cookies that can uniquely identify your browser.

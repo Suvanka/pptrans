@@ -1,0 +1,342 @@
+Sohu Video Privacy Policy
+Update Date: December 26, 2023
+Effective Date: December 26, 2023
+Dear user, welcome to download, install, launch, browse, register, log in, and use (hereinafter collectively referred to as "use") Sohu Video. We will collect, store, use, share, disclose and protect your personal information in accordance with the "Sohu Video Privacy Policy" (hereinafter referred to as "this Privacy Policy"). Please be sure to carefully read and understand all the terms of this Privacy Policy before using Sohu Video, so that you can make appropriate choices.
+In addition to this policy, in specific scenarios (such as updates to this Privacy Policy), we will also inform you of the processing purpose, method, scope, and other rules of the corresponding information through pop ups, push notifications, internal messages, website announcements, or other appropriate forms that comply with legal requirements, and will process the corresponding information with your consent (if applicable). The aforementioned notice constitutes a part of this Privacy Policy and has the same legal effect as this Privacy Policy.
+catalogue
+1、 Reading Tips
+2、 Introduction
+3、 Main text
+（1） We collect and use your personal information for different types and purposes
+（2） How do we use cookies and similar technologies
+（3） How do we store your personal information
+（4） How do we share, transfer, and publicly disclose your personal information
+（5） How do we protect your personal information
+（6） Your rights
+（7） How do we protect the personal information of minors
+（8） How to update this Privacy Policy
+（9） How to contact us
+1、 Reading Tips
+（1） By reading this Privacy Policy, you will understand that:
+Who is' we ', how to contact us, and what business functions does Sohu Video have; The type and purpose of personal information we collect from you during your use of Sohu Video, and the consequences of your refusal to provide personal information; What is cookie; Your personal information storage location and duration; How do we share, disclose, and transfer your personal information; What measures have been taken to protect the security of your personal information; How do you query and delete personal information, change the scope of authorization and consent, cancel your account, manage targeted push notifications, and obtain copies of personal information; How to file a complaint or submit suggestions; How to update this Privacy Policy.
+（2） When reading this Privacy Policy, please pay special attention to:
+1. The proprietary term with blue font color. This means that we will further explain the meanings of these terms at the end of this Privacy Policy.
+2. Use a combination of bold and italics to prominently identify content that belongs to your sensitive personal information.
+3. The use of bold and underline to prominently indicate content that requires your special attention or emphasis.
+（3） This Privacy Policy has been updated with the following content compared to the previous version:
+Adjustment of descriptive content in the copy
+2、 Introduction
+（1） The term 'we' in this Privacy Policy refers to the operator of Sohu Video.
+1. The basic information of the companies we mainly operate is as follows:
+Company name: Beijing Sohu Internet Information Service Co., Ltd;
+Registered address (commonly used office address): 1101, 11th floor, Building 3, No. 2 Academy South Road, Haidian District, Beijing;
+2. Sohu Group refers to an enterprise group including Beijing Sohu Internet Information Service Co., Ltd., Beijing Sohu New Media Information Technology Co., Ltd., Feihu Information Technology (Tianjin) Co., Ltd., Guangzhou Qianjun Network Technology Co., Ltd., Beijing Focus Interactive Information Service Co., Ltd. and its affiliated companies. Affiliated companies refer to enterprises that currently or in the future have the ability to directly or indirectly control, jointly control, or exert significant influence over one party, as well as two or more parties that are under the control, joint control, or significant influence of the same party. The term 'control' here refers to the ability to directly or indirectly influence the management of the company in question, whether through ownership, shares with stock rights, contracts, or other means.
+（2） Scope of application of this Privacy Policy
+1. This Privacy Policy is the rules for the collection, use, storage, external provision of personal information, and the rights of personal information subjects provided by Sohu Video's products/services.
+2. This privacy policy does not apply to information and/or third-party services (including any third-party applications, websites, products, services, etc.) contained in or linked to our products and/or services, which are operated by third parties. Your use of such information and/or services is subject to the personal information collection and use rules separately explained to you by the third party. Please be informed that once you leave Sohu Video and browse or use other products or services provided by third parties, we will have no ability or direct obligation to protect any personal information you submit to third parties, regardless of whether your login, browsing or use of the above products or services is based on Sohu Video's links or guidance.
+（3） The effectiveness of this Privacy Policy
+When you first use or log in/register for an account, we will display this Privacy Policy through pop ups or other appropriate forms that comply with legal requirements, informing you of the rules for handling personal information. If you agree to our processing of your personal information in accordance with this Privacy Policy after fully reading and clearly understanding all the terms of this Privacy Policy, you can check or click "Agree" to this Privacy Policy and start using our products/services. But this does not mean that as soon as you start using our products/services, we will immediately collect all the personal information contained in this Privacy Policy. Only when you enable or use a certain function of Sohu Video through autonomous behavior such as browsing, actively filling out, clicking, etc., will we collect and use the corresponding personal information in accordance with this Privacy Policy, combined with the principle of "minimum necessity", in order to achieve clear and reasonable purposes. At the same time, in specific functional scenarios, you may refuse to provide corresponding personal information, but this may result in you being unable to use specific functions. We will provide relevant explanations in this policy to help you make better choices.
+If you do not agree with the content of this Privacy Policy, you can check or click "Disagree" to this Privacy Policy
+If you refuse to accept this Privacy Policy, you can exit Sohu Video.
+3、 Main text
+（1） We collect and use your personal information for different types and purposes
+1. Register and log in to Sohu Video
+(1) Information necessary for registration and login functions
+If you want to activate membership, record and upload videos, make appointments and other functions, you need to register/log in to Sohu Video. We will collect the following personal information based on your registration/login method:
+If you use a mobile verification code to register/log in, you will need to provide us with your phone number proactively.
+Your email account, phone number, and password (which we use irreversible encryption technology and cannot access) are personal information that you voluntarily provide to us when you choose to register/log in with your Sohu account.
+Third party application accounts (WeChat, QQ, Weibo, Alipay, Baidu), nicknames and avatars (please refer to the information displayed on the authorized login interface) are the ones you choose to register/log in with a third party account and authorize Sohu AV to read the above information you registered with the third party account.
+If you do not provide this information, you will not be able to register/log in to Sohu Video and will not be able to use the functions that require registration/login, but it will not affect your normal use of the functions that do not require registration/login.
+(2) Choose comprehensive information independently
+After logging in, you can complete your personal information. Once you select, edit, and fill in your personal information, it is considered that you agree to provide it. Please provide it carefully. You can complete personal information including changing avatars, changing nicknames, filling in personal signatures, selecting gender, setting birthdays, setting commonly used email addresses, mailing addresses, postal codes, residential cities, interests, and movie fan profiles, filling in education and career information.
+(3) One click login service
+To facilitate our provision of consistent services to you, all associated versions of Sohu Video use a unified Sohu Video account system. For your convenience in logging in, we will synchronize your avatar and username (only between tv.sohu.com on PC and Sohu Video) to achieve one click login function.
+2. Recommend personalized information or services for you
+To provide you with personalized information or services, we collect and use your following personal information:
+(1) Your viewing, bookmarking, and search history.
+(2) The behavior information of liking, sharing, following, and commenting that you actively provide.
+(3) Automatically collected IP addresses.
+We will analyze the above information comprehensively and use it to display, recommend or push information or services that you may be interested in:
+(1) Show, recommend, or push videos that are more relevant to you and of greater interest to you;
+(2) Based on rough judgment of IP addresses, recommend videos related to cities and regions;
+(3) Recommend programmatic ads that are more relevant to you.
+You can refuse to provide the above information by not viewing, bookmarking, searching, liking, sharing, following, or commenting. If you do not provide bookmarking or other behavioral information, the consequence is that the information or services we display, recommend, or push to you will reduce accuracy and relevance, but it will not affect your normal use of other functions.
+3. Search
+You can search for videos through text.
+When you type in text search, we collect your search keyword information and search history to provide you with the best way to display search results, and to enable us to continuously improve and optimize the above features; At the same time, we will form a hot search list based on the accumulated search history and display it below the search box.
+4. Open membership
+You can become a member of Sohu Video by activating the membership function. After becoming a member of Sohu Video, you can enjoy membership benefits, renewal discounts, and obtain a prestigious status. Some videos can be watched first, some videos are ad free, and 1080P picture quality is available.
+When using the function of activating members, we need to use one of the mobile phone number information of WeChat payment account, Alipay account, JD payment, and mobile phone charges (you can choose the payment method independently). If you refuse to use it, the function of activating members cannot be used, but it does not affect the normal use of other non member functions.
+5. Publish a video
+You can use the upload video function to upload and publish some videos to Sohu Video. After you post your video, we will collect and store your video to provide video viewing functionality to other users.
+6. Shared cloud broadcasting
+You can use the Sohu Video Share Cloud Broadcast feature to create and share your shared cloud broadcast videos. When you create a shared cloud video, we will access the video files you have selected to create your shared cloud video playlist, but we will not store, upload, backup, or download your aforementioned video files.
+7. Exceptions to obtaining consent
+When there is a change in the scope, purpose, or method of processing personal information based on this Privacy Policy, we will inform you again and obtain your consent. But please be fully aware that the following situations do not require your authorization and consent:
+(1) Related to national security and defense security;
+(2) Related to public safety, public health, and major public interests;
+(3) Related to criminal investigation, prosecution, trial, and execution of judgments; Or according to the requirements of laws and regulations, as well as the demands of administrative agencies or competent authorities such as public security, procuratorial and judicial organs;
+(4) Necessary for us to fulfill our legal duties or obligations;
+(5) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(6) Process your personal information that you have publicly disclosed or have lawfully disclosed within a reasonable scope in accordance with the law;
+(7) Necessary for the conclusion or performance of a contract to which you are a party;
+(8) To carry out news reporting, public opinion supervision and other actions for the public interest, and to process your personal information within a reasonable range;
+(9) Other circumstances stipulated by laws and regulations.
+Please understand and agree that if your information (such as search keyword information) cannot be individually or in combination with other information to identify your personal identity, it does not constitute your personal information in the legal sense; Only when your information can be used alone or in combination with other information to identify your personal identity, will it be used as your personal information during the period of combined use
+Handle and protect in accordance with this Privacy Policy.
+（2） How do we use cookies and similar technologies
+During your use of our products/services, we will use cookies and similar technologies to automatically collect your information and store it as log information. You can clear cookies saved on your computer or enable the Do Not Track feature, which is available on most web browsers. For more information, please refer to AboutCookies.org. However, please note that if you clear the cookies saved on your computer or enable the Do Not Track feature, this will prevent us from providing you with a complete product/service. The collection and usage purposes are shown in the table below:
+Various uses of cookies
+Specific description
+authentication
+Cookies notify us when you log in to our products/services, so that we can provide services and experiences that are suitable for you.
+Scenario example: When you open Sohu Video, a cookie will notify us, allowing us to recognize whether you have securely logged into the product/service and display information that is only relevant to you.
+Record your preference settings
+Cookies can record your personalized layout format, appearance design, and other personal settings, which helps us provide services that meet your individual needs.
+Scenario example: We use cookies to record whether you have read the content or prompts we push to you, in order to avoid resending, and to help store your parameter settings (such as font size), which can be automatically adjusted to your preferences when you use the relevant services again.
+security
+We use cookies to protect your personal information and the security of our services, and to prevent fraud, criminal or other suspected criminal activities.
+Scenario example: Cookies can identify whether you are logged into our service from our normal location and prevent your data from being stolen, identifying theft behavior.
+Optimize services
+We use cookies to perform our service functions and enhance related features.
+Scenario example: Cookies can help us pre fill in your account data, making it easier for you to use our services.
+Cookies can record your use of our products/services to ensure that we display and push you content that interests you more.
+increase of efficiency
+We use these cookies to improve the speed, performance, and efficiency of our services.
+Scenario example: These cookies facilitate the flow of router information between servers and verify the posting speed of different users using our services. We sometimes use cookies to temporarily store data locally on your client, in order to speed up the posting and response time when you use our services.
+Analysis and research
+We use cookies to track our service performance and improve our service level, and cookies also provide us with reference data for developing new features.
+Scenario example: Cookies give us a deeper understanding of how to use our services, thus helping us improve the experience for you and other users. This type of data includes the time you spend logging into our services for each program, what programs you use our services for, and which web pages and features you have viewed and used while using our services.
+Improve advertising promotion
+We use cookies to improve advertising and ensure that these services meet your needs.
+Scenario example: Cookies allow us to display promotional information that is more suitable for you and track whether you have read advertising campaigns within our services and subsequently entered the corresponding advertiser's webpage, in order to calculate the click through rate of advertisements, which serves as one of the basis for our settlement with advertisers.
+（3） How do we store your personal information
+1. Storage area
+We store the personal information collected during our operations within the territory of the People's Republic of China in accordance with laws and regulations, and we will not transmit the above information overseas.
+2. Storage period
+We consider the following three factors comprehensively to determine the period for storing your personal information:
+(1) The minimum storage period stipulated by law includes:
+Article 21 of the Cybersecurity Law: Network operators shall adopt technical measures to monitor and record network operation status and network security incidents, and retain relevant network logs for no less than six months in accordance with regulations.
+Article 31 of the Electronic Commerce Law: E-commerce platform operators shall record and preserve the information on goods and services, as well as transaction information published on the platform. The retention period for such information shall not be less than three years from the date of completion of the transaction.
+L Paragraph 2 of Article 14 of the Measures for the Administration of Internet Information Services: Backup records of Internet information service providers and Internet access service providers shall be kept for 60 days.
+(2) For the minimum period necessary to provide Sohu Video products/services, if you use the Qianfan live streaming function after registering/logging in with your phone number, we will continue to save your phone number during the period you provide and use the function, in order to provide you with the function normally.
+(3) The retention period for fulfilling other legal obligations, such as according to Article 13 of the "Regulations on the Protection of the Right to Information Network Communication": "In order to investigate and punish acts that infringe on the right to information network communication, the copyright administrative department may require the network service provider to provide the name, contact information, network address and other information of the suspected infringing service object." We need to provide the copyright administrative department with the name, contact information and other information of the suspected infringing service object.
+After exceeding the above-mentioned personal information retention period, we will delete or anonymize your personal information.
+（4） How do we share, transfer, and publicly disclose your personal information
+We are aware of the corresponding legal responsibilities for sharing, transferring, and publicly disclosing your personal information to external parties, and will implement them in accordance with the following rules:
+1. Sharing
+We will not share your personal information with third-party companies, organizations, or individuals, except in the following circumstances:
+(1) You made your own request.
+(2) Obtained your explicit consent.
+（3
+）According to laws, administrative regulations, departmental rules, or mandatory requirements proposed by government departments.
+(4) Necessary sharing within Sohu Group.
+We will only share necessary personal information and are bound by the purposes stated in this Privacy Policy. If you want to change the purpose of processing personal information, we will seek your authorization and consent again.
+(5) Sharing with authorized partners: For the purposes stated in this Privacy Policy, we may share certain personal information with our partners to provide better customer service and user experience. We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. Our partners have no right to use the shared personal information for any other purpose. Our partners include:
+Partners providing payment services: To meet your withdrawal needs, we will share necessary information with our payment partners.
+Partners providing third-party login services: In order to enable you to log in using a third-party account, we will share your necessary information with the partner providing the service.
+Partners who provide data services (including data statistics and analysis): In order to maintain/improve our products/services and provide you with better content, we will share your necessary information with the partners who provide this service to track the usage of our products/services.
+Partners who provide technical services: We will share your necessary information with the partners who provide this service to collect and analyze any bugs, crashes, lagging, or other issues that users may encounter while using our products, in order to maintain/improve our products/services.
+We share information with the aforementioned partners that cannot directly identify your personal identity, and we will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this Privacy Policy, and any other relevant confidentiality and security measures. If we share personal information that can directly identify you (such as mobile phone number, ID number, etc.), we will get your consent again.
+2. Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+(1) Obtained your explicit consent;
+(2) When it comes to mergers, acquisitions, reorganizations, spin offs, bankruptcy liquidation, asset transfers, or similar transactions involving the transfer of personal information, we will inform you of the name and contact information of the new company or organization holding your personal information, and will require the new company or organization holding your personal information to continue to be bound by this Privacy Policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+3. Public disclosure
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+(1) The disclosure method and scope of personal information disclosed have obtained your consent;
+(2) Disclosure based on legal provisions: In cases where laws, regulations, lawsuits, or mandatory requirements from government authorities require disclosure, we may publicly disclose your personal information, but we will verify whether the aforementioned institutions have corresponding legal, regulatory, or other legal documents, such as subpoenas or investigation letters.
+4. Exceptions to obtaining consent
+Please be fully aware that in the following situations, sharing, transferring, or publicly disclosing your personal information does not require your prior authorization and consent:
+(1) Directly related to national security and defense security;
+(2) Directly related to public safety, public health, and major public interests;
+(3) Directly related to criminal investigation, prosecution, trial, and execution of judgments; Or according to the requirements of laws and regulations, as well as the demands of administrative agencies or competent authorities such as public security, procuratorial and judicial organs;
+(4) Necessary for us to fulfill our legal duties or obligations;
+(5) Necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+(6) Sharing, transferring, and publicly disclosing your personal information that you have publicly disclosed or have lawfully disclosed within a reasonable scope in accordance with the law;
+(7) Necessary for the conclusion or performance of a contract to which you are a party;
+(8) Sharing, transferring, and publicly disclosing your personal information within a reasonable scope for the implementation of news reporting, public opinion supervision, and other actions for the public interest;
+(9) Other circumstances stipulated by laws and regulations.
+（5） How do we protect your personal information
+1. We attach great importance to the security of your personal information and have implemented the following industry standard security measures to protect your personal information from improper use or unauthorized access, public disclosure, use, modification, damage, loss, or leakage:
+(1) We have established a data security and permission management system: implemented a permission authorization system that divides executable permissions into the smallest particles, and distinguished different permission levels based on the roles of access requirements; We have implemented a permission authorization system that distinguishes access execution actions, and have broken down personal information access actions into multiple specific operational permissions such as query, modification, cancellation, and unbinding; We will record the process of initiating and approving access permission applications, as well as the login and operation logs of visitors.
+(2) We have taken multiple security measures: we require access personnel to access through the intranet; Established a data classification management system to encrypt and store sensitive personal information; Implement a dual backup mechanism for multiple data centers; Use trusted protection mechanisms to prevent malicious attacks on your personal information.
+(3) We have developed an emergency response plan for security incidents and immediately activated it in the event of a user information security incident, striving to prevent the impact and consequences of such security incidents from expanding. Once a user information security incident (leakage, loss, etc.) occurs, we will promptly inform you of the relevant information in the form of push notifications in accordance with legal requirements. If it is difficult to inform you one by one, we will adopt reasonable and effective methods to publish announcements. At the same time, we will also report user information security issues in accordance with relevant regulatory requirements
+The disposal status of the item.
+2. Although the above reasonable and effective measures have been taken and the standards required by relevant laws and regulations have been complied with, please understand that because the Internet environment is not 100% secure, and because of technical restrictions and possible malicious means, even if we try our best to strengthen the security measures, it is impossible to always guarantee the security of information 100%. We will try our best to ensure the security of the personal information you provide us. You acknowledge and understand that the system and communication network you use to access our services may experience issues due to factors beyond our control. Therefore, we recommend that you take proactive measures to protect the security of your personal information, including but not limited to using complex passwords, regularly changing passwords, and not disclosing your personal information such as account passwords to others.
+（6） Your rights
+1. View personal information
+(1) You can view your video playback history on Sohu Video by clicking on your profile picture in the personal center and then going to the viewing history;
+(2) You can view your favorite videos on Sohu Video by clicking on "Avatar", then "Personal Center", and finally "My Favorites";
+(3) You can view the videos you have downloaded by clicking on "Avatar" in Sohu Video, then selecting "Personal Center" and "My Download";
+(4) You can view the videos you have uploaded by clicking on your profile picture in the personal center of Sohu Video;
+(5) You can view the videos shared on your local area network on Sohu Video - Share Cloud Play;
+(6) You can check your membership status by clicking on your avatar in the personal center of Sohu Video;
+2. Delete personal information
+(1) You can delete your video playback history by clicking on "Avatar" in "Personal Center" in Sohu Video;
+(2) You can delete your favorite videos on Sohu Video by clicking on "Avatar", then "Personal Center", and finally "My Favorites";
+(3) You can delete the videos and download source files you downloaded by clicking on "Avatar" in "Personal Center" under "My Download" on Sohu Video;
+(4) You can upload videos and delete the video works you have posted on Sohu Video by clicking on your profile picture in the personal center;
+(5) You can delete your shared videos on Sohu Video - Share Cloud Play;
+If our handling of personal information violates laws and regulations;
+If we collect and use your personal information without your consent;
+If our handling of personal information violates our agreement with you.
+You can request the deletion of your personal information based on the above reasons through the following path.
+Official QQ group: 435505340, or through
+(1) Sohu Video in the upper left corner of the client - Submit feedback issue
+(2) Client Right Side Issue Feedback Floating Window - Submit Feedback Issue
+3. Correction of personal information
+You can access the Sohu Video web version by visiting it（ https://tv.sohu.com ）Correct your personal information. The specific path is as follows:
+(1) You can modify your nickname, gender, birthday, email, city of residence, mailing address, postal code, signature, education information, occupation information, interests and hobbies, and fan profile through Sohu Video web version - click on avatar - modify information - account settings - basic information;
+(2) You can modify your profile picture through Sohu Video web version - click on profile picture - modify information - modify profile picture;
+(3) You can change your login password and bound phone number through Sohu Video web version - click on avatar - modify information - account settings - account security;
+(4) You can modify who can send me private messages by clicking on the profile picture, modifying information, account settings, and privacy settings on Sohu Video web version;
+(5) You can modify email reminders by clicking on the profile picture, modifying information, subscribing settings, and accessing the Sohu Video web version;
+(6) You can modify and bind to Sina Weibo by clicking on the profile picture, modifying information, and synchronizing settings on the Sohu Video web version.
+4. Revoke your authorization
+(1) You can revoke your authorization by deleting information through Section 3 (6) of this Privacy Policy.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services and functions corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+5. Path to account cancellation
+You can apply to cancel your Sohu Video account or apply to cancel your Sohu Pass. Once you cancel your Sohu Video account, you will not be able to use Sohu Video's services with this account. All rights and benefits that have been generated but not fully consumed during the use of Sohu Video's products and services, as well as future expected benefits, will be cleared, but it will not affect your use of other products of Sohu Group through the Sohu Pass. We will delete your personal information or anonymize it in accordance with the principles determined in Article 3 (3) 2 of this Privacy Policy. The above cancellation actions and consequences are irreversible, so please proceed with caution.
+If you cancel your Sohu Pass, you will not be able to log in to all Sohu products using your current login account. Please first confirm if there are any important assets in your account, clear any content that needs to be deleted, cancel all contract deductions, and then proceed with the cancellation;
+If you need to apply to cancel your Sohu Video account, you can go to "Sohu Video - Account and Security - Account Cancellation" (Windows), "Sohu Video - Personal Center - Settings - Account and Security - Cancel Account" (Mac), and the page prompts you to cancel your account. We will provide feedback within 15 working days.
+For the process, impact, and review content of account cancellation, please refer to Attachment 1 of the Sohu Account Cancellation Agreement.
+6. Manage your targeted push notifications
+You can manage and select your 'targeted push' in the following ways:
+(1) Sohu Video - Video bottom right corner - Not interested;
+(2) Delete relevant information in accordance with Section 3 (6) of this Privacy Policy;
+Your above actions can enable you to independently control the personal information relied upon for personalized short video display, giving you the ability to regulate the degree of relevance of personalized short video display.
+7. Stop operation
+If we stop shipping
+We will promptly cease the activity of collecting your personal information, notify you of the cessation of operation in the form of a public announcement, and delete or anonymize the personal information we hold about you.
+8. Obtain a copy of personal information
+The scope of your request to obtain a copy of personal information includes: mobile phone numbers, Sohu accounts, avatars, nicknames, and genders that you voluntarily provide or fill in according to Article 3 (1) of this Privacy Policy.
+Please send an email to fankui@sohu-inc.com . After receiving the email, customer service will verify your identity and relevant information. Once the verification is complete, a copy of the personal information mentioned above will be sent to you online.
+9. Rights of close relatives of the deceased
+If a Sohu Video user unfortunately passes away, their close relatives can contact us through the contact information disclosed in this Privacy Policy to obtain relevant guidance and exercise their legal and legitimate rights and interests.
+10. Responding to your request for rights
+Please understand and agree that we generally do not charge any fees for your reasonable requests, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that require excessive technical means, incur high costs, or have other significant difficulties (such as the need to develop new systems or fundamentally change current practices), or pose risks to the legitimate rights and interests of others.
+After verifying your identity, regardless of whether your request will be fulfilled or not, we will reply or provide an explanation to you within 15 days or within the time limit stipulated by laws and regulations.
+Please be fully aware that the following situations may not respond to your requests for inquiry, deletion, correction, revocation of authorization, account cancellation, or obtaining copies of personal information:
+(1) Directly related to national security and defense security;
+(2) Directly related to public safety, public health, and major public interests;
+(3) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+(4) We have sufficient evidence to suggest that you have subjective malice or abuse of power;
+(5) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+(6) Involving trade secrets.
+（7） How do we protect the personal information of minors
+We attach great importance to the protection of personal information of minors. According to relevant laws and regulations, if you are a minor under the age of 18, before using our services, please have your parents or guardians read this Privacy Policy and obtain their consent and guidance before submitting your personal information.
+We protect the personal information of minors in accordance with relevant national laws and regulations. We will only collect, use, store, share, transfer or disclose the personal information of minors when permitted by law, with the explicit consent of parents or other guardians, or when necessary to protect minors; If we discover that personal information of minors has been collected without obtaining verifiable parental consent in advance, we will try to delete the relevant information as soon as possible.
+If you are the guardian of a minor and have any questions about the personal information of the minor under your guardianship, please contact us through the contact information disclosed in this privacy policy of the company.
+Specifically, if you are a child under the age of 14, we have also developed a "Children's Privacy Protection Statement" specifically for you. Children and their guardians should carefully read this "Privacy Policy" and Attachment 2 "Sohu Children's Privacy Protection Statement" before completing account registration for children under the age of 14.
+This product has a "Children" section that provides more high-quality content suitable for children to watch, but does not make specific age identification for users, nor does it provide personalized recommendations for children. We only record the viewing history information of the user.
+（8） How to update this Privacy Policy
+We may revise the terms of this Privacy Policy.
+We will post the changes made to this Privacy Policy on this page. For significant changes, we will notify you prominently on the homepage or in other ways. If you do not agree to the updated version, please stop using Sohu Video. If you continue to use our products/services, you agree to be bound by the revised Privacy Policy.
+'Significant change' refers to one of the following situations:
+(1) Our basic business model has undergone significant changes.
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc.
+(3) The main recipients of personal information sharing, transfer, or public disclosure have changed.
+(4) Your right to participate in personal information processing and the way you exercise it have undergone significant changes.
+(5) We are responsible for handling complaints, suggestions regarding personal information, and any changes to the contact information in this Privacy Policy.
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+（9） How to contact us
+We attach great importance to safeguarding the rights of users' personal information subjects. We have established a personal information protection officer and a dedicated personal information feedback channel. If you have any complaints, suggestions, or questions about our privacy policy or personal information processing, you can provide feedback to us through the following methods. We will review as soon as possible and reply within 15 days after verifying your user identity.
+(1) You can send questions and complaints about personal information to the Sohu Personal Information Protection Unified Feedback Email privacy@sohu-inc.com ；
+(2) You can provide feedback to the person in charge of personal information protection through the following mailing address: Legal Center, 18th Floor, Sohu Media Building, No. 2 Science Academy South Road, Haidian District, Beijing, Postal Code: 100086
+(3) If you have any other complaints or suggestions about our services, please contact us through the following methods:
+Official QQ group: 435505340
+Online feedback:
+(1) Top left corner of the client "Sohu Video - Submit Feedback Issue" (Windows)
+(2) On the right side of the client, there is a "Problem Feedback Floating Window - Submit Feedback Problem" or on the top, there is a "Help - User Feedback" option (Mac)
+Normally, we will do it on the 15th
+Internal reply. If you think our personal information processing has damaged your legitimate rights and interests, you can follow the "APP Personal Information Report" on WeChat official account or send an email to pip@tc260.org.cn Report to the "APP Special Governance Working Group", and you can also file complaints or reports with the Internet Information Department (reporting hotline: 12377), the Industry and Information Technology Department (reporting hotline: 12321), public security and industry and commerce regulatory departments.
+Noun Explanation:
+1. Personal information: According to the national standard "Personal Information Security Specification for Information Security Technology" (GB/T35273-2020), personal information refers to various information recorded in electronic or other ways that can identify the identity of a specific natural person or reflect the activities of a specific natural person, either alone or in combination with other information. Such as name, date of birth, ID number, personal biometric information, address, communication contact information, communication records and content, account passwords, property information, credit information, whereabouts, accommodation information, health and physiological information, transaction information, etc.
+2. Personal sensitive information: According to the national standard "Personal Information Security Specification for Information Security Technology" (GB/T35273-2020), personal sensitive information refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, easily cause damage to personal reputation, physical and mental health, or discriminatory treatment. Including ID number, personal biometric information, bank account number, communication records and content, property information, credit information, whereabouts, accommodation information, health and physiological information, transaction information, personal information of children under 14 years old (including), etc.
+3. Cookie: A cookie is a small file containing a series of text that is stored on your computer, mobile phone, or other device when you log in to a website or other online content.
+Attachment 1: Sohu Video Account Cancellation Agreement
+Dear user, before you officially begin the process of canceling your Sohu Video account, we would like to make the following special note for you: After canceling this Sohu Video account, unless otherwise stipulated by laws and regulations, your personal information under this Sohu account will be deleted or anonymized, and the related products and services previously associated with this Sohu Video account will no longer be associated. Once the Sohu Video account is cancelled, it cannot be restored. Please proceed with caution.
+If you decide to cancel your Sohu account after careful consideration, please carefully read and fully understand this Sohu Video Account Cancellation Agreement ("Agreement"), and agree to all the contents of this Agreement. If you start the cancellation process according to our cancellation procedure, or if you check this cancellation agreement and start the next step, it shall be deemed that you have agreed to and complied with all the contents of this agreement.
+If you need to use our services again after logging out, please feel free to register and log in again.
+1、 You acknowledge and agree that after the cancellation of your Sohu Video account, there may be consequences including but not limited to the following, which you will be responsible for:
+1. You will not be able to log in or use this Sohu Video account, and will not be able to use Sohu Video's services with this account;
+If you have used this Sohu Video account to log in to other user products on Sohu, once you cancel your Sohu Video account, you will not be able to use the services of Sohu's entire user product line.
+3. Unless otherwise stipulated by laws and regulations, your personal information under this Sohu Video account will be deleted or anonymized. You are unable to retrieve your personal information and have no right to request us to retrieve it. The aforementioned personal information includes but is not limited to: profile picture, nickname and other personal profile information, device information, comments and likes, uploaded video information, favorites, subscriptions, playback history, posting information, viewing history, browsing history, subscription/follow information, private messages, member information, purchase, recharge information, points, discount coupons and other information;
+4. You agree that once you agree to this agreement or cancel your Sohu Video account, it shall be deemed that you have waived all rights and interests that have been generated and may be generated in the future during the use of the Sohu Video account. We have the right to clear all rights and interests under the Sohu Video account, including but not limited to membership rights, other rights and interests that have been generated but not fully consumed, or future expected rights and interests. Any consequences arising therefrom shall be borne by you;
+Once this Sohu Video account is cancelled, it cannot be restored. Even if you apply to register and log in to Sohu Video again using the same or other login methods provided by Sohu after logging out, the account will be considered a new user account. Therefore, we kindly remind you to make a backup of the content that needs to be backed up before applying for cancellation. At the same time, it is also recommended that you clear the system cache before applying for cancellation;
+Once this Sohu Video account is cancelled, the Sohu Service Agreement ("Service Agreement") signed between you and us regarding Sohu Video will terminate (except for those that have been agreed to continue to be effective). However, the termination of the service agreement does not affect the relevant responsibilities that you should bear when using Sohu Video's services before the cancellation of your Sohu Video account. You still need to bear corresponding responsibilities for the behavior of using Sohu Video's services before the cancellation of your Sohu Video account, including but not limited to possible breach of contract liability, damage compensation liability, and performance obligations;
+7. Other possible consequences resulting from account cancellation.
+2、 Before you apply/continue to apply for the cancellation of your Sohu account, in order to ensure the security and related rights of your account, you need to first check and ensure that the Sohu account you apply for cancellation has met the following conditions, including but not limited to:
+1. The Sohu Audiovisual account is legally owned and logged in by you, and complies with the provisions of the user agreement and relevant rules regarding Sohu Audiovisual accounts;
+2. The Sohu Video account has been unbound from other shared devices; The authorization or binding relationship with other Sohu product accounts or third-party products or platforms has been terminated;
+3. The Sohu Video account is in a secure state: the account is in normal use and has no violations, bans, theft, or other situations;
+4. The relevant rights and interests in the Sohu Video account (see Article 1, Paragraph 4 of this Agreement) have been settled or properly handled. Please handle it properly
+The product rights and interests can be cancelled after the relevant rights and interests have been used up. If you do not handle it and continue with the Sohu Video account cancellation process, it will be deemed that you voluntarily give up all related assets or interests under the account (including generated but not fully consumed or expected future income). After the account is cancelled, you have no right to request us to restore or retrieve the aforementioned rights and interests;
+5. The Sohu Video account has no unfinished orders; If your Sohu Video account has the aforementioned situation, or if the aforementioned situation occurs during the account cancellation period, we have the right to decide whether to terminate the account cancellation or freeze the account at our own discretion.
+6. Release of product related attention relationships generated in Sohu Video;
+7. The automatic membership renewal function associated with the Sohu Video account has been removed;
+8. The Sohu Video account has no disputes, including complaints, reports, investigations by national authorities, arbitration, litigation, etc;
+You can first try to handle the above issues on your own. If you are unable to handle them or have any doubts during the processing, you can contact customer service for assistance.
+3、 How to cancel a Sohu Video account?
+1. You need to follow the cancellation process and operation instructions provided by our official channels, and perform the cancellation operation on the relevant function settings page;
+2. You have agreed to all the contents of this cancellation agreement; Meanwhile, you have checked and confirmed that the conditions stipulated in Article 2 of this agreement have been met;
+3. After you complete the second point above, in order to further protect your relevant legitimate rights and interests, we have the right to comprehensively judge whether your account meets the cancellation conditions based on the security status of your account and the usage of your related products and services. To ensure the security and property rights of your account, we have the right to verify your identity in the cancellation application to determine that you are the authorized user of the Sohu account (if you provide operational information for us to verify, etc.). If we find that the Sohu Video account does not meet the cancellation criteria after comprehensive judgment, or if the identity verification fails, your cancellation may fail. You can follow our instructions for subsequent operations or contact customer service for assistance. Even if we determine that you meet the cancellation conditions, it is based on your commitment (i.e. your own commitment to ensure that your Sohu Video account meets the above cancellation conditions) to conduct a formal review. You are still responsible for ensuring that your Sohu Video account meets the above cancellation conditions, and we do not assume any corresponding legal responsibility for this;
+4. After you successfully complete the "identity verification" in point 3 above, we consider that you have successfully submitted an account cancellation application to us.
+The specific cancellation process and operation shall be subject to official announcement. You understand and agree that during the period when you apply to cancel your account, if we need to verify relevant information, complaints, or other matters related to your account, or if we have other reasonable reasons, we have the right to freeze your account and temporarily not provide cancellation services for you.
+If there are reasonable grounds to suspect or discover that the same account has or may have repeated registrations or cancellations to obtain illegal benefits in marketing activities, we have the right to limit the frequency of cancellation applications for that account.
+4、 Other
+This agreement is an integral part of the user agreement, and any matters not covered in this agreement shall be governed by the user agreement. In case of any inconsistency between this agreement and the user agreement, this agreement shall prevail. At the same time, you acknowledge and agree that even if your Sohu Video account is cancelled, it does not relieve or exempt you from the relevant responsibilities that you may need to bear according to relevant laws, regulations, agreements, rules, etc.
+If you encounter any problems during the account cancellation process that you are unable to handle or have any doubts during the process, you can contact customer service for assistance. You can also send your questions to your email address（ fankui@sohu-inc.com ）We will review the issues involved as soon as possible and provide a response after verifying your user identity.
+Attachment 2: Sohu Children's Privacy Protection Statement
+Sohu is committed to protecting the personal information of children who use our products or services. The "Sohu Children's Privacy Protection Statement" (hereinafter referred to as "this statement") and the "Sohu Video Privacy Policy" aim to explain to guardians (hereinafter referred to as "you") and children how we collect, use, store, and process children's personal information, as well as the ways we provide you and children with access, correction, deletion, and protection of this information. The terms and abbreviations used in this statement have the same meaning as those in the Sohu Video Privacy Policy.
+Special instructions for child guardians:
+If you are the guardian of a child user, please carefully read and choose whether to agree with this statement. We hope that you can work together with us to protect children's personal information, educate and guide children to enhance their awareness and ability to protect personal information, guide, remind and require them not to provide any personal information to any network products and service providers without your consent.
+Special instructions for children:
+If you are a minor under the age of 14, you need to carefully read this statement with your guardian and obtain their consent before using our products, services, or providing information to us.
+After carefully reading and fully understanding the "Sohu Video Privacy Policy" and this statement, please choose whether to agree to the privacy policy and whether to agree to your and your child's use of our products or services. If you do not agree with the content of the privacy policy and this statement, or do not agree to provide necessary information for the service, it may result in our products or services not functioning properly, or the expected service effects not being achieved. You and the children under your supervision may not be able to use our products, services, or related specific business functions normally.
+By clicking 'Agree', you agree that we will collect, use, and process your and your child's information in accordance with the 'Sohu Video Player Policy' and this statement.
+Please understand that this statement only applies to our products or services specifically designed for children under the age of 14, products or services with functional sections specifically designed for children under the age of 14, or products or services that require users to enter information such as birthday and age to identify their age. For products or services that cannot recognize or do not actively recognize the age of users, the "Sohu Video Privacy Policy" applies. The products we offer and
+The service may include products or services provided by third parties. Please note that such third parties may collect, use, or process information related to children, and they need to obtain your consent separately. We suggest that you ask children to seek your consent before authorizing the collection and processing of any of their personal information from third parties.
+We remind you that important clauses in this statement that may be closely related to your rights and those of the children under your guardianship have been highlighted in bold font. Please review them carefully.
+1、 Collecting personal information types from children
+1. The personal information of children that you agree to and voluntarily provide
+By actively providing us with your child's personal information while using our products and/or services, such as sharing your child's photos, videos, or other information in the comments, community, and other information publishing functions we provide for you, you agree to our collection and processing of your child's personal information in accordance with the contents of this statement.
+2. Necessary personal information of children for providing services
+For the purpose of providing services, we may collect and use personal information of children. Please refer to the "Types and Purposes of Personal Information We Collect and Use" section of the Sohu Video Privacy Policy for relevant rules. This content will be applicable/referenced based on actual circumstances. Due to business needs, if it is necessary to collect or use the personal information of the child under your supervision beyond the purpose and scope agreed upon above, we will inform you again and obtain your consent.
+2、 How do we use this information
+We strictly comply with the provisions of laws and regulations and agreements with users, and do not make any personalized recommendations or commercial use of the child information obtained as a result. The information collected from you and the children under your supervision is used for the following purposes:
+1. Verify the identity of the child and guardian.
+2. Provide necessary products or services, specific functions of the products or services. Please refer to the "Types and Purposes of Personal Information We Collect and Use" section of the Sohu Video Privacy Policy for relevant rules.
+3. Used for optimizing products or services, ensuring security, and conducting service investigations.
+If we need to use your or your child's personal information beyond the above purposes, we will inform you again and obtain your consent.
+3、 How do we share, transfer, and disclose children's personal information
+1. We strictly limit the sharing, transfer, and disclosure of children's personal information in accordance with laws and regulations. In general, Sohu does not share children's personal information with third parties. We may only share children's personal information with third parties with the prior consent of the guardian:
+Shared with guardians. We will share some personal information of children (such as their username, account, password, and transaction content in certain products and services) with guardians, who can access and manage relevant personal information.
+Necessary and reasonable sharing within Sohu Group.
+To achieve the purpose described in the "How We Use This Information" section;
+Directly related to (possible) legal procedures such as litigation, arbitration, trial, and enforcement;
+Other circumstances as required by the competent authorities, laws and regulations, etc.
+2. In general, we prohibit the transfer and disclosure of children's personal information to external parties, but we may transfer and disclose children's personal information for the following purposes:
+Comply with applicable laws, regulations, and other relevant provisions;
+Comply with the provisions of court judgments, rulings, or other legal procedures;
+Comply with the requirements of relevant government agencies or other legally authorized organizations;
+To carry out relevant service agreements or this statement, to safeguard the public interest, and to protect the personal and property safety or other legitimate rights and interests of our customers, us or our affiliates, other users or employees for reasonable and necessary purposes.
+4、 Storage and management of children's personal information
+Sohu will adopt encryption and other technical measures to store children's personal information and ensure information security. Sohu stores children's personal information and will not exceed the period necessary to achieve its collection and use purposes. Please refer to the "How We Save Your Personal Information" and "How We Protect Your Personal Information" sections of the Sohu Video Privacy Policy for detailed information on how we store and protect children's personal information.
+5、 Manage children's personal information
+During the use of our products or services by children, in order for you and the children to access, correct, and delete relevant personal information more conveniently, we have provided corresponding operation settings for you in the product design. Please refer to the "Your Rights" section of the "Sohu Video Privacy Policy" for details on how to exercise your rights to query, delete, and correct personal information.
+You can also provide feedback and consultation on relevant information through the contact information we provide. We will contact you promptly after verifying the issues you have reported. Please understand that during the verification process, we may need you to provide personal information such as your child's account, date of birth, and contact information in order to continue responding to your needs after completing identity verification and problem verification.
+6、 Application of this statement
+This statement only applies to our products or services specifically designed for children under the age of 14, products or services with functional sections specifically designed for children under the age of 14, or products or services that require users to enter information such as birthday and age that can identify the user's age. For products or services that cannot identify or do not actively identify the user's age, only the Sohu Video Privacy Policy applies.
+Please understand that if there are no provisions in this statement, please refer to the applicable Sohu Video Privacy Policy.
+7、 Contact Us
+If you have any questions about this Privacy Policy or any matters related to it, or have any complaints or suggestions about our services, please contact us through the following methods:
+(1) You can send questions and complaints about personal information to the Sohu Personal Information Protection Unified Feedback Email privacy@sohu-inc.com ；
+(2) If you have any other complaints or suggestions about our services, please contact us through the following methods:
+Official QQ group: 435505340
+Online feedback:
+(1) Top left corner of the client Sohu Video - Submit feedback
+problem
+(2) Client Right Side Issue Feedback Floating Window - Submit Feedback Issue
+Normally, we will reply within 15 days. If you think our personal information processing has damaged your legitimate rights and interests, you can follow the "APP Personal Information Report" on WeChat official account or send an email to pip@tc260.org.cn Report to the "APP Special Governance Working Group", and you can also file complaints or reports with the Internet Information Department (reporting hotline: 12377), the Industry and Information Technology Department (reporting hotline: 12321), public security and industry and commerce regulatory departments.

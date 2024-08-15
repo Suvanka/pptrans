@@ -1,0 +1,1096 @@
+Pinduoduo Privacy Policy
+（V3.5.1）
+Update Date: August 22, 2023
+hot tip
+Shanghai Xunmeng Information Technology Co., Ltd. and its affiliated companies (hereinafter referred to as "Pinduoduo" or "us")
+We place great emphasis on protecting the personal information of our users (hereinafter referred to as "you"), given that you are using our products or
+When providing services, we may collect your relevant information to help you fully understand how we collect and utilize it
+Use, share, store, and protect your personal information, as well as how you can manage your personal information for your convenience
+To make appropriate choices, we have formulated this Pinduoduo Privacy Policy (hereinafter referred to as "this Policy").
+Before you begin using our products or services, please read and thoroughly understand this document
+Policies (especially those highlighted in bold or bold underlined) should be used after confirming full understanding and agreement
+Close the product or service. If you have any questions about this policy, you can contact us through the contact information provided in this policy
+Let's get in touch.
+You agree to this policy, which means that you are aware of and agree to the use of our basic functions when we collect and process information
+Turning off necessary information does not mean that you agree to other additional functions that collect and process non essential personal information
+We will separately seek your consent for the processing of personal information.
+This privacy policy will help you understand the following:
+1. Scope of application
+2. Information collection and use
+3. Use of Cookies and Similar Technologies
+4. Information sharing, entrusted processing, transfer, and public disclosure
+5. Information Storage and Protection
+6. User's personal information rights and interests
+7. Protection of Personal Information of Minors
+8. Policy updates
+9. Other
+Appendix: Relevant definitions and explanations
+1. Scope of application
+This policy applies to Pinduoduo's website, client, mini program, and new forms that emerge with technological development
+The various products and services you provide. If the products or services we provide have separate privacy policies or corresponding
+If there are special provisions in the user service agreement, the privacy policy or user service agreement of the product or service shall prevail
+Applicable first, but for content not covered by the privacy policy and user service agreement of the product or service, this policy shall apply
+The content shall prevail. If we and our affiliated companies use products or services provided by Pinduoduo in their products or services
+If no independent privacy policy is set up, this policy also applies to that part of the product or service.
+Except for the information collection and use activities described in this policy, this policy does not apply to Pinduoduo Comprehensive Service Platform
+Other services provided to you by Taiwanese merchants and other third parties shall be subject to the personal information provided to you separately
+Rules for collecting and using information. For example, when you join a merchant's membership, the use of membership information by such merchants is appropriate
+Use the rules specifically explained to you.
+2. Information collection and use
+When you use Pinduoduo products or services, the specific functional scenarios we provide for you include the following categories:,
+To achieve the purpose of providing you with online shopping services, our basic functions include registration and login, and displaying products/
+Service, trading and after-sales, ensuring account and transaction security, etc. You must authorize us to collect and use necessary information
+If you refuse to provide the corresponding information, you may not be able to use our products or services normally
+2.1.  Registration and Login
+2.1.1.  When you register as a Pinduoduo user using your own mobile phone number, we will send a verification code via SMS
+To verify the validity of your identity. When you use the "One Click Login with Local Number" feature, we are based on
+The cooperation with the communication operator will, with your consent, use the functions provided by the communication operator to set you up
+The backup phone number is used as your registration/login account and is exempt from SMS verification code verification, providing you with convenient access
+Registration and login services. If you do not wish to use the "One Click Login with Local Number" feature, you can use other methods
+Register and log in to your Pinduoduo account.
+When you log in to your Pinduoduo account using third-party accounts such as WeChat and QQ, we will obtain your authorization to access your account
+Three party account information (including avatars, nicknames, and other information displayed on third-party authorization pages) to assist you
+Log in and use the Pinduoduo Comprehensive Service Platform (hereinafter referred to as "Pinduoduo Comprehensive Platform") to protect your account security
+All right.
+Among them, the avatar and nickname you set will be publicly displayed. If you do not provide the above information, you will not be able to register or log in
+Record your Pinduoduo account, but you can still browse or search for products/services (hereinafter referred to as "products").
+2.1.2 In addition, in scenarios such as account recovery and mobile number unbinding, to ensure account security, you may need to follow authentication procedures
+Request to submit corresponding identity document information and/or facial information to complete real name authentication (for your convenience in completing real name authentication)
+Authentication, the system may automatically recommend the identity letter you provided to us when using Pinduoduo products/services in the past
+Rest).
+2.2.  Display products/services
+2.2.1.  To provide you with page displays and search results that better meet your needs, and to better showcase our services to you
+We may collect device information and daily data from you when accessing or using the Pinduoduo comprehensive platform for related services provided
+Zhixin and other authorized information obtained from you. You can also choose to receive products/services that interest you
+Establish a following relationship with merchants you are interested in, and share products with third parties through the functional components we provide/
+Service information, during your use of the above functions, we may collect information including your search history, browsing history, etc
+The log information including history, collection records, and attention relationships is used to achieve the above functions and other information that we explicitly declare
+The purpose of knowledge.
+2.2.2.  We may also use your above information and other authorized information obtained from you (such as order information)
+Extract your preference features and recommend content that you may be interested in based on your preference features, including but not limited to
+Limited to matching products/services or other information that you may be interested in, regarding the products/services or other information displayed to you
+Sort the information and send you commercial messages using the contact information you provide, such as registered phone number and shipping phone number
+Information, displaying advertisements to you through systems or other means
+.
+At the same time, we also provide protection for your privacy through the following measures (the following methods and related documents can be found)
+It may be adjusted with the optimization of the product, and the specific details are subject to the page display
+(1) If you need to view rankings that are not based on your personal characteristics when using our on-site search service
+Adjust the sorting method, you can click on "sales volume", "friends have tried", "brand" or other options on the search results page
+Sort the available dimensions on his page, or click "Filter" and select "Price Range" or "Featured Services" from them
+Set the dimensions of "business", "product shipping location", "receiving location" or other optional pages to filter search results.
+(2) If you do not wish to receive information about the products/services we recommend to you, you can long press the recommended item
+Product or service images, choose to reduce or block similar products/services according to the page prompts; You can also do it on Pinduoduo
+Disable personalized content recommendation in the "Personal Center - Settings - FAQ - Personalized Recommendation Management" section of the client.
+(3) If you want to manage the ads we send you (including personalized ads displayed by the system or through other third-party channels)
+The advertisements pushed to you by the Fang application can be set up in the Pinduoduo client under "Personal Center - Settings - Account and Security Personalized Advertising Management" or "Personal Center - Settings - Frequently Asked Questions - Personalized Advertising Management".
+(4) If you do not wish to receive commercial short messages we send you, you can unsubscribe through the unsubscribe method provided in the message
+Choose to unsubscribe or use the Pinduoduo app under "Personal Center - Settings - Message Reception Settings - Discount Activity SMS" to close
+We will send you commercial short messages (you understand and agree that in order for you to receive relevant information, commercial short messages)
+The sending of information will be enabled by default.
+2.3.  Trading and after-sales service
+2.3.1.  Order information
+When you place an order to purchase a product/service on the Pinduoduo comprehensive platform, the system will generate a booking for your purchase of that product/service
+Single. You need to fill in at least the recipient's name (or title), shipping address, and shipping phone number in the order
+The recipient is not yourself, you need to ensure that you have obtained the actual receipt when providing the aforementioned information of the actual recipient
+Human consent. This order will also include the order number, information about the product/service you purchased, order time, and shipping cost
+Single time, discounts you have used, actual transaction amount you have paid, and payment method you have used. According to some sections
+You may also need to provide information on the characteristics of the product/service and the requirements of applicable laws and regulations when purchasing the product/using the service
+Other necessary information (subject to page display), such as providing your ID card when it comes to cross-border transactions
+Provide information to complete customs clearance. If you do not purchase such goods/use such services, you do not need to provide relevant information.
+All the above information constitutes your 'order information'. You understand and agree that we may use your order information
+To verify your identity, confirm transactions, settle payments, complete deliveries, check your orders, and provide customer service
+Consultation and after-sales service, etc; We may also use your order information to determine if there are any abnormalities in your transaction
+To ensure the security of your transactions.
+2.3.2.  Payment Information
+After placing your order, you can use third-party payment institutions supported by the Pinduoduo comprehensive service platform system, including WeChat
+Payment, Alipay, Duoduo Wallet, QQ Wallet, etc., subject to the payment method provided on the page)
+Payment, we need to provide your order number, transaction amount, and other necessary payment and legal requirements information (as follows)
+Collectively referred to as "payment information", provided to the payment institution of your choice to confirm your payment instructions and complete the payment
+Pay.
+You can also request your WeChat friends to make payment for you. At this time, you need to provide your Pinduoduo account nickname and avatar, as well as a proxy
+Provide you with the payment amount and product/service information (subject to actual display on the page) to the selected payment agent for implementation
+It will help you make the payment on your behalf.
+In order to keep us informed and confirm your payment progress and status in a timely manner, and to provide you with after-sales and dispute resolution services, you
+Agree that we may collect payment progress updates from the transaction partner you have chosen or from the third-party payment institution you have chosen
+Related information.
+2.3.3.  Delivery information
+When you place an order and choose to pay later or complete the payment online, you acknowledge and agree that the provider of the goods/services
+(also known as "merchants"), logistics delivery entities, or other logistics service providers may use your consignee
+Name (or title), shipping address, shipping phone number, and other necessary information for delivery (collectively referred to as "delivery")
+Information "is used to complete the delivery of goods/services for you. For the purpose of providing you with after-sales and dispute resolution services, I
+We need to be informed and confirm the delivery progress and status in a timely manner. You agree that we can collect from the logistics service provider
+Collect information related to delivery schedule. Among them, the logistics delivery entities include express delivery companies, warehousing companies, and trunk transportation companies
+Input companies and other third parties involved in the delivery of goods/services.
+2.3.4.  Information required for customer service and after-sales service
+When you contact us or apply for in sales, after-sales, or dispute resolution, in order to protect your account and system
+For security purposes, we require you to provide necessary personal information such as account information to verify your identity.
+For the convenience of contacting you, recording, resolving any related issues you have raised, or evaluating the quality of after-sales service, we may
+Save your communication, communication/call records, and related content (including your contact information, account information, order letters)
+To assist customer service personnel in completing the service you requested, information provided by you to prove relevant facts (such as interest or other relevant information).
+In order to provide services and improve service quality, we may also use your other information, including your
+The relevant information provided when contacting customer service, and the questionnaire response information sent to us when you participated in the survey.
+2.4.  Ensure account and transaction security
+To fulfill the legal obligation of ensuring the security of e-commerce transactions and improve the security of your use of Pinduoduo products and services
+Sexual protection ensures the personal and property safety of you, other users, or the public, and better prevents network vulnerabilities and computer diseases
+More accurate identification of risks such as drugs, cyber attacks, and fraud, in violation of the law
+Legal regulations or Pinduoduo comprehensive platform related agreements
+In the case of discussions and rules, we may obtain account information, transaction information, and device information (including
+Application list information, application version information, Android ID, IMEI are only available for Pinduoduo before version 6.63.0
+APP, OAID/IDFA, Mac address, device network environment, sensor information such as acceleration and gravity, daily
+We use information obtained from your authorization or legally shared by our affiliated companies and partners to determine your identity
+Account and transaction risks, identity verification, detection and prevention of security incidents, and necessary records and measures taken in accordance with the law
+Analysis, audit, and disposal measures.
+2.5.  Information disclosure and video browsing
+2.5.1.  Evaluation and Comment: You can choose to post through the evaluation and other information publishing functions we provide for you
+Evaluate, publicly release images/videos, and share information about purchased goods/services. We respect and protect
+Your settings for whether to publish relevant information and the scope of publication. When you comment on reviews or videos posted by other users, etc
+When commenting on content, your avatar, nickname, and comment content will be publicly displayed.
+The information you publicly release may involve your personal information or even sensitive personal information. Please choose carefully whether or not to
+release; If the information you publicly release involves personal information of others, please be sure to obtain their prior consent.
+2.5.2.  Content publishing: When you create/edit, publish audio and video content, your profile picture, nickname, and published content
+Text, images, audio and video, related links, location, as well as related comments, interactions, and other information will be collected.
+2.5.3.  Video and audio browsing: When you browse video and live content, in order to optimize your user experience and enable you to
+To obtain personalized content, we may use your followers, likes, interactions, searches, views, and shares
+Enjoy the record.
+2.6.  Sharing and Interaction
+2.6.1.  Friend interaction: You can add friends through QR code, if you authorize us to read your communication
+You can also add contacts as friends. You understand and agree that we may tailor our services based on your and other users' preferences
+Interactive behaviors during the processes of sharing, following, and participating in activities, as well as authorized phone numbers for you and other users
+Code, contact list, and other relationships are used to recommend you as a friend or to recommend you to corresponding users.
+2.6.2.  Live room interaction: When you watch a live stream, your profile picture, nickname, and interactive information in the live room (such as reviews)
+Comments, likes, followers, tips, gifts, and group buying information may be publicly displayed (or desensitized) in the live broadcast room
+We may also collect your interaction information to form statistical data within the live broadcast room (such as rankings)
+Single, popular, etc.) and publicly displayed.
+2.6.3.  Information and event sharing: Pinduoduo allows you to share or receive shared information, participate in events, etc
+You often need to access your clipboard locally to read the passwords, sharing codes, and links contained in it, in order to achieve skip operations
+Functions or services such as forwarding, sharing, and event linkage. Pinduoduo only recognizes locally that the clipboard content belongs to Pinduoduo
+It will only be uploaded to our server when there are instructions such as jump, share, and activity linkage. Besides, Pinduoduo is not
+We will upload other information from your clipboard to our server. Additionally, we may need to read your phone photo
+Book to facilitate your sharing or receiving of shared videos and images.
+Please understand that some mobile devices' systems may prompt that an app is reading the clipboard or photo album, but this system
+The system cannot distinguish whether it is processed locally or uploaded, and due to differences in statistical methods, false positives cannot be ruled out
+Can. Therefore, if you find similar prompts and have any questions, please contact us so that we can locate the issue.
+2.7.  Provide additional services based on system permissions for you
+To provide you with higher quality, satisfactory, and personalized products or services, and strive to enhance your user experience, we
+It may be possible to collect your personal information by granting system permissions. If you do not provide this information, you will still
+You may be able to access the basic features provided by Pinduoduo, but you may not be able to obtain the additional information that comes with it
+User experience. You can click on the "Pinduoduo Permission Application List" to view the application permission application and usage instructions.
+You can go to "Settings" on your device or "Personal Center - Settings - Account and Security - System Permission Management" on the Pinduoduo client
+View the status of relevant permissions and decide whether to enable or disable them (if applicable). When you activate
+Any permission represents your authorization for us to collect personal information corresponding to that permission to achieve the corresponding goals. Once you close
+Closing any permission means that you have revoked the corresponding authorization, and we will no longer continue to collect this personal information, nor will we be able to
+You have achieved the target corresponding to this authorization. However, your decision to close permissions will not affect any previous actions based on your authorization
+Processing of personal information.
+2.8 Third party SDK or other similar applications
+To ensure the stable operation and functional implementation of our products or services, so that you can use and enjoy more services and
+Functionality, our application will embed third-party SDKs or other similar applications. About our access
+The collection of personal information related to third-party SDKs can be found in the Pinduoduo Third Party SDK Catalog. You can do it through
+Pinduoduo client "Personal Center - Settings - Account and Security - System Permission Management - Third Party SDK Management"
+Administration.
+Note: We would like to remind you that due to the wide variety of products and services we provide to you, and the different choices made by users
+There may be differences in the specific products or services used, so the type and scope of personal information collected and used may vary accordingly
+Difference, the actual collection and use of your personal information shall be based on the products and services you enjoy.
+3. Use of Cookies and Similar Technologies
+3.1.  When you use our services, we may use relevant technologies to send one or more messages to your device
+Cookies or anonymous identifiers (hereinafter referred to as "cookies") are used to collect and identify information
+And store your access, use me
+Information about our products or services. We use cookies mainly to ensure the security and efficiency of our products and services
+Operate, understand your usage habits, help you save the step of repeatedly entering registration information, or assist in judging your
+Account security, and at the same time, we may use cookies to display information functions that you may be interested in, to help
+Assist you in optimizing the selection and interaction of advertisements.
+3.2.  If your browser or browser add ons allow it, you can use the clearing browser cache provided by your browser
+According to the function, perform corresponding data clearing operations, modify the acceptance level of cookies, or reject our
+Cookie。 You may not be able to use the corresponding services or features that rely on cookies due to these modifications.
+3.3.  You understand and agree that there may be some electronic issues when accessing or using the Pinduoduo comprehensive service platform
+Images, referred to as "single pixel GIF files" or "network beacons" or other similar technologies (collectively referred to as "network")
+beacon”）。 We may use network beacons to help calculate users who use Pinduoduo's comprehensive service platform
+Quantity or access to certain cookies to identify Pinduoduo users.
+4. Information sharing, entrusted processing, transfer, and public disclosure
+4.1.  share
+Please be aware that we will only share your information for lawful, legitimate, necessary, specific, and clear purposes
+And only share personal information necessary for providing products or services. Regarding the specific scenarios of our information sharing, please provide details
+Please refer to the attached policy document 'Pinduoduo Information Sharing Checklist'.
+Please note that the information you voluntarily share while using our services may involve personal information of you or others
+Sensitive personal information. Please consider more carefully and make a decision.
+We will not share your personal information with any individual, company, or group other than Pinduoduo, except in the following circumstances
+Weaving:
+4.1.1 Sharing with Your Consent: With your consent, we may share your personal information with other parties
+Rest.
+4.1.2 Sharing necessary to fulfill legal obligations: We may, in accordance with laws and regulations, resolve disputes or lawsuits
+Necessary, or as required by administrative or judicial authorities in accordance with the law, as well as necessary for fulfilling other statutory obligations
+Enjoy your personal information.
+4.1.3 Sharing necessary for the conclusion and performance of a contract to which you are a party: You use Pinduoduo's comprehensive
+When purchasing goods/services on the service platform, we may include your order information in the transaction information based on your choice
+Share relevant information with third-party entities such as merchants or logistics delivery to facilitate your transactions, deliveries, and after-sales services
+Requirement.
+4.1.4 Sharing with affiliated companies: In order to facilitate the affiliated companies to provide you with some services, or to show you what you may be interested in
+Content, or to protect the security of your account and transactions, or to protect the personal and financial interests of Pinduoduo and/or other users or the public
+Your personal information may be shared with our affiliated companies to prevent infringement of production safety.
+4.2 Commissioned Processing
+We may entrust our partners or affiliated companies to process your personal information in order for them to provide you with certain services on our behalf
+We will only provide services or perform functions within the processing purposes, methods, scope, or basis authorized by you to us
+Entrust them to process your information under legal and legitimate circumstances as stipulated by law.
+Currently, our partners include the following types:
+(1) Advertising and analytics service partners. We will entrust these partners to handle advertising coverage and
+Validity related information, but we will not provide your personal identification information, or we will de label this information
+Cognitive processing so that it does not identify your personal identity. These types of partners may combine the above information with them
+Combine other data obtained through legal means to execute our commissioned advertising services or decision-making recommendations.
+(2) Suppliers, service providers, and other partners. We may entrust your personal information to support
+Pinduoduo's partner services include providing us with infrastructure technology services, data analysis services
+Suppliers of security services, customer service, etc.
+4.2.2 In order to ensure and optimize our services, when we provide products or services to you, affiliated companies may delegate
+Entrusting the processing of some of your personal information, the platform information operated by affiliated companies is as follows:
+You can browse the "Pinduoduo Platform" (Shanghai Xunmeng Information Technology Co., Ltd.) on the Pinduoduo Comprehensive Service Platform
+Duoduo Maicai Platform "(Shanghai Yucan Information Technology Co., Ltd.)," Pinduoduo International Platform "[Hong Kong]
+Product/service information on platforms such as Walnut Street Limited in Hong Kong. To ensure that you
+Can browse information normally, complete transactions, and use other Pinduoduo comprehensive platform services to protect your transactions and account
+Regarding security, we may be entrusted by the corresponding platform operator to provide you with relevant information on the Pinduoduo comprehensive service platform
+The operation records of the product (including browsing and placing orders, etc.), as well as your use of Pinduoduo user account login for trading or
+Use other platform services and other information for processing.
+4.3.  transfer the possession of
+When it comes to mergers, divisions, dissolution, bankruptcy, or other similar transactions that require the transfer of personal information, we will inform
+You inform the recipient of your name or contact information, and the company or organization that receives your personal information will continue to be subject to
+The constraints of this privacy policy. If the recipient changes the original processing purpose or method, they will seek authorization from you again
+Right to agree.
+4.4.  Public disclosure
+Pinduoduo attaches great importance to protecting your personal information, and we will not disclose it to unrelated third parties, let alone
+It shall be made public, except for those disclosed for the following reasons:
+(1) Obtain your separate consent or based on your voluntary choice;
+(2) According to the requirements of laws, regulations, mandatory administrative law enforcement or judicial requirements, it is necessary to provide your personal information
+In such cases, we may determine the type of personal information and disclosure method required
+Publicly disclose your personal information;
+(3) Other circumstances that can be disclosed according to legal provisions or mutual agreement. If you seriously violate laws and regulations or
+We may disclose your relevant violations and the measures we have taken against you regarding the relevant agreements and rules.
+5. Information Storage and Protection
+5.1.  Storage location of user information
+Your personal information will be stored entirely within the territory of the People's Republic of China, except in the following circumstances:
+(1) There are clear provisions in laws and regulations;
+(2) Obtain your separate consent;
+(3) Necessary for the conclusion and performance of cross-border e-commerce transactions and other types of contracts to which you are a party.
+In response to the above situation, we will provide protection for your personal information in accordance with this policy and relevant laws and regulations.
+5.2.  Storage period of user information
+We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of retention is required
+As permitted or required by laws and regulations, such as the Electronic Commerce Law of the People's Republic of China requiring goods and services
+The retention time of information and transaction information shall not be less than three years from the date of completion of the transaction. After exceeding the storage period, we
+We will delete your personal information or anonymize it in accordance with applicable laws.
+We determine the storage period of personal information mainly based on the following criteria:
+(1) To complete the transaction purposes related to you, maintain corresponding transaction and business records to respond to your possible inquiries or
+complaint;
+(2) Ensure the safety and quality of the services we provide to you;
+(3) Do you agree to a longer retention period;
+(4) According to the relevant requirements of the statute of limitations for litigation;
+(5) Is there any other special agreement or legal regulation regarding the retention period.
+5.3.  Personal Information Protection
+5.3.1.  principle
+We attach great importance to the protection of personal information and will use security measures that comply with industry standards to protect your personal information
+Information to prevent unauthorized access, public disclosure, use, modification, damage, or loss of data.
+5.3.2.  Technical measures
+We will take all reasonable and feasible measures to protect your personal information. For example, in your browser and server
+When exchanging data between them, they are protected by SSL encryption; We also provide HTTPS secure browsing mode for the Pinduoduo website;
+We will use encryption technology to ensure the confidentiality of data; We will use trusted protection mechanisms to prevent data from being compromised
+Malicious attack.
+5.3.3.  Management measures
+We will take management measures such as developing data operation procedures, establishing security management systems, and setting up specialized security departments
+To ensure the security of your personal information; Deploy access control mechanisms and adopt authorization methods to minimize access to individuals
+Data, ensuring that only authorized personnel can access personal information; Establish a security management system to prevent personal information leakage
+Wait for a security incident to occur and establish emergency plans and remedial measures to prevent further escalation of unexpected security incidents
+Fulfill relevant reporting and notification obligations in accordance with the law; Set up a dedicated team for personal information protection to be fully responsible for information protection
+Organize security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+5.3.4.  Security precautions and reminders
+The Internet is not an absolutely safe environment. We strongly recommend that you do not use non Pinduo when using Pinduoduo service
+Multiple recommended communication methods for sending personal information. You can establish connections and share with each other through our services. When
+When you create communication, transactions, or sharing through our services, you have the freedom to choose which ones to communicate, trade, or share
+Elephant, as a third party that can see your transaction content, contact information, communication information, or shared content and other related information
+Three parties.
+When using Pinduoduo services for online transactions, it is inevitable that you will have to deal with the counterparty or potential counterparty
+Disclose personal information such as contact information or address. Please protect your personal information properly, only
+Provide to others when necessary. If you find that your personal information, especially your account or password, has been leaked
+Lu, please contact us immediately so that we can take appropriate measures based on your application.
+As mentioned above, Pinduoduo will use various security technologies, procedures, and systems to prevent the loss or improper use of users' personal information
+Unauthorized viewing or disclosure. If a personal information security incident unfortunately occurs, we will comply with the law
+We are required by regulations to inform you of the basic situation and possible impact of the security incident, as well as the measures we have taken or will take
+The disposal measures, suggestions for you to independently prevent and reduce risks, and remedial measures for you. Event related situation
+We will inform you through letters, phone calls, push notifications, etc. If it is difficult to inform each individual of their personal information, I will
+We will adopt reasonable and effective methods to release announcements. At the same time, we will also report to the regulatory authorities in accordance with their requirements
+The handling of human information security incidents.
+6. User's personal information rights and interests
+6.1.  Access, correction, and supplementation of user personal information
+You have the right to access, correct, and supplement your information through the following methods, except as otherwise provided by laws and regulations or this policy
+Unless otherwise specified in the Pinduoduo User Service Agreement or set on different pages.
+6.1.1.  Account Information - If you wish to view or edit personal basic information in your account, you can log in to Pinpin
+Duoduo client can be accessed through "Personal Center - My Profile (by clicking on avatar or nickname)" or "Homepage - Duoduo
+Perform this type of operation by selecting "Video - Top Left Avatar - Personal Page".
+6.1.2.  Search information - You can log in to your account and view or clear your search history through the "Home - Top Search Box".
+6.1.3.  Browse information - You can log in to your account and view or clear your browsing history through "Personal Center - Historical Browsing".
+6.1.4.  Order Information - You can log in to your account and access or clear your order records through "Personal Center - My Orders"
+Single records, transaction records, etc.
+6.1.5.  Posting Information - You can log in to your account and view it through "Home - Duoduo Video - Top Left Avatar - Personal Page - Works"
+Or delete your work.
+6.1.6.  To log in to the Pinduoduo client, you can go to "Personal Center - Settings - Personal Information"
+Unified search of relevant information collection list
+personal information.
+6.1.7.  If you are unable to access this information through the above path, you can contact us through Pinduoduo's comprehensive platform customer service.
+For other personal information generated during your use of our products or services, we will respond in accordance with this policy
+We will provide you with the relevant arrangements in response to your above request.
+6.2.  Copying of User Personal Information
+You can log in to the Pinduoduo client and download your personal information through "Personal Center - Settings - Account and Security - Personal Information Download"
+Export relevant personal information (such as basic account information) and/or access and correct user personal information through "User Personal Information Review and Correction"
+Copy your personal information after querying the path listed in 'and supplementing'.
+6.3.  Deletion of User Personal Information
+You can delete some of your personal information through the methods listed in "Viewing, Correcting, and Supplementing User Personal Information",
+Except for those that are required by laws and regulations to be preserved.
+In the following situations, you can request the deletion of personal information by contacting customer service:
+(1) Our handling of personal information violates laws and regulations;
+(2) Our handling of personal information seriously violates our agreement with you;
+(3) We have stopped providing products or services or the shelf life has expired;
+(4) We collect and use your personal information without your consent;
+(5) Our purpose of processing personal information has been achieved, cannot be achieved, or is no longer necessary to achieve the processing purpose.
+If we decide to respond to your deletion request, we will also notify you as much as possible to obtain your personal information from us
+The subject and request timely deletion (unless otherwise stipulated by laws and regulations, or these subjects have independently obtained your order)
+I completely agree.
+When you or we assist you in deleting relevant information, due to applicable laws and security technology limitations, we may not be able to
+By deleting the corresponding information from the backup system, we will securely store your personal information and restrict any access to it
+One step processing until the backup can be cleared or anonymized.
+6.4.  Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information by deleting information, disabling device permissions, etc
+Suspend or revoke your authorization. You can also withdraw our continued collection of your personal information by canceling your account
+Partial or complete authorization.
+Please understand that each business function requires some basic personal information to complete, in which case we may not have access to it
+The law responds to your request to change the scope of authorization. After you withdraw your consent or authorization, we cannot continue to provide you with a withdrawal
+Agree or authorize the corresponding services, and no longer process your personal information. But if you withdraw your consent or authorization,
+It will not affect the processing of information previously based on your authorization.
+6.5.  Cancel account
+6.5.1.  You can go to "Personal Center - Settings - Account and Security - Account Cancellation" on the Pinduoduo client or contact the official Pinduoduo account
+Customer service and enter "Cancel" to view the method of account cancellation and the conditions you should meet. When you successfully apply for cancellation
+After our review and approval of your Pinduoduo account, we will delete or anonymize your personal information,
+Except as otherwise provided by laws and regulations.
+6.5.2.  If we terminate the service or operation, we will notify you at least thirty days in advance and notify you before the termination of the service or operation
+Afterwards, your personal information will be deleted or anonymized.
+6.6.  In response to your above request
+To ensure safety, you or other legally designated entities (such as your close relatives in specific situations) may submit a request to us
+When making the above request, we may first ask you to verify your identity before processing your request. We will
+You will respond within fifteen days after verifying your identity. If you are not satisfied, you can also contact Pinduoduo customer service and
+Call 021-53395288 to file a complaint. For your reasonable requests, we generally do not charge any fees, but for many
+We will charge a certain cost fee depending on the situation for requests that are repeated or exceed reasonable limits. For those who are with you
+Information that is not directly associated with identity, baseless repetition, and requires excessive technical means (such as the need to develop new systems or...)
+We can fundamentally change current practices, pose risks to the legitimate rights and interests of others, or make very unrealistic requests
+Can be refused.
+6.7.  The rights of close relatives of the deceased
+If a Pinduoduo user unfortunately passes away, their close relatives can contact us through official customer service and submit relevant documents
+Provide evidence to exercise the legitimate rights and interests stipulated by law.
+7. Protection of Personal Information of Minors
+We attach great importance to the protection of personal information of minors. In e-commerce activities, we assume that you have corresponding civil rights
+Behavioral ability. If you are a minor under the age of 18, please read this policy carefully with your guardian,
+And use our services or provide us with information with the consent of your guardian.
+If you are a child under the age of 14, please read me carefully with your guardian before using our services
+We have specially formulated the "Pinduoduo Children's Personal Information Protection Rules" to ensure that guardians have a clear understanding of the "Pinduoduo Children's Personal Information Protection Rules"
+After obtaining the consent of the Personal Information Protection Rules, you can use our services under the guidance of your guardian to ensure that you
+Security when using our services and conducting transactions. If you are the guardian of a child, please pay attention to whether the child is present
+After obtaining your authorization and consent, use our services. If you have any questions about children's personal information, please contact our
+Contact the dedicated team for personal information protection.
+8. Policy updates
+8.1.  We may modify this policy in a timely manner based on the updates of our products and services and relevant legal and regulatory requirements
+The terms of the policy, such modifications constitute a part of this policy, and we will publicize them on the Pinduoduo comprehensive service platform
+In the new version, if there are significant changes in the purpose, method, and scope of collecting your personal information, we will also
+Notify you of updated content through internal messages or other appropriate means, so that you can stay informed of the latest privacy policies in a timely manner
+Strategy.
+8.2.  We will also archive the old version of this policy for your reference.
+8.3.  For you
+If you can receive notifications in a timely manner, we suggest that you notify us promptly when your contact information is updated. If you are in this policy
+Continuing to use our services after the update takes effect means that you have fully read, understood, and accepted the updated policy
+And willing to be bound by the updated policies. We encourage you to review this policy every time you use our services. you
+You can view this policy on the Pinduoduo app through "Personal Center - Settings - About Pinduoduo - Privacy Policy".
+9. Other
+9.1.  Independence of terms
+If any provision or part of any provision in this policy is deemed invalid or illegal under applicable law
+Or it may not be enforceable, and such invalidity, illegality, or unenforceability does not affect any of the provisions of this policy
+The validity of its terms or any other part of these terms. The title or summary of these privacy policy terms is for reference only
+The use of this policy does not define, affect, or limit the meaning, description, and interpretation of its terms, including the subject matter, abstract, and corresponding provisions
+If there is any inconsistency in the payment, the content stipulated in the terms shall prevail.
+9.2.  contact us
+9.2.1.  If you have any questions, opinions or suggestions regarding this policy or your personal information, please contact Pinduoduo Comprehensive
+Platform customer service or contact us through "Personal Center - Settings - Feedback" on the Pinduoduo app.
+9.2.2.  We have also established a dedicated team for personal information protection. You can send an email to
+privacy@pinduoduo.com Contact us. Our registered address is Loushanguan Road, Changning District, Shanghai
+Room 2902-2913, 533. Please note that we may not respond to this policy or your personal information rights
+Unrelated issues.
+9.2.3.  Normally, we will reply within fifteen days. If you are not satisfied with our response, especially our
+The processing of personal information has harmed your legitimate rights and interests, and you can also seek legal action against the defendant's domicile under the law that has jurisdiction
+The court filed a lawsuit to seek a solution.
+9.3.  effective date
+This policy first came into effect on August 29, 2017, was updated on August 22, 2023, and became effective on August 30, 2023
+Revision takes effect. Click to view the old version of Pinduoduo Privacy Policy.
+Appendix: Relevant definitions and explanations
+1. Pinduoduo Comprehensive Service Platform: also known as "Comprehensive Platform", including Pinduoduo Platform, Duoduo Maicai Platform, and Pinduoduo International Platform
+Taiwan and potential new service platforms that may emerge in the future.
+2. Pinduoduo: refers to the individual or collective name of the operator of Pinduoduo comprehensive service platform, including Shanghai Xunmeng Information Technology Co., Ltd
+Shanghai Yucan Information Technology Co., Ltd., Hong Kong Walnut Street Limited, etc,
+In specific information processing scenarios, Pinduoduo, as your personal information processor, operates the platform you choose to use
+The singular name of the person.
+3. Pinduoduo Services: Pinduoduo is based on various service carrier forms within the comprehensive platform (including but not limited to Pinduoduo website, Pinduoduo)
+Duoduo Client, Pinduoduo WeChat Mall, Pinduoduo WeChat Mini Program, Duoduo Maicai WeChat Mini Program, and Future Technological Development
+The current new service carrier provides electronic platforms such as online business premises, transaction matching, and information dissemination for all parties involved in the transaction to reach an agreement
+Business platform services.
+4. Pinduoduo platform: refers to the comprehensive platform service operated by Shanghai Xunmeng Information Technology Co., Ltd. for you and Pinduoduo ("Duoduo")
+Except for the "Duomai Cai" service, the corresponding entities are legal entities within China (excluding Hong Kong, Macao, and Taiwan) that provide online services to merchants who have settled in
+An e-commerce platform that provides services such as business premises, transaction matching, and information dissemination for independent trading activities between two or more parties
+The platform.
+5. Duoduo Maicai Platform: refers to the platform operated by Shanghai Yucan Information Technology Co., Ltd., which provides services for you and "Duoduo Maicai" (including
+Including the Pinduoduo website, WeChat store, the "Duoduo Maicai" section in the client, and the Duoduo Maicai WeChat mini program
+Resident merchants provide online business premises, transaction matching, information dissemination and other services for independent transactions between two or more parties
+The e-commerce platform for the event.
+6. Pinduoduo International Platform: refers to the platform operated by Hong Kong Walnut Street Limited,
+We provide online operations for merchants who are legal entities from overseas, Hong Kong, Macao, and Taiwan, corresponding to the services provided by Pinduoduo's comprehensive platform
+An e-commerce platform that provides services such as venue, transaction matching, and information dissemination for independent trading activities between two or more parties.
+7. Pinduoduo Payment: also known as "Duoduo Wallet", refers to the service provided by Shanghai PayPass Information Service Co., Ltd. (also known as "PayPass")
+Payment services provided. If you open or use Pinduoduo payment services, you need to agree to and understand the Pinduoduo Payment Privacy Policy.
+8. Personal information: refers to various information related to identified or identifiable natural persons recorded electronically or in other ways,
+Excluding anonymized information.
+9. Sensitive personal information: refers to information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or harm to others
+Personal information that poses a threat to personal and property safety. Sensitive personal information includes biometric identification, religious beliefs, specific identities, medical records, etc
+Information on health, financial accounts, whereabouts, and personal information of minors under the age of fourteen.
+10. Children: Refers to minors under the age of fourteen.
+11. De identification: refers to the processing of personal information so that it cannot be identified as a specific entity without the need for additional information
+The human process.
+12. Anonymization: refers to the process in which personal information cannot be identified as a specific natural person and cannot be restored after processing.
+13. Device information: including device identifier (IMEI is only available for Pinduoduo APP before version 6.63.0, IDFA, Android)
+ID, IMSI, OAID, and other device identification information), MAC address, device parameters, and system information (device type, settings)
+Backup model, device serial number, operating system, and hardware related information)
+Application information (application crash information, notification switch status)
+Status, application installation list, application version, and other application related information, device network environment information (IP address, WiFi)
+Information, base station information, and other network related information, as well as location related information of the device (including GPS location information authorized by you)
+Information from WLAN access points, Bluetooth, and device sensors (including acceleration, magnetic field, gravity, temperature, etc.)
+Light sensing, pressure, gyroscope, distance, rotation vector, step sensor information). The actual collection situation shall prevail.
+14. Log information: including search history, click view history, browsing history, favorites history, follow relationships, sharing history
+Transaction, after-sales, publishing information, as well as IP address, browser type, language used, access date and time, telecommunications
+Operator. The actual collection situation shall prevail.
+15. Affiliated companies: Refers to one party directly or indirectly controlling, jointly controlling another party, and two or more parties under the same ownership
+A company controlled by the body or jointly controlled. The aforementioned "control" refers to the direct or indirect possession of power, which is exercised through the exercise of voting
+Determine or influence the management or decision-making direction of a party through rights, contracts, or other means, including Pinduoduo Inc's latest public offering
+The affiliated companies of Pinduoduo service providers disclosed in the company's annual report.
+Pinduoduo Information Sharing Checklist
+（1） Information sharing situation
+To achieve functions such as browsing goods or services, completing transactions, and after-sales service, your personal information may be shared with the following entities,
+The specific sharing situation is explained as follows:
+Usage Scenario Information Recipient Usage Purpose Shared Personal Information
+Type of information, sharing method, information recipient's official website/
+Privacy policy and other information
+payment
+China UnionPay Corporation has
+Limited Company (Cloud Flash)
+Pay)
+Complete order support
+pay
+Payment Information
+(such as order code)
+Number, payment amount
+Uh)
+Interface transmission
+https://wallet.95516.com/
+s/wl/WebAPP/helpAgree/
+page/agreement/regPriva
+cy.html
+Alipay (China)
+Network Technology Co., Ltd
+Company (Alipay)
+Complete order support
+Payment interface transmission https://render.alipay.com/
+p/c/k2cx0tg8 
+Ant Technology Group Stock
+Limited Company (Flower)
+Oh, well
+Complete order support
+Payment interface transmission https://render.alipay.com/
+p/c/k2h4n8ug
+Tenpay Payment Technology
+Limited Company (WeChat Support)
+Pay, QQ Wallet)
+Complete order support
+Payment interface transmission
+https://www.tenpay.com/
+v3/helpcenter/low/privac
+y.shtml
+Lianlian Yintong Electronic Branch
+Payment Limited Company
+(Apple Pay)
+On the iOS system
+Complete the order in the middle
+payment
+Interface transmission https://open.lianlianpay.c
+om
+Shanghai Pay Pass Information
+Service Limited Company
+(Duoduo Wallet)
+User activation and
+Login usage is frequent
+Multiple wallets and completion
+Order payment
+Pinduoduo account
+Information and Payment
+Information (such as ordering)
+Single number, branch
+Payment amount)
+Interface transmission
+https://mobile.yangkeduo
+.com/transac_return_com
+pensation.html?protocol_
+name=ddpay_privacy_ag
+reement&_t_timestamp=s
+ub_agreement
+Provide products/
+service
+Pinduoduo Comprehensive Services
+Merchants within the platform
+Complete the transaction
+Appointment and after-sales service
+Business and Communication
+Order information
+(such as the recipient)
+Name or given name
+Weighing and receiving location
+Address and recipient
+Machine number)
+Backend provides
+You can enter the merchant's store and click
+Click on 'Business License' to view the merchant
+Subject information or through customer service and
+Merchants get in touch
+（2） Third party SDK directory
+To ensure the implementation of Pinduoduo's related functions and the safe and stable operation of applications, enabling users to use and enjoy more services and
+We will integrate software development kits (SDKs) provided by third parties to achieve this purpose. Collect directly from you in SDK
+In the case of personal information, it does not involve Pinduoduo sharing personal information with SDK providers. How is the SDK embedded in Pinduoduo
+To collect your personal information, please refer to the Pinduoduo third-party SDK directory for details.
+Pinduoduo Permission Application List
+To provide you with higher quality, satisfactory, and personalized services, and strive to enhance your user experience, we
+We may apply for your relevant device permissions to collect your personal information. We will produce through the following list
+Display the relevant operating system permissions that products or services may apply for or use, and you can communicate them according to your actual needs
+Manage relevant permissions through the "Personal Center - Settings - Account and Security - System Permission Management" feature on the Pinduoduo app
+Reason. You understand and are aware of the types and scenarios/purposes of applying for and using permissions based on product or service upgrades
+There may be changes, please refer to the actual situation. At the same time, to ensure that you are informed of the aforementioned adjustments, we suggest that you check in a timely manner
+Look at this list.
+1. Android operating system
+Permission type, permission name, permission function description, permission application scenario/purpose
+position
+android.permission.ACC
+ESS_FINE_LOCATION
+(Access precise location);
+android.permission.ACC
+ESS_COARSE_LOCATI
+ON (access rough location)
+Get your location
+Recommend products that can be purchased in your area
+Goods or services; Help you quickly fill in the receipt form
+Address/shipping address and provide navigation, etc
+Turn off location services;
+Recommend nearby friends and activities for your convenience
+You can better participate in activities
+move
+camera
+(Camera)
+android.permission.CAM
+ERA
+Take photos with a camera
+Video and QR code scanning
+Shopping on Pinduoduo (such as product recognition)
+When applying for scenarios such as images, sharing, and interaction, etc
+Use your camera permissions to
+Complete photo or video shooting, complete QR code
+/Barcode scanning, and possibly in specific scenarios
+Authorized by you to provide facial recognition for your use
+Perform identity verification;
+Note: We will only activate the camera when you initiate it
+Taking photos or
+The video shows the information obtained in the aforementioned scenarios
+Information is only processed locally and will not be uploaded to the server
+Service equipment
+Album (photo)
+Film)
+android.permission.WRI
+TE_EXTERNAL_STOR
+AGE (write to storage);
+android.permission.REA
+D_EXTERNAL_STORA
+GE (Read Storage)
+Upload or save photos/videos
+Shopping, sharing, and exchanging on Pinduoduo
+When in motion, read your photos/videos for your convenience
+Upload photos on Pinduoduo comprehensive service platform/
+Video sharing, posting comments, or communication
+Identify through the photos or images you uploaded
+The goods or services you need to purchase, as well as the insurance
+Save relevant photos/videos
+Note: The information obtained in the aforementioned scenarios is only
+Processing is done locally and will not be uploaded to the server
+Microphone android.permission REC
+ORDAUDIO uses a microphone to record audio in contact with customer service, audio and video publishing, and other related settings
+View, read your audio/video information, and thereby
+Identify your shopping needs and customer service and sales
+Post demand, convenient for you to integrate with us and Pinduoduo
+Communication with merchants or other entities on the unified service platform
+Note: The information obtained in the aforementioned scenarios is only
+Processing is done locally and will not be uploaded to the server
+Address book android.Permission REA
+D_CONTACTS retrieves address book information
+Convenient for discovering more contacts and friends in the contact list
+Social interaction and joint participation in activities;
+No need to manually input when purchasing goods or services
+Enter your or your contact number, such as phone bill recharge
+value
+storage
+android.permission.WRI
+TE_EXTERNAL_STOR
+AGE (write to storage);
+android.permission.REA
+D_EXTERNAL_STORA
+GE (Read Storage)
+Used for device storage space
+Read internally or write to it/
+Save necessary images, files, etc
+Information will not be read from your device
+Other stored information on top
+When you use information publishing or local record breaking
+When performing functions such as breaking log information, read or write
+/Download/Save/Modify/Delete Images, Files
+Crash log information to ensure the safety of products and services
+stable operation 
+Physical activity
+distinguish
+ACTIVITY_RECOGNIT
+ION accesses sports and health data
+Obtain and display your step count information for assistance
+Assist you in participating in and accumulating step related interactions
+activity
+Access the network android.permission INTE
+RNET access network permissions enable application networking
+Get Network
+state
+android.permission.ACC
+ESS_NETWORK_STAT
+E
+Obtain network status permission to monitor network changes and prompt the user of the current network status
+environment
+Get WIFI
+state
+android.permission.ACC
+ESS-WIFIVNet Get WiFi status permission, monitor network changes, and prompt the user of the current network
+environment
+Copy/access clipboard content, share product links or information, passwords
+SMS verification code
+Fingerprint ID
+android.permission.USE
+FINGERPRINT (fingerprint)
+ID）
+Obtain fingerprint verification results and provide identity verification based on fingerprint ID
+Complete payment and other functions
+Suspended Window
+android.permission.SYS
+TEM_ALERT_WINDO
+W
+Allow the app to be used in other applications
+Coverage Display
+Used to integrate videos (such as live broadcasts) and other content into
+The form of floating windows in other mobile terminals
+Displayed on the page
+Sensors accessing sensor data for game interaction (such as shaking); Security guarantee
+Bluetooth
+BLUETOOTH_SCAN
+BLUETOOTH_CONNE
+CT
+Call Bluetooth function to achieve the setting
+Backup connection and matching
+In audio and video (including live broadcasts), events, and other settings
+Jing calls your Bluetooth function to achieve device connectivity
+Connect and match
+2. IOS operating system
+Permission type, permission name, permission function description, permission application scenario/purpose
+position
+NSLocationAlwaysUsag
+EDscription (continuous acquisition)
+Geographical location);
+NSLocationWhenInUse
+UsageDescription (only)
+Get geography when the app is used
+Location)
+Get your location
+Recommend products that can be purchased in your area
+Goods or services;
+Help you quickly fill in the shipping address/sender's address
+Address and provide navigation and other related location services;
+We provide you with nearby friends and activities for your convenience
+You can better participate in activities
+camera
+(Camera)
+NSCameraUsageDescript
+ion
+Take photos with a camera
+Video and QR code scanning
+Complete photo or video shooting, complete QR code
+/Barcode scanning, and possibly in specific scenarios
+Authorized by you to provide facial recognition for your use
+Perform identity verification
+Album (photo)
+Film)
+NSPhotoLibraryAddUsa
+GeDescription (Album Add)
+Add);
+NSPh
+otoLibraryUsageDe
+Description (for album use)
+Upload or save photos/videos
+Shopping, sharing, and exchanging on Pinduoduo
+When in motion, read your photos/videos for your convenience
+Upload photos on Pinduoduo comprehensive service platform/
+Video sharing, posting comments, or communication
+Identify through the photos or images you uploaded
+The goods or services you need to purchase, as well as the insurance
+Save relevant photos/videos
+Microphone NSMicrophoneUsageDes
+Using a microphone in the description
+In contact with customer service, audio and video publishing, and other related fields
+View, read your audio/video information, and thereby
+Identify your shopping needs and customer service and sales
+After the requirement, it is convenient for you to enable the microphone and me
+We, Pinduoduo comprehensive service platform merchants or their
+His main communication
+Address book NSContactsUsageDescri
+Option to obtain address book information
+Convenient for discovering more contacts and friends in the contact list
+Social interaction and joint participation in activities;
+No need to manually input when purchasing goods or services
+Enter your or your contact number, such as phone bill recharge
+value
+Sports and Health
+body
+NSHealthShareUsageDes
+Accessing Sports and Health Data
+Obtain and display your step count information for assistance
+Assist you in participating in and accumulating step related interactions
+activity
+IDFA NSUserTrackingUsageD
+Description: Obtain advertising identifiers to identify devices and recommend high-quality content for you
+Rong Rong
+Facial ID/
+Touch ID
+NSFaceIDUsageDescript
+ion
+Get Face ID or Touch Control
+(Fingerprint) ID verification result
+Used to assist you based on facial ID/touch ID
+Complete payment operation
+Bluetooth NSBluetoothAlwaysUsa
+geDescription
+Call Bluetooth function to achieve the setting
+Backup connection and matching
+Call in audio and video (including live streaming) and other scenarios
+Your Bluetooth function enables device connection and matching
+match
+Pinduoduo third-party SDK directory
+To ensure the implementation of Pinduoduo's related functions and the safe and stable operation of applications, enabling users to use and enjoy more services
+We will integrate software development kits (SDKs) provided by third parties to achieve the purpose of service and functionality. We will provide cooperation to our partners
+The SDK for collecting personal information undergoes strict security monitoring to protect your personal information. You understand and are aware of the relevant SDK
+Due to upgrades in its functions or services, the types and scenarios of information collected may change (subject to actual circumstances). We suggest that you
+Timely follow the corresponding SDK official website or privacy policy to obtain the latest situation. You can also manage it through the Pinduoduo client's "Personal Center Settings - Account Security - System Permission Management - Third Party SDK Management". About the third-party SDK we access
+The personal information involved is as follows:
+1. Android operating system
+SDK Name Operator SDK Usage Processing Personal
+Information Type Processing Methods Official Website/Privacy Policy Link
+WeChat
+Shenzhen Tencent
+computer system
+limited company
+WeChat login, business
+Share products/activities to
+Moments and WeChat
+Friends, WeChat support
+pay
+Equipment information (such as
+MAC address
+Android ID）
+SDK local collection
+https://weixin.qq.com/cgi-bi
+n/readtemplate?lang=zh_CN
+&t=weixin_agreement&s=p
+rivacy
+QQ
+Shenzhen Tencent
+computer system
+limited company
+QQ login and sharing
+Enjoy and pay
+Equipment information (such as
+MAC address
+Android ID）
+SDK local collection
+https://privacy.qq.com/polic
+y/tencent-privacypolicy
+https://wiki.connect.qq.com/
+qq%e4%ba%92%e8%81%9
+4sdk%e9%9a%90%e7%a7
+%81%e4%bf%9d%e6%8a%
+a4%e5%a3%b0%e6%98%8
+e
+Alipay
+Alipay (China
+National Network Technology
+Shu Co., Ltd
+Alipay payment
+Equipment information (such as
+MAC address
+AndroidID）
+SDK local collection
+https://render.alipay.com/p/
+yuyan/18002001000119679
+1/preview.html? agreementId
+=AG00000132
+Oppo Push Guangdong Huantaike
+Technology Co., Ltd
+Used for Oppo
+Mobile user push notifications
+news
+Equipment information (such as
+Android ID SDK Native Collection
+https://open.oppomobile.co
+m/new/developmentDoc/inf
+o?id=10288
+https://open.oppomobile.co
+m/new/developmentDoc/inf
+o?id=11228
+Vivo Push Vivo Mobile
+Xin Limited Company
+Used to hand Vivo
+Machine user push consumption
+interest
+Equipment information (such as
+Android ID SDK Native Collection https://dev.vivo.com.cn/doc
+umentCenter/doc/366
+xiaomi 
+push
+Xiaomi Mobile Software
+Piece Limited Company
+Used for Xiaomi hands
+Machine user push consumption
+interest
+Equipment information (such as
+Android ID SDK Native Collection https://dev.mi.c
+om/console/
+doc/detail?pId=1822
+Honor push
+Shenzhen Honor Soft
+Limited technology
+company
+Used for Honor Hand
+Machine user push consumption
+interest
+Equipment information (such as
+Android ID SDK Native Collection
+https://developer.hihonor.co
+m/cn/kitdoc?category=%E5
+%9F%BA%E7%A1%80%E
+6%9C%8D%E5%8A%A1&
+kitId=11002&navigation=gu
+ides&docId=sdk-data-securi
+ty.md&token=
+Huawei hms 
+push
+Huawei terminals have
+Limited company
+Used to hand over to Huawei
+Machine user push consumption
+interest
+Equipment information (such as
+Android ID SDK Native Collection
+https://developer.huawei.co
+m/consumer/cn/doc/develop
+ment/HMSCore-Guides/sdk
+-data-security-00000010500
+forty-two thousand one hundred and seventy-seven
+BoostM 
+ultiDex
+Beijing ByteDance
+Jumping Technology has
+Limited company
+4.0 System Mobile Functionality
+Can optimize everything https://github.com/bytedanc
+e/BoostMultiDex 
+Tencent Hot Fix
+Shenzhen Tencent
+computer system
+limited company
+Hot Repair None None https://github.com/Tencent/t
+inker
+2. IOS operating system
+SDK Name Operator SDK Usage Processing Personal
+Information Type Processing Methods Official Website/Privacy Policy Link
+WeChat
+Shenzhen Tencent
+computer system
+limited company
+WeChat login, business
+Share products/activities to
+Moments and WeChat
+Friends, WeChat support
+pay
+Equipment information (such as
+IDFA)
+SDK local collection
+https://weixin.qq.com/cgi-bi
+n/readtemplate?lang=zh_C
+N&t=weixin_agreement&s=
+privacy 
+QQ
+Shenzhen Tencent
+computer system
+limited company
+QQ login and sharing
+Enjoy and pay functions
+Equipment information (such as
+IDFA SDK Native Collection
+https://privacy.qq.com/polic
+y/tencent-privacypolicy
+https://wiki.connect.qq.com/
+qq%e4%ba%92%e8%81%9
+4sdk%e9%9a%90%e7%a7
+%81%e4%bf%9d%e6%8a%
+a4%e5%a3%b0%e6%98%8
+e 
+Alipay
+Alipay (China
+National Network Technology
+Shu Co., Ltd
+Alipay Alipay
+can
+Equipment information (such as
+IDFA SDK Native Collection
+https://render.alipay.com/p/
+yuyan/18002001000119679
+1/preview.html? agreementI
+d=AG00000132
+Lianlian Payment
+Lianlian Silver is electrified
+Sub payment Limited
+company
+LianLian Apple Pay
+Payment function
+Equipment information (such as
+IDFA SDK Native Collection https://open.lianlianpay.com
+Pinduoduo Children's Personal Information Protection Rules
+Updated on May 15th, 2023
+Effective Date: May 23, 2023
+Welcome to use Pinduoduo! Pinduoduo (hereinafter referred to as "we") is well aware of protecting children (referring to those under ten years old)
+The importance of personal information security for minors aged four weeks. Based on the Privacy Policy of Pinduoduo
+On this basis, we hope to adopt the "Pinduoduo Children's Personal Information Protection Rules" (hereinafter referred to as "this policy")
+Explain the corresponding rules and related matters when handling children's personal information. As a parent of a child or
+His guardian (hereinafter referred to as "guardian"), please use Pinduoduo's products or
+Before providing services (hereinafter referred to as "our products or services"), it is essential to carefully read and thoroughly understand this policy
+Don't read the terms highlighted in bold, and only start after confirming that you fully understand and agree to all the terms
+Use or allow children under your supervision to use.
+Special instructions from the guardian:
+If you are the guardian of a child, please carefully read and choose whether to agree with this policy. To protect you
+We hope that you can work together with us to protect the legitimate rights and interests of the children under our supervision, and ensure that you safeguard their personal information
+Protect children who use our products or services with your consent and guidance and provide us with personal information. I
+We will take measures to protect the personal information of children we obtain in accordance with this policy. If you do not agree with this policy, we will
+Please request the child under your supervision to immediately stop accessing/using our products or services.
+Please note that the products or services we provide may include those provided by third parties
+Third parties may collect, use, or process information related to children, and they need to obtain your consent separately
+Meaning. We suggest that you have children seek your consent before authorizing the collection and processing of any of their personal information from third parties
+agree
+Special instructions for children:
+If you are a child, you need to carefully read this policy together with your guardian and obtain your consent
+After obtaining consent, use our products or services and provide us with personal information.
+This policy mainly includes the following contents:
+1、 Definition and Scope of Application
+2、 How do we collect and use children's personal information
+3、 How do we share, delegate, transfer, and publicly disclose
+Personal information of children
+4、 How do we store children's personal information
+5、 How do we protect children's personal information
+6、 How to update this policy
+7、 How do you contact us
+1、 Definition and Scope of Application
+（1） Definition
+The definitions of terms used in this policy are consistent with the Pinduoduo Privacy Policy. Please refer to the Pinduoduo Privacy Policy for details
+Privacy Policy.
+（2） Scope of application
+This policy applies to our collection, use, and external submission activities conducted through the internet within the territory of the People's Republic of China
+Activities such as providing, transferring, and publicly disclosing children's personal information. This policy is based on the "Pinduoduo Privacy Policy"
+In case of any inconsistency between the special rules formulated above and the Pinduoduo Privacy Policy, this policy shall prevail; book
+If the policy is not specified, the "Pinduoduo Privacy Policy" shall apply accordingly.
+2、 How do we collect and use children's personal information
+We will strictly fulfill our obligations and responsibilities for protecting children's personal information as stipulated by laws and regulations, and obtain guardianship
+Collect and use children's personal information with their consent. You proactively provide us with feedback while using our products or services
+Personal information of children under your guardianship, such as posting your guardianship in the sharing function we provide for you
+The photos or other information of children indicate that you have agreed to our collection and use in accordance with the content of this policy
+Personal information of the child under your supervision.
+During the use of our products or services by you or your child under your supervision, we provide assistance to you or your child under your supervision
+For the purpose of providing our products or services to children and ensuring the security of your account, we will collect
+For relevant information, please refer to "Pinduoduo Privacy Policy" for details Information Collection and Use "section,
+Please provide a detailed understanding of the purpose, scope, and impact of refusing to provide personal information that we collect. In addition,
+We will automatically collect personal information from you or the children under your supervision through cookies or similar technologies. Please refer to the details
+You can refer to "Pinduoduo Privacy Policy" under section 3 Please provide a detailed understanding of the use of cookies and similar technologies.
+If we need to collect personal information from you or the children under your supervision beyond the scope of collection mentioned above, we will do so again
+I will inform you and obtain your consent.
+3、 How do we share, entrust, transfer, and publicly disclose children's personal information
+We promise to strictly keep children's personal information confidential, only in compliance with this policy and with your explicit authorization and consent
+Provide personal information of children to external parties. In order to improve information processing efficiency and reduce information processing costs,
+Or to improve the accuracy of information processing, we may entrust our affiliated companies or other professional organizations to represent me
+We handle children's personal information, please refer to "Pinduoduo Privacy Policy" for details Information Sharing and Entrustment Office
+Management, Transfer, and Public Disclosure "section.
+In addition to the Pinduoduo Privacy Policy, "4 Department of Information Sharing, Commissioned Processing, Transfer, and Public Disclosure
+In addition to the content described above, we will also take the following measures to protect children's personal information during the aforementioned information processing process
+Safety in the middle:
+1. If it is necessary to provide children's personal information to third parties for the purposes stated in this policy, we will
+Assess the legality, legitimacy, and necessity of the third-party collection of children's personal information.
+2. We will require third parties to take protective measures for children's personal information and strictly comply with relevant laws
+Legal regulations and regulatory requirements. We will require third parties who receive children's personal information to comply with strict confidentiality obligations
+And take effective confidentiality measures to prohibit the use of these children's personal information without authorization from the children and their guardians
+The purpose of the right and the requirement for the entrusted company to fulfill the following obligations in accordance with the law:
+(1) Process children's personal information in accordance with laws, administrative regulations, and our requirements;
+(2) Assist us in responding to applications from child guardians;
+(3) Take measures to ensure information security, and in the event of a child's personal information leakage security incident, and
+Provide us with timely feedback;
+(4) Timely delete children's personal information when the entrusted relationship is terminated;
+(5) No delegation is allowed without our consent;
+(6) Other obligations to protect children's personal information that should be fulfilled according to law.
+3. In addition, we will obtain your consent as required by laws and regulations, or confirm that a third party has obtained it
+Your consent.
+4、 How do we store children's personal information
+The personal information of children collected and generated during our operations within the territory of the People's Republic of China will be stored in
+Within the country, except for the following situations:
+1) There are clear provisions in laws and regulations;
+2) Obtain your separate consent;
+3) Cross border e-commerce transactions and other types of contracts in which the child under your guardianship is a party
+And necessary for fulfillment.
+We will adopt encryption and other technical measures to store children's personal information and ensure information security. What we store
+Children's personal information will not exceed the period necessary for the purposes stated in this policy, such as the personal information of the child under your guardianship
+If the information exceeds the above-mentioned retention period, we will delete or anonymize it in accordance with legal and regulatory requirements,
+Please refer to "Pinduoduo Privacy Policy" for details Information Storage and Protection "section.
+5、 How do we protect children's personal information
+We attach great importance to the security of children's personal information and take all reasonable and feasible measures to protect them
+personal information:
+We will strictly control the access rights to children's personal information and prohibit workers who may come into contact with children's personal information
+The staff adopts the principle of minimum sufficient authorization and takes technical measures to handle children's personal information
+Record and control behavior to avoid illegal copying and downloading of children's personal information.
+After the unfortunate occurrence of a child's personal information security incident, we will promptly report to the authorities in accordance with legal and regulatory requirements
+Children and their guardians are informed of the basic situation and possible impact of the safety incident, as well as the measures we have taken or will take
+Disposal measures taken, suggestions for children and their guardians to independently prevent and reduce risks, and recommendations for children and their guardians
+Remedial measures for individuals, etc. We will promptly notify the relevant situation of the event through website announcements or other appropriate means
+Children and their guardians. When it is difficult to inform them one by one, we will take reasonable and effective measures to issue relevant warnings
+Information. At the same time, we will proactively report incidents related to children's personal information security in accordance with regulatory requirements
+Set the situation. If the legitimate rights and interests of children and their guardians are damaged, we will
+Assume corresponding legal responsibilities.
+6、 How to update this policy
+We may update our products and services as well as comply with relevant legal and regulatory requirements in a timely manner
+Modifying the terms of this policy constitutes a part of this policy, and we will implement it on Pinduoduo Comprehensive Service Platform
+An updated version has been released on stage, and please visit Pinduoduo's comprehensive service platform to stay informed of the latest policies in a timely manner
+For details, please refer to "Pinduoduo Privacy Policy" section 8 The section on policy updates.
+7、 How do you contact us
+If you and the child under your supervision have any questions about this policy, or have concerns about the processing of children's personal information
+In case of any complaints or opinions, please contact us through the following methods, and we will address them upon receipt
+Within 15 days after discussing and verifying the identity of the guardian and/or child, your request will be accepted and processed:
+1. You can contact Pinduoduo customer service or through the Pinduoduo app's "Personal Center - Settings - Feedback"
+We contact;
+2. You can do it through privacy@pinduoduo.com Contact our dedicated team for personal information protection,
+Office address: Room 2902-2913, 533 Loushanguan Road, Changning District, Shanghai.
+If you are not satisfied with our response, especially our handling of children's personal information has caused harm
+You and the children under your guardianship have legitimate rights and interests, and you can also file a lawsuit with the court with jurisdiction over the defendant's domicile
+Lawsuit to seek a solution.

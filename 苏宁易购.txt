@@ -1,0 +1,291 @@
+Suning.com Basic Function Privacy Policy
+Version: April 26, 2024
+introduction
+Suning.com ("we") attaches great importance to the privacy and personal information protection of its users. When you use our products and/or services, we may collect and use your relevant information. We hope to explain to you through the "Suning.com Privacy Policy" ("this Privacy Policy") how we collect, use, store, delegate processing, share, and transfer this information when you use our products and/or services, as well as the ways we provide you with access, updates, deletion, and protection of this information.
+This policy will help you understand the following:
+1. How do we collect and use your personal information
+2. How do we entrust the processing, sharing, transfer, and public disclosure of your personal information
+3. How do we use cookies and similar technologies
+4. How do we protect and store your personal information
+5. How do you manage personal information
+6. Protection of Minors' Information
+7. How your information is transferred globally
+How to revise and update this policy
+9. How to contact us
+This privacy policy is closely related to the Suning.com website and Suning.com physical store services that you use, as well as the various business functions included in these services (collectively referred to as "our products and/or services"). We hope that you carefully read and confirm that you have fully understood the content stated in this policy before using our products and/or services, and that you can make appropriate choices according to the guidance of this privacy policy. We strive to use concise and clear language to describe the relevant terms mentioned in this privacy policy, and provide links for further explanation to help you better understand. By using or continuing to use our products and/or services after we update this privacy policy (which we will promptly notify you of), you agree to the content of this privacy policy (including updated versions) and consent to us collecting, using, storing, and entrusting the processing and sharing of your relevant information in accordance with this privacy policy.
+This policy applies to the Suning website and Suning physical stores, including the Suning website (suning. com) and offline physical stores. The Suning website includes the computer, WAP, mobile client ("APP"), and other clients of the aforementioned websites.
+Latest update date: April 26, 2024.
+If you have any questions about this privacy policy or related matters, you can contact us at any time through the following methods:
+E-mail: KHYJSJ@suning.com
+Phone: 4008-365-365
+catalogue
+1、 How do we collect and use your personal information
+2、 How do we entrust the processing, sharing, transfer, and public disclosure of your personal information
+3、 How do we use cookies and similar technologies
+4、 How do we protect and preserve your personal information
+5、 How do you manage your personal information
+6、 Protection of Personal Information of Minors
+7、 How can your information be transferred globally
+8、 How to revise and update this policy
+9、 How to contact us
+1、 How do we collect and use your personal information
+The main function of Suning.com is online shopping, with expanded features including user experience improvement services, interest preference settings, user research, personalized recommendations, personalized advertising, marketing, and network updates. According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, the necessary information for online shopping functions is the payment information such as the registered user's mobile phone number, the consignee's name, address, contact number, payment time, payment amount, payment channel, etc. You can understand the scope, purpose, and methods of processing personal information by reading the privacy statement. Agreeing to this privacy policy only means agreeing to collect and process necessary information when using online shopping functions. Other extended functions that collect personal information will seek your consent when you use specific functions.
+（1） You need to authorize us to collect and use your personal information
+1. Based on shopping services
+(1) Member registration: Before making your first purchase, you need to register for a Suning membership account. You need to provide us with your personal mobile phone number when registering, and we will send a SMS verification code to verify if your identity is valid.
+(2) Ordering and Delivery
+When you are ready to settle the goods or services purchased in your shopping cart or offline, the Suning system will generate an order for you to purchase the goods or services. You need to fill in at least your recipient's name, shipping address, and mobile phone number in the order. The order will also include the order number, information about the goods or services you purchased, the amount of payment you should make, and the payment method; You can provide additional contact information such as the recipient's landline phone number and email address to ensure accurate delivery of goods or services. However, not providing this information will not affect the generation of your order.
+After you place an order and choose cash on delivery or complete payment online, Suning's affiliates or third-party delivery companies (hereinafter referred to as "delivery companies") that cooperate with Suning will complete the delivery of your order. You acknowledge and agree that Suning's affiliates or third-party delivery companies cooperating with Suning will use your order information during the above process to ensure the safe delivery of your ordered goods.
+(3) Payment function
+After you place an order, you can choose the payment services provided by Suning's related parties or third-party payment institutions cooperating with Suning (including payment channels such as Yifubao, Alipay, WeChat payment, UnionPay, and NetPay, hereinafter referred to as "payment institutions"). The payment function itself does not collect your personal information, but we need to share your Suning order number and transaction amount information with these payment institutions to confirm your payment instructions and complete the payment. After you complete the order payment, the payment institution will share with us your payment time, payment amount, and payment channel information to help us confirm whether you have made the payment. Related party "refers to any company, institution, or legal representative of a party that currently or in the future controls, is controlled by, or is under common control with the party. 'Control' refers to the ability to directly or indirectly influence the management of the company in question, whether through ownership, voting shares, contracts, or other means
+Other methods recognized by the people's court.
+2. The necessary personal information collected and used for product business functions is listed item by item in the table below.
+Serial number
+Business scenarios
+Personal Information Fields
+Type of Personal Information
+Purpose of use
+Collection method
+one
+Member Registration
+cell-phone number
+Personal Basic Information
+Register and log in to Suning.com account
+System collection
+two
+Ordering and Delivery
+Recipient's name, address, and contact phone number
+Personal Basic Information
+Identify the recipient, shipping address, and contact the recipient to deliver the goods
+Users proactively provide
+three
+payment
+Payment time, payment amount, and payment channel information
+Personal property information
+Confirm whether the payment instruction has been completed
+System collection
+（2） You can choose whether to authorize us to collect and use your personal information
+In order to make your consumption and access to information more convenient or enjoyable, and thus enhance your online consumption and audio-visual entertainment experience at Suning, our following functions may collect and use your personal information. If you do not provide this personal information, you can still engage in online consumption, access information, and audio-visual entertainment, but you may not be able to use these functions that can bring you consumption pleasure or may need to fill in some information repeatedly when purchasing certain goods/services. These features include:
+1. Features provided based on personalized recommendations
+When you use our products and/or services, we will ask if you agree to accept the personalized recommendation function, and you have the right to decide whether to accept it independently. If we obtain your consent, we may collect your account information, order information, browsing information, your interests and hobbies (which can be found in your account settings), and device information for data analysis to form a user profile, which will be used to display information about products or services that you are interested in to you; Or show you the products or services you may want to find when you search. Our product does not involve cross platform advertising recommendations and related programmatic advertising. If you do not agree to our collection of the above information to provide personalized recommendations for you, you can turn off this feature in the privacy module of Suning.com ([My Account Settings Privacy Settings Recommendation Management]).
+2. Based on the functions provided during the shopping process
+When users authorize the personalized recommendation function based on location on the homepage, search, and product details pages, we will use your location information (we only use your geographical location at that time, but will not combine your location information from different time periods to determine your whereabouts) to determine your location and automatically recommend products or services that can be purchased in your area. This includes recommending the nearest optional stores to you, recommending popular, high-quality audio-visual content and live broadcasts that we believe are suitable for you to watch in your area.
+3. Based on the functions provided by the camera (camera)
+You can enable camera device permissions to complete video shooting, taking photos, and scanning codes. You can upload your photos on Suning to achieve photo shopping, order sharing, and review functions. We will use the photos you upload to identify the products you need to purchase or use reviews that include the pictures you upload.
+4. Based on the functions provided by the clipboard
+When you use the password function of Yigou, enable clipboard permission so that after copying relevant content, open the Suning Yigou APP and automatically implement password assistance and red envelope corresponding functions. We have set strict local filtering rules for the clipboard, only uploading Suning password content and not your personal information.
+5. Implementing relevant business functions may enable your device access permissions to collect and use the information involved in these functions. Please refer to the 'List of System Permission Application and Use' for a detailed list of each item. You can check the enabled status of the above permissions item by item in the privacy module of Suning.com ([My Account Settings Privacy Settings]), and decide whether to enable or disable these permissions at any time.
+（3） The situation of collecting and using your personal information based on maintaining network security and ensuring transaction security
+In order to improve the security of your system when using our products and/or services, more accurately prevent phishing website fraud and protect account security, maintain network security and order, based on the Cybersecurity Law, we may collect and process your variable device identification (Android ID, IP address, OAID), basic device information, basic hardware information, operating system and software version information, device status, network status, and use your storage permissions. We will also use the above information to prevent various illegal uses or infringement of legitimate rights and interests.
+（4） You are fully aware that, in accordance with laws, regulations, and national standards, we do not require your consent to collect and use personal information in the following situations:
+1. Necessary for the conclusion and performance of contracts to which individuals are a party, or for the implementation of human resource management in accordance with labor rules and regulations formulated in accordance with the law and collective contracts signed in accordance with the law;
+2. Necessary for fulfilling statutory duties or obligations;
+3. Necessary for responding to sudden public health emergencies or protecting the life, health, and property safety of natural persons in emergency situations;
+4. To carry out news reporting, public opinion supervision and other activities for the public interest, and to process personal information within a reasonable range;
+5. Process personal information that individuals have voluntarily disclosed or other legally disclosed information within a reasonable scope in accordance with the provisions of this law;
+6. Other circumstances stipulated by laws and administrative regulations.
+（5） The situation where we obtain your personal information from third parties (indirect acquisition of personal information)
+We may obtain your authorized shared account information (avatar, nickname) from third parties and bind your third-party account with your Suning account after you agree to this privacy policy, so that you can directly log in and use our products and/or services through your third-party account. We will use your personal information based on agreements with third parties and after confirming the legality of the source of your personal information, in compliance with relevant laws and regulations.
+We promise that the amount of personal information we indirectly obtain from third parties is the minimum amount necessary to achieve the business functions of Suning.com products.
+We promise that when indirectly obtaining your personal information from third parties, we will require the third party to explain the source of the personal information and will verify the source of their personal information
+Confirmation of legality; We will understand and carefully note that third parties have obtained authorization and consent for the processing of your personal information, including the purpose of use, whether you have authorized the transfer, sharing, public disclosure, etc. If the personal information processing activities required for our business exceed the scope of authorization and consent, we will obtain your explicit consent within a reasonable period after obtaining your personal information or before processing your personal information.
+（6） The situation where Suning.com APP embeds third-party code and plugins that involve the transmission of personal information is listed item by item in the form of a list. The purpose, method, and scope of SDK collection and use of personal information are detailed in the third-party SDK directory.
+（7） Rules for the Use of Your Personal Information
+1. We will use the collected personal information in accordance with the provisions of this privacy policy and to achieve the functionality of our products and/or services.
+After collecting your personal information, we will use technical means to de identify the data, and the de identified information will not be able to identify the subject. Please understand and agree that we have the right to use the de identified information in this situation; We have the right to analyze and commercially utilize the user database without disclosing your personal information.
+When you cancel your account, we will stop using and delete your personal information or anonymize your personal information.
+When we display your personal information, we will use methods such as content replacement and anonymous processing to anonymize your information and protect its security.
+5. When we use your personal information for purposes not specified in this policy, or when information collected for a specific purpose is used for other purposes, we will seek your consent in advance by you actively checking the box.
+6. List the application scenarios and potential impacts of using personal information for portrait purposes one by one:
+Application scenarios
+Business functions and impacts
+search
+When matching user search results, match more relevant search results based on shopping, browsing, and following records
+advertisement
+Match display advertising products or marketing activities based on user shopping, browsing, and following records
+Ranking List
+Based on the category information browsed by users, summarize and recommend relevant products under that category for display
+Find similarities
+Display similar products based on user browsing history
+Guess you like it
+Recommend and display relevant products, stores, or content based on the user's browsing history, shopping history, and following history
+Push notifications
+Push relevant products or marketing activities based on users' browsing history, shopping history, and following history
+7. Composition of silent traffic in the APP backend
+To enhance user experience, our product backend is equipped with a long connection for receiving notification messages in customer service/live streaming scenarios (such as customer service chat sending message reminders, live streaming room bullet message reception), making it easy for users to quickly view customer service messages or enter live streaming rooms. The uploaded data is a long connection heartbeat packet (approximately 100 bytes/minute).
+2、 How do we entrust the processing, sharing, transfer, and public disclosure of your personal information
+（1） Entrusted processing
+1. Some specific modules or functions of this business function are provided by external suppliers, and we may entrust service providers to assist us in providing customer support. For example, we may entrust our partners and third parties to process your order information, account information, device information, and location information to ensure the smooth completion of the services we provide to you. But we will only entrust your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only entrust the processing of personal information necessary for providing services. Our partners have no right to use the personal information entrusted for processing for any other purpose. For companies, organizations, and individuals entrusted by us to process personal information, we will sign strict confidentiality agreements with them, requiring them to process personal information in accordance with our requirements, this privacy policy, and any other relevant confidentiality and security measures. Our partners include the following types:
+(1) Suppliers of goods or technical services. We may entrust your personal information to third parties who support our functions for processing. These supports include providing our supply or infrastructure technology services, logistics and distribution services, installation and maintenance after-sales services, payment services, and data processing. The purpose of entrusting the processing of this information is to enable the core shopping functions of our products and/or services, including the requirement for us to provide your order information to the logistics service provider in order to arrange delivery; Alternatively, we may need to provide your order number and amount to a third-party payment institution to confirm your payment instructions and complete the payment.
+(2) Third party merchants. We must share your order information and necessary transaction related information with third-party merchants to fulfill your purchasing needs for goods or services and enable them to complete subsequent after-sales services.
+2. We have listed the situations in which we entrust our partners and third parties to process your personal information item by item. Please refer to the "List of Personal Information Entrustment Processing".
+（2） Sharing
+1. We will not share your personal information with any company, organization, or individual outside of Suning, except in the following circumstances:
+(1) Obtaining your explicit consent or authorization in advance;
+(2) Provide as necessary in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+2. We are aware of the corresponding legal responsibilities for sharing, transferring, and publicly disclosing personal information to external parties. We will sign strict confidentiality agreements with companies, organizations, and individuals with whom we share personal information, requiring them to handle personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures. In the use of personal sensitive data, we require third parties to adopt data anonymization and encryption techniques to better protect user data.
+3. In order to comply with laws, enforce or apply our terms of use and other agreements, or to protect the rights, property or safety of Suning, you or other Suning customers, including to prevent illegal activities such as fraud and reduce credit risk, we exchange information with other companies and organizations. However, this does not include selling, renting, sharing, or disclosing for profit purposes in violation of the commitments made in this privacy policy
+personal information.
+（3） Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+1. Obtain your explicit consent or authorization in advance;
+2. Provide necessary information in accordance with applicable laws, regulations, legal procedures, mandatory administrative or judicial requirements;
+3. Comply with the relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents provided;
+When it comes to bankruptcy, mergers, acquisitions, asset transfers, or similar transactions involving the transfer of personal information, we will require the new company or organization holding your personal information to continue to be bound by this privacy policy. Otherwise, we will require the company or organization to seek your authorization and consent again. If there is no data recipient, we will delete the corresponding data.
+（4） Public disclosure
+We will only publicly disclose your personal information under the following circumstances and with industry standard security measures in place:
+1. According to your needs, disclose the personal information you have specified in the disclosure method that you have explicitly agreed to;
+2. In cases where it is required by laws, regulations, mandatory administrative law enforcement or judicial requirements to provide your personal information, we may publicly disclose your personal information based on the required type and disclosure method. Subject to compliance with laws and regulations, when we receive a request for disclosure of the aforementioned information, we will require the issuance of corresponding legal documents, such as subpoenas or investigation letters. We firmly believe that the information requested from us should be kept as transparent as possible within the limits permitted by law. We have carefully reviewed all requests to ensure that they have legal basis and are limited to data obtained by law enforcement agencies for specific investigation purposes and with legitimate rights. Subject to legal regulations, all documents we disclose are protected by encryption keys.
+3、 How do we use cookies and similar technologies
+（1） The use of cookies
+To ensure the normal operation of the website, provide you with a more relaxed visiting experience, and recommend content that you may be interested in, we will store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. With the help of cookies, websites can store your preferences or product and service data in your shopping cart. We send cookies to you to simplify the process of repeated login, store your shopping preferences or product and service data in your shopping cart, provide you with shopping preference settings, help you optimize your selection and interaction with advertisements, assist in determining your login status, and ensure account or data security.
+2. We will not use cookies for any purposes other than those described in this privacy policy. You can manage or delete cookies according to your preferences. For more details, please refer to AboutCookies.org. You can clear all cookies saved on your computer, and most web browsers have a feature to block cookies. But if you do so, you will need to change your user settings every time you visit our website, and the corresponding information you previously recorded will also be deleted, which may have a certain impact on the security of the services you use. To learn more about how to change browser settings, please visit the relevant settings page of the browser you are using.
+（2） The use of website beacons, pixel tags, and other similar technologies
+In addition to cookies, we also use website beacons, pixel tags, and other similar technologies on our website. The email we send you may contain an address link to our website content. If you click on the link, we will track this click to help us understand your product or service preferences and proactively improve our customer service experience. A website beacon is typically a transparent image embedded in a website or email. By using pixel tags in emails, we can determine whether the email has been opened. If you do not want your activities to be tracked in this way, you can unsubscribe from our mailing list at any time.
+4、 How do we protect and manage the storage of personal information
+（1） Our technology and measures to protect your personal information
+We attach great importance to personal information security and take all reasonable and feasible measures to protect your personal information:
+1. Data security technical measures
+We will adopt security measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent unauthorized access, use, and modification of your personal information, and to prevent data damage or loss.
+Suning's network services adopt encryption technologies such as transport layer security protocols, and provide browsing services through HTTPS and other methods to ensure the security of user data during transmission.
+Suning adopts encryption technology to encrypt and store users' personal information, and isolates it through isolation technology.
+When using personal information, we will adopt various data anonymization technologies including content replacement and SHA256 to enhance the security of personal information during use.
+Suning adopts strict data access control and multiple identity authentication technology to protect personal information and prevent data from being used in violation of regulations.
+Suning adopts code security automatic inspection and data access log analysis technology for personal information security audit.
+2. Other security measures taken by Suning to protect personal information
+Suning manages and regulates the storage and use of personal information by establishing a data classification and grading system, as well as data security management standards.
+Suning implements comprehensive security control over data through information contact confidentiality agreements, monitoring, and auditing mechanisms.
+Suning establishes a data security management organization to promote and safeguard personal information security.
+Our underlying cloud technology for storing your personal data has obtained the "Trusted Cloud" certification issued by the Data Center Alliance.
+Strengthen safety awareness. We will also hold security and privacy protection training courses to enhance employees' awareness of the importance of protecting personal information.
+3. We only allow employees of Suning and Suning affiliates who need to know this information
+Partners access personal information and have established strict access control and monitoring mechanisms for this purpose. We also require all personnel who may have access to your personal information to fulfill corresponding confidentiality obligations. If these obligations are not fulfilled, legal responsibility may be pursued or cooperation with Suning may be suspended.
+4. We will take all reasonable and feasible measures to ensure that unrelated personal information is not collected. We will only retain your personal information for the period necessary to achieve the purposes stated in this policy, unless an extension of the retention period is required or permitted by law.
+5. The Internet is not an absolutely secure environment, and the way of communication with other users such as email, instant messaging, social software, etc. cannot be determined whether it is fully encrypted. We recommend that you use complex passwords when using such tools, and pay attention to protecting your personal information security.
+6. The Internet environment is not 100% secure. We will try our best to ensure or guarantee the security of any information you send us. If our physical, technological, or management protective facilities are damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, which damages your legitimate rights and interests, we will bear corresponding legal responsibilities.
+7. Security incident handling
+When conducting online transactions of goods or services with third parties through the Suning website, it is inevitable for you to disclose your personal information to the counterparty or potential counterparty. Please protect your personal information properly and only provide it to others when necessary.
+In response to potential risks such as personal information leakage, damage, and loss, Suning has established multiple systems to clarify the classification and grading standards for security incidents and vulnerabilities, as well as corresponding processing procedures. Suning has also established a dedicated emergency response team for security incidents. In accordance with the requirements of security incident handling standards, safety plans are activated for different security incidents to carry out stop loss, analysis, positioning, formulate remedial measures, and jointly trace and crack down on relevant departments.
+After the unfortunate occurrence of a personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for you to independently prevent and reduce risks, and remedial measures for you in accordance with the requirements of laws and regulations. We will also promptly inform you of the relevant situation of the event through email, letter, phone, push notifications, etc. When it is difficult to inform individual information subjects one by one, we will adopt a reasonable and effective way to publish an announcement. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements.
+If you have any questions about our personal information protection, you can contact us through the contact information provided at the bottom of this policy. If you discover that your personal information has been leaked, especially your account and password, please contact us immediately through the contact information provided in the "How to Contact Us" section at the bottom of this policy, so that we can take appropriate measures.
+（2） Storage of your personal information
+In principle, the personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. The data storage period is 20 years. If we change the data storage period, we will notify you separately in advance. However, as we provide products or services through our global resources and servers, this means that with your authorized consent, your personal information may be transferred to or accessed from overseas jurisdictions in the country/region where you use the products or services. Such jurisdictions may have different data protection laws, or even no relevant laws in place. In such cases, we will ensure that your personal information receives sufficient and equal protection within the territory of the People's Republic of China. For example, we may request your consent for cross-border transfer of personal information, or implement security measures such as data de identification before cross-border data transfer.
+2. Before the expiration of the retention period of your personal information, we will notify you at least thirty days in advance and continue to store it according to your authorization or delete or anonymize your personal information as per your request.
+3. Please note that after you successfully apply to cancel your Suning account, we will complete the account cancellation review. Once the review is approved, we will delete or anonymize your personal information.
+If we terminate the service or operation, we will notify you at least thirty days in advance and delete or anonymize your personal information after the termination of the service or operation.
+5、 How do you manage your personal information
+Suning attaches great importance to your attention to personal information and makes every effort to protect your rights to access, correct, delete, and withdraw consent to your personal information, so that you have sufficient ability to safeguard your privacy and security. Your rights include:
+1. Accessing and correcting your personal information
+Except as provided by laws and regulations, you have the right to access and correct your personal information at any time. On the PC side, you can view your personal information by entering the "Personal Center" or similar modules, and you can correct your contact information, address, password, and personal information through "Account Settings" or "Account Management". On the mobile end, you can click on your avatar or account name on the "My" page to enter "Account Settings" or "Account Management" or similar modules to query and correct your contact information, address, password, and personal information. The display copy and access path on various Suning websites may vary slightly. For example:
+(1) Your account information: On the PC side, you can view all the personal information you have submitted to Suning.com in the "Account Management" menu on the "My Yigou" page. You can also update other personal information except for the advanced real name authentication information through the above channels (your advanced real name authentication information is the name and ID card information you used during the advanced real name authentication). If you need to change your advanced real name authentication information, you can call the EasyPay customer service hotline 95177 to apply for a change. The specific path for the mobile end is: account name, personal profile information: homepage - "My Easy Buy" to enter My Easy Buy - click on the avatar to enter account settings - personal information; Account password, phone number, security information: Home page - "My Yigou" Go to My Yigou - Click on the avatar to enter account settings - Account security; Hobbies: Homepage
+--Go to "My Yigou" and click to enter "My Followers", which includes product follow, store follow, and content follow.
+We may collect your WeChat account, QQ account, Alipay account, email, mobile phone number and push permission. You can turn off the push push permission that has been enabled in My Easy Buy - Message Center - Message Reminder Settings, or turn off the push push permission of Suning Easy Buy APP in the permission settings that come with your phone; You can unbind the bound WeChat account, QQ account and Alipay account in My eBay Account Settings Associated Account; You can reply with "T" to unsubscribe from the SMS push service after receiving the marketing SMS pushed to you by Suning.com; You can unsubscribe through the unsubscribe link below after receiving the marketing email recommended by Suning.com.
+(2) Your shipping information: On the PC side, you can add, change, or delete your shipping address information (including recipient name, shipping address, recipient's phone number or email) at any time by accessing the "Address Management" menu on the "My Easy Buy" page. On the mobile side, the specific path is: Home - "My Easy Buy" to enter My Easy Buy - click on the avatar to enter account settings - Address Management. You can also set the most commonly used shipping address as the default address, so that your next purchase of goods will be delivered to your default address without changing the shipping address.
+(3) Your order information: On the PC side, you can view all your completed, pending payment, or after-sales orders by accessing the "My Orders" page. The specific path for the mobile end is: Home page of the mobile end - "My Yigou" Enter My Yigou - My Orders/Pending Receipts/Pending Returns/After sales. You can choose to delete completed orders to delete your order information, but this may cause us to be unable to accurately determine your purchase information and provide corresponding after-sales service.
+(4) Your browsing information: You can access or clear your search history, view and modify interests, and manage other data. The mobile path is: Search history: Home - "My Easy Buy" Enter My Easy Buy - Footprints; Interest and other data: Home page - "My" Enter My Easy Buy - My Followers, including product followers, store followers, and content followers.
+(5) Your comment information: On the PC side, you can access, update, or clear your personal comments. On the mobile side, the path is: My Easy Buy - To Review - Review Center.
+(6) Your invoice information: You can access, update, or clear your invoice information. The mobile path is to the homepage - "My Easy Buy" to enter My Easy Buy - click on the avatar to enter account settings - add ticket qualifications.
+(7) Your profile information: You can actively add your size information, baby information, and other personal information in the "Account Settings - Add Information to Enjoy Exclusive Recommendations" section on your mobile device, making it more convenient for you to purchase related products and services, and also making it easier for us to recommend products that you may be interested in. You can delete and modify your above information through this path.
+2. Delete your personal information
+The information that you can directly clear or delete on our product and/or service pages, including order information, browsing information, and shipping address information;
+In the following situations, you can request us to delete your personal information:
+(1) If our handling of personal information violates laws and regulations;
+(2) If we collect and use your personal information without your consent;
+(3) If our handling of personal information violates our agreement with you;
+(4) If we terminate our services and operations.
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us to delete it in a timely manner, unless otherwise provided by laws and regulations, or if these entities have obtained your independent authorization. When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but will delete this information when the backup is updated.
+3. Change the scope of your authorization or revoke your authorization
+You can change the scope of your authorization for us to continue collecting personal information or revoke your authorization by deleting information, turning off device functions, or setting "privacy settings" on the Suning website or software. You can also revoke all authorization for us to continue collecting your personal information by canceling your account.
+Please understand that each business function requires some basic personal information to be completed. When you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, nor will we process your corresponding personal information. But your decision to withdraw consent or authorization will not affect the personal information processing previously carried out based on your authorization.
+4. Account cancellation
+You can directly apply to cancel your account in our product. The display copy and logout path on various Suning websites may vary slightly. For example:
+PC path: My Easy Buy - Click on "Account Security" on the right side of the avatar to enter "Security Center" - Select "Security Tools" - "Cancel Account". Mobile path: My Easy Buy - click on the avatar to enter account settings, click on "Account Security" - click on "Apply for Cancellation". Regarding the method of account cancellation and the conditions you should meet, please refer to the "Suning Account Cancellation Notice" for details. After you cancel your account, we will cease to provide you with products and/or services. Unless otherwise required by laws and regulations, we will delete your personal information.
+After you cancel your Suning account, if you need to continue using it in the future, you can use another phone number to register a new account; Alternatively, you can set your username and password for account registration. In this scenario, we will collect your username and password.
+5. If you do not want to accept the promotional information we send you, you can cancel it at any time through the following methods:
+(1) You can unsubscribe from promotional information in the subscription menu by categorizing messages on the PC account page.
+(2) You can reply with "TD" or "T" (subject to SMS notification) at any time to cancel the mobile promotion SMS we sent you.
+(3) You can unsubscribe from the products or services provided to you through the "Message Center - Message Reminder Settings" in the upper right corner of the mobile app
+And promotional information.
+(4) You can set whether to accept Q&A information about products or services that you may be interested in or follow, as well as interactive information about interest communities, through the "Message Center - Message Reminder Settings" or "Account Settings Page" in the upper right corner of the mobile app.
+(5) We will collaborate with third-party platforms or media ("Platforms") to recommend personalized products or services to you based on your personal information. These personal information include information such as shopping history on this website, visits to affiliated company websites on this website, and the interests and hobbies you have filled in your account settings. The platform only provides us with a window to display products or services, and the links to the window content are personalized display information of products or services on Suning's website, which is managed by Suning. Therefore, we will not provide any personal information of you to advertisers. And we have set up a blocking function in the recommendation window, where you can choose to block ads that you don't like. If you are unwilling to accept Suning's recommendation service on a single platform, please contact the platform to close it. You are aware and understand that the platform is an independently operated entity, and Suning is unable to manage it.
+(6) In order to protect your privacy, we will not push any promotions or product and service information related to sensitive content such as religious beliefs, sex, diseases, etc. to you in any way or through any means.
+6. Constrain automatic decision-making of information systems
+In certain business functions, we may make decisions solely based on non manual automated decision-making mechanisms, including information systems, algorithms, etc. If these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from us, and we will also provide appropriate remedies.
+7. Responding to your request
+If you are unable to access, correct or delete your personal information through the above methods, or if you need to access, correct or delete other personal information generated when using our products and/or services, or if you believe that Suning has violated any laws and regulations or agreements with you regarding the collection or use of personal information, you can contact us through the methods below this agreement. To ensure safety, we may require you to provide a written request or other proof of your identity. We will respond to your request within 15 days after receiving your feedback and verifying your identity. If you are not satisfied, you can also file a complaint with the Luohu Supervision Bureau of the Shenzhen Market Supervision Administration or file a civil lawsuit with the Luohu District People's Court of Shenzhen. You can also report to the Cyberspace Administration of China (the website of the reporting center is: http://www.12377.cn The reporting hotline is 12377. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repeated, require excessive technical means, pose risks to the legitimate rights and interests of others, or are very unrealistic.
+In the following situations, as required by laws and regulations, we will not be able to respond to your request:
+(1) Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+(2) Related to national security and defense security;
+(3) Related to public safety, public health, and major public interests;
+(4) Related to criminal investigation, prosecution, and trial;
+(5) The personal information controller has sufficient evidence to indicate that the personal information subject has subjective malice or abuse of rights;
+(6) For the purpose of safeguarding the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+(7) Responding to the request of the personal information subject will result in serious damage to the legitimate rights and interests of the personal information subject or other individuals or organizations;
+(8) Involving trade secrets.
+If we decide not to respond to your request, we will inform you of the reasons for that decision and provide you with a channel for complaint.
+6、 Protection of Children's Personal Information
+Our products, website, and services are primarily aimed at adults. Children should not create their own user accounts without the consent of their parents or guardians.
+For cases where personal information of children is collected with the consent of parents, we will only use or publicly disclose this information when permitted by law, with the explicit consent of parents or guardians, or when necessary to protect the child.
+Although local laws and customs define children differently, we consider anyone under the age of 14 as a child.
+If we find that we have collected personal information of children without obtaining verifiable parental consent in advance, we will try to delete the relevant data as soon as possible.
+We further take the following measures to safeguard the personal information of children under the age of 14 who may be involved:
+(1) For the personal information collected from children, in addition to complying with the provisions of this privacy policy regarding the protection of user personal information, we will also strictly follow the requirements of the "Regulations on the Protection of Children's Personal Information Network", and adhere to the principles of legitimate necessity, informed consent, clear purpose, security protection, and lawful use.
+(2) We strictly comply with the requirements of laws and regulations such as the Cybersecurity Law, the Law of the People's Republic of China on the Protection of Minors, and the Regulations on the Network Protection of Children's Personal Information to store, use, and disclose the collected personal information of children, and will not exceed the period necessary to achieve the purpose of collection and use. After the expiration, we will delete or anonymize the personal information of children.
+(3) Our personal information protection email KHYJSJ@suning.com We will have a dedicated person responsible for coordinating any matters related to the protection of children's personal information. We will also establish an internal specialized system for the protection of children's personal information.
+(4) When you, as the guardian, choose Suning related services for the child under your guardianship, we may need to collect the personal information of the child under your guardianship for the purpose of providing you with necessary services. If we need to collect children's personal information from you in specific services, we will obtain your authorization and consent in advance, and inform you of the purpose and purpose of the collection. If you do not provide the aforementioned information, you will not be able to enjoy the relevant services we provide. In addition, when using functions such as posting and evaluating, you may proactively provide us with children's personal information. Please be aware of this and choose carefully. As a guardian, you should fulfill your guardianship responsibilities correctly and protect the personal information security of children. If the child themselves
+If you need to register or use our products or services, you should guide and supervise them correctly.
+(5) Children or guardians have the right to access, correct, and delete children's personal information. If you have any opinions, suggestions, or demands regarding children's personal information, please contact us. We will provide you with services at any time.
+(6) List the information collected and used by the product's business functions, item by item
+Business scenarios
+Type of Personal Information
+Personal Information Fields
+Baby Growth Plan
+Personal Basic Information
+Baby status, baby gender, baby nickname, baby age
+7、 How can your information be transferred globally
+The personal information collected and generated during our operations within the territory of the People's Republic of China is stored within China, except in the following circumstances:
+1. The applicable laws have clear provisions;
+2. Obtain your explicit authorization;
+3. You conduct cross-border transactions and other personal initiatives through the Internet.
+In response to the above situation, we will ensure that your personal information is adequately protected in accordance with this privacy policy.
+If you use cross-border transaction services and need to transfer your personal information overseas to complete the transaction, we will separately obtain your authorization and consent, and require the recipient to process this personal information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+Specific description of data transmission outbound business scenarios:
+Product Name
+Data transmission outbound business scenario
+Types of personal information for outbound travelers
+Outbound personal information field
+Is data transmission encrypted for outbound use
+Encryption method
+Suning.com APP
+IOS message push
+Personal commonly used device information
+Unique device identification code
+yes
+SHA256
+8、 How to revise and update this policy
+To provide you with better service and with the development of Suning's business, this privacy policy will also be updated accordingly. But without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. We will send updated versions on the Suning website and Suning mobile app, and notify you of the updates through website announcements or other appropriate means before they take effect. Please also visit Suning to stay up-to-date with the latest privacy policy.
+2. For significant changes, we will provide more prominent notifications (including email, text message, or special prompts on browsing pages to explain the specific changes to the privacy policy) and obtain your consent again.
+The major changes referred to in this policy include:
+(1) Our service model has undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+(2) We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+(4) There has been a significant change in your right to participate in personal information processing and the way you exercise it;
+(5) When the responsible department, contact information, and complaint channels for handling personal information security change;
+(6) When the personal information security impact assessment report indicates the presence of high risks.
+3. We will also archive old versions of this strategy for your reference.
+9、 How to contact us
+If you have any questions, opinions or suggestions regarding this privacy policy or your personal information, please send an email to KHYJSJ@suning.com Contact us through various methods such as calling the 4008-365-365 customer service hotline.
+Normally, we will reply within fifteen days. If you are not satisfied with our response, especially if our personal information processing behavior has harmed your legitimate rights and interests, you can also seek solutions through the following external channels:
+(1) Initiate a civil lawsuit with the people's court in the defendant's location;
+(2) Report to the Cyberspace Administration of China (Cyberspace Administration of China) (Report Center website: http://www.12377.cn The reporting hotline is 12377.
+3. Basic information of product operator
+Product Name
+corporate name
+Company Registered Address
+Common office address
+Contact information of the person in charge of personal information protection
+Suning.com APP
+Shenzhen Yunwang Wandian E-commerce Co., Ltd
+Unit 3510-131, Luohu Business Center, No. 2028 Shennan East Road, Chengdong Community, Dongmen Street, Luohu District, Shenzhen
+1-9 Suning Avenue, Xuanwu District, Nanjing City
+KHYJSJ@suning.com

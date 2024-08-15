@@ -1,0 +1,398 @@
+Duxiaoman (Xiaomanto) Personal Information Protection Policy
+Publication date: December 1, 2023
+Effective Date: December 1, 2023
+introduction
+Welcome to use the Duxiaoman Xiaomantuo App (hereinafter referred to as
+Du Xiaoman Xiaoman Tuo App
+or
+Platform
+）. As the operating entity and provider of platform services for Duxiaoman (Xiaomanto) App, we (see Appendix 1: Keyword Definition) will explain to you through the "Duxiaoman (Xiaomanto) Personal Information Protection Policy" (hereinafter referred to as "this policy") our collection, use, storage, and external provision of your personal information, as well as how you manage your personal information.
+This policy applies to all services provided by the platform to you (collectively referred to as "Duxiaoman (Xiaomanto) Services").
+However, it should be noted that this policy does not apply to products or services directly provided to you by affiliated companies or third-party cooperative institutions of Duxiaoman and Xiaomanto. We recommend that you review their personal information protection policy before using these products or services to understand how they handle your information, in order to make informed decisions.
+Your personal information security is crucial to us. We respect and protect your personal information, and we have always been committed to providing you with a secure online environment. We will comply with the Cybersecurity Law of the People's Republic of China and the Personal Information Protection Law, and refer to them
+Information Security Technology - Personal Information Security Specification (GB/T 35273-2020)
+Waiting for recommended technical specifications to protect your personal information. This policy introduces the purposes, methods, and scope of collecting, using, storing, sharing, and transferring your personal information in our platform products and/or services, information security protection measures, as well as the methods we provide for controlling your personal information such as access, updates, and deletion.
+In order to facilitate your reading and understanding, we have tried to use simple and easy to understand sentences to express ourselves, and defined key terms. Please refer to Appendix 1: Keyword Definitions of this policy for the specific content of these definitions.
+You acknowledge and confirm that you have read all the contents of this policy at the time of registration, and agree that we will lawfully process your personal information in accordance with this policy.
+For your convenience in reading this policy, we have specially reminded all clauses that may have a significant relationship with your legitimate interests and sensitive information content to be written in bold and italics, and provided examples of sensitive information categories in Appendix 1: Keyword Definitions. Before providing us with any personal sensitive information, please carefully consider whether such provision is appropriate and confirm whether you agree that we may process your personal sensitive information in accordance with the purposes and methods described in this policy. We will collect and use your sensitive information with your consent to achieve functions related to the Duxiaoman (Xiaomanto) service. You can refuse to provide us with this sensitive information, but refusing to provide this information will affect your use of specific features under the Xiaoman (Xiaoman Tuo) service.
+If you do not agree or understand any part or all of the content of this policy, please immediately stop using our products and/or services. You can contact and consult us through customer service hotline 95055 regarding matters related to this policy.
+The products and/or services covered by this policy are for adult use only. Please ensure that you are 18 years of age or older before using the relevant products and/or services. If you have not reached the above age, please immediately terminate the use of Du Xiaoman (Xiaoman Tuo) service.
+This policy will help you understand the following:
+one
+How do we collect and use your personal information
+two
+How do we use cookies and similar technologies
+three
+How do we share, transfer, and publicly disclose your personal information
+four
+How do we store your personal information
+five
+How do we store your personal information
+six
+How can we give you the right to manage personal information
+seven
+Protection of Minors' Information
+eight
+How do we update and modify version policies
+nine
+How to contact us
+ten
+Appendix 1: Keyword Definitions
+1、 How do we collect and use your personal information
+We will collect and use your personal information voluntarily provided during the use of Duxiaoman (Xiaomanto) services, generated as a result of your use of Duxiaoman (Xiaomanto) services, and obtained from third parties, in accordance with the relevant laws and regulations mentioned in the introduction, following the principles of legitimacy, legality, and necessity, for the purposes described in this policy. No matter how we collect and use your personal information through the above methods, we will only do so with your consent in principle, unless in certain circumstances, we collect personal information from you based on legal obligations or may need to protect your or others' important interests. However, we will not collect personal information prohibited by laws and regulations.
+You can choose not to provide one or some information. If you choose not to provide certain information, it may cause you to be unable to use or use some of the services provided by Xiaomanto, but this will not affect your use of other services on the platform.
+Please understand that due to changes in business strategy, the functionality of products and/or services on the platform may also undergo changes and developments.
+If we want to use your personal information for other purposes not specified in this policy, or use the collected personal information for other purposes based on specific purposes, we will inform you through the platform in a reasonable manner (such as pop ups, etc.) and obtain your consent again before use.
+（1） Account registration and login
+You can use your Duxiaoman account to log in to the Duxiaoman Xiaomantuo App. During this process, Duxiaoman will collect your personal information to verify your account and achieve login purposes. We will collect your account information, including username
+phone number
+Unit information.
+In addition to the aforementioned, in order to ensure the safe operation of the platform, we need to collect your data during the process of logging in and using the Xiaoman Xiaoman Tuo App
+Common device information
+(including
+Unique device identification code
+Equipment type information)
+locate information
+In order to verify and manage your identity and behavior security, for example, when you perform specific online operations, compare your commonly used device information to confirm whether there are any abnormal operation behaviors.
+（2） Products and/or services
+1. Real name authentication
+When you use the Duxiaoman (Xiaomanto) service, in order to manage your real name and cooperate with relevant financial institutions to carry out anti money laundering work, in addition to the information you have provided when registering, you need to provide us, our affiliated companies, and/or our cooperative identity verification service providers with your real name, gender, nationality, occupation, etc. when conducting real name authentication
+Address of residence or workplace, contact information (mobile phone number, email), facial image, ID card image, ID card type, ID number and expiration date, bank card number, bank card reserved mobile phone number
+To complete real name authentication.
+If you use our services and those of our affiliated companies, we and our affiliated companies will share your real name information.
+When you perform important account operations (such as password recovery), in order to confirm that it is your own operation, we may require you to provide a photo of yourself holding your ID card.
+During this process, we may request that you enable camera permissions to collect the above information, and you can also upload your identity documents by enabling storage/album permissions. In order to verify the accuracy and completeness of the information you provide and ensure the security of your account, we will conduct multiple cross verifications with national authorities, financial institutions, enterprises and institutions that legally retain your identity information. If you do not provide the above personal information to enable us to complete cross verification of your identity, in accordance with the requirements of the real name system management of relevant national laws and regulations, we will not be able to provide you with payment, wealth management, credit and insurance related services, but it will not affect your use of other services on the platform.
+2. Exhibition services
+You can promote your business or inquire about the status of your business through the exhibition service function. When you use exhibition services through the platform, in order to control business risks, you need to provide or authorize us, our affiliated companies, or third-party cooperation institutions to collect your information
+Real name, gender, nationality, occupation information, address of residence or workplace, facial image, ID card image, mobile phone number, location information, device information.
+In order to support you in uploading materials, you need to activate the device album permission. When you use virtual account calling services through the platform, in order to ensure the security of customer personal information and handle customer complaints and disputes, you need to provide or authorize us, our affiliated companies, or third-party cooperation agencies to collect your data
+Mobile phone number, call recording
+.
+（3） Risk management
+When you need to access account settings and account benefits information, we will provide you with information retrieval services. To ensure the security of your browsing behavior, you agree and authorize us to collect the data you retain while using the Duxiaoman (Xiaomanto) service
+Common device information (including device brand, device model, device screen specifications, operating system version, unique device identification code, OPEN)
+UDID、IDFA、 Device location information, device connection information)
+To determine whether the search behavior is initiated by the same device
+（4） Rules for the Use of Your Personal Information
+1. We will use your personal information in accordance with the provisions of this policy to achieve the service of Duxiaoman (Xiaomanto),
+When we need to use your personal information for other purposes not specified in this policy, we will seek your consent again in accordance with laws, regulations, and relevant national standards
+2. We will only collect and use personal information necessary for the normal operation of specific business functions at the lowest reasonable frequency.
+3. We will use technical means to anonymize your personal information, and the anonymized information will not be able to identify specific individuals. Please understand and agree that we may analyze, process or statistically analyze desensitized information, and may share this statistical information with third parties or the public, but this statistical information does not contain any personal information of yours.
+If you have any confusion or objection regarding our use and processing of your information, you can provide us with feedback through the contact information provided in Section 9 "How to Contact Us" of this policy. If we violate the provisions of laws and regulations during this process and cause you losses, we will bear the corresponding responsibilities arising therefrom.
+（5） Instructions for calling device permissions
+Device permissions
+Business Function
+Permission granting method
+Can it be closed
+wireless network
+Network connection for various business functions
+In the iOS system scenario, when the user first opens the Xiaoman Xiaoman Tuo App, a pop-up window appears asking
+yes
+notice
+Send notification message
+In the iOS system scenario, when the user first opens the Xiaoman Xiaoman Tuo App, a pop-up window appears asking
+yes
+camera
+Facial recognition, scanning codes, changing avatars, identity verification, uploading photos, etc
+When the user first uses the relevant business function, a pop-up window will appear asking
+yes
+Storage (memory card/photo)
+Store cached data, scan codes, submit or send images
+use
+Pop up inquiry when using relevant business functions for the first time
+yes
+By confirming and agreeing to grant these permissions, you authorize us to collect and use relevant information to achieve specific business functions; You can also follow the instructions in Section 6 (3) of this policy to close or change these authorizations. In this case, we will no longer continue to collect and use your information, nor will we be able to provide you with the functions corresponding to these authorizations. However, this will not affect your use of other services provided by Xiaoman Xiaoman Tuo.
+（6） Exceptions to obtaining authorization and consent
+According to relevant laws and regulations,
+We may collect and use necessary personal information without your authorization and consent in the following situations:
+1. Relevant to our obligations under laws and regulations;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+6. The personal information involved is disclosed by you to the public on your own;
+7. Necessary to sign and fulfill the contract according to your requirements;
+8. Collect your personal information from legally disclosed information, such as from legitimate news reports, government information disclosure, and other channels;
+9. Necessary for maintaining the safe and stable operation of our products and/or services, such as detecting and handling product or service failures;
+10. Other circumstances stipulated by laws and regulations.
+2、 How do we use cookies and similar technologies
+When you use our services, in order to ensure the normal operation of the website, we will store small data files called cookies on your computer or mobile device. Cookies typically contain identifiers, site names, as well as some numbers and characters. The main function of cookies is to facilitate your use of the Xiaoman (Xiaoman Tuo) service, as well as to help the website count the number of independent visitors. By using cookie technology, we can provide you with more thoughtful personalized services and allow you to set specific service options.
+When you use the Duxiaoman (Xiaomanto) service, cookies will be sent to your device. When you interact with the services we provide to our partners, such as advertising and/or promotion services, as well as service features provided by Duxiaoman that may be displayed on other websites, we allow cookies (or other anonymous identifiers) to be sent to our servers.
+We will not use cookies for any purposes other than those stated in this policy. You can manage or delete cookies according to your preferences. You can clear all cookies saved on your computer, and most web browsers have a feature to block cookies. But if you do so, you will need to personally change your user settings every time you visit our website, and you may not be able to log in or use the services or features provided by Duxiaoman that rely on cookies due to such changes.
+In addition to cookies, we may also use other similar technologies such as network beacons on our website to access your data.
+Please understand that when you access web pages created by third parties through the platform, these third parties may collect your information through their own cookies and web beacons. Such behavior is not under our control or subject to this policy, but is subject to the third-party personal information protection policy. We suggest that you carefully read the content of the third-party personal information protection policy before using the services provided by such third parties. We will also fulfill necessary audit obligations and strive to require third parties to take protective measures for your personal information.
+3、 How do we share, transfer, and publicly disclose your personal information
+（1） Sharing
+We will not share your personal information with any company, organization, or individual, except in the following circumstances:
+1. Obtain your explicit authorization or consent in advance: After obtaining your explicit consent, we will share your personal information with relevant parties. The scope and purpose of sharing personal information will be explained and displayed when obtaining your authorization or consent;
+2. Sharing under legal circumstances: Your personal information needs to be shared in accordance with applicable laws, regulations, legal procedures, judicial rulings, government mandatory orders, or industry self-discipline requirements. The scope of sharing personal information will be determined by laws, regulations, and relevant administrative or judicial department requirements;
+3. Within the scope required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the interests, property, or safety of us, you, or the public from harm, except for those explicitly prohibited by laws and regulations;
+4. In accordance with legal provisions and reasonable business practices, when the operating entity of Duxiaoman Xiaomanto merges with or is acquired by other companies or engages in other capital market activities, as well as in other situations where Duxiaoman Xiaomanto accepts due diligence from other entities, you agree that we will provide your information to necessary entities (such as audit, legal and other external professional intermediaries) according to business needs, but we will require them to take the same confidentiality measures as this policy by signing confidentiality agreements with these entities, and require them to delete your information within a reasonable period of time after completing necessary work;
+5. Sharing with our affiliated companies: Your personal information may be shared with our affiliated companies (as defined in Appendix 1).
+We will only share your personal information with our affiliated companies within the necessary scope in the following situations, and such sharing is subject to the purposes stated in this policy:
+Some products or services may be provided by affiliated companies or by me
+We jointly provide with affiliated companies, therefore, only by sharing your personal information can we provide the products or services you need;
+With your explicit consent, we will share your personal information with affiliated companies within the scope permitted by laws and regulations and not violating public order and good customs, in accordance with your authorized scope.
+We will require affiliated companies that share your personal information with us to store and process your personal information in accordance with the provisions of this policy. Before sharing information, we will conduct a commercially reasonable review to assess the legality, legitimacy, and necessity of sharing your personal information, and urge relevant parties to process your information in accordance with legal regulations and regulatory requirements.
+Once our affiliated company changes the purpose of processing personal information, we will seek your explicit consent again.
+6. Sharing with the public: In order to improve our products and/or services, as well as those of our affiliated companies and third-party partners, we may also conduct statistical analysis of product usage. Meanwhile, we may share these statistical information with the public to showcase the overall usage trends of our services,
+But these statistical information will not include any of your identification information.
+7. Third party cooperation agency sharing: Some products and/or services of the platform will be provided by our suppliers and partners (hereinafter referred to as "third-party cooperation agencies"). For this purpose, we may share your personal information with third-party partners to provide you with specific products or services.
+We will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share personal information necessary for providing services. At the same time, we will sign strict confidentiality agreements, data processing agreements, etc. with third-party cooperating institutions, requiring them to strictly process your personal information in accordance with our instructions, this policy, and any other relevant confidentiality and security measures. We will also ensure that their personal information collection and use comply with legal, regulatory, and contractual requirements through technical testing, security audits, and other means. We will require our third-party partners not to use the shared personal information of you for any purpose other than the purpose of this policy.
+We may obtain your authorization and consent through pop ups and other means, and the pop-up plan will form an effective part of this policy.
+If you refuse us to share necessary personal information with third-party partners when providing services, it may result in you being unable to use the services provided by the third-party partner, but it does not affect your use of other services on the platform.
+At present, our third-party partners include the following types:
+•
+Third party identity verification and credit evaluation service provider.
+In order to carry out multidimensional identity verification activities and credit evaluations, we may provide your personal information to third-party identity verification service providers or third-party organizations that legally retain your personal information to verify the authenticity of your information or evaluate your credit and solvency.
+•
+Cooperative financial service institutions.
+When you use credit products or services provided by third-party cooperative institutions through the platform, we will share your personal information with the institutions that provide you with the aforementioned financial services. The scope of information sharing is limited to
+1. How we collect and use your personal information - (3) Financial products and/or services
+The contents listed in the document.
+•
+Collaborators providing security monitoring services.
+In order to ensure the security of your transactions, we may provide your personal information to technical providers responsible for system construction, maintenance, management, and evaluation
+Security testing, monitoring account risks, conducting anti fraud and anti fraud measures
+Operation.
+•
+Operators or partners providing virtual account services.
+In order to ensure the security of our customers' personal information, we will also cooperate with operators or third parties who provide virtual account services. These service providers will collect necessary information from you through the Duxiaoman Xiaomantuo APP.
+•
+A service provider that provides third-party code and plugins.
+In order to facilitate your normal use of the Duxiaoman Xiaomantuo App, protect your account and network security, and continuously optimize our service quality, we will also cooperate with service providers who provide third-party code and plugins. These service providers will collect necessary information from you through the Duxiaoman Xiaomantuo App.
+Equipment type
+Embedded SDK Name
+Third party organization name
+Scene description
+Type of Personal Information
+Personal Information Fields
+Is the data being transmitted in a de identified manner
+Privacy Policy
+IOS and Android
+Wallet SDK
+Beijing Duxiaoman Payment Technology Co., Ltd
+Payment function
+Personal basic information, personal identity information, personal biometric information, network identification information, personal education and work information, personal property information, personal location information, device information
+Name, phone number, ID card, face, payment password, occupation, industry, bank account, location information, device information, MAC address, IP address, device brand, device screen specifications
+yes
+https://www.dxmpay.com/payfe/pc-helper/entry/index/?id=516
+RIM SDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+The wallet SDK relies on this SDK for authentication
+Personal basic information, personal identification information, personal biometric information, device information
+Name, ID card, facial photo, device model
+yes
+https://ai.baidu.com/ai-doc/REFERENCE/Akdyizf5t
+Baidu Security SDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+Security testing
+Equipment information
+OAID、ANDROIDID、IDFA、IDFV、 Hardware information, storage information, system information, CPU information, battery, user settings, network information
+yes
+http://sofire.bds
+tatic.com/secsdk/privacy.html
+Bugly
+tencent
+Bug phone
+Equipment information
+Log information, device ID, networking information, system name, system version, and country code
+yes
+https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56
+Face++
+Beijing Kuangshi Technology Co., Ltd
+Wallet SDK dependency
+Personal biometric information
+Facial information
+yes
+https://www.megvii.com/privacy_policy
+iOS
+PassSDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+Account system
+Personal basic information, personal identity information, personal biometric information, network identification information, personal property information, personal internet records, personal commonly used device information, personal location information, device information
+Mobile phone number, email address, facial features, IP address, account name, login password, bank card number, user operation records, latitude and longitude, unique device identification code IDFA, access time, device brand, device model, device screen specifications, device brand
+yes
+https://www.baidu.com/duty/yinsiquan-policy.html
+Bpush
+Baidu Online Network Technology (Beijing) Co., Ltd
+Push function
+Personal commonly used device information
+cuid
+yes
+https://push.baidu.com/doc/guide/baidu_legal
+SSDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+Security SDK
+Network identity identification information, personal commonly used device information
+IP address, device model, device screen specifications, system version, unique device identification code IDFA, current network status
+yes
+https://www.baidu.com/duty/yinsiquan-policy.html
+WeChat
+Shenzhen Tencent Computer Systems Co., Ltd
+share
+Personal commonly used device information
+Equipment information
+yes
+https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Share_and_Favorites/iOS.html
+Android
+PassSDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+Account system
+Personal basic information, personal identity information, personal biometric information, network identification information, personal property information, personal internet records, personal commonly used device information, personal location information, device information
+Mobile phone number, email address, facial features, IP address, account name, login password, bank card number, user operation records, latitude and longitude, unique device identification code IDFA, access time, device brand, device model, device screen specifications, device brand
+yes
+https://www.baidu.com/duty/yinsiquan-policy.html
+WeChat SDK
+Shenzhen Tencent Computer Systems Co., Ltd
+share
+Personal commonly used device information
+Equipment information
+yes
+https://developers.weixin.qq.com/doc/oplatform/Mobile_App/Share_and_Favorites/iOS.html
+Positioning SDK
+Beijing Baidu Netcom Science Technology Co., Ltd.
+Location Services
+Common device information
+Cuid、GPS、WiFi、cell ID、Android ID
+yes
+https://lbs.baidu.com/index.php?title=openprivacy
+miid SDK
+China Academy of Information and Communications Technology
+Equipment identification
+Personal commonly used device information
+OAID
+yes
+（2） Transfer
+We will not transfer your personal information to external parties, except in the following circumstances:
+1. Obtain your explicit authorization or consent in advance;
+2. Required by applicable laws, regulations, industry rules, legal procedures, mandatory administrative or judicial requirements;
+3. If we or our affiliated companies are involved in mergers, divisions, liquidations, acquisitions or sales of assets or businesses, your personal information may be transferred as part of such transactions. We will ensure the confidentiality of such information at the time of transfer and require new companies or organizations holding your personal information to continue to be bound by this policy. Otherwise, we will require the company or organization to seek your authorization and consent again.
+（3） Public disclosure
+We will not publicly disclose your personal information unless we obtain your explicit consent.
+We may disclose your personal information to authorized authorities based on laws, legal procedures, lawsuits, or mandatory requirements from government regulatory agencies. But we guarantee that in the event of the above situation, we will require the disclosing party to provide corresponding valid legal documents and take security measures that comply with laws and industry standards for the disclosed information.
+（4） Exceptions to obtaining authorized consent for sharing, transferring, and publicly disclosing personal information
+According to relevant laws and regulations, in the following situations, we can do so without obtaining your consent
+Sharing, transferring, and publicly disclosing your personal information with the authorization and consent of:
+1. Relevant to our obligations under laws and regulations;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my consent;
+6. Personal information that you disclose to the public on your own;
+7. Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+4、 How do we store your personal information
+In order to comply with laws, regulations, and regulatory requirements, as well as to facilitate your access to relevant transaction records and personal information, we will store the necessary information you provide or generate during the application or use of Duxiaoman (Xiaomanto) services. We will adopt physical or logical isolation mechanisms to store your general personal information separately from your sensitive personal information. For sensitive personal information, we will use encryption and other security measures to provide special protection.
+（1） Storage area
+The personal information we collect and generate within China will be stored within China.
+If some of our future services involve cross-border business and require the transmission of your personal information to overseas institutions, we will comply with laws, regulations, and relevant regulatory authorities, conduct security assessments in advance, inform you of the purpose of the exit, the types of personal information involved, the identity and data security capabilities of the recipient, and possible security risks, and obtain your consent. We will also clarify the obligations and responsibilities of all parties through effective measures such as signing agreements, supervision and verification, and security audits, and require overseas institutions to keep the personal information obtained confidential
+（2） Storage period
+Unless otherwise specified by laws and regulations, we will retain your personal information for the shortest necessary period to achieve the purposes stated in this policy.
+When your personal information exceeds the period we have stored, we will delete or anonymize your personal information.
+5、 How do we protect your personal information
+Your personal information security is crucial to us. We will strictly comply with relevant laws and regulations, adopt reasonable and feasible security measures recognized by the industry, and protect your personal information. Prevent unauthorized access, disclosure, use, and modification of information, and avoid information damage or loss.
+（1） Technical measures and data security measures
+1. We strive to adopt various physical, electronic, and management security measures that comply with industry standards to protect the security of your personal information, such as SSL/application layer encryption technology, HTTPS two-way authentication technology, digital signatures, SHA256 anonymization technology, etc., to prevent personal information from being leaked or damaged during collection, storage, transmission, etc. We inform you of the purpose and scope of the use of relevant information through user agreements and this policy.
+2. We actively establish a data classification and grading system, data security management standards, and data security development standards to manage and regulate the storage and use of personal information, ensuring that personal information unrelated to the services we provide is not collected.
+3. We will cultivate employees' awareness of data security and provide training and assessment on security capabilities to strengthen their understanding of the importance of protecting personal information. We will deploy access control mechanisms to authenticate and control the permissions of employees who handle personal information. We will sign confidentiality agreements with information contacts and cooperating institutions, clarify job responsibilities and codes of conduct, and ensure that only authorized personnel can access personal information. If there is any violation of the confidentiality agreement, relevant responsibilities will be pursued. We will also implement comprehensive security controls on data through monitoring and auditing mechanisms, fulfill personal information access approval and control measures, and prevent unauthorized access, public disclosure, use, modification, damage or loss of your personal information.
+4. We will regularly conduct data security capability assessments/information security risk assessments to ensure that the security protection system is always in a complete state.
+5. We have established a dedicated team responsible for developing and applying various security technologies and programs. We conduct security background checks on security management personnel and key security positions. We have also established a sound information security management system and internal security incident handling mechanism. We will adopt reasonable and feasible security measures and technical means that comply with industry standards to store and protect your personal information, in order to prevent your information from being lost, accessed without authorization, publicly disclosed, used, modified, damaged, lost or leaked. We will take all reasonable and feasible measures to protect your personal information. We will use encryption technology to ensure the confidentiality of data; We will use trusted protection mechanisms to prevent data from being maliciously attacked.
+6. We remind you that the Internet is not an absolutely secure environment. When you interact with other users through email, SMS, etc., you are not sure whether the third-party software has fully encrypted the transmission of information. Please pay attention to ensuring the security of your personal information. We recommend that you do not send personal information in this way to avoid personal information disclosure. Please use a complex password to assist us in ensuring the security of your account and personal information.
+（2） Security incident handling
+1. We will try our best to ensure the security of any information you send us, but please understand that due to technical restrictions and various malicious means that may exist in the Internet industry, it is impossible to always ensure the security of information 100%. You need to understand that the system and communication network you use to access our services may encounter issues due to factors beyond our control. To prevent security incidents, we will develop emergency plans for network security incidents and promptly deal with security risks such as system vulnerabilities, computer viruses, network attacks, and network intrusions. In the event of an incident that endangers network security, we will
+We will immediately activate the emergency plan, take corresponding remedial measures, strive to minimize losses, and report to the relevant authorities in accordance with regulations.
+2. Personal information leakage, damage, and loss are classified as major security incidents at the company level. We will be responsible for regularly organizing security plan drills for our team members to prevent such incidents from occurring. If an unfortunate incident occurs, we will activate the emergency plan according to the highest priority, and form an emergency response team consisting of multiple departments such as the Security Department, Government Relations Department, and Legal Department to trace the cause and reduce losses in the shortest possible time.
+3. In the event of an unfortunate personal information security incident, we will promptly inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take, suggestions for risks that you can independently prevent and reduce, and remedial measures for you in accordance with legal requirements. We will promptly inform you of the relevant situation of the event through on-site notifications, SMS notifications, phone calls, emails, and other contact information you have reserved. If it is difficult to inform you one by one, we will take reasonable and effective measures to publish announcements.
+4. At the same time, we will proactively report the handling of personal information security incidents in accordance with regulatory requirements and closely cooperate with government agencies. If we fail to effectively fulfill our obligations to protect personal information security, resulting in damage to your legitimate rights and interests, we will bear corresponding responsibilities.
+6、 How can we give you the right to manage personal information
+We attach great importance to your attention to personal information and make every effort to protect your rights to access, correct, delete, withdraw, and cancel your account, so that you have sufficient ability to safeguard your personal information and information security. Your rights include:
+（1） Accessing and correcting your personal information
+You have the right to access your personal information, except for exceptions provided by laws and regulations. You can contact your account manager to correct your personal information.
+Regarding other personal information generated during your use of Xiaoman (Xiaomanto) services, if you require our assistance in providing it, we will try our best to meet your needs within a reasonable range.
+But in order to protect your information security and our legitimate rights and interests, without our consent, you may not use other methods or authorize third parties to access or collect your personal information stored on the platform.
+（2） Delete your personal information
+In the following situations, you can submit a request to us to delete personal information, and we will respond to your deletion request
+If we violate laws and regulations or our agreement with you to collect or use personal information;
+If we violate laws and regulations or our agreement with you to share or transfer your personal information with a third party, we will immediately stop the sharing or transfer behavior and notify the third party to delete it in a timely manner;
+3. If we violate laws and regulations or our agreement with you by publicly disclosing your personal information, we will immediately cease such disclosure and issue a notice requiring the relevant recipient to delete the corresponding information;
+If you no longer use our products or services, or if you cancel your account, or if we terminate our services and operations.
+You can contact customer service at 95055 to request the deletion of your personal information. Once the above deletion request is responded to, your personal information will be promptly deleted, except for information that is required to be retained by laws and regulations. When you delete information from our service, we may not immediately delete the corresponding information from the backup system, but we will delete this information when the backup is updated.
+（3） Change the scope of your authorized consent
+Please understand that each business function often requires partial permissions to be enabled and necessary personal information to be collected in order to be implemented. For the collection, use, and device permission management of your personal information, you can withdraw your consent or delete it through device system permission settings or contact customer service at 95055, or delete the information or no longer use the corresponding services through the following methods provided in this policy:
+You can turn on or off device permissions such as camera, microphone, and photo album through 【 Me → Settings → Privacy Management 】.
+When you withdraw your consent or authorization, we will no longer be able to provide you with the services corresponding to the withdrawal of consent or authorization, and we will no longer process your corresponding personal information. But your decision to withdraw your consent or authorization will not affect the personal information processing previously carried out based on your consent or authorization.
+（4） Cancellation degree Xiaoman Xiaoman Tuo function
+You can contact your account manager to unbind and cancel your account.
+Your cancellation of the above account is an irreversible act, and we will cease to provide you with Duxiaoman (Xiaomanto) services, no longer collect your personal information, and delete or anonymize the personal information related to your account according to your request, except as otherwise provided by laws, regulations or regulatory agencies regarding the storage time of user information.
+In order to protect your or others' legitimate rights and interests, we need to verify your identity when you submit a cancellation application, and determine whether to support your cancellation request based on your usage of various products and/or services involved in the platform (such as whether there are ongoing investments/loans, whether there are pending disputes and controversies). But we will not set unnecessary or unreasonable conditions or obstacles for your cancellation behavior.
+（5） Obtain a copy of personal information
+According to laws, regulations, and relevant national standards, you have the right to obtain a copy of your personal basic information and personal identity information. You can contact us through customer service at 95055.
+（6） Notify in advance that the product and/or service will cease operation
+We are willing to accompany you all the time. If the products and/or services on the platform are forced to stop operating due to special reasons, we will notify you in accordance with legal and regulatory requirements on the main page or internal message of the products and/or services, or by sending you an email or other suitable way to reach you, and will stop operating
+We will collect your personal information and delete or anonymize the personal information we hold in accordance with legal regulations.
+（7） In response to your above request
+To ensure security, we may require verification of your identity before processing your request. You may need to provide a written request or prove your identity in other ways. For all requests under this section that you have made, we will provide feedback within 15 days of receiving your request and verifying your user identity.
+For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, we will charge a certain cost fee depending on the situation. We may refuse requests that are unnecessarily repetitive, require excessive technical means (such as developing new systems or fundamentally changing current practices), pose risks to the legitimate rights and interests of others, or are very unrealistic.
+In the following situations, as required by laws and regulations, we will not be able to respond to your above request:
+1. Relevant to our obligations under laws and regulations;
+2. Directly related to national security and defense security;
+3. Directly related to public safety, public health, and major public interests;
+4. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5. We have sufficient evidence to indicate that you have subjective malice or abuse of power (such as your request will endanger public safety and the legitimate rights and interests of others, or your request exceeds the scope that can be covered by general technical means and commercial costs);
+6. In order to safeguard the significant legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain your consent;
+7. Responding to requests from personal information subjects will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+8. Involving trade secrets;
+9. Other circumstances stipulated by laws and regulations.
+If you have further requests or have any questions, opinions or suggestions regarding your data subject rights, you can contact us through the methods described in this policy on how to contact us and exercise your relevant rights
+7、 Protection of Minors' Information
+We attach great importance to the protection of minors' information. You understand and agree that we only provide Duxiaoman (Xiaomanto) services to adults who have registered with their real names, have full legal capacity for civil rights and civil conduct, and are able to independently assume civil liability.
+If you are a minor under the age of 18, we will not provide services to you
+(Except for limited browsing without registration).
+Some specific products and/or services involved in the platform (such as products related to credit services) have specific personal information protection policies. Specific personal information protection policies may involve the collection of personal information of minors. We suggest that you carefully read the detailed content of these specific personal information protection policies, and we will also fulfill the necessary review obligations.
+At the same time, we promise to ensure the confidentiality and security of information of underage users in accordance with relevant national laws and regulations and the provisions of this policy. If we discover that we have collected personal information of minors without obtaining verifiable consent from their parents or legal guardians in advance, we will take necessary measures to proactively and promptly delete the relevant information.
+If you are the guardian of a minor, please contact us promptly when you notice that the minor under your guardianship is using products and/or services on the platform or providing personal information to us on their own.
+8、 How do we update and modify this policy
+In order to provide you with better services and meet the needs of business development, we reserve the right to update this policy in a timely manner. We will not reduce your rights under this policy without your explicit consent. If this policy is updated, we will promptly update it on the Duxiaoman Xiaomantuo App and notify you through reasonable means (including but not limited to pop-up prompts, prominent page prompts, app push notifications, sending you emails/short messages, announcements on the Duxiaoman Xiaomantuo official website, etc.), so that you can be informed of any changes made to this policy in a timely manner.
+For significant changes, depending on the specific circumstances, we may provide more prominent notices explaining the specific changes to this policy.
+Please note that we will only collect, use, share, and store your personal information in accordance with the updated personal information protection policy after you have re authorized it.
+Major changes include but are not limited to:
+Our service model and business form have undergone significant changes. Such as the purpose of processing personal information, the types of personal information processed, and the ways in which personal information is used;
+We have undergone significant changes in ownership structure, organizational structure, and other aspects. Changes in ownership caused by business adjustments, bankruptcy mergers and acquisitions, etc;
+3. The main recipients of personal information sharing, transfer, or public disclosure have changed;
+4. There have been significant changes in your right to participate in personal information processing and the way you exercise it;
+5. We are responsible for handling changes in the contact information and complaint channels for personal information security;
+When the personal information security impact assessment report indicates the existence of high risks.
+If you continue to use the Duxiaoman (Xiaomanto) service after the update of this policy, it will be deemed that you have fully read and accepted the modifications to the relevant terms of this policy. If there is any inconsistency or conflict between the terms of this policy and the personal information protection and authorization terms stipulated in any service agreement adopted by the platform, the relevant terms of this policy shall prevail. You can view this policy in the "My Privacy Policy" section of the Duxiaoman (Xiaomanto) app. We encourage you to check your personal information protection policy every time you use Duxiaoman (Xiaomanto) services. We
+We will also archive the old version of the personal information protection policy. You can contact us through the contact information provided by the Duxiaoman Xiaomantuo App and review it.
+9、 How to contact us
+We have established a dedicated personal information protection officer and a personal information protection work organization. The contact information of the personal information protection officer is umoney_help@duxiaoman.com . If you have any confusion regarding the collection, use, sharing, and storage of your personal information while using the Du Xiaoman Xiaoman Tuo App, or if you have any opinions or suggestions regarding this policy, or if you have any disputes arising from this policy, you can contact us through the above email address, customer service phone number 95055, or through your account manager, and we will arrange a specialist to provide timely consultation or coordinate the resolution of your complaints and appeals.
+We will reply within fifteen working days.
+To ensure efficient handling of your issues and timely feedback, in some cases we may require you to submit proof of identity, valid contact information, written requests, and relevant evidence. We will process your request after verifying your identity.
+If you are not satisfied with our response, especially if you believe that our personal information processing has harmed your legitimate rights and interests, you can also seek solutions through the following external channels:
+You can file a lawsuit with the People's Court of Haidian District, Beijing, or report to relevant government departments or industry associations.
+Appendix 1: Keyword Definitions
+The specific terms used in this policy have the following meanings:
+1. We or Du Xiaoman Xiao Mantuo: refers to Chongqing Du Xiaoman Information Technology Co., Ltd.
+2. You refer to the registered user of Duxiaoman Xiaomanto App who uses the products and/or services provided on Duxiaoman Xiaomanto App.
+3. Affiliated companies: Refers to the subsidiaries or other affiliated enterprises of Chongqing Duxiaoman Youyang Technology Co., Ltd., Duxiaoman Technology (Beijing) Co., Ltd., and/or Anyi Hengtong (Beijing) Technology Co., Ltd. Any party to the above-mentioned companies currently or in the future directly or indirectly controls, is controlled by, or is under common control with.
+4. Control: refers to the ability to directly or indirectly influence the management of the mentioned company, whether through ownership, voting shares, contracts, or other legally recognized means.
+5. Third party cooperative institutions: Refers to legal entities and other forms of economic organizations that provide services and/or products to users through the Duxiaoman Xiaomanto App, in addition to affiliated companies of Duxiaoman Xiaomanto.
+6. Personal information: refers to various types of information recorded electronically or in other ways that can be used alone or in combination with other information to identify the identity of a specific natural person or reflect the activities of a specific natural person. Personal information includes basic personal information, personal identity information, personal biometric information, network identification information, personal health and physiological information, personal education and work information, personal property information, personal communication information, contact information, personal internet records, personal commonly used device information, personal location information, etc. For the avoidance of doubt, personal information includes but is not limited to sensitive personal information.
+7. Personal information subject: refers to the natural person identified by personal information.
+8. Personal sensitive information: refers to personal information that, once leaked, illegally provided, or abused, may endanger personal and property safety, and is highly likely to cause damage to personal reputation, physical and mental health, or discriminatory treatment. Personal sensitive information includes personal property information, personal health and physiological information, personal biometric information, personal identity information, network identification information, etc. In order to help you better understand the types of personal sensitive information, we have provided the following examples of personal sensitive information in accordance with GB/T 35273-2020 "Information Security Technology - Personal Information Security Specification", but it does not represent all the personal sensitive information we have collected:
+Personal property information
+Bank account number, authentication information (password), deposit information (including amount of funds, payment and receipt records, etc.), property information, credit records, credit information, transaction and consumption records, transaction records, transaction records, as well as virtual property information such as virtual currency, virtual transactions, game exchange codes, etc
+Personal health and physiological information
+Personal records related to illness treatment, such as symptoms, hospitalization records, medical orders, test reports, surgical and anesthesia records, nursing records, medication records, drug and food allergy information, fertility information, past medical history, diagnosis and treatment status, family medical history, current medical history, infectious disease history, etc., as well as relevant information related to personal physical health status
+Personal biometric information
+Personal genes, fingerprints, voiceprints, palm prints, earlobes, irises, facial recognition features, etc
+Personal identification information
+ID card, military officer certificate, passport, driver's license, work permit, social security card, residence permit, etc
+Network identity identification information
+System account, email address, and related passwords, passwords, password protected answers, user personal digital certificates, etc
+Other information
+Personal phone number, sexual orientation, marriage history, religious beliefs, undisclosed criminal records, communication records and content, whereabouts, web browsing history, accommodation information, precise positioning information, etc
+9. Device information: Device information can be divided into device attribute information, device location information, device connection information, and device status information. Device attribute information refers to the software and hardware features such as device brand and model, device screen specifications, operating system version, device settings, and unique device identifier when users access the Xiaoman platform using terminal devices. Device location information refers to the geographic location information obtained by the user's terminal device when accessing the Xiaoman platform, such as location information obtained through GPS, Bluetooth, or WiFi signals. Device connection information refers to the IP address, browser type, telecom operator, applicable language, access date and time information displayed by the user using the terminal device to access the Xiaoman platform. Device status information refers to the device sensor data and device application installation list (Applist) information when users access the Xiaoman platform using terminal devices.
+10. De identification: refers to the process of using technical processing of personal information to make it impossible to identify the subject of personal information without the need for additional information.
+11. Anonymization: refers to the process of using technology to process personal information so that the subject of personal information cannot be identified and the processed information cannot be restored.
+12. China or within China: refers to the mainland region of the People's Republic of China, for the purpose of this policy only, excluding the Hong Kong Special Administrative Region, Macao Special Administrative Region, and Taiwan region.

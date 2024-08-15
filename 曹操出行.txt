@@ -1,0 +1,416 @@
+Released on April 25th, 2023
+Effective from May 2nd, 2023
+Hangzhou Youxing Technology Co., Ltd. (registered address: Room 602, Building 1, No. 1760 Jiangling Road, Binjiang District, Hangzhou City, Zhejiang Province, hereinafter referred to as Youxing Gong)
+The company or Cao Cao's software and related products have complete intellectual property rights and are protected by the laws of the People's Republic of China and the contracting parties
+Legal protection of intellectual property rights. If you access reservation or use Youxing on this website or other mobile applications or software provided by Youxing Company
+The products or services of the company (collectively referred to as "services") shall be deemed as your/your guardian's acceptance of the following privacy policy. Please be careful
+Read the following content. If you/your guardian does not agree with any of the following content, please immediately stop accessing/using this website or any other mobile devices
+Mobile applications or software. The terms "Youxing Company" and "we" mentioned in this privacy policy refer to the website or mobile software developed by Cao Cao
+Uxing Technology's affiliated companies, "users" and "you" refer to users who voluntarily accept this privacy policy.
+We pay attention to protecting the personal information and privacy security of our users, and we also understand the importance of privacy to you. We will do our utmost to protect your privacy
+Private. We will follow the principles of "reasonableness, relevance, and necessity" and collect information based on your consent to this agreement or other service agreements
+Collect information prohibited by laws and regulations. Please carefully read and thoroughly understand this policy before using our services, especially in bold
+You should carefully read the terms of the logo and only use them after confirming that you fully understand and agree. After using Cao Cao's software, if
+If you have any questions or suggestions about our privacy policy, please contact us.
+*Personal Information Collection Checklist
+*Third party information sharing list
+1. Definition and scope of personal information in this privacy policy
+2. The scope and methods of collecting personal information for each business function of Cao Cao's platform, as well as the correlation between the collected personal information and business functions.
+3. The mobile phone permissions that Cao Cao may use, the corresponding business functions, the purpose of the call, whether to inquire before calling, and whether the user can disable the corresponding permissions
+The method of limitation.
+4. Preservation and protection of personal information.
+5. Rules for using personal information.
+6. Sharing, transfer, and public disclosure of personal information.
+7. User rights.
+8. Notice on Users Sharing Personal Information.
+9. How do we use cookies and similar technologies.
+10. Notice to Minors.
+11. Change.
+Cao Cao's Personal Information Protection and Privacy Policy
+12. How to contact us.
+The following is a detailed description of this privacy policy. Please read it carefully:
+1. Definition and scope of personal information
+1.1 Personal information refers to various information related to identified or identifiable natural persons recorded in electronic or other forms, excluding
+Anonymous processed information.
+1.2 Personal sensitive information refers to information that, once leaked or illegally used, can easily lead to the infringement of a person's personal dignity or personal or financial harm
+Personal information on individuals whose production safety is at risk.
+1.3 Anonymous processed information, which refers to the technical processing of personal information to make it impossible to identify the subject of personal information, and after processing
+Information that cannot be restored and anonymized does not belong to personal information.
+1.4 Other information that cannot identify the identity of a specific natural person or reflect the activity of a specific natural person does not belong to personal information.
+2. Collection of personal information
+2.1 The business functions of Cao Cao's travel platform are divided into core business functions, additional business functions, and services provided by third parties. Cao Cao's travel will provide detailed information
+Explain to you the personal information collected by each business function, as well as the methods and purposes of collection, and the impact of refusing to provide it. Specific package of business functions
+Including:
+2.1.1 Core business functions, including creating accounts and improving information, specialized transfers, airport transfers, smooth transfers, Cao Cao carbon credits, and transaction payments,
+Data analysis and product development.
+2.1.2 Additional business functions, including user evaluations, customer service, and operational activities.
+2.1.3 Third party services, including financial services, refueling, chauffeur services, and luxury cars.
+2.2 [Account Creation] Before using the services of Cao Cao's travel platform, you need to create an account and complete your personal information on Cao Cao's travel platform. adopt
+The method provided by the user will collect the following information from you:
+2.2.1 You need to provide your mobile phone number to Cao Cao Travel and set your user password on Cao Cao Travel Platform. Cao Cao traveled with this knowledge
+Do not assume your online identity on the Cao Cao travel platform and provide you with Cao Cao travel platform services. If you refuse to provide your phone number, the platform will
+We are unable to create an account for you and provide services.
+2.2.2 You can choose to supplement your personal information according to your own needs, including nickname, gender, birth date, email, company, and industry information
+Preference for interest and multiplication. You can choose whether to fill in or authorize Cao Cao to obtain the above information in your personal profile. If you refuse to provide the above information
+Information will not affect our core business functions.
+2.2.3 In order to provide you with more convenient travel services, we may provide customized services based on the scenario, such as recommending the following points. In use
+When providing this service, you can set your preferred location (home, company) on your own, or we can provide you with location information based on the historical data of your order
+Go to the location for speculation and confirm with you. You often go to places that are only available to you. You can delete the above address. If you refuse to set
+If you use a regular address, you will need to manually input the destination information, but it will not affect your use of basic business functions.
+2.2.4 If you want to register as a Shunyi owner, you need to provide your name, ID card, other identification documents, and phone number when registering
+Number, vehicle information, driving license, and driver's license. At the same time, you need to complete real name authentication on the Cao Cao travel platform. We collect the above letters
+Interest is based on legal and regulatory requirements as well as the need to protect the personal and property safety of platform users. If you refuse to provide the above information and have not completed the task
+Name authentication will not be able to provide services to other users as a user of Cao Cao's travel platform.
+2.2.5 If you want to perform real name authentication on the platform, you need to manually fill in the authentication form. You need
+Please provide us with your name
+We will provide your ID card and other identification documents, facial recognition feature information, and photos to the third party we cooperate with
+Legitimate third-party access to and storage of verification results related to your personal information. We collect the above information based on
+The requirements of laws and regulations, regulatory agencies, the need to protect the personal and property safety of users, ensure the authenticity of transactions, and handle disputes. If you refuse
+If you refuse to provide the above information or refuse to share or save the above information on Cao Cao's travel platform, you will not be able to perform real name authentication, but it will not affect your ability to use it
+Our core functions are used in addition to the Shun ⻛. The specific rules are detailed in the "Cao Cao Authorization Agreement for Real Name Authentication and Face Verification".
+2.2.6 Emergency contact person, you can add an emergency contact person and set a time period for self sharing the itinerary. When adding an emergency contact person, you
+You can manually input the phone number of the emergency contact person. After you add an emergency contact person, activate the automatic sharing process or use the one button alarm function
+At that time, travel information will be automatically shared with emergency contacts via SMS. If you refuse to provide emergency contact information, it will result in you being unable to open
+When you initiate the automatic sharing process, the platform cannot share your travel information with the emergency contact person when you press the alarm button, but it will not affect you
+Use other functions.
+2.3 When you use the Caocao Travel Platform for specialized transportation, airport transfers, green official business, and smooth transportation, Caocao Travel will collect the following information from you:
+2.3.1 Location information (device front-end and back-end to obtain location information, including precise positioning and fuzzy positioning), so that you do not need to manually input
+By entering geographic coordinates, relevant services can be obtained. Before you use Cao Cao's travel platform for the first time, Cao Cao will prompt you to choose whether to allow Cao Cao
+Operating the platform to obtain and under what circumstances can your location information be obtained. During your use of Cao Cao's travel platform, you can
+By using the device settings function, you can choose whether to allow Cao Cao to perform parallel access and under what circumstances your location information can be obtained.
+After obtaining your permission, Cao Cao's travel will be conducted through IP addresses, GPS, and other sensors that can provide relevant information (such as...)
+We provide information on nearby devices, Wi Fi access points, base stations, as well as your weight, acceleration, gyroscope, and other sensors to obtain your data
+Location information. If you refuse to allow Cao Cao's travel platform to obtain location information, you will need to manually locate your location. Cao Cao's mobile app
+During operation, your location information will be read at the following frequency (Android system: 5 seconds/time for sequential business, 10 seconds/time for other business;
+IOS system: based on the system's own rules, changes in location are read upon sending. Other third-party SDKs receive information at a frequency required by the third party
+Subject to the minimum frequency necessary to achieve the business functions of the product or service.
+Location information is a necessary information for online booking services. If you disable location permissions and are still able to place orders, we will use the driver's Cao Cao to process them
+The driver app records the location and route of this order.
+2.3.2 Travel order information, Cao Cao Travel will collect your service departure location, destination, travel trajectory, and time by recording user behavior
+Time, distance, and transaction status information. Cao Cao's collection of the above information is based on legal and regulatory requirements and to protect you
+The need to ensure personal and property safety and handle user disputes in accordance with platform rules. The itinerary order information is necessary information for the contract service, if
+Refusing to provide the origin and destination will result in the platform driver being unable to provide services to you. If you refuse to obtain your route
+The number of trips, transaction status, and tracking trajectory may prevent us from obtaining your actual driving route, accurate billing, and processing
+User disputes and better protection of your rights.
+2.3.3 Call Information: You use the Cao Cao mobile platform to access call content, call duration, calling and called phone number information, as well as your
+The content of text messages and text messages sent by Cao Cao's travel platform. To better protect user safety, Cao Cao's platform does not directly provide services to users
+The mobile phone number provided for other users, so users can only make calls or communicate through the methods provided by the Cao Cao travel platform. Cao Cao's Journey
+Retain the above information through call recording, in order to verify the facts and handle complaints when users have disputes or safety accidents. If you
+Refusing to allow Cao Cao to access your call information may result in you being unable to use the call and information functions of Cao Cao's travel platform.
+2.3.4 Recording Information: In order to enhance product safety capabilities and better handle disputes between drivers and passengers on Cao Cao's travel platform, we will use software or hardware to record information
+The device captures the sound information of the internal environment during your journey (including the sound generated by your conversation or body movements with the person on board). Affected by technology
+Due to the influence of conditions, the timing of the launch of the recording function for various services on Cao Cao's platform varies in different cities, as shown on the Cao Cao platform
+The recording status shall prevail. The starting time and saving rules of the recording will be based on the "Journey Recording Information Collection" agreement reached between Cao Cao's platform and you
+The provisions of the Collection and Privacy Protection Agreement shall prevail.
+2.3.5 Video recording information: Some registered vehicles on certain platforms may be equipped with internal video recorders and other devices. If you use Cao Cao's platform products or
+Video information may be recorded during the service process. We retain the above information based on local laws and regulations, or for user generated purposes
+Verify the facts and handle complaints in case of disputes or safety incidents. The starting time and saving rules of the video recording are based on the agreement reached between Cao Cao's platform and you
+The agreement on the collection and privacy protection of travel audio and video information shall prevail.
+2.3.6 When you use Shunyun services on the Cao Cao platform, the Cao Cao platform also needs to collect your name, ID card, or other identity information
+Proof, facial recognition features, and at the same time, you need to complete real name authentication during Cao Cao's trip. Cao Cao's collection of the above information was based on legal principles
+The need to comply with regulations, protect your personal and property safety, and handle user disputes in accordance with platform rules. If you refuse to provide the above information and complete
+Without real name authentication, it will not be possible to use Cao Cao's business operations.
+2.3.7 Intimate account, you can manually add your name, the other party's name, and the other party's phone number
+The phone number and monthly usage limit are open to the opposite party
+The function of intimate payment is that after you successfully add it, you can use the information you add to complete the intimate payment for the other party
+The function of payment. If you refuse to provide the above information, the intimate payment function will not be able to be used, but it will not affect your use of Cao Cao's core
+Heart business function.
+2.3.8 Shuttle service, if you choose shuttle service, you also need to provide flight information (including flight number, specific itinerary, and terminal),
+This is used by the driver to confirm your pick-up and drop off time and location. If you refuse, you will not be able to use the pick-up and drop off service, but it will not affect your ability to use it
+Cao Cao provided other services.
+2.4 Address book information, you can click on the "Free Friend Gift Card" page to find new users and identify whether your address book friends are new
+User. In order to better utilize the above functions, based on your separate consent, you may choose to upload your address book information (including address book)
+Name and phone number of the contact person. If you wish for the platform to send you a text message invitation, you can select a friend and click on it to receive it as a gift
+We will send you a text message; You can choose the gift content before sending. If you do not wish for the platform to send you text messages, please do not click on 'confirm'
+Gift recognition. The address book is sensitive personal information, and we will only collect this information based on your individual consent and authorization
+We will send you a text message to your friend based on your selection of friends and actively clicking on 'Instant Gift'. Refusing to provide this information will only prevent you from using it
+Using the above functions does not affect your normal use of other functions.
+2.5 When you make transaction payments on the Cao Cao platform, if you use the third-party payment function, Cao Cao will not only obtain your payment tool
+We will not obtain any personal information other than the order payment status. Cao Cao's trip will record your balance, payment records, withdrawal records, and bank statements
+Card number. Cao Cao collected the above information to determine whether users paid according to the contract, whether drivers charged in violation of regulations, and to maintain the order of platform transactions
+Handle user disputes according to platform rules.
+2.6 You can anonymously evaluate the satisfaction of other drivers on the Cao Cao travel platform, and do not retain personal information during this process.
+2.7 When you contact the customer service team of Cao Cao, Cao Cao will record your call information in the form of call recordings and manual recordings
+The ideas or suggestions you provide, the name and contact information you provide, in order for Cao Cao to handle disputes, solve problems, or provide feedback to you
+Fruit. If you refuse to allow Cao Cao to collect such information, it will result in you being unable to call Cao Cao's customer service hotline or the customer service team being unable to process it
+The results will be provided to you, but it will not affect your use of the core business functions of Cao Cao's travel platform.
+2.8 When you participate in operational activities organized by Cao Cao, Cao Cao requires you to provide certain information, which may include your name, photo, and communication
+Address, contact method, bank card number or Alipay account. These pieces of information can help Cao Cao publicize the results of the activities and provide insights into the activities
+Follow up promotion will be conducted, and we will contact you to distribute gifts or transfer funds to you. If you refuse to provide such information, it may result in inability to participate
+Adding corresponding activities, or being unable to receive gifts or transfers, will not affect your use of the core business functions of Cao Cao's travel platform.
+2.9 In order to ensure the user experience and APP compatibility of different device users, we will collect your device information [device model, operating system]
+Unified version, other device information (screen resolution, screen size, CPU architecture, memory capacity, disk capacity), browser class
+Type: Search for application information, application information list. In order to determine whether the user's clicking behavior conforms to the normal product process, we will collect your data
+Click to view the records. In order to determine whether the current device is a real device for account security/anti cheating/anti gray production purposes, we will collect
+Your Android ID, IDFA, OAID, device information [device model, operating system version], log information [browsing history, inspection history]
+Search for content, transaction records, IP address, browser type and identifier, SIM card operator, access date and time, service failure message
+Information and address, network information including network type, IP, network operator, network status, network quality data, network environment, etc
+WIFI name ssid. The above information is necessary for app adaptation and security protection. If you do not provide this type of information, it may
+Causing the app to malfunction. Cao Cao will use browser network storage mechanisms and application data caching to collect data on your device during his travels
+Collect information and store it locally.
+2.10 In order to facilitate you to quickly find Cao Cao's travel route and enable you to directly enter the destination or choose your home or company to place an order, you can use the
+The widget service of the mobile system utilizes the widget functions developed by Cao Cao. In order to obtain accurate information about the home and company you provided, we
+Set the system to start the application every 12 hours and refresh the widget status.
+2.11 The following are third-party services that you can use through the Cao Cao platform. During the process of using third-party services, you need to directly contact the third party
+The personal information provided by the party, or the personal information authorized to be shared by Cao Cao's platform with a third party, will be subject to the privacy protection of the third party
+Protection policy, not subject to the control of Cao Cao's travel platform and the constraints of this agreement. Please carefully read and confirm your understanding of the third party service before using it
+Three agreements and policies related to personal information protection will be established to determine whether to continue using the third-party service. If you refuse to provide such services
+Information may prevent you from using third-party services on the Cao Cao platform, but it does not affect your use of the core business functions of the Cao Cao platform.
+2.11.1 When you use third-party services provided by Cao Cao (such as Yao Xing Xing, Luo Lun Xing Xing, Da Chang Xing, and Cao Cao Xing's platform)
+We will share your order information, complaint information, and phone number with other third-party service providers for the purpose of
+Three parties will provide you with appointment services.
+2.11.2 When you use third-party driving services through the Cao Cao travel platform, we will collect your mobile phone number, geographic location information, and itinerary
+Information, order information, payment information, and send the above letter
+Share the information with the third party providing the service, so that the third party can provide you with chauffeur services
+Service.
+2.11.3 When you use financial services through the Cao Cao platform, we will collect your device information (platform, phone model, phone brand, etc.)
+Device ID, unique ID, app version number, mobile operating system version, network status, status bar height, pixel density, geographic location
+Set up and share your phone number, device information, and geographic location information with third-party service providers for control verification
+Cao Cao's travel platform does not collect any information from you regarding this business. You will provide ID number number
+Bank card and other personal information.
+2.11.4 When you use the refueling service through the Cao Cao platform, you will directly provide your mobile phone number and verification to the third party providing the service for you
+Code, location information, and other personal information.
+2.11.5 When you use insurance services through the Cao Cao platform, you will directly provide your mobile phone number, verification code, and other relevant information to the third party providing you with the service
+His personal information;
+2.12 When you use Cao Cao's services through a third-party platform, Cao Cao will collect your phone number, location information
+Order information, destination, and device number are used to identify your identity, determine your location, and provide you with services. Cao Cao's Journey to the Third Party
+Before collecting the personal information mentioned above, the legitimacy of the source of the personal information will be confirmed.
+2.13 Special note: Users can view some offline business history orders on the Cao Cao platform. Based on this scenario, the Cao Cao platform will still call on the department
+Divide permissions and use SDKs, specific guidelines should be based on the Android/iOS system permission call list and third-party SDK instructions.
+2.14 If you are calling someone else, please be sure to inform the actual passenger of the personal information collection situation before calling someone else, and obtain the consent of the actual passenger
+Afterwards, you can call it ⻋. If you are traveling with someone else, please be sure to inform them of the collection of personal information and obtain their consent
+Afterwards, they can ride together.
+3. Device permission calling
+3.1 Cao Cao's platform may invoke some of your device permissions. The following are the business functions corresponding to the invoked permissions. Cao Cao's platform may invoke some of your device permissions
+The purpose of the restriction, as well as the situation of asking you before accessing permissions.
+3.2 You can choose to disable some or all permissions in the device's settings function to refuse Cao Cao's collection of corresponding personal information
+Rest. The permission display mode and shutdown mode may vary among different devices using Android/iOS systems. Please contact the device for details
+And the system development team.
+3.3 Android/iOS system permission calling
+4. Preservation of personal information
+4.1 Information Preservation
+4.1.1 During the period when the user uses the Caocao Travel Platform services, Caocao Travel will continuously save the user's personal information.
+4.1.2 When you delete personal information or cancel your account on your own, Cao Cao Hang will retain your existing account for the shortest period of time in accordance with laws and regulations
+Personal information will no longer be commercially used by Cao Cao within the minimum retention period required by laws and regulations. When
+If your personal information exceeds the above-mentioned retention period, Cao Cao will anonymize it.
+a. In order to cooperate with the People's Court, People's Procuratorate, Public Security Organs, and National Security Organs in investigating the use of Cao Cao's services by users
+When a user's personal information is deleted or their account is cancelled to better protect the safety of other users' lives and property, Cao Cao's actions will
+During the statute of limitations for criminal prosecution stipulated in the Criminal Law, the personal information of users shall be encrypted, isolated, and archived.
+b. If you seriously violate laws, regulations, platform agreements, platform rules, etc. while using Cao Cao's platform services, you
+The illegal and breach records, as well as the corresponding platform credit records, will be permanently preserved.
+4.2 Information Storage Area
+4.2.1 The personal information collected by Cao Cao during his travels will be stored and used in mainland China.
+4.2.2 Currently, there is no scenario for Cao Cao to provide personal information to overseas countries. If there is a need to transmit personal information to overseas countries in the future, Cao Cao's trip will
+Clearly inform you of the purpose of personal information leaving the country, the recipient, security measures, etc., and obtain your consent separately.
+4.3 Security Protection Measures
+4.3.1 During Cao Cao's trip, strict security regulations and industry wide security technologies and procedures will be adopted to ensure that your personal information is not lost
+Leakage, damage, or unauthorized access or use.
+4.3.2 Cao Cao will take the following security measures to protect your personal information.
+a. User personal information is encrypted and stored on the server, and stored through data isolation technology.
+b. Use encrypted transmission protocol during data transmission.
+c. Strictly control data access permissions and establish a comprehensive system for applying for and approving sensitive data access permissions.
+d. Establish a data security monitoring and auditing system, and implement comprehensive data security control.
+4.3.3 Cao Cao takes other security measures to protect your personal information while traveling:
+a. The company will coordinate and manage data security work, establish a data security team, and promote various data security activities.
+b. The company has issued and implemented data security management standards internally, clarifying the protection standards and requirements for user data (including user personal information).
+c. Conduct project risk assessment on data security (including user personal information data) before the launch of new projects and systems.
+d. Sign confidentiality agreements with all staff and service outsourcing personnel, and strictly allocate data access permissions according to job responsibilities
+e. Regularly conduct information security education and training for all employees and outsourced service personnel of the company.
+4.4 Security incident handling
+4.4.1 In response to potential security risks such as personal information leakage, damage, and loss, multiple systems have been issued within the company,
+Clarified the classification and grading standards for security incidents and vulnerabilities, as well as the internal handling process for the above-mentioned security incidents and vulnerabilities (including
+Emergency response process and remedial measures.
+Once a safety incident occurs, Cao Cao will promptly inform you of the basic situation and risks of the incident, and Cao Cao's actions have been taken or will be taken
+take
+Suggestions on measures to be taken and how you can reduce risks on your own.
+4.4.3 Cao Cao will promptly notify affected users of security incidents through push notifications, letters, or phone calls. When it is difficult to follow
+When informing users, Cao Cao will release warning information through platform announcements.
+4.5 Suspension of Operations
+4.5.1 If Cao Cao's travel platform ceases operation, Cao Cao's travel will publish a notice on the Cao Cao travel platform at least 30 days in advance and promptly cease operations
+Collect personal information.
+4.5.2 After the cessation of operations, Cao Cao will cease the commercial use of personal information and ensure that the minimum retention period stipulated by laws and regulations is met
+Afterwards, anonymize the collected personal information.
+5. Use of personal information
+5.1 Your personal information will be used for the purposes specified in the "Collection of Personal Information" clause.
+5.2 Your personal information may be used for purposes directly or reasonably related to the purposes stated in the "Collection of Personal Information" clause
+Scene:
+a. Cao Cao may combine personal information from a certain service on his own platform with information from other services in the future to create a unique feature
+Develop models and create user profiles to provide you with better services.
+b. Cao Cao may design, develop, and promote new products and services based on user personal information statistics.
+c. Cao Cao will conduct statistics on the usage of his services during his travels and may share this statistical information with the public or third parties, but
+These statistical information do not contain any of your identification information.
+d. Cao Cao will send you information and notifications during his travels, including but not limited to verification codes necessary to ensure the completion of services, the use of products or services
+Necessary push notifications, news about Cao Cao's platform services, market activities and promotional information, and cooperation with Cao Cao
+Three day promotional information and other related information. If you do not wish to continue receiving the above information, you can unsubscribe according to the unsubscribe method provided in the information.
+5.3 Any use of your personal information beyond the scope claimed in the "Collection of Personal Information" clause that has a direct or reasonable connection, Cao Cao
+We will inform you again and obtain your explicit consent.
+6. Sharing, transfer, and public disclosure of personal information
+6.1 Cao Cao will comply with relevant laws and regulations during his travels and keep your personal information confidential. Except for the following situations, Cao Cao's actions will not be directed towards others
+Share your personal information with others.
+6.1.1 Only by sharing your personal information can we provide the services you need.
+6.1.2 In order to improve the quality of products and services provided by Cao Cao, we will provide you with new products and services. Cao Cao will operate within its affiliated companies
+Share your relevant information with the department. In order to evaluate transaction risks and improve the experience of existing Cao Cao travel, we may use our affiliated companies
+And/or partners have obtained your authorization or shared relevant information in accordance with the law, and will share the necessary information with them for the aforementioned purposes
+of
+6.1.3 When you use third-party services through the Cao Cao Travel Platform, Cao Cao Travel will follow the terms of "Collection of Personal Information" in the shared content
+Allow third parties providing services to share your personal information.
+6.1.4 Based on platform business requirements, we will entrust authorized partners in advertising and analysis services to handle the coverage and effectiveness of advertising
+We will provide you with personal information, but we will not provide it, or we will process this information to make it difficult to identify you
+People. These types of partners may combine the above information with other legally obtained information to perform the advertising services or decisions we have commissioned
+Suggestions for strategy. In addition, for the purpose of improving service quality and protecting the safety of drivers and passengers, we may entrust a third-party authorized partner to handle your case
+To authorize our partners to assist us in the design, development, and application of security assistance tools, security, and personalized marketing products.
+We will sign strict data protection agreements with the authorized partners mentioned above, requiring them to maintain confidentiality in accordance with this privacy policy and relevant laws and regulations
+Handle with security measures and delete your information after processing is complete.
+6.1.5 In order to safeguard the legitimate rights and interests of users, when assisting in handling transaction disputes or controversies related to you, Cao Cao may engage in transactions with you
+Provide necessary information for resolving transaction disputes or controversies to oneself or third parties with vested interests.
+6.1.6 According to legal provisions, criminal investigation agencies shall, in order to investigate crimes, retrieve necessary personal information through legal procedures, or administrative agencies or departments
+Legal institutions shall retrieve necessary personal information in accordance with legal procedures and with your authorization and consent.
+6.1.7 Provide necessary information within the scope required or permitted by law to protect public interests, property, or safety.
+6.1.8 Information disclosed with your explicit consent or authorization.
+In order for you to smoothly use third-party related services, Cao Cao will embed software development tool packages from Cao Cao's partners in the application
+(hereinafter referred to as "SDK"), the SDK embedded by Cao Cao can be divided into map navigation, sharing, third-party payment, statistics, and security
+The information obtained by different SDKs may vary, such as full recognition verification. Cao Cao will conduct strict security checks on the SDKs of our partners
+Measure and take necessary security measures, and handle your personal information properly within the scope of cooperation. The payment function is achieved through the embedded Alipay SDK
+Implementation: Alipay SDK will obtain IMEI and MAC address to ensure account security and stable operation of payment services. Alipay SDK
+If you would like to know more about the specific information and other third-party SDKs that Cao Cao has already accepted, please click on: Third SDK
+SDK instructions.
+6.2 Without following legal procedures or obtaining your consent, Cao Cao will not provide your personal information to any third party organization or individual. yes
+Cao Cao will sign strict confidentiality agreements with companies, organizations, and individuals with whom he shares personal information
+Process personal information in accordance with Cao Cao's instructions, this privacy policy, and any other relevant confidentiality and security measures.
+6.3 Cao Cao will abide by relevant laws and regulations during his travels and keep your personal information confidential. Unless otherwise obtained from you in advance
+Explicit consent or authorization,
+Or as required by law, Cao Cao will not publicly disclose your personal information during his travels.
+6.4 Cases of separate consent. Cao Cao will obtain your authorization separately in the following situations in accordance with laws and regulations during his travels.
+6.4.1 When handing over your personal information to other processing parties.
+6.4.2 When publicly processing your personal information.
+6.4.3 When handling your sensitive information.
+6.4.4 When providing your personal information to overseas parties.
+6.4.5 Install image capture and personal identification devices in public places, and set up prominent warning signs.
+6.5 In addition, according to relevant laws, regulations, and national standards, we may collect and use your personal information in the following situations:
+We need to seek your authorization and consent:
+6.5.1 Directly related to national security and defense security;
+6.5.2 Directly related to public safety, public health, and major public interests;
+6.5.3 Directly related to criminal investigation, prosecution, trial, and enforcement of judgments;
+6.5.4 For the purpose of safeguarding the legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+6.5.5 The personal information collected is publicly disclosed by the individual information subject to the general public on their own;
+6.5.6 Necessary for the signing and performance of a contract in which an individual is a party, or in accordance with labor rules and regulations formulated in accordance with the law and signed in accordance with the law
+The implementation of collective contracts requires human resource management;
+6.5.7 Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+6.5.8 Other situations stipulated by laws and regulations.
+6.6 If Cao Cao needs to transfer personal information due to mergers, divisions, dissolution, bankruptcy, or other reasons, he will inform you of the name of the receiving party
+Or name and contact information, and request the recipient to comply with the provisions of this policy. If the receiving party changes the original processing purpose or processing method,
+Cao Cao's trip will require the receiving party to obtain your consent again.
+7. User Rights
+7.1 Accessing personal information. You can access personal information on Cao Cao's travel platform through the following methods, and you can also call Cao Cao's travel customers
+Customer service hotline: 400-608-1111, requesting access to personal information. The customer service team of Cao Cao may need to verify your request
+Provide a response or reasonable explanation within 15 working days after verifying your identity:
+a. You can access the personal information you provide through the "Top left sidebar - Avatar - Personal Information Management - Personal Profile".
+b. You can access your regular address, emergency contacts, and other information through the "Avatar Personal Information Management" section in the upper left sidebar.
+c. In the upper left sidebar, you can access your order information and transaction status on the Cao Cao travel platform.
+d. You can access payment methods, payment records, and other information through the wallet function of Cao Cao's travel platform in the "Wallet Bill" section of the upper left sidebar
+Rest.
+7.2 Correction of personal information. When you need to update your personal information or discover errors in the personal information collected and stored by Cao Cao's travel platform
+You have the right to make corrections or updates. You can correct or modify personal information on Cao Cao's travel platform through the following methods. You can also
+By calling Cao Cao's customer service hotline at 400-608-1111 to request correction of personal information, Cao Cao's customer service representative
+The team may need to verify your identity and provide a response or reasonable explanation within 15 working days after verifying your identity:
+a. In the upper left sidebar - Avatar - Personal Information Management ", you can use this method to access your address, emergency contacts, and other information more normally.
+b. Top left sidebar - Avatar - Personal Information Management - Personal Information ", you can correct or modify your gender, birth date, and email through this channel
+Box, industry information, and riding preferences.
+c. In the upper left sidebar - Wallet, you can correct or modify payment methods and other information through the wallet function of Cao Cao's travel platform.
+7.3 Withdrawal of Consent. Cao Cao's actions will safeguard the right of users to withdraw their consent through the following methods. Once you withdraw your consent, we will no longer process it
+Provide corresponding personal information. But your decision to withdraw consent will not affect the personal information processing previously carried out based on your authorization:
+a. In the commercial advertisement information sent by Cao Cao's platform, you will be informed of the specific unsubscribe method. You can follow the unsubscribe method specified in the information
+Withdrawal of consent.
+b. You can disable the corresponding device permissions (including location, contacts, photos, cameras, notifications) through the device's settings function
+Revoke the authorization for Cao Cao to obtain your personal information during his travels.
+c. You can revoke partial authorization by unbinding your bank card, Alipay account, deleting information, and other methods. When you withdraw your consent or authorization
+Afterwards, it may result in Cao Cao being unable to provide you with the corresponding services for revoking authorization. But your withdrawal of consent or authorization does not affect the withdrawal
+Personal information processing based on your consent before returning.
+d. You can withdraw your request to obtain your personal information from us by going to "Avatar Personal Information Management Privacy Center Permission Management" in the upper left sidebar
+Authorization of interest.
+e. You can manage or turn off personalized recommendations through the "Top Left sidebar - Avatar - Personal Information Management - Personalized Recommendations".
+f. You can withdraw your consent to our privacy policy by going to "Avatar Personal Information Management Privacy Center Protocol Authorization" in the upper left sidebar.
+7.4 Delete personal information. In the following situations, you can go to the top left sidebar of Cao Cao's travel platform - Avatar - Personal Information Management - Emergency
+Delete your emergency contact person and frequently used address information through the "Contact Person" and "Top Left sidebar - Avatar - Personal Information Management - Frequently Used Address" sections
+Delete some personal information in the "Top left sidebar - Avatar - Personal Information Management - Personal Profile". You can also call Cao Cao for customer service
+Phone: 400-608-1111, you have requested to delete your personal information. The customer service team of Cao Cao may need to verify your identity
+Please provide a response or reasonable explanation within 15 working days after verifying your identity
+a.
+If our handling of personal information violates laws and regulations;
+b. If we collect and use your personal information without your consent;
+c. If our handling of personal information violates our agreement with you;
+d. If you no longer use our services, or if you cancel your account;
+e. If we no longer provide services to you.
+7.5 Account cancellation. You can use the "Settings - Permanent Account Cancellation" button on the Cao Cao Travel app or call the Cao Cao Travel customer service hotline
+Words: 400-608-1111 or apply for account cancellation through Cao Cao's bank. The customer service team of Cao Cao's bank may need to verify your identity and
+Provide a response or reasonable explanation within 15 working days after verifying your identity. Unless otherwise stipulated by laws and regulations, after canceling the account, Cao Cao
+We will stop providing services to you.
+When you delete personal information or cancel your account, Cao Cao Travel will retain your existing personal information for the shortest period of time as stipulated by laws and regulations
+During the minimum retention period required by laws and regulations, Cao Cao will no longer commercially use your personal information. When your
+If the personal information exceeds the above-mentioned retention period, Cao Cao will anonymize it.
+7.6 Export a copy of personal information. You can export personal information through "Top left sidebar - Avatar - Personal Information Management - Personal Information Export"
+Please submit once per day.
+7.7 Transfer personal information. Under the premise of legal and regulatory permits and feasible technology, such as data interface matching, Cao Cao will conduct according to your requirements
+Please transfer your personal information to the third party you have designated.
+7.8 Constrain the autonomous decision-making of information systems. In certain business functions, we may rely solely on non-human factors such as information systems, algorithms, etc
+The decision-making mechanism makes decisions. If these decisions significantly affect your legitimate rights and interests, you have the right to demand an explanation from us, and we will also provide it
+Provide appropriate forms of relief.
+7.9 Responding to your above request. To ensure safety, you may need to provide a written request or other forms of proof of your identity. We
+You may be asked to verify your own identity before processing your request. We will meet the deadline stipulated by 15 working days or laws and regulations
+Provide a response internally. For your reasonable requests, we generally do not charge any fees, but for requests that are repeated multiple times or exceed reasonable limits, I
+We will charge a certain cost fee depending on the situation. For those who have no end repetition and require excessive technical means (such as developing new systems or starting from the root)
+Changing current practices, posing risks to the legitimate rights and interests of others, or being impractical (for example, involving storing letters on backup tapes)
+We may refuse requests for information.
+We will not be able to respond to your request in the following situations:
+a. Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+b. Directly related to national security and defense security;
+c. Directly related to public safety, public health, and major public interests;
+d. Directly related to criminal investigation, prosecution, trial, and enforcement of judgments;
+e. The personal information controller has sufficient evidence to indicate that the personal information subject has subjective malice or abuse of rights;
+f. For the purpose of safeguarding the legitimate rights and interests of personal information subjects or other individuals, such as life and property, but it is difficult to obtain their consent;
+g. Responding to the request of an individual information subject will result in serious damage to the legitimate rights and interests of the individual information subject or other individuals or organizations;
+h. Involving trade secrets.
+8. The information you share
+8.1 You can share your location and travel information with others and social networks based on the services provided by Cao Cao's travel platform, and choose to share it yourself
+Object, as a third party that can see your location and information.
+8.2 When you share your location, service information, or other personal information with others, social networks, or third-party service providers, or combine them with others
+When using third-party services or using third-party service links, you may disclose or allow the third party to obtain your personal information.
+8.3 Cao Cao suggests that you review the privacy statements of such social networks or third-party service providers to understand how they handle your messages
+Rest. You shall bear the consequences arising from providing or sharing personal information with third party services when you use them, and shall be responsible for the corresponding consequences
+The responsible party shall assume responsibility within the scope prescribed by law.
+8.4 When you publicly share any information on the Cao Cao platform, anyone may view or access it while using the Cao Cao platform
+Information, such as photos, reviews, and other information uploaded by you on the Cao Cao travel platform. The information you voluntarily share when using Cao Cao's services can
+Please choose carefully and take responsibility for any personal information that may involve you or others.
+9. How do we use cookies and similar technologies
+9.1 Cookies are a mechanism by which servers (or scripts) store and retrieve information on clients. When you use Cao Cao to travel
+When providing services, in order to provide you with a more relaxed and secure access experience, we may use cookies or similar technologies to collect and store information,
+During this process, one or more cookies or anonymous identifiers may be sent to your device. This is done to collect your information, using
+To understand your preferences, conduct consultation or data analysis, improve services and user experience, or promptly identify and prevent security risks, we provide you with
+Provide better service. We will not use cookies for any purposes other than those described in this policy. You may retain them according to your own preferences
+Delete cookies. You can clear all cookies saved in the software, and your relevant information will be deleted when you manually clear them.
+10. Notice for Minors
+10.1 Cao Cao always attaches great importance to the protection of minors' information. If you are a minor under the age of 18, before using Cao Cao's services,
+You or your guardian need to carefully read this policy and agree to use the Cao Cao platform in accordance with this policy. If you are a minor under the age of 14
+Before using the services provided by Cao Cao, your guardian needs to carefully read this policy and agree to allow you to use the Cao Cao platform in accordance with this policy.
+10.2 If you or your guardian do not agree with any content of this privacy policy, you should immediately stop using it
+Use Cao Cao's platform.
+11. Change
+11.1 If any of the following changes occur on Cao Cao's platform, Cao Cao will promptly revise this privacy policy accordingly:
+a. Cao Cao's platform business functions have undergone changes.
+b. User personal information storage area changes
+c. The rules for using user personal information have changed.
+d. The contact methods and complaint channels established by Cao Cao have undergone changes.
+e. Other changes that may affect the personal information security or privacy rights of users may occur.
+11.2 After the revision of the privacy policy, Cao Cao Travel will release the latest version on the Cao Cao Travel platform and notify through push notifications or platform announcements
+Users are informed of the latest version of the privacy policy in a timely manner.
+11.3 Without your explicit consent, Cao Cao's actions will not diminish your rights under this privacy policy.
+Please note that any security system has potential and unknown risks. With the further improvement of software services by Cao Cao, privacy statement
+The content will be updated at any time. If you continue to use Cao Cao's services after the content of this policy has changed, it will be deemed that you have read and
+Understand and agree to the latest revised privacy policy. You can view the privacy policy through the following access path: app ⾸⻚ - upper left ⻆ sidebar-
+Settings - Platform protocols, policies, and billing rules.
+12. How to contact us
+12.1 You can provide feedback or complaints through the "Online Customer Service" on the mobile client or by calling 400-608-1111.
+12.2 If you have any questions, complaints, or suggestions regarding our privacy policy or personal information protection, you can call Cao
+Please contact us at 400-608-1111 for customer service. We will review the issues as soon as possible and verify the situation within 15 days
+Provide a response within the time limit specified by the workplace or laws and regulations.
+In case of any dispute arising from this agreement, both parties agree to file a lawsuit with the local court where the defendant is located for resolution.

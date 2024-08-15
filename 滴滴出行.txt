@@ -1,0 +1,640 @@
+Didi's Personal Information Processing Rules
+Update Date: August 2, 2024
+Previously
+Didi attaches great importance to the protection of users' personal information. This personal information processing rule applies to Didi's application programs, mini programs, and application programming interfaces
+The various products or services provided to you in the form of APIs and open platforms. Didi Chuxing's products are developed by Didi Chuxing (Beijing) Network Platform Technology Co., Ltd
+Hereinafter referred to as "we", registered address: B507, 5th floor, Building 2, No. 28 Shangdi Road, Haidian District, Beijing, contact information:
+gerenxinxibaohu@didiglobal.com ）Development: Didi platform consists of basic information platform business, functional service transaction information platform business, and online business
+The business of the service transaction information platform mainly includes Didi's e-commerce service platform and Didi's rental information platform (Kuaidi New Rental Information)
+Platform), Didi Shunyi Information Platform, Didi Driver Information Platform, Didi Public Transport Information Platform, Didi Shared Single Information Platform, Didi Shared Electric Single Information Platform
+Information platform, refueling information platform, charging information platform, maintenance information platform, financial information platform, Didi freight information platform, Didi navigation service platform.
+Didi's online e-commerce service platform, operated by Didi Chuxing (Beijing) Network Platform Technology Co., Ltd., serves as an e-commerce platform to provide you and your online services
+Provide online e-commerce platform services. On the Didi e-commerce service platform, Didi Chuxing Technology Co., Ltd. and its designated subsidiaries or affiliated companies are responsible for
+You provide Didi's appointment service (registered address at Room 2103, 21st Floor, Block C2, TEDA MSD-C Area, No. 79 First Street, Tianjin Economic and Technological Development Zone), or have it
+His third-party contract service provider provides you with third-party contract services. You can click here to view the registered addresses of various business operators.
+The key points of my personal information processing rules include:
+1. The specific functions may include the scope, purpose, and methods of collecting and using personal information, as well as the potential impact of refusing to provide personal information;
+2. The SDK collects and uses personal information to retrieve the scope, purpose, and method of device permissions;
+3. The device permissions that the app (and SDK) may need to access, the purpose of the access and its corresponding business functions, and the method for users to disable the corresponding permissions;
+4. How do we share and protect your personal information;
+5. The rights you enjoy as a personal information subject.
+You agree to the personal information processing rules, which only means that you have understood the functions provided by the application and the necessary personal information required for the operation of the functions. It does not mean that you have agreed to the rules
+We collect non essential personal information. For non essential personal information processing, your consent will be separately sought during your use of the service. If you refuse
+We collect non essential personal information and it will not affect your use of basic business functions.
+You agree to the personal information processing rules, and personal information related permissions will not be enabled by default. We will create a pop-up window again when you use the corresponding business functions
+Open with your consent. After enabling permissions, you can also disable them at any time through device settings. Your refusal to grant permission will not affect other unrelated businesses
+Normal use of business functions.
+Title:
+1. Definition and scope of personal information;
+2. Collection of personal information;
+3. The situation where you need to authorize and agree to access system permissions;
+4. How do we use cookies and similar technologies;
+5. Preservation and protection of personal information;
+6. Use of personal information;
+7. The sharing, transfer, public disclosure, and access to third parties of personal information;
+8. The situation where third-party SDKs collect and use your personal information;
+9. User rights;
+10. Update;
+11. How to contact us.
+1. Definition and scope of personal information
+1.1 Personal information refers to various information related to identified or identifiable natural persons recorded electronically or in other forms, excluding anonymized information
+Information.
+1.2 Sensitive personal information refers to information that, once leaked or illegally used, can easily lead to the infringement of a person's personal dignity or endanger their personal or property safety
+Personal information.
+1.3 Anonymization refers to the process in which personal information cannot be identified as a specific individual and cannot be recovered after processing.
+2. Collection of personal information
+According to the "Regulations on the Scope of Necessary Personal Information for Ordinary Type Mobile Internet Application Programs", Didi Chuxing App belongs to the "Internet Appointment Class" and provides basic functional services
+The necessary personal information for "online reservation of rental car services and tour rental car call services" includes: 1. registering the user's mobile phone number; 2. Order information
+(Departure location, arrival location, position information, and tracking trajectory of the passenger); 3. Payment time, payment amount, and payment channel. If you want to only use this product/service
+You can choose to only agree to the "Personal Information Processing Rules for Basic Functions of Didi Chuxing App" in the future.
+In addition to online ride hailing services, this app also provides ride hailing, chauffeur services, public transportation, cycling, refueling, charging, maintenance, finance, freight, navigation, and autonomous driving services
+We will provide you with independent personal information processing rules for each type of service, and will pop up a separate window for the basic functions of that type of service before you use it again
+The basic business functions and necessary information of this type of service will be explained in the individual information processing rules.
+2.1 User Account Registration, Login, and Management Services
+2.1.1 User account registration and login
+(1) Scope of necessary and non necessary information:
+When you use the registration function, you need to provide us with your personal phone number at least for registering an account. We will send a verification code to that phone number
+Use the method to verify whether your body is effective. This type of information is necessary for this feature, and if you do not provide it, you will not be able to complete the registration. In addition, you can also
+To set your account password according to your own needs, this type of information is non essential information for this function. Refusing to provide this type of information will reduce account security
+Protection capability, but does not affect the use of registration function.
+When you use the login function
+When registering, you need to provide us with your phone number and log in after entering the verification code. When you forget your account password, you need to
+When retrieving your password, you need to provide us with the phone number you used for registration, and we will send a verification code to that phone number. After successful verification, you can
+Enter a new password and log in again. Please note that if the phone number you provide has not been registered on this platform, we will use a quick registration method to directly access it
+Register a Didi travel account for you and log in for you. This type of information is necessary for the login function, and if you do not provide it, you will not be able to log in normally.
+If you choose to register/log in using a third-party account (including Alipay, WeChat, Apple, and mobile system accounts), we will collect your third-party account information
+Interest; If you choose to use the one key login method with your local phone number for registration/login, in order to achieve the one key login function, we need to read and upload the local phone
+Number. If you refuse our collection of such information, you can register/log in by manually entering your phone number.
+(2) Third party SDK used
+One click login with local phone number: You can use the Alibaba Cloud Number Authentication SDK, China Telecom Number Authentication SDK, China Mobile Internet and Mobile Authentication SDK, and China Unicom Authentication SDK
+Number SDK completes the one key login service for local numbers. To achieve this function, the third-party SDK will collect your phone number, IP address, and telecom operator. his
+In China, the Alibaba Cloud Number Authentication SDK will collect your Android ID, network type, IP address, device manufacturer, device model, mobile operating system, etc
+SIM card information SIM State, SIM card information ICCID. This type of information is necessary for providing one click login services. If you refuse third-party SDK access
+If you receive this type of information, you will not be able to log in to the service using your local phone number with just one click, but you can register/log in by manually entering your phone number.
+Third party account login: You can complete the third party account registration/login service through WeChat Open SDK, App Alipay client SDK..
+2.1.2 Improve user personal information
+(1) Scope of necessary and non necessary information:
+After registering as a Didi user, you can also choose to further improve your personal information. To achieve the corresponding functions, we need the following information:
+a) You can choose to provide us with your nickname, name, and identification information to improve your personal information. If there are unfamiliar words or names in your name
+Change history, you can perform real name authentication through the bank card real name authentication method, that is, you provide the bank card number and the reserved mobile phone number for opening the bank card account, and we will provide it to you
+Send verification code for mobile phone number. After successful verification, real name authentication is completed.
+b) You can choose to provide a regular address (including home and company addresses) or have us provide you with historical data (location information, order information)
+Recommend frequently visited locations and confirm with you. After setting a frequently used address, you can more conveniently fill in the travel start and end information. If you refuse to set a frequently used address,
+You need to manually input the start and end information of the journey, but it will not affect your use of basic business functions. The commonly used address is stored by default in the mobile terminal, and you can open it by
+Control whether to upload it to the cloud. If you turn on the switch, the frequently used address data will be backed up to your personal cloud account. If you turn off the switch, your
+The address information is only stored on the mobile terminal, and we will delete your frequently used address data (if any) from your cloud account.
+c) You can set your own working hours, return home time, work route, and return home route. Based on the frequently used address, travel route, and time you set, we will
+You plan your itinerary and provide commuting message reminder services.
+The above information is non essential and you can choose whether to provide it yourself. If you do not provide the above information, it will not affect your use of basic business functions.
+(2) Third party SDK used
+You can use the National Network Identity Certification SDK to access the National Network Identity Certification Public Service. To achieve this function, the third-party SDK will obtain whether you have installed the country
+Provide us with the information of the home network identity authentication app and your encrypted network identity authentication certificate.
+2.1.3 Certification of Child Custodian
+After conducting real name identity verification, if we find that you are a minor under the age of fourteen, we will seek authorization from your guardian before processing your personal information
+Rest. During this process, your guardian needs to provide their name and identification number information.
+2.1.4 Family Account Services
+The family account service is an additional feature of this app, and you can choose whether to use it on your own. If you choose to use this feature, we need to collect
+The necessary information includes the phone number used for the account you have linked with your family and friends. If you refuse to provide your family account phone number, we will not be able to provide you with a family account
+Service, but it will not affect your use of other functions.
+2.1.5 Membership Services
+Didi platform provides you with membership services, and we accumulate your travel data and offer membership benefits based on your service usage on Didi platform. This type of information is
+If you refuse to provide the necessary information for membership services, the platform will not be able to obtain your order information for the purpose of accumulating membership data and distributing benefits, but it will not affect
+Please use other functions of the platform.
+2.2 Contract/Rental Services
+2.2.1 Basic functional services for lease/rental
+The appointment/rental services include Didi Chuxing, Didi Chuxing, Pinjin, VIP/Luxury Chuxing, Didi Chuxing, Elderly Assistance Chuxing, and Didi Package. You will receive specific rewards
+Didi's products and services may vary depending on the software version and service region you are using. If the software version or region you are using does not currently provide special information
+The personal information collection instructions related to services or functions in this personal information processing rule will not apply to services or content.
+(1) Scope of necessary and non necessary information
+a) Location information
+In order to make it more convenient for you to input the entry point, record your trajectory, help you plan navigation routes, and prevent operational risks, we will collect and upload your location (including the route)
+Latitude information. To ensure the security of your account and prevent its theft,
+When you log in, log out, set password, forget password, change password
+When modifying your phone number, updating login credentials, binding or unbinding a third-party account login method, we will collect your location information. If there are any discrepancies in your location, we will collect your location information
+Often, the system may change the verification method, requiring you to provide further verification information, blocking your above operations, or requiring you to log in again.
+Before you use the Didi platform for the first time, we will prompt you to choose whether to allow the Didi platform to obtain your location information. During your use of the Didi platform, you
+You can choose at any time whether to allow the Didi platform to access your location information and under what circumstances it can access it through the device settings function. Obtain your permission
+Afterwards, we will collect and process your dynamic location information, or transmit it through IP address, GNSS information, base station information, WLAN list, BSSID, SSID, etc
+Sensor information (acceleration, gyroscope, magnetometer, air pressure gauge) is used to calibrate your position information. We will also inform you in the device permission calling section
+Set the collection purpose and frequency of information in different scenarios. If you refuse Didi platform to obtain location information, you will need to manually locate your location.
+Location information is necessary for online booking services. If you disable location permissions and are still able to place orders, we will use the Didi main app used by the driver
+Record the location and route of this order.
+b) Order information
+We will collect your departure, arrival, route, time, time, distance, and transaction status information by recording user behavior and accessing location permissions
+Rest. We collect the above information based on billing, legal and regulatory requirements, and to protect your personal and property safety, and to handle user disputes in accordance with platform rules
+need. Order information is necessary for online booking services. If you refuse to provide the departure, arrival, and time, it will result in platform drivers being unable to provide information
+You provide services. If you refuse us to obtain your route, time, distance, and transaction status, it may result in us being unable to accurately bill and handle user disputes
+To better protect your rights and interests.
+c) Payment information (payment amount, payment time, payment channel)
+When you make a transaction payment on the Didi platform, if you use the third-party payment function, Didi will obtain your payment time, payment amount, and payment channel information.
+We collect the above information to verify whether passengers are paying according to the agreement, whether drivers are charging illegally, maintain platform transaction order, and handle according to platform rules
+Household disputes. Payment information is necessary for online booking services. If you refuse us to collect payment information, it will result in you being unable to complete the order payment.
+(2) Sensitive permissions for calling
+When we use your location information, we will invoke location permissions. If you disable location permissions and are still able to issue orders, we will use the driver's permission
+The main app of Didi records the location and route of this order.
+(3) Third party SDK used
+The payment function is implemented through WeChat Open SDK, QQ Wallet SDK, App Alipay Client SDK, and MPGS SDK.
+2.2.2 Safety Center
+(1) Scope of necessary and non necessary information
+The Security Center is an additional feature of this app, and you can choose whether to use it or not. If you choose to use this feature, we
+The information that needs to be collected includes:
+a) Recording information. When you use Didi's ride hailing services (express, dedicated, luxury), rental services, driving services (Didi and Xinju), and freight services,
+After presenting you with the 'Recording and Recording Information Processing Agreement' and obtaining your consent, we will use it through the Didi Driver App, Didi Driver App, and Didi Freight Company
+The mobile app will collect all the internal environmental sound information during your subsequent journey (including the sound generated by your conversation or body movements with the person on board). Affected by technical conditions
+The timing of the launch of the recording function for various services on the Didi platform varies in different cities, and the specific recording status displayed on the Didi platform shall prevail. The retention period of the recording is
+7 days. If there are negative reviews, complaints, or unresolved disputes, the platform will extend the retention period appropriately, with a maximum of 3 years. If you call someone else ⻋ or
+Please inform the actual passenger or other passengers about the collection of recorded audio information and obtain their consent when asking them to ride with them. If you agree to the platform's personal information
+Handling relevant rules, agreements, or clear prompts, and carrying minors under the age of fourteen on board, will be deemed as your consent as a guardian to the platform's handling of minors
+Personal information.
+b) Video recording information. Some registered vehicles on the Didi platform are equipped with video recording devices, and you can control whether to turn on the in car recording by turning on the switch. If you open the ⻋
+Recording, the Didi platform will collect internal recording information through internal cameras. From the moment the driver receives the order (from the moment the driver arrives at the passenger for the reserved order)
+Starting from the moment of departure, stop at an appropriate time after the end of the journey (specific to the recording status displayed on the safety shield of the application program used by the driver). The application program does not have
+The displayed video pause time is 10 minutes after the end of the journey. When passengers enter this type of vehicle and leave the vehicle, video information will be collected simultaneously. If
+The video recording equipment recognizes that the passenger did not disembark in a timely manner after the order ended or there may be a scene of danger, and will automatically postpone the recording time. The internal video recording is stored in
+In the onboard device, the retention period is limited by the onboard device's memory. When the storage space is full, the earliest recording will be automatically deleted. Didi's "Recording and Recording Information Processing
+The videos retrieved for the usage scenarios specified in the agreement shall be saved on the Didi server. Due to different usage scenarios, the retention period is 15 to 6 months
+(Delete immediately after reaching specific usage scenarios). If there are negative reviews, complaints, or unresolved disputes, the platform will appropriately extend the video retention period.
+c) You can add an emergency contact person and set a time period for self sharing the itinerary. When adding an emergency contact person, you can choose to manually enter the name of the emergency contact person
+Mobile phone number or upload the contact person's mobile phone number through the address book, and choose whether to record the name of the emergency contact person. When you choose to upload emergency contacts through your contact list
+When it comes to contact information, we will
+Read the contact information of the person you have selected. When you add an emergency contact person and enable the automatic sharing process or use the one button alarm function
+Cheng information will be automatically shared with emergency contacts via SMS. If you refuse to provide emergency contact information, it will result in you being unable to initiate your own sharing process
+When you press the alarm button, the platform cannot share your travel information with the emergency contact person, but it will not affect your use of other functions.
+d) In order to strengthen the safety protection of users during the journey, we will ask the driver about the gender of passengers for orders that are preliminarily judged to have safety hazards before the start of the order
+And whether there are cases of drunk riding, solo riding, or the need to strengthen safety protection measures, and whether more safety measures should be taken for the order will be decided based on the response content
+measures. The content replied by the driver is only used to decide whether to take more safety measures for the order, and we will not record your gender information after the order ends.
+e) If the platform discovers any abnormalities in the order during the order process or at an appropriate time after the order ends, it may endanger the personal and property safety of you or the driver
+In order to maintain platform security and prevent safety incidents, we will make voice or video calls with the driver's app, and call the driver at this time
+Driver's license plate and camera permissions for the handheld device. This function is only used for communication between the platform and the driver. We will not record or save the conversation content
+We will collect your personal information.
+The above information is non essential and you can choose whether to provide it yourself. If you do not provide the above information, it will not affect your use of other functions.
+2.2.3 Elderly care services and accessibility services
+(1) Scope of necessary and non necessary information
+Elderly calling services and accessibility services are additional features of this app, and you can choose whether to use them or not. We provide elderly care services to users aged 60 and above
+⻋ Service, which means that without entering the destination, you can call ⻋ with just one click and communicate with the driver about the destination after boarding. If you use an elderly person to type, you need to provide your surname
+Name and identification number are necessary information for elderly people to use. If you do not provide your name and identification number, we cannot verify whether you have fully used the elderly mobile phone service
+The age restriction of the service will prevent you from using the elderly calling service, but you can still use the online booking service as a regular user.
+You can also set up your own frequently used address, frequently used route, and destination frequently used address. We will plan your itinerary based on the address and route you have set up, and assist you with convenience
+Jie sets the starting and ending points of the order.
+We provide priority dispatch services to visually impaired individuals. After obtaining your consent, we will obtain your name and identification number through the Chinese Blind Association. This is Ben
+The necessary information for the service, if you do not provide your name and identification number, we cannot verify the situation, which will result in you being unable to use the accessibility service, but you can still do so
+To provide internet subscription services for ordinary users.
+2.2.4 Generation name ⻋
+(1) Scope of necessary and non necessary information
+Proxy calling is an additional feature of this app, and you can choose whether to use it or not. If you choose to use this feature, the necessary information we need to collect includes actual
+The passenger's phone number, non essential information including the actual passenger's name. We collect this type of information to facilitate communication between drivers and actual passengers. stay
+Before providing passenger information, please inform the passenger and obtain their consent. If you refuse to provide the actual passenger phone number, you will not be able to call them on their behalf.
+2.2.5 Airport pick-up service
+(1) Scope of necessary and non necessary information
+The airport pick-up service is an additional feature of this app, and you can choose whether to use it yourself. If you choose to use this feature, the necessary information we need to collect includes flight information
+We collect flight number information to check the arrival time of the flight. If you refuse to provide the flight number, you will not be able to send the order for more than 2 hours from the time of issuance
+The starting point is the airport's daily appointment booking, but it will not affect your use of other functions.
+2.2.6 Specialized Luxury Customization Services
+(1) Scope of necessary and non necessary information
+Specialized customization services are an additional feature of this app, and you can choose whether to use them or not. If you choose to use this feature, we need to collect the necessary information
+Including your customized service preference requirements (including Do Not Disturb During Travel, Simplified Service Language, Help with Luggage, Drinking Water, Increasing Rear Space, Playing Music, Protection)
+We collect this type of information to ensure the completion of customized services. If you refuse to provide customized service preference requirements, we will not be able to provide customization to you
+Service, but it will not affect your use of other functions.
+2.2.7 Appointment Call
+(1) Scope of necessary and non necessary information
+Appointment calling is an additional feature of this app, and you can choose whether to use it or not. If you choose to use this feature, the necessary information we need to collect includes you
+Make an appointment for the travel itinerary. If you refuse to provide an appointment time, you will not be able to use the appointment calling service, but it will not affect your use of other functions.
+2.2.8 Inter city travel
+Inter city travel services (including intercity buses and station buses) are additional features of this app, and you can choose whether to use them or not. When you call for cross city travel orders
+According to the "Requirements for Road Passenger Transport and Passenger Station Management", the necessary information we need to collect includes the passenger's real name information (name, identity)
+ID number or real name identification information, number of passengers. If you refuse to provide this information, you will not be able to call for cross city orders, but it will not affect your use of other functions
+Can.
+2.2.9 Using Third Party Contract Services through the Didi Platform
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself. When you use the third-party contract services provided by Didi platform, we will communicate with the third party
+Three parties can share the last four digits of your mobile phone number or virtual mobile phone number, order information, location information, and invoicing information (including payment amount, invoice header, and company name)
+Evaluation information, complaint information, in order for a third party to provide you with contractual services. This type of information is required to be collected by a third party to provide you with contractual services
+I need information. Before you use the third-party service provided by the third party for the first time, we will show you the third party
+Personal information processing rules for the first party, personal information for the third party
+The processing rules will explain to you the name and contact information of the third party. If you refuse to provide such information, you will not be able to use the third-party contract services provided, but
+It will not affect your use of other functions.
+(2) Sensitive permissions for calling
+When we collect and share your location information, we will invoke location permissions. If you disable location permissions and are still able to place orders, the third party will process them through a third party
+The main app retrieves the location and route of this order.
+2.2.10 Contact between drivers and passengers
+(1) Scope of necessary and non necessary information
+This function is an additional feature of this app. You can make calls or send messages through the Didi platform. This function is an additional feature, and we need to implement it
+The necessary information to be collected includes virtual phone number call recordings and online communication content. We collect this type of information for use in resolving disputes or safety incidents involving users
+Be practical and handle complaints. To better protect the security and personal information of both parties, the Didi platform does not directly provide users with contact information for other users. Users can only
+Make calls or communicate through the Didi platform. If you refuse us to obtain your above information, it may result in you being unable to use the Didi platform for calls and messages
+Communication function, but it does not affect your use of other functions.
+(2) Sensitive permissions for calling
+When you contact the driver through the Didi platform, in order to achieve the function of taking photos and sending pictures or audio, we need to use your device's camera permission, microphone, etc
+Permission, Huawei Media Video (image, video, audio) permission.
+2.2.11 Invoice Management
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself. We provide you with electronic invoices and electronic waybills for historical orders to achieve this function
+The necessary information we need to collect includes invoicing information (header type, company name, company tax number, invoicing amount), email address, and if necessary, you can also provide it
+You can fill in the remarks, name, and identification information on your own. We obtain this type of information for the purpose of issuing electronic invoices/electronic waybills to you and sending them to you
+The electronic mailbox.
+When you, as an employee user of a Didi enterprise customer, issue invoices through the fee control platform, we need to share your invoicing information with the third-party invoicing service you have chosen
+Provider, please read the shared instructions of third-party service providers on the fee control platform. This type of information is necessary for the implementation of functions. If you refuse to receive it
+Collecting and sharing such information may prevent you from using the cost control platform for cost management.
+(2) Third party SDK used
+After obtaining your separate authorization, you can save electronic invoices through the App, Alipay client SDK, WeChat Open SDK, Alipay invoice manager, or WeChat
+Card bag.
+2.2.12 Evaluation Function
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself. When you evaluate other users, Didi will collect the evaluation content you submit and
+Share your submitted review content anonymously with the evaluated users. This information is necessary for you to use the evaluation function. Please do not include it in the evaluation content
+Human information.
+2.3 Customer Service
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself. When you contact the Didi customer service team, we will use call recordings and manual input
+Record your call information, ideas or suggestions in a casual manner. If necessary, you can also provide relevant order information, name and contact information, proof documents
+(If any), in order for us to handle disputes, resolve issues, or provide you with feedback on the results. This type of information is necessary for the implementation of functions. If you refuse to receive it
+Collecting such information may result in you being unable to call our customer service hotline or our customer service team being unable to provide feedback on the processing results to you, but it does not affect your use of other platforms on the Didi platform
+Function.
+(2) Sensitive permissions for calling
+When you make online calls with customer service, we need to access your WeChat permissions. When you need to provide customer service with relevant order information or materials, in order to achieve
+To take photos or upload images/videos locally, we need to access your device's camera permissions and Huawei Media Video (images, videos, audio) permissions. If you refuse the relevant
+System permissions will prevent you from easily contacting our customer service team and resolving your concerns, but it will not affect your use of other functions.
+2.4 Operational Activities
+You can participate in events organized by us or jointly organized with third parties through the Didi platform. This feature is an additional feature of this app. If you choose to participate in the event,
+We need to collect the following information:
+2.4.1 Student discounts
+If you want to enjoy the preferential services provided by the Didi platform for student users, you need to provide your real name, ID number or real name through the Didi platform student authentication center
+Proof of identity may also require you to provide location information to verify your student identity.
+You can also undergo student authentication through a third-party platform. Didi platform will collect your identity information on whether you are a student through the third-party platform, and the identity verification service will
+Provided by the third-party platform you have chosen.
+This type of information is necessary for providing student discount services. If you refuse to provide the above information, you will not be able to enjoy the exclusive benefits provided by the Didi platform for student users
+Hui service, but you can use Didi platform services as a general user.
+2.4.2 Public welfare activities
+(1) Scope of necessary and non necessary information
+If you choose to participate in the Didi charity event, we will need to use your name to issue you a donation certificate. The above information is necessary to achieve this function
+If you refuse to allow us to collect such information, it will result in the inability to issue the Didi Charity Program donation certificate to you.
+If you choose to participate in low-carbon travel activities, in order to issue rewards based on the accounting results of the carbon reduction emissions generated by your low-carbon travel, we need to collect your mobile phone number
+And your service usage on the Didi platform (including travel mode, travel trajectory, travel start and end points, travel time, duration, travel time, speed), as well as your
+Provide your IC card number and the above information to the official carbon emission monitoring agency and verification in your area
+For institutions (or other institutions designated by the aforementioned institutions)
+Calculate carbon emission reductions.
+2.4.3 Other operational activities
+(1) Scope of necessary and non necessary information
+If you choose to participate in other operational activities, we need you to provide certain information, which may include your name, photo, mailing address, and contact information. these
+Information can help us publicize the results of the activity (when publicizing the results, if it involves your personal information, we will disclose your personal information)
+Identification processing will be carried out to promote the event, and we will contact you to distribute gifts or rewards. The above information is necessary for implementing this function, such as
+If you refuse to provide such information, it may result in being unable to participate in the corresponding activities, or unable to receive gifts or transfers, but it will not affect your use of other businesses on the Didi platform
+Function.
+(2) Sensitive permissions for calling
+When you participate in the above-mentioned operational activities, share or receive shared information, we need to read the content of your clipboard to determine if there are any relevant commands, which are used for
+Implement functions or services such as jumping, sharing, and activity linkage. The Didi Chuxing App only recognizes locally that the clipboard content belongs to Didi platform jumping, sharing, and activities
+It will only be uploaded to our server when there are instructions such as linkage. In addition, this app will not upload any other information about your clipboard to our servers. You can
+Select 'Stop' from 'My' - 'Settings' -' Permission Management 'to allow us to read your device clipboard. After closing it, we will not be able to use the command function properly, which may affect
+Your user experience.
+When you use functions such as itinerary reminders, activity reservation reminders, and check-in reminders, we will apply to obtain your device calendar permissions. After you grant the relevant permissions,
+We will access your calendar to help you schedule event subscriptions and reminders, and use the calendar function to remind you at the time you have scheduled. If you refuse us
+Using device calendar permissions will not allow you to use the appointment reminder function, but it will not affect your use of other features on the Didi platform.
+2.5 E-commerce Functions
+You can use the e-commerce services we provide through the Didi platform, which is an additional feature of this app. If you use these features, we need to collect information from you
+The following information:
+2.5.1 Recharge Center
+(1) Scope of necessary and non necessary information
+When you use the recharge center function on the Didi platform, we need to collect your phone number. When you use the mobile phone recharge service, we need to provide your phone number
+The code is shared with the third-party recharge service provider you have chosen. Please read the instructions of the recharge center's third-party service provider. This type of information is necessary for the implementation of functions
+If you refuse our collection and sharing of such information, it will result in you being unable to use the recharge center services. In addition, according to the requirements of the Electronic Commerce Law
+Please, we will also record your consumption history for displaying your recharge order information.
+(2) Third party SDK used
+The payment function is implemented through WeChat Open SDK, QQ Wallet SDK, App Alipay Client SDK, and MPGS SDK.
+2.5.2 Shopping in the mall
+(1) Scope of necessary and non necessary information
+If you purchase goods or specific services provided by third parties through the Didi platform (including Yan Xuan Pin and Pin Mall), we need to collect your order information
+(Ordering time, ordered product, number of items, payment information), shipping information (recipient name, recipient address, recipient phone number), refund information
+(Apply for refund time and reason), and provide it to the supplier or merchant who provides you with goods or services, so that they can ship or provide services for you
+Service. The specific supplier or merchant you choose shall prevail, and their name and contact information shall be detailed in the product information.
+If you purchase bank cards, paid members, equity cards, or genuine fragrance card products, we need to obtain your purchase information (order time, ordered products, product information)
+Interest and payment information) and record historical orders for display purposes.
+This type of information is necessary for the implementation of functions. If you refuse to collect this type of information, it will result in you being unable to purchase goods or services.
+(2) Third party SDK used
+The payment function is implemented through WeChat Open SDK, QQ Wallet SDK, App Alipay Client SDK, and MPGS SDK.
+2.6 Location based services
+2.6.1 Destination Services
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself. You can activate it by selecting "My" - "Settings" - "Personalized Management" - "Public Platform"
+Or disable the service content recommendation function for the destination. After you open it, we need to obtain your order information (including booking, rental, and delivery), location
+Recommend or display local life service information and commercial advertisements that may be of interest to you, including nearby scenic spots, ticket information, and store user review letters
+Interest and commercial advertising. This type of information is necessary for implementing this function. If you refuse us to use this type of information, you will not be able to access the intended service, but it will not
+Affects your use of other functions.
+You can also purchase tourist attraction tickets on the third party through the Didi platform and verify them offline. To achieve this function, we need to record your attraction ticket purchase order information
+Used for display.
+(2) Sensitive permissions for calling
+We need to obtain your location permission to provide you with destination services. If you refuse us to use your location permissions, you will not be able to access the destination services, but it does not affect
+You can use other functions.
+2.6.2 When you add a waypoint, we need to record the waypoint location information you entered. When you use products reported by Yiji and Didi, in order to inform you
+Display the statistical analysis results of your travel order data, and we will conduct visual analysis and display based on your order information and location information on the Didi platform. This type
+Information is necessary for implementing this function. If you refuse us to use such information, you will not be able to use the above services, but it will not affect your use of other functions.
+2.7 Information push and sharing
+(1) Scope of necessary and non necessary information
+This feature is an additional feature of the app, and you can choose whether to use it yourself.
+When you enable the terminal extrapolation
+When using the device system push function, we will push the following information to your mobile phone desk: system messages (including order status, shipping)
+Camp activities and personalized recommendation information.
+When you use the real-time activity notification (device system push) function, in order to show you that you are using Didi through the real-time activity notification function of your mobile phone vendor partner
+We will provide your order information (order status, pickup information, estimated queue and pick-up time, order type, and payment information) based on the order status of the platform service
+Send the cooperating party. The relevant real-time activity status will be displayed on the main screen of the mobile phone or at the top of the active app, as well as on the lock screen. You can notify permissions through the mobile phone system
+The switch or real-time activity notification function can be individually switched to choose whether to receive the notification.
+When you use the above functions, we will collect and use your operating system version, telecom operator, and device model. This type of information is necessary for this function
+If you do not agree to the collection and sharing of such information, you may not be able to use the external transmission function of the client normally.
+(2) Third party SDK used
+When you use the push function, Oppo push, Vivo push, Xiaomi push, Honor push, Honor Suggestions Kit, Huawei push (all are)
+The Android operating system will obtain your operating system version, network environment, telecom operator, and device model to enable push functionality for mobile devices
+Can.
+When you use the WeChat sharing feature, the WeChat Open SDK will retrieve your shared content to enable sharing/bookmarking to WeChat. If you refuse the third party
+The SDK collecting the necessary information mentioned above will not enable WeChat sharing functionality.
+2.8 Didi has
+This feature is an additional feature of the app, and you can choose whether to use it yourself. If you choose to use the "Didi Youjin" service, we need to collect the following information:
+2.8.1 Main Services
+(1) Scope of necessary and non necessary information
+a) License plate number: used to provide you with vehicle restriction reminder services and ETC processing services (ETC processing services are provided by Yixing Bao Intelligent Transportation Technology Co., Ltd.),
+Contact form 4009012122);
+b) Brand number, vehicle identification code, engine number, usage nature, registration date information: used to provide you with insurance quotation services;
+c) Compulsory Traffic Insurance Period: Used to provide you with insurance expiration reminder services;
+d) Review information: You can add your own love review to improve the owner's authentication information and assist others in making vehicle purchase decisions;
+e) Mobile phone number: Used to facilitate the merchant to contact you when you use roadside rescue services.
+You can also choose to input vehicle information quickly by uploading/shooting your driving license. In order to provide you with insurance quotation services, when the service is actually provided by a third party
+When we provide it to you, we will provide the information you submit to the actual service provider, and we will inform you of the name and details of the relevant service provider in specific functions
+Contact method. The above information is necessary for implementing the corresponding functions. If you refuse to provide the above information, we will not be able to provide you with vehicle restrictions and insurance withdrawals upon expiration
+Wake up service, ETC processing service, or insurance quotation function, but it does not affect your use of other functions.
+(2) Sensitive permissions for calling
+We will obtain your camera permission to quickly input vehicle information for taking driving license photos. If you refuse to grant us access to this permission, you can manually input the number of vehicles
+Information usage related functions.
+2.8.2 Washing service
+(1) Scope of necessary and non necessary information
+When you select a service store and purchase a washing voucher code through Didi washing products, we need to obtain your location information to show you nearby stores. We still
+We need to record your order information and transaction status for the purpose of recording and displaying historical orders. This type of information is necessary for providing this service, and if you refuse us
+Recording this type of information will prevent you from using the Didi washing service, but it will not affect your use of other functions.
+(2) Sensitive permissions for calling
+We need to use your location permissions to obtain your location information.
+2.8.3 Rental Services
+(1) Scope of necessary and non necessary information
+When you use the reservation rental platform service, we need to obtain your location information to show you nearby shops. We also need to record your driver's letter
+Share information (including name, identification number, phone number), order details (including booking information, time, order amount), and transaction status with
+Suppliers or merchants who provide goods or benefits to you, in order for them to provide services to you (specific name and contact information of the third party displayed on the product page of your choice)
+The interest rate shall prevail. We use the above information for the purpose of providing you with rental services, protecting your property safety, and resolving user disputes. This type of information is provided for
+If you refuse to provide necessary information for this service, you will not be able to use the Didi rental service, but it will not affect your use of other functions.
+(2) Sensitive permissions for calling
+We need to use your location permissions to obtain your location information.
+(3) Third party SDK used
+The payment function is implemented through WeChat Open SDK, QQ Wallet SDK, App Alipay Client SDK, and MPGS SDK.
+2.8.4 Second Hand Service
+(1) Scope of necessary and non necessary information
+When you use the second-hand sales service ("available for sale at high prices"), we will collect your sales location (city and administrative district information, excluding latitude and longitude)
+Brand type, registration city, registration time, travel itinerary, mobile phone number, and provide the above information to third-party sellers who provide you with second-hand sales services
+Partner, used to provide you with second-hand sales services. Third party partners will send your information to their partners to provide you with a second hand solution that meets your needs
+For services, you can view specific partner information and their contact information on the third-party partner's second-hand product page. Please provide information on the third party partner
+We will provide you with the above information to the third-party partner you have actually chosen, as stated in the 'High Price Selling Third Party Partner Explanation'.
+When you use Love's valuation service, we will collect your sales region, brand type, and registration time
+Travel and route information, and provide the above information to the North
+Jingjing Zhenju Information Technology Co., Ltd. (contact number 010-82609177) will obtain your vehicle valuation results through a third party for you to use in our product interface
+see.
+This type of information is necessary for providing this service. If you refuse to provide this information, you will not be able to use the second-hand sales service, but it will not affect your use of other functions
+Can.
+2.9 Automated decision-making
+2.9.1 In order to provide you with more personalized and convenient services, we will use your personal information for feature analysis and recommend business interests that you may be interested in
+Advertising and marketing content.
+If you want to manage personalized recommendation content, you can set it up in "My" - "Settings" - "Personalized Management". When the personalized recommendation function is turned off, we do not
+We will process your personal information based on personalized push purposes, and only push universal content that is unrelated to your preferences. If you have not logged in before
+We will not provide personalized recommendations to you on this app.
+(1) Scope of necessary and non necessary information
+When you use the personalized recommendation function, we need to use the travel start and end points and the number of trips collected during your use of the service to determine whether the user is in their permanent city
+Conduct business analysis based on the issuance of orders, whether they are issued in different locations, and what travel scenarios they belong to, and push notifications and discounts for corresponding cities and travel scenarios to you
+Activities and research questionnaires. We need to use your device identification information (IDFA Android OAID、HarmonyOS OAID）、 Advertising identifier
+(If available) and advertising information (including browser type, search content, click to view history), used for programmatic advertising recommendations, advertising attribution, and advertising landing
+Collect information and monitor advertisements to recommend commercial and marketing content that may be of interest to you. This type of information is necessary for personalized recommendations to you
+If you refuse to provide information, we will not be able to recommend personalized information or services for you.
+In addition, you can choose to provide geographic location information (city, region), which is non essential information. If you do not provide it, it may affect the accuracy of the matching results
+Sex.
+(2) Sensitive permissions for calling
+We need to use your location permissions to recommend personalized recommendations based on location information to you. If you refuse relevant system permissions, you will not be able to use the base
+Personalized recommendation services based on location information, but it does not affect your access to other personalized recommendation content.
+2.9.2 When you use the travel recommendation service, we will recommend or display multiple travel routes based on the starting and ending point information, location information, and travel time you input
+Based on your discount information, estimate the price and time for each travel method for you to choose from. The online booking service is provided by the Didi online booking e-commerce service platform,
+Public transportation and subway information services are provided by the Didi Public Transportation Information Service Platform, while cycling services are provided by the Didi Shared Single Information Platform. Based on the trip you have chosen
+The corresponding platform will collect the starting and ending information and travel time you input to recommend a comprehensive travel plan for you.
+2.9.3 In order to protect your rights and interests in accordance with the law, we inform you of our provision of algorithm recommendation services. You can click to view the "Didi Algorithm Explanation" to learn more about the algorithm
+The basic principles, objectives, intentions, and main operational mechanisms of legal recommendation services.
+2.10 App Adaptation and Security
+(1) Scope of necessary and non necessary information
+In the process of using Didi products, in order to ensure the user experience and app compatibility of different device users, we will collect your device information [device model, operation]
+System version, other device information (screen resolution, screen size, CPU architecture, memory capacity, disk capacity, battery information), browser class
+Type]. In order to determine whether the user's clicking behavior conforms to the normal product process, we will collect your online browsing history. To determine if the current device is genuine
+We will collect your device identifiers [Android OAID/Android ID, iOS] to ensure the security of user accounts and protect the legitimate rights and interests of the platform
+IDFA，HarmonyOS OAID】、 Device information [device model, operating system version], network identification parameters [CGI], log information [IP address]
+Address, browser type, browsing history. The above information is necessary for app adaptation and security protection. If you do not provide this type of information, you will be able to
+Can cause the app to malfunction.
+(2) Third party SDK used
+In the process of analyzing bugs, we used the Mobile Security Alliance MSA aid SDK to track specific bugs, but this SDK only provides tooling services. The information we collected
+All information will not be shared with the provider of this SDK.
+When you use the Didi Chuxing App service through Huawei Watch, we also need to connect the Huawei Watch through the Huawei Wear Engine SDK. To achieve this achievement
+Yes, this SDK will retrieve your device model and the name of the Didi Chuxing app package.
+(3) Other instructions
+In order to provide you with a shake function, we have used an accelerometer to identify whether the device is shaking and achieve interactive advertising presentation.
+In order to help us better understand and improve the download situation of this app in the Huawei market, we need to use the open local query provided by the Huawei App Market app
+Accessing the system ContentProvider to obtain the promotion channel information of this app (including download/installation time and channel number) for statistical purposes
+analysis. During this process, we will communicate locally with the Huawei App Store, and in some scenarios, this app may be recognized as associated with launching the Huawei App Store
+App。
+In order to determine whether this app starts normally and ensure user experience, we will query the app's own application process information through the system API.
+When you use the upgrade function within the app, we need to collect usage network information. If the app has an upgradable version, it will prompt you, and you can choose to install or refuse.
+2.11 Didi platform services
+(1) If you use a taxi, chauffeur, bus, single bus/electric bus
+You can read the corresponding service for refueling, maintenance, charging, finance, freight, and navigation services
+To understand the handling of personal information by these services, please refer to the "Didi Shunyi Personal Information Processing Rules" and "Didi Proxy Driving Personal Information Processing Rules"
+Processing Rules "," Bus Personal Information Processing Rules "," Didi Chuju Personal Information Processing Rules "," Didi Gas Personal Information Processing Rules "," Xiaoju Charging Personal "
+Personal Information Processing Rules "," Small Orange Nurturing Personal Information Processing Rules "," Personal Information Processing Rules for Financial Services "," Personal Information Processing Rules for Insurance Services "
+Personal Information Processing Rules for Wealth Management Services, Personal Information Processing Rules for Credit Card Services, Personal Information Processing Rules for Didi Pay, and Personal Information Processing Rules for Didi Freight
+Information Processing Rules "," Didi Navigation Personal Information Processing Rules "," Didi Autonomous Driving Personal Information Processing Rules "," Fire Ticketing Service Basic Functions Personal Information
+Processing Rules "," Quick Delivery Personal Information Processing Rules "," Didi Ticket Basic Function Personal Information Processing Rules "," Didi Travel Basic Function Personal Information Processing Rules "
+The Basic Personal Information Processing Rules for Didi Enterprise Edition. If you want to apply to become a driver user through the driver recruitment function in this app, you can
+Read the 'Didi Driver Basic Function Personal Information Processing Rules' to understand the situation of driver recruitment and personal information processing.
+(2) When you use the single/electric single service, you can choose to authorize us to call Bluetooth permission for vehicle unlocking; When you use financial services, in order to fulfill
+We need to collect and upload your facial recognition information to verify our operations in order to strengthen the management of user real name authentication in financial supervision.
+2.12 When you use third-party services through the Didi platform and provide personal information directly to the third party, or authorize Didi to share personal information with the third party, it will be applicable
+Use the personal information processing rules of the third party. When you view files created by third parties or use applications developed by third parties, these third parties may
+Set their own cookies or pixel tags, which are not under our control and their use is not subject to our personal information processing rules
+The constraints. We will make reasonable commercial efforts to require these entities to take protective measures for your personal information, but we cannot guarantee that these entities will
+Take protective measures according to our requirements. Please carefully read their personal information processing rules before use to determine whether to continue using the third-party server
+Service.
+2.13 Please understand that the functions and services we provide to you are constantly updated and developed. If a certain function or service is not mentioned in the above description and needs to be collected
+We will explain to you the content, scope, and other details of your information collection through online prompts, interactive processes, website announcements, and signing of separate agreements
+For the purpose of obtaining your consent.
+According to relevant laws and regulations, we do not need to obtain your authorization or consent to process your personal information in the following situations:
+a) Necessary to enter into or perform a contract based on your request;
+b) Necessary for fulfilling statutory duties or obligations, such as those directly related to national security, defense security, criminal investigation, prosecution, trial, and enforcement of judgments
+Legal duties or obligations related to customs;
+c) It is necessary to respond to sudden public health emergencies or to protect the life, health, and property safety of natural persons in emergency situations;
+d) To carry out news reporting, public opinion supervision and other actions for the public interest, and to handle personal information within a reasonable range;
+e) Process your self disclosed personal information or other legally disclosed personal information within a reasonable scope (such as legal news reports, government information disclosure)
+Legitimate disclosure of personal information through open channels;
+f) Other circumstances stipulated by laws and regulations.
+3. The situation where you need to authorize and agree to access system permissions
+When providing you with the aforementioned basic functions, additional functions, improved product/service features, or third-party SDKs collecting and using your personal information, some scenarios may occur
+The implementation depends on your consent to the client (app) and third-party SDK accessing the corresponding system permissions of the device you are using. Only when you enter a specific usage scenario,
+The client (app) will only obtain your consent through a pop-up application. You can view the activation status of various permissions item by item on your terminal device, and you can
+Enable or disable these permissions at any time (may vary slightly depending on the terminal device and operating system). Please note that granting these permissions means that you are using
+During our service period, we have been granted continuous authorization to collect and use personal information to achieve the above functions. By disabling this permission, you are cancelling these authorizations
+We will no longer continue to collect and use your personal information, nor will we be able to provide you with the functions corresponding to these authorizations. You have disabled the permission
+The decision will not affect the processing of personal information previously conducted based on your authorization.
+IOS system permission calling
+Android system permission calling
+HarmonyOS system permission calling
+How do we use cookies and similar technologies
+4.1 Cookies are a mechanism by which servers (or scripts) store and retrieve information on clients. When you use Didi products or services, in order to
+For a more relaxed and secure access experience, we may use cookies or similar technologies to collect and store information, which may be transmitted to your device during this process
+Send one or more cookies or anonymous identifiers. This is done to collect your information, to understand your preferences, for consultation or data analysis, and to improve
+Product services and user experience, or timely detection and prevention of security risks, to provide you with better services. We will not use cookies for the purposes described in these rules
+For any external use, you may retain or delete cookies according to your own preferences. You can clear all cookies saved in the software, and when you manually clear them, your
+The relevant information has been deleted.
+4.2 Our platform may also contain some electronic images (hereinafter referred to as "single pixel GIF files" or "network beacons"), which can be used to calculate
+Count browsing users or accessing certain Coos
+kie， We will collect information about your browsing activities, including Internet Protocol (IP), through internet beacons
+Address, browser type, Internet Service Provider (ISP), reference/exit page, operating system, date/timestamp, and click data stream.
+5. Preservation and protection of personal information
+5.1 Information retention period
+5.1.1 During the user's use of the Didi platform services, we will continuously store the user's personal information.
+5.1.2 When you delete personal information, cancel your account, or revoke authorization for personal information processing rules, we will save your personal information according to the following rules:
+a) According to the Electronic Commerce Law, the Interim Measures for the Management of Online Reservation Rental Car Operation Services, and other relevant laws and regulations, we will provide your personal information
+Keep it for another three years. During this retention period, we will cease processing your personal information except for storage and taking necessary security measures. When your
+If personal information exceeds the above-mentioned retention period, we will delete or anonymize it.
+b) If you have seriously violated laws, regulations, platform agreements, or platform rules while using Didi platform services, your records of illegal or breach of contract
+The corresponding platform credit records will be permanently saved. When you register your account again, we will restore the above information.
+c) In order to cooperate with the People's Procuratorate, public security organs, and national security organs in investigating criminal activities committed by users during the use of Didi platform services, and to better protect users' lives
+To ensure the safety of your property, if you are involved in a criminal case while using the Didi platform services, we will keep your personal information in accordance with the statute of limitations stipulated in the Criminal Law.
+5.1.3 If the specific personal information related agreement signed between Didi and you makes special provisions on the retention period of certain types of information, follow its provisions.
+5.2 Information Storage Area
+5.2.1 We store your personal information collected and generated within the territory of the People's Republic of China in accordance with laws and regulations,
+Data centers located in Guangzhou and Hohhot.
+5.2.2 If it involves the transmission of personal information overseas, we will ensure that we meet the conditions stipulated by laws, administrative regulations, or the Ministry of Information and Communications of the country, and clearly inform you
+Personal information on export status and obtaining your separate consent.
+5.3 Safety protection measures
+5.3.1 Our company will adopt strict security regulations and industry standard security technologies and procedures to ensure that your personal information is not lost, leaked, damaged, or compromised
+Authorized access and use.
+5.3.2 Didi adopts the following security measures to protect your personal information:
+a) Sensitive personal information is encrypted and stored on servers, and stored through data isolation technology;
+b) Use encrypted transmission protocols during data transmission;
+c) Strictly control data access permissions and establish a comprehensive system for applying for and approving sensitive data access permissions;
+d) Establish a data security monitoring and auditing system to implement comprehensive data security control.
+5.3.3 Didi also takes other security measures to protect your personal information:
+a) Establish a personal information protection committee for the company to coordinate and manage the processing and protection of personal information (contact method:
+gerenxinxibaohu@didiglobal.com ）；
+b) The company has issued and implemented personal information management standards internally, clarifying the protection standards and requirements for user personal information;
+c) Conduct project risk assessment on personal information processing activities before the launch of new projects and systems;
+d) Sign confidentiality agreements with all employees and service outsourcing personnel, and strictly allocate data access permissions according to job responsibilities;
+e) Regularly conduct personal information compliance education and training for all employees and outsourced service personnel of the company.
+5.4 Security incident handling
+5.4.1 In response to potential security risks, including personal information leakage, damage, and loss, multiple systems have been issued within the company to clarify security
+Classification and grading standards for incidents and security vulnerabilities, as well as internal processing procedures (including emergency response procedures) and remedial measures for the aforementioned security incidents and vulnerabilities.
+Once a safety incident occurs, we will promptly inform you of the basic situation and risks of the incident in accordance with the law, the measures we have taken or will take, and how you
+Suggestions for reducing risk on one's own.
+5.4.3 We will promptly notify affected users of the security incident situation through push notifications, letters, or phone calls. When it is difficult to inform users one by one, we
+Warning information will be released through platform announcements.
+5.5 Suspension of Operations
+5.5.1 If the Didi platform ceases operation, we will publish a notice on the Didi platform at least 30 days in advance and promptly stop collecting personal information.
+5.5.2 After ceasing operations, we will cease commercial use of personal information and, after reaching the minimum retention period required by laws and regulations, collect personal information
+Delete or anonymize information.
+6. Use of personal information
+6.1 Your personal information will be used for the purposes specified in the "Collection of Personal Information" clause.
+6.2 Your personal information may be used in the following scenarios directly or reasonably related to the purposes claimed in the "Collection of Personal Information" clause:
+a) To provide you with more personalized and convenient services, we will use your personal information for feature analysis and push you commercial advertisements that you may be interested in
+And marketing content.
+If you want to manage personalized recommendation content, you can set it up in "My Personal Information Management Center - Personalized Management". When the personalized recommendation function is turned off
+Afterwards, we will not process your personal information based on personalized push purposes, but will only push you universal content that is unrelated to your preferences.
+b) We may design, develop, and promote new products and services based on statistical analysis of personal information that has been removed from identification information
+Service. We will differentiate the travel scenarios of orders based on the user's order origin and destination types, in order to
+Statistical analysis of changes in order data under different travel scenarios
+Assist the company in making operational decisions.
+c) We will conduct statistics on the usage of our services and may share this statistical information with the public or third parties, but this statistical information does not include you
+Any personal identification information.
+d) We will send you information and notifications through SMS or phone channels, including verification codes necessary to ensure the completion of the service, and necessary when using the product or service
+Required push notifications, news about Didi platform services, market activities and promotional information, promotion information from Didi or its cooperating third parties, order payment
+Reminder notifications, or content that you may be interested in. If you do not wish to continue receiving the above information, you can unsubscribe according to the unsubscribe method provided in the SMS
+You can contact us directly to unsubscribe.
+6.3 Any use of your personal information beyond the scope claimed in the "Collection of Personal Information" clause that is directly or reasonably related will be notified to you again
+And obtain your explicit consent.
+7. Sharing, transfer, public disclosure of personal information, and access to third parties
+7.1 Sharing refers to the process in which Didi provides personal information to other personal information processors, and both parties have independent control over the personal information. Didi won't do it
+Share your personal information externally, except in the following situations:
+7.1.1 Sharing with explicit consent: After obtaining your explicit consent, Didi will share the information within your authorized scope with the third party designated by you.
+7.1.2 Sharing under legal circumstances: Didi may, in accordance with laws and regulations, litigation dispute resolution needs, or as required by administrative or judicial authorities in accordance with the law
+Please share your personal information with the public.
+7.1.3 Sharing with Didi's affiliated companies: Your information may be shared within Didi's affiliated companies. For businesses using the same account system, we will
+Share your account information (account, password) within affiliated companies. To maintain order on the platform and protect the legitimate rights of the platform or platform users, we will
+Engaging in illegal, breach of contract, or violation of platform rules by sharing users within affiliated companies. Because different affiliated companies share personal information for different purposes and types, you
+Before using different business functions or services, we will show you the independent personal information processing rules of the corresponding business functions or services, and provide you with the information of the corresponding business functions or services
+The name and contact information of the operator, as well as the types, purposes, and processing methods of personal information shared by affiliated companies, are detailed in the independent personal information processing rules
+I hereby obtain your consent. We will only share necessary personal information and are bound by the purposes stated in our personal information processing rules. If we share with you
+If sensitive personal information or affiliated companies change the purpose of using and processing personal information, we will seek your authorization and consent again.
+7.1.4 Sharing with Business Partners: Didi may share your personal information with partners or third-party service providers to ensure the services provided to you
+Successfully completed. But we will only share your personal information for legal, legitimate, necessary, specific, and clear purposes, and will only share what is necessary to provide the service
+Personal information. Our partners include:
+a) When you use third-party services through the Didi platform, Didi will share the shared content with the third-party service provider in accordance with the "Collection of Personal Information" clause
+Your personal information.
+b) When we, as advertisers, place advertisements on third-party advertising platforms, we will share your settings with the advertising platform and advertising operators (if any)
+Backup Identification Code (IDFA) Android OAID、HarmonyOS OAID）、 Advertising identifier (if any), advertising click to view records. When we act as
+When advertising platforms advertise to other advertisers, we will share your device identification code with advertisers, advertising operators (if any), and advertising monitoring agencies
+(IDFA Android OAID、HarmonyOS OAID）、 Advertising identifier (if any), advertising click view history, and the purpose of sharing the above information
+It is to improve the coverage and effectiveness of statistical advertising, and enhance the effectiveness of advertising.
+c) Suppliers, service providers, or business partners. Didi may share your personal information with third parties who hold our functions, including for us
+A third-party provider of infrastructure technology services, real name verification services, identity verification services, facial recognition services, payment services, and data processing services. We share
+The purpose of this information is to implement the functions of the product and service: we need to share your name and identification number with the real name verification service provider for implementation
+Name verification (we will inform you of the purpose of the real name verification, the name and contact information of the service provider, and obtain your separate consent on the real name verification page). We need
+To share your facial image (including facial recognition features), name, and identification number with a facial recognition provider to determine if you are personally using the service
+When using the facial verification service for the second time, we will show you the facial verification protocol and obtain your separate consent. The facial verification protocol will clearly list the types of information shared
+Type, purpose, supplier name, contact method, click to view the 'Face Verification Protocol'. We need to share your order number and order amount with you for selection
+The third-party payment institution is responsible for confirming your payment instructions and completing the payment (we will provide the information collected by the third-party payment SDK in the SDK situation description)
+Information type, purpose, supplier name, contact method).
+Didi will sign strict data sharing and protection agreements with companies, organizations, and individuals who share personal information, requiring them to strictly comply with the purposes stated in these rules
+Use personal information and take relevant confidentiality and security measures to process personal information, and take appropriate protective measures in accordance with legal and regulatory requirements.
+7.1.5 In order to safeguard the legitimate rights and interests of users or other relevant parties, when assisting in the handling of transaction disputes or controversies related to you, we may provide you with information regarding your transaction
+Third parties with vested interests may provide necessary information for resolving transaction disputes or controversies.
+7.2 If there is an acquisition, merger, or restructuring change, we will require the changed entity to remain
+Comply with the personal information processing rules and fulfill the original responsibilities
+Obligation. If the changed subject needs to change the purpose of personal information use, we will require them to obtain your explicit consent in advance. Internally, in the previous collection
+In the procurement and merger activities, the data (including user personal information) managed by the acquired and merged objects shall be subject to the same standards and requirements as Didi's own data
+Request for processing and protection.
+7.3 We will comply with relevant laws and regulations and keep your personal information confidential. Unless obtaining your explicit consent or authorization in advance, or as required by law
+We will not publicly disclose your personal information if it is necessary, or in order to protect the legitimate rights and interests of other relevant parties and to carry out de identification processing on personal information.
+8. The situation where third-party SDKs collect and use your personal information
+We require the use of third-party SDK technology when providing certain features and/or services, which may collect or use some of your personal information/devices
+Permission (please click on this link to view the third-party SDK instructions for collecting personal information and other third-party SDK instructions), please be aware of the relationship between SDK usage
+When the unified authority is limited, separate consent will be sought through device system pop ups. We will conduct strict security checks on the relevant SDKs and adopt technical measures to make every effort
+Ensure that personal information is processed in accordance with these rules and other relevant confidentiality and security measures.
+9. User Rights
+9.1 You can view, copy, correct, or delete your personal information on the Didi platform through the following methods:
+a) You can check your personal information by clicking on "My" - "Settings" - "Account and Personal Information Management" - "Personal Information Management".
+b) You can export your personal information by clicking on "My" - "Settings" - "Account and Personal Information Management" - "Personal Information Copy Export".
+c) When you need to update your personal information or find errors in the personal information collected and stored by the Didi platform, you can click on "My" - "Settings
+Set up "-" Account and Personal Information Management "-" Personal Information Management "to independently correct or modify personal information.
+d) You can delete your personal information by clicking on "My" - "Settings" - "Account and Personal Information Management" - "Personal Information Management".
+9.2 We will safeguard the right of users to withdraw their consent through the following methods. When you withdraw your consent or authorization, it may result in us being unable to continue providing you with withdrawal of authorization
+The services corresponding to the rights section. Your withdrawal of consent or authorization does not affect the processing of personal information based on your consent prior to the withdrawal.
+a) You can revoke your authorization by clicking on "My" - "Settings" - "Service Authorization Management". You can also revoke some authorizations by deleting information.
+b) You can turn off the corresponding device permissions and revoke your personal access to Didi by clicking on "My" - "Settings" - "Permission Management" or through the device's settings function
+Authorization of Information.
+c) In the commercial advertisement information sent by the Didi platform, you will be informed of the specific unsubscribe method, and you can withdraw your consent according to the unsubscribe method described in the information.
+9.3 Cancel account. You can cancel your account on the Didi platform by going to "My" - "Settings" - "Account and Personal Information Management" - "Permanent Account Cancellation".
+Unless otherwise stipulated by laws and regulations, after canceling the account, we will cease to provide services to you and keep your personal information for the period specified in this agreement
+After the deadline expires, we will delete or anonymize your personal information.
+9.4 If you are unable to access, copy, correct, delete personal information, withdraw consent, or cancel your account through the above methods, you may use the link disclosed in these rules
+Contact us through the system.
+10. Update
+10.1 If there are significant changes on the Didi platform, we will promptly revise the personal information processing rules accordingly:
+a) Changes in the purpose, method, and type of personal information processing for users;
+b) Our basic situation has changed, such as changes in ownership caused by mergers, acquisitions, and reorganizations;
+c) There have been significant changes in the rights of users to participate in personal information processing and their ways of exercising them;
+d) There has been a change in the location where user personal information is stored;
+e) Our contact methods and complaint channels have changed;
+f) Other changes that may have a significant impact on the personal information rights and interests of users.
+After the revision of the personal information processing rules, we will release the latest version on the Didi platform. For significant changes, we will use methods including but not limited to email
+Text messages, internal messages, or special prompts on the product page to explain the specific changes to this rule.
+10.3 Without your explicit consent, we will not reduce your rights under our personal information processing rules.
+11. How to contact us
+11.1 You can contact Didi's customer service team online or by phone through the "customer service" function of the mobile client to provide feedback or complaints.
+11.2 We have also set up a dedicated email for personal information feedback. You can send your questions to the following email address:
+gerenxinxibaohu@didiglobal.com We will verify and address the issues you have reported within 15 days. If other laws and regulations have requirements for response time
+For shorter time requirements, we will strictly follow the laws and regulations.
+11.3 If you are not satisfied with our response, especially if you believe that our personal information processing behavior has harmed your legitimate rights and interests, you can also report it to the victim
+Bring a lawsuit to the court with jurisdiction over the place of residence to seek a resolution to the case.

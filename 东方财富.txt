@@ -1,0 +1,414 @@
+Oriental Wealth Privacy Protection Guidelines
+This version was released on April 20, 2024
+Effective Date: April 20, 2024
+summary
+Dongfang Wealth Information Co., Ltd. (hereinafter referred to as "we"), with its registered address at Building 1, No. 2999 Bao'an Road, Jiading District, Shanghai, and its office located at Jinzuo Dongfang Wealth Building, No. 88 Wanping South Road, Xuhui District, Shanghai, with customer service hotline 4009918918.
+We attach great importance to your privacy protection. When you use the services of Oriental Wealth, we will inform you through the Oriental Wealth Privacy Protection Guidelines (hereinafter referred to as "these guidelines") how we collect, use, store, and share your personal information, as well as how you access, update, control, and protect your personal information, and explain your rights.
+This guide is closely related to your use of our services. We suggest that you carefully read and understand all the contents of this guide, and make the appropriate choices you think. We strive to use concise and clear language to help you better understand the content of this guide. If you agree to the content of this privacy policy (including updated versions), it means that you agree to our collection, use, storage, and sharing of your relevant information in accordance with this privacy policy. When there are clauses in this guide that have a significant impact on your rights, we will use bold font to indicate them for your attention.
+This guideline applies to mobile clients ("APPs"), PC terminals, WEB terminals, WAP terminals, and software copyright products owned by Dongfang Fortune Information Co., Ltd., such as Stock Bar, Financial Stock Headlines, and Financial Circle. We will strictly comply with the requirements of national laws and regulations such as the Personal Information Protection Law of the People's Republic of China, the Data Security Law of the People's Republic of China, the Network Security Law of the People's Republic of China, and the Mobile Internet Application Information Service Management Regulations. In case of conflict between this reference and laws and regulations, the latest laws and regulations shall prevail.
+The key points of this guideline are as follows:
+In order to facilitate your understanding of the types and purposes of information we need to collect when using our services, we will explain them to you one by one in the following text.
+2. In order to provide you with the necessary services, we will collect your information in accordance with the principles of legality, legitimacy, and necessity.
+3. If it is necessary to share your information with a third party in order to provide you with services, we will evaluate the legality, legitimacy, and necessity of the information collected by the third party. We will require third parties to take protective measures for your information and strictly comply with relevant laws, regulations, and regulatory requirements. In addition, we will obtain your consent or confirm that a third party has obtained your consent in accordance with the requirements of laws, regulations, and national standards through confirmation agreements, text confirmations in specific scenarios, pop-up prompts, and other forms.
+If it is necessary to obtain your information from a third party in order to provide services to you, we will require the third party to explain the source of the information and demand that the third party ensure the legality of the information provided; If the personal information processing activities required for our business exceed the scope of your authorization to provide personal information to third parties, we will obtain your explicit consent.
+5. You can access and manage your information, cancel your passport account, securities account, or make complaints and reports through the methods introduced in this guide.
+6. After agreeing to this guideline, you can still browse again through the "My Settings Privacy Management" path in the Oriental Wealth APP or visit the Oriental Wealth website on the bottom privacy protection page.
+7. The functions or operation guidelines related to the Oriental Wealth APP in this article also apply to stock bars, financial stock headlines, and financial circle products.
+You can read the corresponding chapters according to the following index to further understand the specific provisions of this guide:
+1、 How do we collect information
+2、 How do we use technologies such as cookies, beacons, and network channels
+3、 How do we store and protect information
+4、 How we use information
+5、 How do we provide information to the outside world
+6、 How do you access and manage your own information
+7、 Disclaimer of Liability to Third Parties
+8、 How do we protect the information of minors
+9、 Revision and update of this guideline
+10、 Dispute Resolution
+11、 Other matters
+1、 How do we collect information
+1. Definition of Nouns
+1) A subsidiary of Oriental Fortune
+The subsidiaries of Dongfang Fortune refer to Dongfang Fortune Information Co., Ltd. and its subsidiaries. For example, Dongfang Fortune Securities Co., Ltd., Shanghai Dongfang Fortune Futures Co., Ltd., Shanghai Tiantian Fund Sales Co., Ltd., Shanghai Dongfang Fortune Financial Data Service Co., Ltd., Hafu Securities Co., Ltd., Shanghai Hafu Network Technology Co., Ltd., Shanghai Dongfang Fortune Securities Investment Consulting Co., Ltd., Langke Network Technology Co., Ltd., Dongchai Insurance Brokerage Co., Ltd., etc.
+2) Personal Information
+Personal information refers to various information related to identified or identifiable natural persons recorded electronically or in other ways, excluding anonymized information. According to Appendix A (Informative Appendix) of the Personal Information Security Specification for Information Security Technology (GB/T 35273-2020), Table A.1 provides examples of personal information. The personal information involved in the passport account in this guideline includes basic personal information (personal name, date of birth, gender, ethnicity, nationality, address, personal phone number, email address); Personal identification information (type, number, issuing authority and expiration date of valid identification documents, business card/work permit/professional qualification certificate); Network identity identification information (WeChat/Weibo/QQ account, nickname, username, avatar, IP address); Personal education work information (company, personal occupation, educational background); Personal property information (bank account, authentication information, software permission purchase records, wallet reward records, points, point redemption and other virtual property information); Personal online records (self selected stock follow records, follow records, browsing records, software usage records, click records, favorites list, search records, comments, speech records, feedback/consultation content, simulation combination records); Device information (device model, device identifier (Android such as IMEI, I)
+MSI, Android-ID, OAID, SIM card information (such as ICCID), DeviceID, IOS (such as IDFA, IDFV), hardware serial number (SN), network device hardware address (device MAC address), CPU, SD card root directory); Device location information (Bluetooth, rough positioning information); Sensor information (fingerprint sensor, gravity sensor); Application list (installation package channel information, version information); WiFi information; WLAN access points (such as SSID, BSSID).
+3) Sensitive personal information
+Sensitive personal information refers to personal information that, once leaked or illegally used, can easily lead to the infringement of a natural person's personal dignity or endanger their personal and property safety. According to Appendix B (Informative Appendix) - Personal Sensitive Information Determination Table B.1 of the Personal Information Security Specification for Information Security Technology (GB/T 35273-2020), the personal sensitive information involved in the passport account in this guideline includes personal property information (bank account, authentication information, software permission purchase records, wallet reward records, points, point redemption and other virtual property information); Personal identification information (type, number, issuing authority, and validity period of valid identification documents); Website browsing history.
+4) Passport account
+Passport account refers to the Internet user login portal provided by Orient Wealth Information Co., Ltd. for some of its Internet products. This account does not involve securities, futures, funds, insurance and other product transactions.
+5) Securities account
+A securities account refers to an account book established by a securities registration and settlement institution for investors, which is used to accurately record the types, names, quantities, corresponding rights and changes of securities held by investors. It is an important voucher for identifying the identity of shareholders, has legal effect to prove the identity of shareholders, and is also a prerequisite for investors to conduct securities trading.
+6) Futures trading account
+A futures trading account refers to a fund credit account opened by futures traders for trading performance settlement and providing guarantees.
+2. Scenarios that must be collected to implement business functions
+The products and services we provide are divided into basic business and expanded business. Expanding business functions can be achieved by logging into the passport account or securities/futures account. There is no overlapping function between them, that is, you can register a pass account separately, or register a securities/futures account separately to use the functions under the corresponding account system. In order for you to use our services normally, we may collect your relevant personal information in the following situations and business scenarios, and may also collect your personal information from third parties who legally store your relevant information:
+1) Basic business
+Our product provides you with basic business functions for browsing market information, and you don't need to log in to your account to use it.
+2) Expanding Business Based on Passport Accounts
+Part of the expansion of our products or services is based on the passport account. The passport account can be used for the login of the Internet accounts of Oriental Wealth's companies, including choice data, stock bar, Oriental Wealth Securities, Oriental Wealth Futures, Harford Securities, Oriental Wealth Insurance, and online customers. However, the passport account has no cross function with the account of the trading behavior in the above products. When you use functions other than market information, you need to obtain your authorization to access the collected information. This type of information is necessary for expanding your business, and you can choose whether to authorize us to collect it. If you refuse to provide, it will result in the inability to use the expanded business, but it will not affect your normal use of the basic business. Except for the information collected by the passport account as stated in this privacy policy, all other personal information is collected, stored, protected, and used by companies under Dongfang Wealth.
+After obtaining your consent to this privacy policy, if you use our products without registration or login, we will provide you with market information browsing services, stock selection synchronization, and related consulting services. To ensure the implementation of functions and fulfill the obligation of network system operation security, we will collect your necessary device information and assign you a user exclusive identifier. At the same time, to provide self selected stock synchronization function, we will collect your Android-ID; In addition, we provide stock market delisting consultation and financial advisor consultation services. In order to achieve relevant business functions, with your consent, we will collect your relevant consultation content for easy review again.
+① Passport account registration and login
+When you register your passport account, you need to provide your mobile phone number according to the real name system requirements of the Network Security Law of the People's Republic of China and the Mobile Internet Application Information Service Management Regulations, so that you can complete the account registration and use our related services normally. You can also choose to fill in your nickname, profile picture, contact address, name, and email information.
+In the process of registering a pass account, we need to obtain the storage permission of the phone for caching pictures and information, and the phone status permission (only obtaining device information) for account device binding operations.
+After logging in to the pass account, we will collect your search and query content, browser type, visit date and time, login IP address, and version number of Oriental Fortune software when you use the account service as the log content according to the Network Security Law of the People's Republic of China and the Regulations on Security Assessment of Internet Information Services with Public Opinion Attribute or Social Mobilization Ability. When you use the stock bar and wealth account functions, we will also collect your account information, operation time, operation type, network source address and destination address, network source port, client hardware features, communication group name, nickname, profile, notes, identification, user information publishing, forwarding, and comment record information. According to the Cybersecurity Law of the People's Republic of China, we will retain logs for no less than 6 months.
+② Third party account sharing
+With your consent, we will share your third-party account information (account name, username, avatar, nickname) from Tencent QQ, WeChat, Weibo, and other third-party platforms based on your authorization. After you agree to this policy, we will bind your third-party account with your passport account, allowing you to easily log in and use some of our products or services directly through your third-party account
+Service. We will use your personal information within the scope authorized and agreed upon by you, based on agreements with third parties and confirmation of the legality of the source of personal information, in compliance with relevant laws and regulations.
+On the function page for modifying passport account information, we will collect and display your passport account, and support online modification function.
+③ Community interaction
+With your consent, in order to achieve community message interaction and facilitate your community to speak, we will collect your comments and message history records; For your convenience in viewing the updates of users you follow, as well as their recent browsing history, we will collect your following and browsing records; When you use the search function, we will record your search content for your next use; When you apply for a wealth account as an author, for the purpose of identity authentication, with your consent, we will collect your ID card, name, company, business card/work permit/professional qualification certificate information; In order to facilitate you to take screenshots within the application and share them on WeChat, WeChat Moments, Weibo, or provide feedback, we will obtain local multimedia files on the device and implement screenshot sharing function based on their changes; In addition, for the convenience of finding nearby Oriental Wealth Securities branches to participate in financial salon activities, we will collect your location information (rough positioning information).
+④ Value added points
+In order to realize the wallet payment service, order purchase service and point exchange service of our product, we will collect your Alipay/WeChat transaction account, wallet reward record, software permission purchase record and point transaction record after your consent. If you refuse to agree to provide the above information, the relevant functions will not be realized and will not affect your use of other functional services of our product.
+⑤ Market Service
+For your convenience in viewing market trends, we provide a self selected stock synchronization function and collect and obtain your self selected stock tracking records and related commonly used device information (IMEI IMSI、Android_ID）。
+⑥ Software optimization and data collection
+With your consent, in order to facilitate your download and use, we will back up some of your business function settings information about our product: software function settings (K-line, self selection, push, market, news, display, stock, stock bar), browsing history; In order to meet the homepage information flow push function, we will collect your browsing and following records; When you confirm your agreement to the privacy agreement, we will default to turning on the personalized push switch. If you want to control the push receiving mechanism, you can manage whether you receive personalized ads and content push through "My Settings Personalized Push".
+⑦ Customer service, suggestions and feedback
+In order to facilitate your traceability and timely response to your complaints, suggestions, and feedback, we will record your phone number/email address, feedback content, and consultation content. You can meet your above needs on the suggestion feedback function page, online customer service function page, or by calling our customer service phone number.
+⑧ Necessary functions to ensure account security and safety
+After you log in the pass account, in order to ensure the business security risk control of mobile Internet applications and deal with the security risks such as anti cheating, anti fraud, illegal and bad information control, we will collect your hardware serial number (SN), network device hardware address (device MAC address), CPU, SD card root directory, device identifier (Android such as IMEI, IMSI, Android_ID, OAID, SIM card information (such as ICCID) according to the Guide to Network Security Practice - Specification of Necessary Information for Basic Business Functions of Mobile Internet Applications (TC260-PG-20191A) and the Basic Requirements for Information Security Technology Mobile Internet Applications (Apps) to Collect Personal Information (GB/T 41391-2022)., DeviceID, IOS, such as IDFA, IDFV); different identifiers differ in terms of validity, whether they can be reset by the user, and how they are obtained). In addition, to prevent malicious programs, improve operational quality and efficiency, and ensure account security, we will also collect your application list (installation package channel, version information), WiFi information, WLAN access points (such as SSID, BSSID). In case of ad injection, illegal content page tampering, etc., we will collect the device model, software version number, IP address, and Bluetooth address of your access terminal.
+Please note that the scenarios we collect may include situations where the Oriental Wealth APP is in a silent state or switched to running in the background. Except for the first time you launch the app, we will collect the above information after you agree to this privacy policy and agree to obtain device information permissions. Every time you open and use the app, we will collect the above information based on the minimum frequency required for security and risk control, and control it within two times.
+⑨ Other
+When you use the copy and paste function in text input boxes or posting scenarios, we need to access your clipboard locally and read the clipboard information to enable quick and convenient input in search, nickname editing, customer service text messages, feedback appeals, or other text input scenarios. If you do not agree to provide clipboard information, it may prevent you from using this feature, but it does not affect your use of our other services. You can choose to manually enter text information to use this feature. You should be aware that although your clipboard content may involve your personal information, we do not collect any information other than keywords or other content required to provide services to you. We only recognize clipboard content locally and will not upload your clipboard information to our servers.
+For fingerprint unlocking and screen switching adaptation, we will collect your sensor information (fingerprint sensor, gravity sensor). We will not transmit your fingerprint information to the server, nor will we provide your fingerprint information to any third party.
+According to the "Article 12 of the Regulations on the Management of Internet User Account Information", "Internet information service providers shall display the Internet Protocol (IP) address ownership information of Internet user accounts within a reasonable range on the Internet user account information page, so as to facilitate public supervision for the public interest
+The dynamic page and other functional pages display the IP location information of your passport account.
+The information related to the collection and use of business functions for the pass account is shown in the table below. You can also click on this link to view the "List of Personal Information Collection and Use for Pass Accounts".
+Account type
+Scene classification
+Business scenarios
+objective
+Type of Personal Information
+Subclass of Personal Information
+Passport account
+Pass account related
+Registration of Passport Account
+Account Registration
+Personal Basic Information
+phone number
+Account password login
+Account login
+Network identity identification information
+Passport account and password
+Login with phone number
+Account login
+Personal Basic Information
+cell-phone number
+Third party platform registration and login
+Three party platform authorized login
+Network identity identification information
+WeChat/Weibo/QQ accounts and related information under the account (such as username, nickname, avatar)
+Common device verification
+Account registration and login, device identification, information push or security protection functions
+Personal basic information, personal commonly used device information
+Mobile phone number, hardware serial number (SN), network device hardware address (device MAC address), CPU, SD card root directory, device identifier (Android such as IMEI, IMSI, Android-ID, OAID, SIM card information (such as ICCID), DeviceID, IOS such as IDFA, IDFV); application list (installation package channel, version information), Wifi information, WLAN access point (such as SSID, BSSID); device model, software version number, IP address, Bluetooth address
+Real name authentication of mobile phone number
+identity authentication 
+Personal Basic Information
+cell-phone number
+Account information modification
+Used to display user avatars, nicknames, and profile information
+Network identity identification information
+Avatar, nickname, introduction
+Community interaction related
+Application for Author Identity of Wealth Number
+identity authentication 
+Personal basic information, personal education work information, personal identity information
+ID card, name, company, business card/work permit/professional qualification certificate
+Search Service
+When using the search function, record the user's most recent searches to facilitate their next use
+Personal internet history
+Search history
+Community message interaction
+User Community Speeches
+Personal internet history
+Comments and speech records
+Follow, Collect, Footprint
+Convenient for users to view their updates and recent browsing history
+Personal internet history
+Follow history, browsing history
+Screenshot sharing
+Convenient for users to take screenshots within the application and share them on WeChat, WeChat Moments, Weibo, or provide feedback
+Other personal information
+Local audio and video multimedia information, application list
+Wealth Salon
+For the convenience of finding the nearby Oriental Wealth Securities branch to participate in financial salon activities
+Personal location information
+locate information
+Software optimization services
+Cloud backup
+Backup users' app settings information for easy download and use
+Personal basic information, personal internet records, and personal commonly used device information
+Software function settings (K-line, self selection, push, market trends, information, display, stocks, stock bar), browsing history, unique device identification code (IMEI) IMSI、Android_id）
+User feedback
+User suggestion feedback record, convenient for users to view
+Personal basic information, personal internet records, personal communication information
+Mobile phone number/email address, software usage record, feedback content
+Online Service 
+Record chat records between users and human customer service or robots for easy viewing by users
+Personal basic information, personal internet records
+Passport account, consultation content
+Value added payment services
+Wallet payment
+User wallet withdrawal related records
+Personal basic information, personal identification information, personal property information
+Pass account, ID card, Alipay/WeChat transaction account, wallet reward record
+Order and purchase
+Purchase and transaction records of investment decision-making tools
+Network identity identification information, personal property information
+Passport account and software permission purchase records
+Market Service
+Self selected stock synchronization
+Users can add stock options for easy viewing
+Personal internet browsing history, personal commonly used device information
+Selected stock attention information, unique device identification code (IMEI) IMSI、Android_id）
+Stock market delisting service
+Consultation content, recording chat records between users and human customer service or robots for easy viewing by users
+Personal internet records and basic personal information
+Passport account, consultation content
+Financial advisor services
+Consultation content, recording chat records between users and human customer service or robots for easy viewing by users
+Personal internet records and basic personal information
+Passport account, consultation content
+Points based service
+Points based service
+User points service transaction record
+Personal property information
+Points transaction records
+Competition activities
+Financial Challenge Competition
+Simulated combination records of user participation in financial challenges
+Personal basic information, personal internet records
+Passport account and simulation combination records
+data acquisition
+Behavioral data collection
+Record user browsing content and market history, as well as attention records, and push homepage information flow
+Personal internet browsing history, personal commonly used device information
+Device information, browsing history, following history
+3) Securities/futures accounts must have functional requirements
+When it comes to expanding the business functions of securities/futures, it is necessary to log in to the securities/futures account, which is provided by relevant financial institutions. Financial institutions will collect, store, and use your securities/futures account opening or login information in accordance with the "Management Measures for Customer Identification and Customer Identity Information and Transaction Record Preservation of Financial Institutions". If you refuse to provide, it will result in the inability to use the securities/futures expansion business, but it will not affect the normal use of other businesses.
+We will explicitly obtain your consent before using it. When using your securities/futures account, you will comply with the provisions of the China Securities Regulatory Commission's "Regulations on Strengthening the Management of Customer Trading Terminal Information and Other Customer Information of Securities and Futures Operating Institutions", which states that "Article 3: Customer trading terminal information refers to the information obtained by customers through securities and futures trading
+The characteristic code of the trading terminal used by securities and futures trading institutions to issue trading instructions. Customer transaction terminal information is an important part of customer entrustment records and transaction records, including but not limited to the following contents: telephone number, Internet communication protocol address (IP address), media access control address (MAC address) and other characteristic codes that can identify customer transaction terminals. " Article 7: The peripheral information systems of securities and futures operating institutions, such as online trading, voice trading, and self-service trading, shall record customer trading terminal information for trading orders, bank securities transfers, bank futures transfers, password modifications, account logins, and other operations on a transaction by transaction basis.
+We will also collect relevant device information, including device model, operating system, mobile phone serial number IMEI, unique device identifier, network access method, type and status, log information, and other feature codes that can identify customer trading terminals, in accordance with the "Management Measures for Financial Institution Customer Identification and Customer Identity Information and Transaction Record Preservation", the "Technical Guidelines for Online Securities Information Systems of Securities Companies" of the China Securities Association, the "Regulations on Strengthening the Management of Customer Information such as Customer Trading Terminal Information of Securities and Futures Operating Institutions" of the China Securities Regulatory Commission, and the requirements for the "Other Feature Codes that Can Identify Customer Trading Terminals" in the filling format of customer trading terminal information on securities exchanges.
+In order to meet the demand for see through supervision, when conducting futures trading, in accordance with the provisions of the China Securities Regulatory Commission's "Regulations on Strengthening the Management of Customer Trading Terminal Information and Other Customer Information of Securities and Futures Operating Institutions" and "Format for Filling in Customer Trading Terminal Information of Futures Exchanges" regarding the "other characteristic codes that can identify customer trading terminals", we will obtain your trading orders, bank futures transfers, password modification, account login, recording, video recording, camera album, mobile phone storage, device model, operating system, blurred location, IMEI, MEID, device MAC address, network access method, type and status during your use of the above services IMSI, ICCID, and transaction logs generated from the above information meet the needs of regulatory identification of customer trading terminals. According to the requirements of relevant institutions such as the China Futures Market Monitoring Center, Zhengzhou Commodity Futures Exchange, Dalian Commodity Futures Exchange, Shanghai Futures Exchange, Shanghai International Energy Trading Center, China Financial Futures Exchange, and margin depository banks, the information you filled in will be submitted and reported.
+During the process of opening a securities account, in accordance with the "Implementation Rules for Off site Account Opening of Securities Accounts of China Securities Depository and Clearing Corporation Limited", ID card images and single/two-way video comparison image information will be collected. After conducting live detection through facial recognition technology, the authenticity of the identity information submitted by investors will be verified through the Ministry of Public Security's identity information verification system.
+The functions or services that securities accounts can provide are provided by Dongfang Wealth Securities Co., Ltd., which is the actual controller and processor of the collected personal information. There is no sharing, transfer, entrusted processing, or public disclosure relationship between us regarding the responsibility and obligation of information security for the collected information.
+The functions or services provided by futures trading accounts are provided by Shanghai Oriental Wealth Futures Co., Ltd., which is the actual controller and processor of the collected personal information. There is no sharing, transfer, entrusted processing, or public disclosure relationship between us regarding the responsibility and obligation of information security for the collected information.
+We will regularly conduct security assessments on the information security protection capabilities of Dongfang Wealth Securities Co., Ltd. and Shanghai Dongfang Wealth Futures Co., Ltd. to ensure that they have sufficient information security protection capabilities. Please refer to the "Privacy Protection Guidelines for Oriental Wealth Securities" and "Privacy Protection Guidelines for Oriental Wealth Futures" for specific details.
+3. Implement business functions with optional authorization scenarios
+1) In Apple phones
+*Notice
+Allow notifications, which can provide you with notifications of key issues (such as events, important industry announcements, system upgrades, etc.), push of service information, push of interactive messages, information reminders, etc.
+If you refuse to provide or wish to turn off notifications, you can also find Dongfang Wealth through the notification settings menu on your terminal device and turn off "allow notifications". This will affect the notification of key issues (such as events, important industry announcements, system upgrades, etc.), service information push, interactive message push, information reminder and other functions provided to you, but it does not affect your use of our other services.
+*Wireless data
+Allow the use of WLAN and cellular networks.
+If you refuse to provide or wish to turn off wireless data, you can turn off WLAN and cellular networks in the settings menu on your terminal device. Turning off both switches will affect your use of our services.
+*Camera permissions
+Allow access to your camera.
+If you refuse to provide this permission, you can go to Privacy Camera in the settings menu on your terminal device, find Oriental Wealth, and turn off "Allow Camera". This will affect your video witnessing, use the functions of modifying avatars, shooting and uploading materials, but it does not affect your use of our other services.
+*Album permissions
+Allow access to your photo album.
+If you refuse to provide this permission, you can go to the Privacy - Albums menu on your terminal device, find Oriental Wealth, and turn off "Allow Albums". This will affect your ability to save pictures to the album while reading articles and other content, but it does not affect your use of our other services.
+*Microphone permission
+Allow access to your microphone.
+If you refuse to provide this permission, you can go to the Privacy - Microphone menu on your terminal device, find Oriental Wealth, and turn off "Allow Microphone". This will affect your securities/futures account's video witness business during use, but it will not affect your use of our other services.
+*Calendar
+Allow the use of calendar functionality.
+If you refuse to provide or wish to disable the calendar function, you can
+In the settings menu on your terminal device, go to Privacy Calendar, find Oriental Wealth, and turn off "Allow Calendar". This will affect your ability to add calendar reminders in new stock subscriptions, but it will not affect your use of our other services.
+*Location Services
+Allow access to your location permissions.
+If you wish to search for nearby branches in the Oriental Wealth APP, or register to participate in offline salons and online community discussions at nearby branches, we will need to obtain your location information when providing this feature in order to recommend the nearest branches and communities to provide services based on your location.
+If you refuse to provide this permission, you can go to "Privacy - Location Services" in the settings menu on your terminal device, find Dongfang Wealth, and turn off "Location Services". This will affect your use of the Find Business Department function, but it will not affect your use of our other services.
+2) In Android phones
+*Wireless data
+Allow the use of WLAN and mobile data.
+If you refuse to provide or wish to turn off wireless data, you can also find Oriental Wealth in more applications through the settings menu on your terminal device. In the permission management, turn off "WLAN and cellular mobile network" or only "WLAN". If you choose to turn off "WLAN and cellular mobile network" at the same time, it will affect your use of our services.
+*Notice
+Allow notifications, which can provide you with notifications of key issues (such as events, important industry announcements, system upgrades, etc.), push of service information, push of interactive messages, information reminders, etc.
+If you refuse to provide or wish to turn off notifications, you can also find Dongfang Wealth through the notification settings menu on your terminal device and turn off "allow notifications". This will affect the notification of key issues (such as events, important industry announcements, system upgrades, etc.), service information push, interactive message push, information reminder and other functions provided to you, but it does not affect your use of our other services.
+*Calendar
+Allow the use of calendar functionality.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Oriental Wealth through the settings menu on your terminal device. In the permission management, refuse "access to calendar", which will affect your ability to add calendar reminders in new stock subscriptions, but will not affect your use of our other services.
+*Location Services
+Allow access to your location permissions.
+If you wish to search for nearby branches in the Oriental Wealth APP, or register to participate in offline salons and online community discussions at nearby branches, we will need to obtain your location information when providing this feature in order to recommend the nearest branches and communities to provide services based on your location.
+If you refuse to provide or wish to disable this feature, you can also find Dongfang Wealth in the "Privacy Location Services" settings menu on your terminal device and disable "Location Permissions" in the permission management. This will affect your use of the Find Business Department function, but will not affect your use of our other services.
+*Camera
+Allow phone photography, video recording, and flash permissions. Due to the need to upload photos, videos, and recordings during the use of your securities/futures account.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Oriental Wealth through the settings menu on your terminal device. In the permission management, refuse "camera", which will affect your ability to modify avatars, shoot and upload materials, as well as the video witnessing business that your securities/futures account needs to perform during use. However, it does not affect your use of our other services.
+*Recording
+Allow recording and local recording permissions. During the use of your securities/futures account, you need to undergo identity recognition, video witnessing, and recording.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Dongfang Wealth through the settings menu on your terminal device. In the permission management, refuse "recording", which will affect your video witness business during the use of your securities/futures account, but will not affect your use of our other services.
+*Lock screen display
+Allow messages to be displayed under lock screen, which can provide you with notifications of key issues (such as events, important industry announcements, system upgrades, etc.), push of service information, push of interactive messages, information reminders, etc.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Oriental Wealth through the settings menu on your terminal device. In the permission management, refuse "lock screen display", which will affect the notification of key issues (such as activities, important industry announcements, system upgrades, etc.), service information push, interactive message push, transaction information reminder and other functions provided to you, but it does not affect your use of our other services.
+*Pop up interface in the background
+Allowing the display of messages when using other applications can provide you with notifications of key issues (such as events, important industry announcements, system upgrades, etc.), push of service information, push of interactive messages, information reminders, etc.
+If you refuse to provide or wish to disable this feature, you can also find Oriental Wealth in more applications through the settings menu on your terminal device. In the permission management, refuse the "background pop-up interface", which will affect the notification of key issues (such as activities, important industry announcements, system upgrades, etc.), service information push, interactive message push, information reminder and other functions provided to you, but it does not affect your use of our other services.
+*Storage
+Allow storage card read permission. Due to scenarios such as posting, changing avatars, and providing feedback, you may need to select image files from your phone's photo album.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Oriental Wealth through the settings menu on your terminal device. In the permission management, refuse "storage", which will affect users' ability to post
+Selecting images in scenarios such as avatar replacement and feedback does not affect the use of our other services.
+*Read phone status/phone permissions
+Allow permission to read phone status. Due to the need to record user phone related status in scenarios such as push reporting and feedback.
+If you refuse to provide or wish to disable this feature, you can also find more applications of Oriental Wealth through the settings menu on your terminal device. In the permission management, refuse to "read phone status", which will affect the collection of user device information and confirmation of the phone environment, but will not affect the use of our other services.
+*Request installation package
+Allow the installation to be completed after downloading the application by opening web pages within the application.
+If you refuse to provide or wish to disable this feature, you can also find more applications in Dongfang Wealth through the settings menu on your terminal device. In the permission management, refuse to "install applications from unknown sources". Installing applications through Dongfang Wealth in the future will be blocked and require manual authorization, but it will not affect the use of our services.
+3) The corresponding device permissions will not be enabled by default. If you have already agreed for us to obtain the above permissions for your device, when sensitive device permissions are involved, or when providing you with new services other than those mentioned earlier, we will obtain your consent again before enabling them when you use the corresponding business functions; If you do not wish for us to continue obtaining your various permissions, you can go to the permission settings menu on your device at any time to disable the corresponding permissions obtained by the system.
+4) The device access permissions required to implement the following business functions can be viewed by clicking on this link 'Get Device Permission List'.
+4. Exceptions to obtaining authorization and consent
+According to the Personal Information Protection Law of the People's Republic of China and Chapter 5.6 of the Personal Information Security Specification for Information Security Technology (GB/T 35273-2020), we may collect and use your personal information in accordance with the law without your consent in the following situations:
+1) Related to the fulfillment of legal and regulatory obligations by personal information controllers;
+2) Directly related to national security and defense security;
+3) Directly related to public safety, public health, and major public interests;
+4) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5) Necessary in emergency situations to protect the life, health, and property safety of natural persons;;
+6) The personal information involved is disclosed by you to the public on your own;
+7) Necessary to sign and fulfill the contract according to your requirements;
+8) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels;
+9) Necessary for maintaining the safe and stable operation of the provided products or services, such as discovering and handling product or service failures;
+10) Other circumstances stipulated by laws and administrative regulations.
+5. The situation where we obtain your personal information from third parties
+We may obtain your authorized shared account information (avatar, nickname) from third parties, and after you agree to this privacy policy, bind your third-party account with the Oriental Wealth Pass account, so that you can directly log in and use our products and/or services through the third-party account. We will use your personal information based on agreements with third parties and after confirming the legality of the source of your personal information, in compliance with relevant laws and regulations.
+We promise:
+1. The amount of personal information we indirectly obtain from third parties is the minimum amount necessary to achieve product business functions.
+2. When indirectly obtaining your personal information from a third party, require the third party to explain the source of the personal information and confirm the legality of the source of their personal information; We will understand and carefully note that third parties have obtained authorization and consent for the processing of your personal information, including the purpose of use, whether you have authorized the transfer, sharing, public disclosure, etc. If the personal information processing activities required for our business exceed the scope of authorization and consent, we will obtain your explicit consent within a reasonable period after obtaining your personal information or before processing your personal information.
+2、 How do we use technologies such as cookies, beacons, and network channels
+To provide you with an easier access experience, when you access or use our services, we may identify your identity through small data files. This can help you avoid the step of repeatedly entering registration information or help determine the security status of your account. These data files may be cookies, Flash cookies, other local storage provided by your browser or associated applications (hereinafter referred to as "cookies").
+Please understand that some of our services can only be implemented through the use of cookies. If allowed by your browser or browser add-on services, you can modify the acceptance level of cookies or refuse cookies from Oriental Wealth. The "Help" section in most browser toolbars will tell you how to prevent your browser from accepting new cookies, how to make your browser notify you when you receive a new cookie, or how to completely turn off cookies. In addition, you can turn off or delete Flash cookies and similar data used by browser add ons by changing their settings or by accessing the provider's webpage. But this action may affect your secure access or use of the services we provide in certain situations. Our website may also contain some electronic images (hereinafter referred to as "network beacons"), which can help the website calculate the number of users browsing the webpage or accessing certain cookies. We will collect information about your browsing activity (page address you visited, previous visits you made) through network beacons
+Ask about the location of the reference page, your browsing environment, and display settings.
+If you use services provided by third parties through the Oriental Wealth APP, in order to provide you with a more secure access experience and ensure the security of your account, we may use dedicated network channel technology to help you identify known high-risk sites, reduce the risks of phishing or account leakage caused by them, protect the common rights and interests of you and third parties, and prevent illegal elements from tampering with the normal service content between you and third parties.
+3、 How do we store and protect information
+1. Storage
+1) The personal information we collect and generate within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. We will keep your personal information during the period of company retention or operation of Oriental Wealth. After you cancel your account, we will cease to provide you with products and services. Based on compliance with laws, regulations, or regulatory requirements, we may delete your personal information or anonymize it according to your request. If we cease operation, we will immediately stop collecting your personal information and notify you of the cessation of operation in the form of individual delivery or public announcement. On the basis of complying with laws, regulations or regulatory requirements, we will delete or anonymize the personal information we hold about you.
+2. Protection
+1) In order to ensure the security of your information, we will take various reasonable and necessary measures to protect your information after collecting it. For example, in the technology development environment, we only use information data that has undergone de identification processing. We will store the de identified information separately from the information that can be used to recover and identify individuals, ensuring that individuals are not re identified in the subsequent processing of de identified information.
+2) To ensure your information security, we are committed to using various security technologies and supporting management systems to minimize the risks of your information being leaked, damaged, misused, accessed, disclosed, and altered without authorization. For example, encrypted transmission through network security layer software (SSL), encrypted storage of information, and strict restrictions on access to data centers. When transmitting and storing sensitive personal information, we will adopt security measures such as encryption, permission control, and de identification.
+3) We have established a unified personal information protection responsibility agency to conduct personal information security impact assessments on the collection, use, sharing, and entrusted processing of personal information. You can contact us through the following methods, and we will respond to your request within 15 days:
+a) Contact us through hotline 4009918918 or "online customer service", and the customer service will forward the relevant matters to the department responsible for personal information protection for processing,
+b) It can also be done through privacy@eastmoney.cn Contact us, or send a letter to the Security Management Department on the 3rd floor of Dongfang Fortune Building, No. 88 Wanping South Road, Xuhui District, Shanghai, postal code: 200030
+4) We have established relevant internal control systems and adopted the principle of minimum sufficient authorization for staff who may have access to your information; Systematically monitor the behavior of staff in handling your information, continuously train staff on relevant laws and regulations, privacy and security guidelines, and strengthen security awareness, and organize all staff to participate in security exams every year. In addition, our corresponding network/system has passed the national network security level protection level three evaluation. We also hire external third parties every year to evaluate our information security management.
+5) When a personal information security incident occurs, we will promptly inform you of the basic situation, scope and impact, measures taken or to be taken, remedial measures, and suggestions for self prevention and risk reduction of the information security incident in accordance with legal and regulatory requirements, including but not limited to email, letter, phone or push notifications. If it is difficult to inform the personal information subject one by one due to special circumstances, we will take reasonable and effective measures to issue announcements. At the same time, we will promptly and proactively report the progress and status of information security incidents to the higher-level regulatory authorities. If your legitimate rights and interests are damaged, we will bear corresponding legal responsibilities.
+6) Please make sure to properly safeguard your passport account, securities/futures account, and other relevant identity elements. When you use our services, we will identify your identity through your passport account, securities/futures account, and other relevant identification elements. Once you disclose the aforementioned information, you may suffer losses and may have adverse consequences for yourself. If you find that your account, securities/futures account, and other related identity elements may or have been leaked, please contact us immediately so that we can take appropriate measures in a timely manner to avoid or reduce your related losses.
+4、 How we use information
+1. We will use the collected personal information in accordance with the provisions of this privacy policy to achieve the functionality of our products or services.
+2. After collecting your personal information, we will use technical means to de identify the data. We will not provide this part of the data to the public and will use it for commercial purposes. This part of the data is only used internally by Oriental Wealth to form feature tags, which are used to send and provide product information related to you. If you do not wish to receive such content, you can refuse such messages by replying to the text message to unsubscribe;
+3. Because of the particularity of providing Internet information services with the ability of public opinion, we will save your personal information collected in the use of functions or services to relevant departments according to laws, regulations or regulatory requirements;
+4. We will use your information in a de identified manner to provide you with more accurate, smooth, and convenient services, or to help us evaluate, improve, or design services and operational activities.
+5. When we display your personal information, we will use methods including de identification or anonymous processing to protect your information security.
+6. When we use your personal information for purposes not specified in this policy, or when information collected for a specific purpose is used for other purposes, we will confirm through your active check or pop-up window
+The form requires your prior consent.
+7. All personal information provided when using our products or services will continue to be authorized to us for use during your use of our products or services, unless you delete it or refuse our collection through system settings. When you cancel your account, we will stop using and delete your personal information or anonymize your personal information.
+8. When you use message push scenarios, we will attempt to self start the app when the application process is cleared by receiving system broadcast notifications, in order to ensure the rate of message retrieval and reduce latency. If you do not agree to the self starting app, it will result in you being unable to receive any of our message push notifications when the application process is cleared.
+9. List one by one the application scenarios in which our product involves the use of personal information and the potential impact it may have on you:
+Application scenarios
+Business functions and impacts
+Information push
+Push relevant information and market hot topics based on users' attention records (such as self selected stocks, holdings, and followed stocks/industries)
+advertisement
+Display securities advertisements of Dongfang Wealth Securities in the information flow based on the login status of the user's securities account
+investment portfolio 
+Based on the user's virtual account information, display the user's virtual profit ranking and percentage of winning combinations
+Homepage Information Flow
+Display the latest market hot topics that users are concerned about based on their attention records (such as self selected stocks, holdings, followed stocks/industries, stock friends)
+Information signing community information flow
+Display the latest community discussion updates to users based on their attention records (such as self selected stocks, holdings, industries, and stock friends)
+News - Wealth Account - Recommended Subscription
+Manual operation logic, based on the recent reading popularity of the platform's wealth account, recommends high-quality words and wealth account authors to users
+Home - Data Center/More - Popular Recommendations
+Manual operation logic, based on the popularity of app function access, recommends popular functions to users after confirmation by operation personnel
+5、 How do we provide information to the outside world
+1. Business sharing
+We promise to keep your information strictly confidential. Unless otherwise stipulated by laws, regulations, and regulatory authorities, we only share your information with third parties, including cooperating financial institutions and other partners, in the following circumstances. Before sharing your personal information, we will conduct a personal information security impact assessment, set requirements for the level of personal information security protection capabilities of third parties, confirm the legality, legitimacy, security, and necessity of their collection of personal information, sign a confidentiality agreement, monitor query behavior, supervise compliance with national laws and regulations, and the security protection measures and confidentiality regulations stipulated in the agreement. Once a violation of the agreement is found, effective measures will be taken or even the cooperation will be terminated. The following situations will be marked and your personal information will be shared:
+1) If you choose to participate in our joint lottery, competition, or similar promotional activities with third parties, we may share non sensitive information generated during the activity process that is necessary to complete the activity, so that the third party can timely distribute prizes to you or provide services to you. We will clearly inform you of what information needs to be provided to the third party on the activity rules page or through other means in accordance with the requirements of laws, regulations, or national standards;
+2) If there is a dispute or controversy over the use of your securities/futures account, in order to handle such issues, we may need to share trading information with banks or other financial institutions;
+3) With your explicit consent in advance, we will share your information with third parties within the scope permitted by national laws and regulations and not violating public order and good customs, in accordance with your authorized scope.
+4) If it involves sharing your sensitive personal information, we will seek your separate consent again.
+2. Transfer
+We will not transfer your personal information to any company, organization, or individual, except in the following circumstances:
+1) Obtaining your explicit consent in advance;
+2) According to laws and regulations or mandatory administrative or judicial requirements;
+3) When it comes to asset transfer, acquisition, merger, restructuring or bankruptcy liquidation, if it involves the transfer of personal information, we will inform you of the relevant situation and require new companies or organizations holding your personal information to continue to be bound by this guideline. If the purpose of using personal information is changed, we will require the company or organization to obtain your explicit consent again.
+3. Public disclosure
+(1) According to the "Article 12 of the Regulations on the Management of Internet User Account Information", "Internet information service providers shall display the IP address location information of Internet user accounts within a reasonable range on the Internet user account information page, so that the public can monitor for the public interest." We will display the IP location information of your passport account on your personal home page, comments and messages related to community interaction pages and other functional pages, which is subject to the information provided by the operator, and does not support manual opening or closing.
+(2) When announcing the list of winning activities, we will display the winners' phone numbers, names, login names, and nicknames in a standardized manner.
+We will not publicly disclose your personal information without your authorization or consent. If it is necessary to disclose publicly, we will inform you of the purpose of the disclosure, the type of information to be disclosed, and any sensitive information that may be involved, and obtain your explicit consent. If we publicly disclose your information in violation of relevant laws and regulations and cause damage to your legitimate rights and interests, we will bear corresponding legal responsibilities.
+If we determine that you have violated applicable laws, regulations, regulatory rules, or relevant provisions in order to fulfill legal requirements, litigation purposes, or requests from administrative, public security, or judicial authorities, or to protect the property and rights of us, our affiliates, other customers, or the public from infringement, we may also disclose your personal information, your violations, and the measures taken against you.
+4. Entrustment processing
+In order to improve information processing efficiency, reduce information processing costs, or enhance information processing accuracy, we may delegate the ability to
+Our affiliated companies or other professional organizations represent us in processing information. We will require the entrusted company to comply with strict confidentiality obligations and take effective confidentiality measures through written agreements, on-site audits, etc., and prohibit them from using this information for unauthorized purposes. When the entrusted relationship is terminated, the entrusted company will no longer retain personal information. We promise to take responsibility for this.
+5. Explanation of the purpose, functions, and permission acquisition of third-party SDKs involved
+To ensure the stable operation of our business system and the implementation of business functions, the Oriental Wealth application will integrate third-party SDKs or other similar applications. The third-party services accessed will be operated by the relevant parties and must be subject to their own service agreements and privacy protection agreements (not this Privacy Agreement). Regarding how third parties can access device permissions and collect and use your personal information, we suggest that you refer to the relevant agreements and privacy policies of the third parties. If you would like to further understand the situation of the SDK we have integrated, please click to read the "Dongfang Wealth Third Party SDK Instruction List"
+6. According to relevant laws, regulations, and national standards, we may lawfully share, transfer, or publicly disclose your personal information without your consent in the following situations:
+1) Related to the fulfillment of legal and regulatory obligations by Oriental Wealth;
+2) Directly related to national security and defense security;
+3) Directly related to public safety, public health, and major public interests;
+4) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my authorization and consent;
+6) Personal information that you disclose to the public on your own;
+7) Collecting personal information from legally disclosed information, such as legitimate news reports, government information disclosure, and other channels.
+6、 How do you access and manage your personal information
+1. Manage your information
+You can access your identity information, account information, modify your personal information, or make relevant privacy and security settings through the following methods, and the modifications will take effect in real time:
+1) Log in to your passport account and go to "My Settings Account Settings";
+2) After logging into the securities account, go to "Trading - More - Personal Information";
+You can also contact us through our customer service hotline 4009918918 to access and modify your personal information. Our customer service department will work with relevant departments to respond to you promptly. To ensure your information security, we need to first verify your identity and credentials. For your request, generally speaking, we will process it within three working days after verification is passed. In special circumstances, we will respond within a maximum of fifteen days or within the time limit specified by laws and regulations.
+Due to security and identity recognition considerations, or mandatory provisions of laws and regulations, you may not be able to modify the initial registration information provided during registration.
+2. Obtaining copies of personal information
+If you need a copy of your personal information, you can contact us through the customer service hotline 4009918918 in this guide. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity information) in our services, except as otherwise provided by laws and regulations or as stipulated in this policy. For your request, generally speaking, we will process it within three working days after verification is passed. In special circumstances, we will respond within a maximum of fifteen days or within the time limit specified by laws and regulations.
+3. Account cancellation
+When you meet the agreed account cancellation conditions and use the cancellation function, all information in your account will be cleared, and we will no longer collect, use, or provide personal information related to the account to the public. However, the information you provide or generate during the use of the relevant account must still be stored for the time required by regulatory requirements, and we will cooperate with the competent authorities in accordance with the law during the storage period.
+1) Pass account cancellation: Complete account cancellation through the process of "Me Settings Other More User Settings Account Cancellation". Follow the prompts on the operation interface for specific instructions, and the cancellation will take effect in real time.
+2) Securities account cancellation: The account cancellation can be completed through the process of "Trading - More - Account Management - Shareholder Account Management - Account Cancellation Processing". You can follow the prompts on the operation interface to complete the cancellation within two trading days after you complete the account transaction settlement.
+The passport account is not associated with the securities account, and canceling either account will not affect the use of the other account.
+4. Withdrawal of consent
+If you want to modify the authorization of relevant permissions (such as notifications, storage, camera, microphone, calendar, location) through hardware devices or in the APP related function settings interface, you can refer to the method described in "1.4 Implementation of Business Function Selectable Authorization Scenarios", or you can set it through "My Settings Privacy Management Privacy Permission Management".
+If you want to control the receiving mechanism of message notifications, you can manage whether you receive message notifications and the specific types of message notifications you receive through "My Settings Push Settings".
+If you want to turn off personalized ad push, you can go to "Me Settings Personalized Push" and select the "Accept Ad Push" button. After turning it off, you will still be able to see ads, but the relevance of the ads will decrease.
+If you want to turn off personalized content push, you can go to "Me Settings Personalized Push" and select the "Accept Content Personalized Recommendation" button to turn it off. After turning it off, the relevance to your selected stocks and the content you follow will decrease.
+You can also permanently revoke all authorization for us to continue collecting your personal information by canceling your account.
+5. Delete your personal information
+If there are legal and regulatory requirements, you can delete it directly through the product function or through me
+Our customer service hotline is 4009918918, and they have contacted us to request the deletion of your personal information, except for data anonymization processing or as otherwise provided by laws, regulations, regulatory provisions, and self regulatory rules. Please be informed that we may not immediately delete the corresponding information from the backup system, but will do so when the backup system is updated. For your request, generally speaking, we will process it within three working days after verification is passed. In special circumstances, we will respond within a maximum of fifteen days or within the time limit specified by laws and regulations.
+If the retention period stipulated by laws and administrative regulations has not expired, or if it is technically difficult to delete personal information, we will cease all other personal information processing activities except for storage and necessary security protection measures.
+If you find that our collection and use of your personal information violates laws and regulations or our agreement with you, you can correct, delete or apply for account cancellation online through our customer service hotline 4009918918. Securities accounts can call 95357 for personal information error correction, deletion, or online application for account cancellation.
+6. In response to your above request: If you are unable to access, change or delete your personal information through the above methods, or if you need to access, correct or delete other personal information generated when using our products or services, or if you have any questions about this guide, or if you have any complaints or opinions about the processing of your personal information, please contact us at customer service hotline 4009918918. The customer service department will respond to you promptly with the relevant department. To ensure your information security, we need to first verify your identity and credentials. We have established a customer complaint management mechanism, including a tracking process. Generally speaking, we will complete the processing within three working days after the verification is passed. In special circumstances, we will provide a response within no more than fifteen days or within the time limit specified by laws and regulations. If you are not satisfied with our response, you can also file a complaint with the consumer rights protection department or bring a lawsuit to a court with jurisdiction.
+7. When a natural person dies, we will cooperate with their close relatives to exercise the right to access, copy, correct, delete, and other personal information of the deceased, unless otherwise arranged by the deceased before their death.
+8. Despite the above agreement, according to relevant laws, regulations, and national standards, we may not be able to respond to your request in the following situations:
+1) Related to the fulfillment of legal and regulatory obligations by Oriental Wealth;
+2) Directly related to national security and defense security;
+3) Directly related to public safety, public health, and major public interests;
+4) Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+5) Dongfang Wealth has sufficient evidence to indicate that you have subjective malice or abuse of power;
+6) For the purpose of safeguarding your or other individuals' significant legitimate rights and interests such as life and property, but it is difficult to obtain my authorization and consent;
+7) Responding to your request will result in serious harm to your or other individuals' or organizations' legitimate rights and interests;
+8) Involving trade secrets.
+7、 Declaration of Third Party Liability
+Please note that the third-party website operators you visit, third-party services accessed through us, or third parties who receive your personal information from this application may have their own privacy protection policies in place; When you view web pages created by third parties or use applications developed by third parties, such third parties may place their own cookies or pixel tags, which are not under our control and their use is not subject to this policy. Here, we suggest that you contact them directly to learn more about their privacy policy. If you find that the web pages or applications created by such third parties pose risks, we recommend that you terminate the relevant operations to protect your legitimate rights and interests.
+8、 How do we protect the information of minors
+1. The minors referred to in this guideline are citizens under the age of 18 as stipulated in the Law of the People's Republic of China on the Protection of Minors.
+2. Our business is mainly aimed at citizens over the age of 18. If you are a minor under the age of 18, we recommend that your guardian read this guide or read this guide and our specially formulated "Privacy Policy for Minors" under the guidance of your guardian. With the consent of your guardian, please provide us with your relevant information in order to use our services other than securities and futures account trading. For cases where we collect your information with the consent of the guardian, we will only use or publicly disclose this information when permitted by law, with the explicit consent of the guardian, or when necessary to protect your rights and interests.
+3. Dongfang Wealth Information Co., Ltd. attaches great importance to the protection of personal information of minors. When filling in personal information, please strengthen your awareness of personal protection and treat it with caution. You should also obtain the consent of your guardian and use Dongfang Wealth software and related services correctly under their guidance. If your guardian does not agree to your use of our services or provision of information to us in accordance with these guidelines, please immediately terminate your use of our services and notify us promptly so that we can take appropriate measures.
+4. Special Reminder for Guardians
+(1) If your ward uses software and related services, as the guardian, you should guide and supervise the ward's registration and use behavior. If your ward applies to register a pass account, the company will have the right to consider that they have obtained your consent;
+(2) Your ward may use functions such as purchasing products or services when using the Oriental Wealth software and related services. As a guardian, please keep your payment device, payment account, and payment password safe to prevent the guardian from using your passport account for purchasing and other consumption functions without your consent.
+9、 Revision and update of this guideline
+When the following significant changes occur, we will revise the relevant provisions of this guideline in a timely manner:
+(1) Our basic situation has changed, such as mergers, acquisitions, and reorganizations
+Change of owner;
+(2) Changes in the scope, purpose, and rules of collecting, storing, and using personal information;
+(3) Changes in the object, scope, and purpose of providing personal information to external parties;
+(4) The way you access and manage personal information has changed;
+(5) Changes in data security capabilities and information security risks;
+(6) The channels and mechanisms for user inquiries and complaints, as well as changes in external dispute resolution agencies and contact information;
+(7) Other changes that may have a significant impact on your personal information rights.
+If we revise this guideline, we will publish it through notifications, pop ups, and other means on the Dongfang Wealth APP, or send you emails or short messages, or publish announcements on the Dongfang Wealth official website to notify you.
+You acknowledge and confirm that if you do not agree with the updated content of this guide, you should immediately stop using this mobile application. If you continue to use our products and services after learning of the revised guidelines, it means that you have fully read, understood, and accepted the updated guidelines and agree that our company will collect, use, store, and share your relevant information in accordance with the revised guidelines.
+10、 Dispute Resolution
+The establishment, effectiveness, performance, interpretation, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China (excluding the laws of Hong Kong, Macao, and Taiwan), and shall exclude the application of any conflict of laws provisions. In case of any disputes or controversies, Dongfang Wealth will resolve them through friendly negotiation with the user; When the negotiation fails, both Dongfang Wealth and the user agree to submit the relevant disputes and controversies to the People's Court of Jiading District, Shanghai for resolution through litigation.
+11、 Other matters
+The content covered in this guide shall be executed in accordance with this guide. Any matters not covered shall be executed in accordance with the relevant provisions of the User Service Agreement signed by you when applying for a user account.
+For specific privacy protection policies regarding the functions or services involved in securities/futures accounts, please refer to the "Privacy Protection Guidelines for Dongfang Wealth Securities" and "Privacy Protection Guidelines for Dongfang Wealth Futures".
